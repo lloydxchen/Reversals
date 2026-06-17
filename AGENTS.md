@@ -17,6 +17,7 @@ Then use the relevant supporting docs from that same folder:
 - `BUGS_AND_SOLUTIONS_ANTHOLOGY.md`
 - `EXPORTER_DESIGN_GUIDE.md`
 - `VISUAL_STYLE_GUIDE.md`
+- `VISUAL_DASHBOARD_AND_LABEL_PATTERN_LIBRARY.md`
 - `PROMPTS_AND_WORKFLOWS.md`
 
 Do not copy or fork those general NinjaTrader rules into this repo unless the user explicitly asks. Keep `trading-system-hq/NinjaTrader` as the source of truth for reusable NinjaTrader coding rules.
