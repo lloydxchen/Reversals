@@ -10,6 +10,10 @@ Build reversal models that are honest, testable, and useful in live trading cond
 
 The focus is not to find one magical universal reversal signal. The better working assumption is that reversals may come from several different market mechanisms, and those mechanisms may need to be modeled separately.
 
+## Companion Methodology Files
+
+- [`execution_lookahead_guardrail.md`](execution_lookahead_guardrail.md) — reusable post-mortem and checklist for detecting fill/execution lookahead, especially when a strategy mixes close-based confirmation with intrabar/level-based fills.
+
 ## Core Research Principles
 
 ### 1. Separate longs and shorts
@@ -75,6 +79,8 @@ Avoid any model logic that accidentally uses future information, completed bars 
 
 If a model only works when it uses information that would not have been available live, treat the edge as invalid.
 
+Execution/fill timing is part of causality. A fill is only valid if both the trigger and the fill price were knowable at or before the moment of the fill. Do not mix the favorable price of one order type with the favorable selectivity of another.
+
 ### 6. Compare models by mechanism, not just headline stats
 
 Do not only rank models by win rate or profit factor.
@@ -116,6 +122,52 @@ It is likely a family of related problems:
 
 The research process should identify which mechanism is being tested before optimizing filters.
 
+## Things to Consider / Parking Lot
+
+This section is for ideas that are worth preserving but are not yet proven priorities. These notes should stop good ideas from getting lost without forcing them into the active research plan too early.
+
+### Flow42 indicator data
+
+Consider using Flow42 indicator outputs as possible context variables, but do not assume the full Flow42 visual suite is cleanly available as model-ready data.
+
+Current working interpretation:
+
+- Flow42 may provide useful exposed context features, especially regime, continuation, chop, volume-spike, and pressure-style outputs.
+- Some of the most interesting reversal-specific Flow42 concepts appear harder to access cleanly, including staged absorption, VolDynamics-style absorption/exhaustion/push/surge events, and VolImbalance cluster zones.
+- Some values may be private, obfuscated, or painted through rendering rather than exposed as clean public series.
+- OnRender/private-field scraping should be treated as fragile and lower priority, not as a serious foundation for the research pipeline.
+- Flow42 should be treated as a possible context/filter layer, not as a replacement for our own order-flow feature engineering.
+
+Potentially useful exposed Flow42-style context variables to evaluate:
+
+- VolDrive / continuation context
+- ChopState / chop-regime context
+- VolSpike / volume-spike context
+- RelativeDeltaPressure-style pressure normalization
+- Any VolImbalance outputs only if they can be made to fire reliably and interpreted cleanly
+
+Potentially useful but not cleanly exposed concepts to reconstruct ourselves from raw footprint/volumetric data:
+
+- Absorption
+- Exhaustion
+- Failed aggression
+- Delta divergence
+- Stacked imbalance
+- Imbalance-cluster failure/reclaim
+- Sweep + reclaim behavior
+
+### Preferred delta versus Flow42/native proxy delta
+
+If Flow42-derived delta values are used, validate them before trusting them.
+
+In prior exported data, the Flow42-native delta behavior looked proxy-like rather than true bid/ask classified delta. For modeling, prefer our own `PreferredDelta_*` / NinjaTrader volumetric bid-ask delta when available, because it is closer to true aggressor-volume delta.
+
+Working rule:
+
+- Use `PreferredDelta_*` / NT volumetric bid-ask fields as the primary delta source when available.
+- Treat Flow42-native delta/CVD as diagnostic only unless it passes validation.
+- Do not let vendor labels create false confidence. If a column claims to be delta, test whether it behaves like real bid/ask delta.
+
 ## Candidate Research Backlog
 
 ### Market-internals confluence tests
@@ -156,6 +208,70 @@ Potential subtype buckets to test:
 
 These are only hypotheses, not conclusions.
 
+## Potential Pitfalls and Guardrails
+
+### Execution lookahead / fill bias
+
+Watch for strategies that decide using information from the end of a bar but fill at a price that occurred earlier inside that same bar.
+
+Core rule:
+
+> A backtest fill is only valid if everything used to justify it — the trigger and the price — was knowable at or before the moment of the fill.
+
+Invalid pattern:
+
+```text
+Wait for a bar to close through a level,
+but give the trade a fill back at the level inside that same bar.
+```
+
+That combines two incompatible benefits:
+
+- The good price of a resting order.
+- The selectivity of a confirmation strategy.
+
+Honest alternatives:
+
+- Resting order model: place the order before price arrives, fill every touch, and do not use a future close filter.
+- Confirmation/chase model: wait for confirmation, then fill at the next bar open or another realistically available post-confirmation price.
+
+Reusable stress tests:
+
+- Force entries to the next bar open.
+- Re-run using the honest version of the claimed order type.
+- Check whether honest fills create more trades than the reported version.
+- If the edge collapses or flips sign after the honest-fill test, assume the original edge was not real.
+
+See the companion file [`execution_lookahead_guardrail.md`](execution_lookahead_guardrail.md) for the full post-mortem and checklist.
+
+### Black-box vendor-feature dependence
+
+Do not build the core research pipeline around hidden or poorly understood vendor internals.
+
+Vendor features can be useful, but they should be validated and treated as optional context unless they are:
+
+- Cleanly exposed
+- Stable across versions
+- Interpretable
+- Available historically
+- Causal at the decision point
+- Measurably helpful after honest testing
+
+If a vendor concept is promising but not cleanly accessible, prefer reconstructing a transparent version from raw OHLCV, footprint, volumetric, and market-internals data.
+
+### Pretty visuals are not model-ready data
+
+A chart visual can be useful to a human trader but still be hard to use in a systematic model.
+
+Before treating a visual indicator concept as a feature, confirm:
+
+- The value exists as a historical series, not only as a rendered object.
+- The value is timestamped cleanly.
+- The value does not repaint.
+- The value is available before the trade decision.
+- The value can be exported consistently.
+- The value means what the label appears to mean.
+
 ## Research Discipline
 
 Keep research honest by separating:
@@ -167,7 +283,7 @@ Keep research honest by separating:
 - Out-of-sample validation
 - Live-simulation review
 
-Do not let a good-looking backtest become trusted until the setup is tested for leakage, sample-size weakness, regime dependence, and live usability.
+Do not let a good-looking backtest become trusted until the setup is tested for leakage, sample-size weakness, regime dependence, live usability, and honest execution/fill assumptions.
 
 ## Status
 
