@@ -1,0 +1,926 @@
+{
+  "generated_at_et": "2026-06-17 08:06:14 PM ET",
+  "timezone_label": "America/New_York (ET)",
+  "raw_files": {
+    "bars": {
+      "kind": "bars",
+      "path": "C:\\Users\\chenk\\Desktop\\LloydTrading\\Reversals\\Data\\NQ\\32Range\\NQ_0419-0617_32RangeVol_bars.csv",
+      "size_bytes": 73328550,
+      "sha256": "c58afae5e0b2212c1b96571eaa560e25d2ca8f8ade30342a49307372d252111c",
+      "encoding": "utf-8-sig",
+      "delimiter": ",",
+      "columns": [
+        "ExportRunId",
+        "Timestamp",
+        "InstrumentMaster",
+        "InstrumentFull",
+        "ChartTag",
+        "BarsPeriodType",
+        "BarsPeriodValue",
+        "BarIndex",
+        "IsFirstBarOfSession",
+        "Open",
+        "High",
+        "Low",
+        "Close",
+        "Volume",
+        "RangePoints",
+        "RangeTicks",
+        "BodyTicks",
+        "UpperWickTicks",
+        "LowerWickTicks",
+        "CloseLocation",
+        "BarDelta",
+        "DeltaPerVolume",
+        "NinjaCVD",
+        "ExportSessionCVD",
+        "TotalBuyingVolume",
+        "TotalSellingVolume",
+        "DeltaPercent",
+        "Trades",
+        "MaxSeenDelta",
+        "MinSeenDelta",
+        "DeltaSinceHigh",
+        "DeltaSinceLow",
+        "MaxPositiveDelta",
+        "MaxNegativeDelta",
+        "POCPrice",
+        "POCVolume",
+        "POCPosition",
+        "MaxAskPrice",
+        "MaxAskVolume",
+        "MaxBidPrice",
+        "MaxBidVolume",
+        "FootprintTotalBid",
+        "FootprintTotalAsk",
+        "FootprintTotalVolume",
+        "FootprintDelta",
+        "FootprintNonZeroLevels",
+        "FootprintVolumeMismatch",
+        "BottomZoneTicks",
+        "BottomZoneBid",
+        "BottomZoneAsk",
+        "BottomZoneVolume",
+        "BottomZoneDelta",
+        "BottomZoneVolShare",
+        "TopZoneBid",
+        "TopZoneAsk",
+        "TopZoneVolume",
+        "TopZoneDelta",
+        "TopZoneVolShare",
+        "StackedBuyMaxRun",
+        "StackedSellMaxRun",
+        "BuyImbalanceCount",
+        "SellImbalanceCount",
+        "TopBuyImbalanceCount",
+        "BottomSellImbalanceCount",
+        "TopBuyStackMax",
+        "BottomSellStackMax",
+        "DeltaSource",
+        "ExportErrorCountAtBar",
+        "PrimaryDataType",
+        "IsPrimaryVolumetric",
+        "DeltaSourceDetail",
+        "DataQualityStatus",
+        "DataQualityWarning",
+        "OutputRunFolder"
+      ],
+      "total_rows": 152241,
+      "column_count": 74,
+      "inferred_schema": {
+        "ExportRunId": "int64",
+        "Timestamp": "timestamp[us]",
+        "InstrumentMaster": "string",
+        "InstrumentFull": "string",
+        "ChartTag": "string",
+        "BarsPeriodType": "string",
+        "BarsPeriodValue": "bool",
+        "BarIndex": "int64",
+        "IsFirstBarOfSession": "bool",
+        "Open": "float64",
+        "High": "float64",
+        "Low": "float64",
+        "Close": "float64",
+        "Volume": "int64",
+        "RangePoints": "float64",
+        "RangeTicks": "int64",
+        "BodyTicks": "int64",
+        "UpperWickTicks": "int64",
+        "LowerWickTicks": "int64",
+        "CloseLocation": "float64",
+        "BarDelta": "int64",
+        "DeltaPerVolume": "float64",
+        "NinjaCVD": "int64",
+        "ExportSessionCVD": "int64",
+        "TotalBuyingVolume": "int64",
+        "TotalSellingVolume": "int64",
+        "DeltaPercent": "float64",
+        "Trades": "int64",
+        "MaxSeenDelta": "int64",
+        "MinSeenDelta": "int64",
+        "DeltaSinceHigh": "int64",
+        "DeltaSinceLow": "int64",
+        "MaxPositiveDelta": "int64",
+        "MaxNegativeDelta": "int64",
+        "POCPrice": "float64",
+        "POCVolume": "int64",
+        "POCPosition": "float64",
+        "MaxAskPrice": "float64",
+        "MaxAskVolume": "int64",
+        "MaxBidPrice": "float64",
+        "MaxBidVolume": "int64",
+        "FootprintTotalBid": "int64",
+        "FootprintTotalAsk": "int64",
+        "FootprintTotalVolume": "int64",
+        "FootprintDelta": "int64",
+        "FootprintNonZeroLevels": "int64",
+        "FootprintVolumeMismatch": "bool",
+        "BottomZoneTicks": "int64",
+        "BottomZoneBid": "int64",
+        "BottomZoneAsk": "int64",
+        "BottomZoneVolume": "int64",
+        "BottomZoneDelta": "int64",
+        "BottomZoneVolShare": "float64",
+        "TopZoneBid": "int64",
+        "TopZoneAsk": "int64",
+        "TopZoneVolume": "int64",
+        "TopZoneDelta": "int64",
+        "TopZoneVolShare": "float64",
+        "StackedBuyMaxRun": "int64",
+        "StackedSellMaxRun": "int64",
+        "BuyImbalanceCount": "int64",
+        "SellImbalanceCount": "int64",
+        "TopBuyImbalanceCount": "int64",
+        "BottomSellImbalanceCount": "int64",
+        "TopBuyStackMax": "int64",
+        "BottomSellStackMax": "int64",
+        "DeltaSource": "string",
+        "ExportErrorCountAtBar": "bool",
+        "PrimaryDataType": "string",
+        "IsPrimaryVolumetric": "bool",
+        "DeltaSourceDetail": "string",
+        "DataQualityStatus": "string",
+        "DataQualityWarning": "string",
+        "OutputRunFolder": "string"
+      },
+      "missing_values": {
+        "ExportRunId": 0,
+        "Timestamp": 0,
+        "InstrumentMaster": 0,
+        "InstrumentFull": 0,
+        "ChartTag": 0,
+        "BarsPeriodType": 0,
+        "BarsPeriodValue": 0,
+        "BarIndex": 0,
+        "IsFirstBarOfSession": 0,
+        "Open": 0,
+        "High": 0,
+        "Low": 0,
+        "Close": 0,
+        "Volume": 0,
+        "RangePoints": 0,
+        "RangeTicks": 0,
+        "BodyTicks": 0,
+        "UpperWickTicks": 0,
+        "LowerWickTicks": 0,
+        "CloseLocation": 0,
+        "BarDelta": 0,
+        "DeltaPerVolume": 0,
+        "NinjaCVD": 0,
+        "ExportSessionCVD": 0,
+        "TotalBuyingVolume": 0,
+        "TotalSellingVolume": 0,
+        "DeltaPercent": 519,
+        "Trades": 0,
+        "MaxSeenDelta": 0,
+        "MinSeenDelta": 0,
+        "DeltaSinceHigh": 0,
+        "DeltaSinceLow": 0,
+        "MaxPositiveDelta": 0,
+        "MaxNegativeDelta": 0,
+        "POCPrice": 0,
+        "POCVolume": 0,
+        "POCPosition": 0,
+        "MaxAskPrice": 0,
+        "MaxAskVolume": 0,
+        "MaxBidPrice": 0,
+        "MaxBidVolume": 0,
+        "FootprintTotalBid": 0,
+        "FootprintTotalAsk": 0,
+        "FootprintTotalVolume": 0,
+        "FootprintDelta": 0,
+        "FootprintNonZeroLevels": 0,
+        "FootprintVolumeMismatch": 0,
+        "BottomZoneTicks": 0,
+        "BottomZoneBid": 0,
+        "BottomZoneAsk": 0,
+        "BottomZoneVolume": 0,
+        "BottomZoneDelta": 0,
+        "BottomZoneVolShare": 0,
+        "TopZoneBid": 0,
+        "TopZoneAsk": 0,
+        "TopZoneVolume": 0,
+        "TopZoneDelta": 0,
+        "TopZoneVolShare": 0,
+        "StackedBuyMaxRun": 0,
+        "StackedSellMaxRun": 0,
+        "BuyImbalanceCount": 0,
+        "SellImbalanceCount": 0,
+        "TopBuyImbalanceCount": 0,
+        "BottomSellImbalanceCount": 0,
+        "TopBuyStackMax": 0,
+        "BottomSellStackMax": 0,
+        "DeltaSource": 0,
+        "ExportErrorCountAtBar": 0,
+        "PrimaryDataType": 0,
+        "IsPrimaryVolumetric": 0,
+        "DeltaSourceDetail": 0,
+        "DataQualityStatus": 0,
+        "DataQualityWarning": 0,
+        "OutputRunFolder": 0
+      },
+      "timestamp_column": "Timestamp",
+      "first_timestamp": "2026-04-19 06:00:00 PM ET",
+      "last_timestamp": "2026-06-17 07:02:49 PM ET",
+      "timestamp_parse_success_rate": 1.0,
+      "missing_timestamps": 0,
+      "duplicate_timestamps": 11270,
+      "duplicate_full_rows": 0,
+      "malformed_rows": 0,
+      "numeric_min_max": {
+        "ExportRunId": {
+          "min": 20260617190318.0,
+          "max": 20260617190318.0
+        },
+        "BarsPeriodValue": {
+          "min": 1.0,
+          "max": 1.0
+        },
+        "BarIndex": {
+          "min": 0.0,
+          "max": 152240.0
+        },
+        "IsFirstBarOfSession": {
+          "min": 0.0,
+          "max": 1.0
+        },
+        "Open": {
+          "min": 26540.25,
+          "max": 30807.75
+        },
+        "High": {
+          "min": 26543.0,
+          "max": 30807.75
+        },
+        "Low": {
+          "min": 26535.0,
+          "max": 30799.75
+        },
+        "Close": {
+          "min": 26540.5,
+          "max": 30807.5
+        },
+        "Volume": {
+          "min": 0.0,
+          "max": 8184.0
+        },
+        "RangePoints": {
+          "min": 0.75,
+          "max": 8.0
+        },
+        "RangeTicks": {
+          "min": 3.0,
+          "max": 32.0
+        },
+        "BodyTicks": {
+          "min": 0.0,
+          "max": 32.0
+        },
+        "UpperWickTicks": {
+          "min": 0.0,
+          "max": 32.0
+        },
+        "LowerWickTicks": {
+          "min": 0.0,
+          "max": 32.0
+        },
+        "CloseLocation": {
+          "min": 0.0,
+          "max": 1.0
+        },
+        "BarDelta": {
+          "min": -1055.0,
+          "max": 1223.0
+        },
+        "DeltaPerVolume": {
+          "min": -1.0,
+          "max": 1.0
+        },
+        "NinjaCVD": {
+          "min": -20496.0,
+          "max": 13189.0
+        },
+        "ExportSessionCVD": {
+          "min": -20496.0,
+          "max": 13189.0
+        },
+        "TotalBuyingVolume": {
+          "min": 0.0,
+          "max": 4147.0
+        },
+        "TotalSellingVolume": {
+          "min": 0.0,
+          "max": 4277.0
+        },
+        "DeltaPercent": {
+          "min": -100.0,
+          "max": 100.0
+        },
+        "Trades": {
+          "min": 0.0,
+          "max": 7143.0
+        },
+        "MaxSeenDelta": {
+          "min": -40.0,
+          "max": 1223.0
+        },
+        "MinSeenDelta": {
+          "min": -1055.0,
+          "max": 387.0
+        },
+        "DeltaSinceHigh": {
+          "min": -1055.0,
+          "max": 327.0
+        },
+        "DeltaSinceLow": {
+          "min": -483.0,
+          "max": 1218.0
+        },
+        "MaxPositiveDelta": {
+          "min": -3.0,
+          "max": 1006.0
+        },
+        "MaxNegativeDelta": {
+          "min": -950.0,
+          "max": 4.0
+        },
+        "POCPrice": {
+          "min": 26537.75,
+          "max": 30806.0
+        },
+        "POCVolume": {
+          "min": 0.0,
+          "max": 1008.0
+        },
+        "POCPosition": {
+          "min": 0.0,
+          "max": 1.0
+        },
+        "MaxAskPrice": {
+          "min": 26540.25,
+          "max": 30806.25
+        },
+        "MaxAskVolume": {
+          "min": 0.0,
+          "max": 1007.0
+        },
+        "MaxBidPrice": {
+          "min": 26535.0,
+          "max": 30806.0
+        },
+        "MaxBidVolume": {
+          "min": 0.0,
+          "max": 951.0
+        },
+        "FootprintTotalBid": {
+          "min": 0.0,
+          "max": 4277.0
+        },
+        "FootprintTotalAsk": {
+          "min": 0.0,
+          "max": 4147.0
+        },
+        "FootprintTotalVolume": {
+          "min": 0.0,
+          "max": 8184.0
+        },
+        "FootprintDelta": {
+          "min": -1055.0,
+          "max": 1223.0
+        },
+        "FootprintNonZeroLevels": {
+          "min": 0.0,
+          "max": 33.0
+        },
+        "FootprintVolumeMismatch": {
+          "min": 0.0,
+          "max": 0.0
+        },
+        "BottomZoneTicks": {
+          "min": 8.0,
+          "max": 8.0
+        },
+        "BottomZoneBid": {
+          "min": 0.0,
+          "max": 961.0
+        },
+        "BottomZoneAsk": {
+          "min": 0.0,
+          "max": 893.0
+        },
+        "BottomZoneVolume": {
+          "min": 0.0,
+          "max": 1326.0
+        },
+        "BottomZoneDelta": {
+          "min": -907.0,
+          "max": 849.0
+        },
+        "BottomZoneVolShare": {
+          "min": 0.0,
+          "max": 1.0
+        },
+        "TopZoneBid": {
+          "min": 0.0,
+          "max": 898.0
+        },
+        "TopZoneAsk": {
+          "min": 0.0,
+          "max": 1148.0
+        },
+        "TopZoneVolume": {
+          "min": 0.0,
+          "max": 1798.0
+        },
+        "TopZoneDelta": {
+          "min": -840.0,
+          "max": 1142.0
+        },
+        "TopZoneVolShare": {
+          "min": 0.0,
+          "max": 1.0
+        },
+        "StackedBuyMaxRun": {
+          "min": 0.0,
+          "max": 4.0
+        },
+        "StackedSellMaxRun": {
+          "min": 0.0,
+          "max": 5.0
+        },
+        "BuyImbalanceCount": {
+          "min": 0.0,
+          "max": 10.0
+        },
+        "SellImbalanceCount": {
+          "min": 0.0,
+          "max": 9.0
+        },
+        "TopBuyImbalanceCount": {
+          "min": 0.0,
+          "max": 6.0
+        },
+        "BottomSellImbalanceCount": {
+          "min": 0.0,
+          "max": 5.0
+        },
+        "TopBuyStackMax": {
+          "min": 0.0,
+          "max": 4.0
+        },
+        "BottomSellStackMax": {
+          "min": 0.0,
+          "max": 5.0
+        },
+        "ExportErrorCountAtBar": {
+          "min": 0.0,
+          "max": 0.0
+        },
+        "IsPrimaryVolumetric": {
+          "min": 1.0,
+          "max": 1.0
+        }
+      },
+      "suspicious_columns": {
+        "ExportRunId": [
+          "constant"
+        ],
+        "InstrumentMaster": [
+          "constant"
+        ],
+        "InstrumentFull": [
+          "constant"
+        ],
+        "ChartTag": [
+          "constant"
+        ],
+        "BarsPeriodType": [
+          "constant"
+        ],
+        "BarsPeriodValue": [
+          "constant"
+        ],
+        "DeltaPercent": [
+          "mixed_missing"
+        ],
+        "FootprintVolumeMismatch": [
+          "constant"
+        ],
+        "BottomZoneTicks": [
+          "constant"
+        ],
+        "DeltaSource": [
+          "constant"
+        ],
+        "ExportErrorCountAtBar": [
+          "constant"
+        ],
+        "PrimaryDataType": [
+          "constant"
+        ],
+        "IsPrimaryVolumetric": [
+          "constant"
+        ],
+        "DeltaSourceDetail": [
+          "constant"
+        ],
+        "DataQualityStatus": [
+          "constant"
+        ],
+        "DataQualityWarning": [
+          "constant"
+        ],
+        "OutputRunFolder": [
+          "constant"
+        ]
+      },
+      "warnings": [
+        "11270 duplicate timestamp rows; allowed for range/volumetric data."
+      ],
+      "week_counts": {
+        "2026-04-13": 363,
+        "2026-04-20": 10847,
+        "2026-04-27": 10989,
+        "2026-05-04": 10966,
+        "2026-05-11": 15898,
+        "2026-05-18": 22451,
+        "2026-05-25": 9424,
+        "2026-06-01": 17184,
+        "2026-06-08": 46073,
+        "2026-06-15": 8046
+      }
+    },
+    "footprint": {
+      "kind": "footprint",
+      "path": "C:\\Users\\chenk\\Desktop\\LloydTrading\\Reversals\\Data\\NQ\\32Range\\NQ_0419-0617_32RangeVol_footprint.csv",
+      "size_bytes": 747377365,
+      "sha256": "55e4e2b6534960e1fb819e2c18d6b67bc081ccc5aff7d93542bf1dfc2dab9d37",
+      "encoding": "utf-8-sig",
+      "delimiter": ",",
+      "columns": [
+        "ExportRunId",
+        "Timestamp",
+        "InstrumentMaster",
+        "InstrumentFull",
+        "ChartTag",
+        "BarsPeriodType",
+        "BarsPeriodValue",
+        "BarIndex",
+        "Open",
+        "High",
+        "Low",
+        "Close",
+        "Volume",
+        "BarDelta",
+        "ExportSessionCVD",
+        "PriceLevel",
+        "TickIndexFromLow",
+        "PricePosition",
+        "TotalVol",
+        "BidVol",
+        "AskVol",
+        "LevelDelta",
+        "IsBarHigh",
+        "IsBarLow",
+        "InBottomZone",
+        "InTopZone",
+        "BuyDiagonalImbalance",
+        "SellDiagonalImbalance",
+        "VolumetricSource",
+        "VolumetricSourceTime"
+      ],
+      "total_rows": 3805294,
+      "column_count": 30,
+      "inferred_schema": {
+        "ExportRunId": "int64",
+        "Timestamp": "timestamp[us]",
+        "InstrumentMaster": "string",
+        "InstrumentFull": "string",
+        "ChartTag": "string",
+        "BarsPeriodType": "string",
+        "BarsPeriodValue": "bool",
+        "BarIndex": "int64",
+        "Open": "float64",
+        "High": "float64",
+        "Low": "float64",
+        "Close": "float64",
+        "Volume": "int64",
+        "BarDelta": "int64",
+        "ExportSessionCVD": "int64",
+        "PriceLevel": "float64",
+        "TickIndexFromLow": "int64",
+        "PricePosition": "float64",
+        "TotalVol": "int64",
+        "BidVol": "int64",
+        "AskVol": "int64",
+        "LevelDelta": "int64",
+        "IsBarHigh": "bool",
+        "IsBarLow": "bool",
+        "InBottomZone": "bool",
+        "InTopZone": "bool",
+        "BuyDiagonalImbalance": "bool",
+        "SellDiagonalImbalance": "bool",
+        "VolumetricSource": "string",
+        "VolumetricSourceTime": "timestamp[us]"
+      },
+      "missing_values": {
+        "ExportRunId": 0,
+        "Timestamp": 0,
+        "InstrumentMaster": 0,
+        "InstrumentFull": 0,
+        "ChartTag": 0,
+        "BarsPeriodType": 0,
+        "BarsPeriodValue": 0,
+        "BarIndex": 0,
+        "Open": 0,
+        "High": 0,
+        "Low": 0,
+        "Close": 0,
+        "Volume": 0,
+        "BarDelta": 0,
+        "ExportSessionCVD": 0,
+        "PriceLevel": 0,
+        "TickIndexFromLow": 0,
+        "PricePosition": 0,
+        "TotalVol": 0,
+        "BidVol": 0,
+        "AskVol": 0,
+        "LevelDelta": 0,
+        "IsBarHigh": 0,
+        "IsBarLow": 0,
+        "InBottomZone": 0,
+        "InTopZone": 0,
+        "BuyDiagonalImbalance": 0,
+        "SellDiagonalImbalance": 0,
+        "VolumetricSource": 0,
+        "VolumetricSourceTime": 0
+      },
+      "timestamp_column": "Timestamp",
+      "first_timestamp": "2026-04-19 06:00:00 PM ET",
+      "last_timestamp": "2026-06-17 07:02:49 PM ET",
+      "timestamp_parse_success_rate": 1.0,
+      "missing_timestamps": 0,
+      "duplicate_timestamps": 3664331,
+      "duplicate_full_rows": 0,
+      "malformed_rows": 0,
+      "numeric_min_max": {
+        "ExportRunId": {
+          "min": 20260617190318.0,
+          "max": 20260617190318.0
+        },
+        "BarsPeriodValue": {
+          "min": 1.0,
+          "max": 1.0
+        },
+        "BarIndex": {
+          "min": 0.0,
+          "max": 152240.0
+        },
+        "Open": {
+          "min": 26540.25,
+          "max": 30807.75
+        },
+        "High": {
+          "min": 26543.0,
+          "max": 30807.75
+        },
+        "Low": {
+          "min": 26535.0,
+          "max": 30799.75
+        },
+        "Close": {
+          "min": 26540.5,
+          "max": 30807.5
+        },
+        "Volume": {
+          "min": 1.0,
+          "max": 8184.0
+        },
+        "BarDelta": {
+          "min": -1055.0,
+          "max": 1223.0
+        },
+        "ExportSessionCVD": {
+          "min": -20496.0,
+          "max": 13189.0
+        },
+        "PriceLevel": {
+          "min": 26535.0,
+          "max": 30807.75
+        },
+        "TickIndexFromLow": {
+          "min": 0.0,
+          "max": 32.0
+        },
+        "PricePosition": {
+          "min": 0.0,
+          "max": 1.0
+        },
+        "TotalVol": {
+          "min": 1.0,
+          "max": 1008.0
+        },
+        "BidVol": {
+          "min": 0.0,
+          "max": 951.0
+        },
+        "AskVol": {
+          "min": 0.0,
+          "max": 1007.0
+        },
+        "LevelDelta": {
+          "min": -950.0,
+          "max": 1006.0
+        },
+        "IsBarHigh": {
+          "min": 0.0,
+          "max": 1.0
+        },
+        "IsBarLow": {
+          "min": 0.0,
+          "max": 1.0
+        },
+        "InBottomZone": {
+          "min": 0.0,
+          "max": 1.0
+        },
+        "InTopZone": {
+          "min": 0.0,
+          "max": 1.0
+        },
+        "BuyDiagonalImbalance": {
+          "min": 0.0,
+          "max": 1.0
+        },
+        "SellDiagonalImbalance": {
+          "min": 0.0,
+          "max": 1.0
+        }
+      },
+      "suspicious_columns": {
+        "ExportRunId": [
+          "constant"
+        ],
+        "InstrumentMaster": [
+          "constant"
+        ],
+        "InstrumentFull": [
+          "constant"
+        ],
+        "ChartTag": [
+          "constant"
+        ],
+        "BarsPeriodType": [
+          "constant"
+        ],
+        "BarsPeriodValue": [
+          "constant"
+        ],
+        "VolumetricSource": [
+          "constant"
+        ]
+      },
+      "warnings": [
+        "3664331 duplicate timestamp rows; allowed for range/volumetric data."
+      ],
+      "week_counts": {
+        "2026-04-13": 9218,
+        "2026-04-20": 311049,
+        "2026-04-27": 311954,
+        "2026-05-04": 315281,
+        "2026-05-11": 443090,
+        "2026-05-18": 590451,
+        "2026-05-25": 274098,
+        "2026-06-01": 472445,
+        "2026-06-08": 983019,
+        "2026-06-15": 94689
+      }
+    },
+    "manifest": {
+      "kind": "manifest",
+      "path": "C:\\Users\\chenk\\Desktop\\LloydTrading\\Reversals\\Data\\NQ\\32Range\\NQ_0419-0617_32RangeVol_manifest.csv",
+      "size_bytes": 1966,
+      "sha256": "88bfb560674d01c233e231eac6dc2432bbdafb766aad9c87af1bfbf7869b1d69",
+      "encoding": "utf-8-sig",
+      "delimiter": ",",
+      "columns": [
+        "Key",
+        "Value"
+      ],
+      "total_rows": 41,
+      "column_count": 2,
+      "inferred_schema": {
+        "Key": "string",
+        "Value": "string"
+      },
+      "missing_values": {
+        "Key": 0,
+        "Value": 2
+      },
+      "timestamp_column": null,
+      "first_timestamp": null,
+      "last_timestamp": null,
+      "timestamp_parse_success_rate": 0.0,
+      "missing_timestamps": 0,
+      "duplicate_timestamps": 0,
+      "duplicate_full_rows": 0,
+      "malformed_rows": 0,
+      "numeric_min_max": {
+        "Value": {
+          "min": 0.0,
+          "max": 20260617190318.0
+        }
+      },
+      "suspicious_columns": {
+        "Value": [
+          "mixed_missing"
+        ]
+      },
+      "warnings": [],
+      "week_counts": {}
+    }
+  },
+  "manifest_key_values": {
+    "RunId": "20260617_190318",
+    "Reason": "Reached realtime; historical export complete.",
+    "InstrumentMaster": "NQ",
+    "InstrumentFull": "NQ JUN26",
+    "ChartTag": "Auto",
+    "ExportPreset": "FullResearch_RangeVolumetric",
+    "PrimaryDataType": "Data Type: 32Range Volumetric \u2713",
+    "IsPrimaryVolumetric": "True",
+    "DeltaSourceDetail": "Delta: Chart Bid/Ask \u2713",
+    "TickCapture": "NoTick",
+    "DataQualityStatus": "Warning",
+    "DataQualityWarning": "RangeVolumetric preset expects an Order Flow Volumetric Range chart.",
+    "BarsPeriodType": "Volumetric",
+    "BarsPeriodValue": "1",
+    "FirstExportedTime": "2026-04-19 18:00:00",
+    "LastExportedTime": "2026-06-17 19:02:49",
+    "LoadedRangeStart": "2026-04-19 18:00:00",
+    "LoadedRangeEnd": "2026-06-17 19:02:49",
+    "BarRowsWritten": "152241",
+    "FootprintRowsWritten": "3805294",
+    "DuplicateTimestampsSkipped": "0",
+    "MissingFootprintBars": "0",
+    "FootprintMismatchBars": "0",
+    "ErrorCount": "0",
+    "FirstError": "",
+    "LastError": "",
+    "WarningCount": "1",
+    "FirstWarning": "RangeVolumetric preset expects an Order Flow Volumetric Range chart.",
+    "LastWarning": "RangeVolumetric preset expects an Order Flow Volumetric Range chart.",
+    "BarsFile": "C:\\Users\\chenk\\Documents\\NinjaTrader 8\\NinjaTrader 8 - Chart Data Exports\\NQ\\NQ.JUN26\\2026.04.19_to_2026.06.17\\32Range_Volumetric\\ResearchDataExporterV1\\FullResearch.RangeVol_NoTick\\2026.06.17-7.03PM\\NQ_0419-0617_32RangeVol_bars.csv",
+    "FootprintFile": "C:\\Users\\chenk\\Documents\\NinjaTrader 8\\NinjaTrader 8 - Chart Data Exports\\NQ\\NQ.JUN26\\2026.04.19_to_2026.06.17\\32Range_Volumetric\\ResearchDataExporterV1\\FullResearch.RangeVol_NoTick\\2026.06.17-7.03PM\\NQ_0419-0617_32RangeVol_footprint.csv",
+    "OutputFolder": "C:\\Users\\chenk\\Documents\\NinjaTrader 8\\NinjaTrader 8 - Chart Data Exports\\NQ\\NQ.JUN26\\2026.04.19_to_2026.06.17\\32Range_Volumetric\\ResearchDataExporterV1\\FullResearch.RangeVol_NoTick\\2026.06.17-7.03PM",
+    "OutputRunFolderName": "2026.06.17-7.03PM",
+    "WritersOpened": "True",
+    "CurrentBarAtFinish": "152240",
+    "OverwriteExistingFiles": "True",
+    "CreateTimestampedRunFolder": "True",
+    "ExtremeZoneTicks": "8",
+    "DiagonalImbalanceRatio": "3",
+    "MinImbalanceVolume": "20",
+    "AllowZeroDenominatorImbalances": "False"
+  },
+  "validation": {
+    "bars_raw_rows": 152241,
+    "footprint_raw_rows": 3805294,
+    "bars_processed_rows": 152241,
+    "footprint_processed_rows": 3805294,
+    "empty_partitions": 0,
+    "checks": {
+      "bars_row_count_match": true,
+      "footprint_row_count_match": true,
+      "no_rows_dropped": true,
+      "no_empty_partitions": true,
+      "bars_first_last_timestamps_match": true,
+      "footprint_first_last_timestamps_match": true,
+      "source_row_id_continuous": true,
+      "partition_totals_match_raw_totals": true
+    },
+    "largest_partition_size_bytes": 8650819,
+    "output_folder": "C:\\Users\\chenk\\Desktop\\LloydTrading\\Reversals\\Data\\Processed\\NQ_32RangeVol_0419_0617_v1",
+    "status": "PASS"
+  }
+}

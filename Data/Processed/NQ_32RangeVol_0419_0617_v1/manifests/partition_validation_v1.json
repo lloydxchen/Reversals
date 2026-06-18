@@ -1,0 +1,20 @@
+{
+  "bars_raw_rows": 152241,
+  "footprint_raw_rows": 3805294,
+  "bars_processed_rows": 152241,
+  "footprint_processed_rows": 3805294,
+  "empty_partitions": 0,
+  "checks": {
+    "bars_row_count_match": true,
+    "footprint_row_count_match": true,
+    "no_rows_dropped": true,
+    "no_empty_partitions": true,
+    "bars_first_last_timestamps_match": true,
+    "footprint_first_last_timestamps_match": true,
+    "source_row_id_continuous": true,
+    "partition_totals_match_raw_totals": true
+  },
+  "largest_partition_size_bytes": 8650819,
+  "output_folder": "C:\\Users\\chenk\\Desktop\\LloydTrading\\Reversals\\Data\\Processed\\NQ_32RangeVol_0419_0617_v1",
+  "status": "PASS"
+}

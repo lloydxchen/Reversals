@@ -17,7 +17,7 @@ using NinjaTrader.NinjaScript.DrawingTools;
 #endregion
 
 // =============================================================================
-// ResearchDataExporterV1 v1.8
+// ResearchDataExporterV1 v1.9
 // Safer NT8 master research exporter with navy-glass data-quality dashboard
 // Foldered under Indicators > Exporters via namespace NinjaTrader.NinjaScript.Indicators.Exporters for 1-minute / volumetric reversal research.
 // v1.1 fix: do not rely on State == Historical inside OnBarUpdate, and warn when zero rows are exported.
@@ -26,7 +26,7 @@ using NinjaTrader.NinjaScript.DrawingTools;
 // v1.4 update: adds an explicit Tick/NoTick capture token to run folder/file names, dashboard context, and manifest output.
 // v1.5 fix: avoids Windows path-length failures by using short file names inside long descriptive run folders and stops retry storms if writer creation fails.
 // v1.6 update: instrument/date folder organization and readable file names.
-// v1.8 update: dataset-first organization: instrument -> contract -> data range -> bars/data mode -> exporter -> preset/tick mode -> export timestamp.
+// v1.9 update: dataset-first organization: instrument -> contract -> data range -> bars/data mode -> exporter -> preset/tick mode -> export timestamp.
 //
 // Main design goals:
 //   1. NO APPEND BY DEFAULT. Re-runs overwrite cleanly or write to a timestamped
@@ -240,8 +240,8 @@ namespace NinjaTrader.NinjaScript.Indicators.Exporters
         {
             if (State == State.SetDefaults)
             {
-                Description = "Safer research CSV exporter v1.8: full research presets, dataset-first folders, readable self-describing filenames, hidden/primary volumetric support, Tick/NoTick naming, QC manifest, and compact navy-glass data-quality dashboard.";
-                Name = "Research Exporter Full Research v1.8";
+                Description = "Safer research CSV exporter v1.9: full research presets, dataset-first folders, readable self-describing filenames, hidden/primary volumetric support, Tick/NoTick naming, QC manifest, and compact navy-glass data-quality dashboard.";
+                Name = "Research Exporter Full Research v1.9";
                 Calculate = Calculate.OnBarClose;
                 IsOverlay = true;
                 DisplayInDataBox = false;
@@ -1201,14 +1201,14 @@ private string DefaultMainExportRoot()
         
 private string BuildRunFolderName()
         {
-            // v1.8: dataset details now live in parent folders. The run folder is just the
+            // v1.9: dataset details now live in parent folders. The run folder is just the
             // export timestamp so the directory tree answers: instrument -> contract -> data range -> bar/data type.
             return MakeSafeFolderName(SafeExportStampToken());
         }
 
         private string BuildFileBaseName()
         {
-            // v1.8: self-describing file names for AI uploads, but short enough to avoid path-length issues.
+            // v1.9: self-describing file names for AI uploads, but short enough to avoid path-length issues.
             string fileBase = SafeInstrumentFileShortToken() + "_" +
                 SafeDateRangeFileCompactToken() + "_" +
                 SafeBarsDataFileToken() + "_" +
@@ -1383,34 +1383,107 @@ private string BuildRunFolderName()
                 if (BarsPeriod == null)
                     return "UnknownBars";
 
-                int value = BarsPeriod.Value;
-                switch (BarsPeriod.BarsPeriodType)
+                // Order Flow Volumetric bars report their outer BarsPeriodType as Volumetric.
+                // For folders/files we want the base bar identity, e.g. 1Min or 20Range,
+                // while SafeDataModeFolderToken() separately contributes Volumetric.
+                if (IsPrimaryVolumetricBarsType() || BarsPeriod.BarsPeriodType.ToString().IndexOf("Volumetric", StringComparison.OrdinalIgnoreCase) >= 0)
                 {
-                    case BarsPeriodType.Minute:
-                        return value.ToString(CultureInfo.InvariantCulture) + "Min";
-                    case BarsPeriodType.Second:
-                        return value.ToString(CultureInfo.InvariantCulture) + "Sec";
-                    case BarsPeriodType.Tick:
-                        return value.ToString(CultureInfo.InvariantCulture) + "Tick";
-                    case BarsPeriodType.Volume:
-                        return value.ToString(CultureInfo.InvariantCulture) + "Volume";
-                    case BarsPeriodType.Range:
-                        return value.ToString(CultureInfo.InvariantCulture) + "Range";
-                    case BarsPeriodType.Day:
-                        return value.ToString(CultureInfo.InvariantCulture) + "Day";
-                    case BarsPeriodType.Week:
-                        return value.ToString(CultureInfo.InvariantCulture) + "Week";
-                    case BarsPeriodType.Month:
-                        return value.ToString(CultureInfo.InvariantCulture) + "Month";
-                    case BarsPeriodType.Year:
-                        return value.ToString(CultureInfo.InvariantCulture) + "Year";
-                    default:
-                        return value.ToString(CultureInfo.InvariantCulture) + BarsPeriod.BarsPeriodType.ToString();
+                    string baseType = TryReadBarsPeriodString("BaseBarsPeriodType", "Minute");
+                    int baseValue = TryReadBarsPeriodInt("BaseBarsPeriodValue", BarsPeriod.Value);
+                    if (baseValue <= 0)
+                        baseValue = BarsPeriod.Value > 0 ? BarsPeriod.Value : 1;
+
+                    return SafeBarsDescriptorFromTypeText(baseType, baseValue);
                 }
+
+                return SafeBarsDescriptorFromTypeText(BarsPeriod.BarsPeriodType.ToString(), BarsPeriod.Value);
             }
             catch
             {
                 return "UnknownBars";
+            }
+        }
+
+        private string SafeBarsDescriptorFromTypeText(string typeText, int value)
+        {
+            try
+            {
+                if (value <= 0)
+                    value = 1;
+
+                string t = string.IsNullOrWhiteSpace(typeText) ? "" : typeText.Trim();
+
+                if (t.IndexOf("Minute", StringComparison.OrdinalIgnoreCase) >= 0)
+                    return value.ToString(CultureInfo.InvariantCulture) + "Min";
+                if (t.IndexOf("Second", StringComparison.OrdinalIgnoreCase) >= 0)
+                    return value.ToString(CultureInfo.InvariantCulture) + "Sec";
+                if (t.IndexOf("Tick", StringComparison.OrdinalIgnoreCase) >= 0)
+                    return value.ToString(CultureInfo.InvariantCulture) + "Tick";
+                if (t.IndexOf("Volume", StringComparison.OrdinalIgnoreCase) >= 0)
+                    return value.ToString(CultureInfo.InvariantCulture) + "Volume";
+                if (t.IndexOf("Range", StringComparison.OrdinalIgnoreCase) >= 0)
+                    return value.ToString(CultureInfo.InvariantCulture) + "Range";
+                if (t.IndexOf("Day", StringComparison.OrdinalIgnoreCase) >= 0)
+                    return value.ToString(CultureInfo.InvariantCulture) + "Day";
+                if (t.IndexOf("Week", StringComparison.OrdinalIgnoreCase) >= 0)
+                    return value.ToString(CultureInfo.InvariantCulture) + "Week";
+                if (t.IndexOf("Month", StringComparison.OrdinalIgnoreCase) >= 0)
+                    return value.ToString(CultureInfo.InvariantCulture) + "Month";
+                if (t.IndexOf("Year", StringComparison.OrdinalIgnoreCase) >= 0)
+                    return value.ToString(CultureInfo.InvariantCulture) + "Year";
+
+                return value.ToString(CultureInfo.InvariantCulture) + MakeSafeFolderName(t);
+            }
+            catch
+            {
+                return value.ToString(CultureInfo.InvariantCulture) + "Bars";
+            }
+        }
+
+        private string TryReadBarsPeriodString(string propertyName, string fallback)
+        {
+            try
+            {
+                if (BarsPeriod == null || string.IsNullOrWhiteSpace(propertyName))
+                    return fallback;
+
+                var prop = BarsPeriod.GetType().GetProperty(propertyName);
+                if (prop == null)
+                    return fallback;
+
+                object value = prop.GetValue(BarsPeriod, null);
+                return value == null ? fallback : value.ToString();
+            }
+            catch
+            {
+                return fallback;
+            }
+        }
+
+        private int TryReadBarsPeriodInt(string propertyName, int fallback)
+        {
+            try
+            {
+                if (BarsPeriod == null || string.IsNullOrWhiteSpace(propertyName))
+                    return fallback;
+
+                var prop = BarsPeriod.GetType().GetProperty(propertyName);
+                if (prop == null)
+                    return fallback;
+
+                object value = prop.GetValue(BarsPeriod, null);
+                if (value == null)
+                    return fallback;
+
+                int parsed;
+                if (int.TryParse(value.ToString(), NumberStyles.Integer, CultureInfo.InvariantCulture, out parsed))
+                    return parsed;
+
+                return fallback;
+            }
+            catch
+            {
+                return fallback;
             }
         }
 
