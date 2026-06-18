@@ -1,0 +1,71 @@
+---
+video_number: 246
+inferred_title: "Understanding How Big Orders Trade In The Order Flow Using Orderflows Trader For NinjaTrader 8"
+inferred_date: "2022-04-08"
+video_id: "zQPoT7th5iI"
+source_vtt: "20220408 - Understanding How Big Orders Trade In The Order Flow Using Orderflows Trader For NinjaTrader 8 [zQPoT7th5iI].en.vtt"
+word_count: 2612
+segment_count: 402
+---
+
+# Understanding How Big Orders Trade In The Order Flow Using Orderflows Trader For NinjaTrader 8
+*Date:* 2022-04-08  |  *Video ID:* zQPoT7th5iI  |  *Words:* 2612
+*Source VTT:* `20220408 - Understanding How Big Orders Trade In The Order Flow Using Orderflows Trader For NinjaTrader 8 [zQPoT7th5iI].en.vtt`
+
+---
+
+[00:00] hey everybody it's mike from order flows and today i'm going to be talking about understanding you know big orders trading in the order flow you know one of the benefits of using an order flow footprint chart is to see when size comes into the market and how it actually trades as opposed to say looking at you know the the dome or a heat map or book map where you're just seeing the liquidity coming in and sitting there in the market i'm talking about what actually trades now
+
+[00:27] a few things you have to keep in mind each market trades different volumes okay so what's considered big volume in one market might be considered average or small in another market you know so for example say you are trading e-minis you know which trades a lot of volume um you know what's considered small in the e-minis would be considered big in say um gold or the euro currencies so you got to take the time to learn what's considered big volume or above average volume for the market that
+
+[01:01] you're trading now how do you do that well you look at the footprint chart and again it's not like you have to analyze you know five years worth of data you know really what you're looking for is how the market is trading now how the volume is going through and if you're starting to see increases in the volume so for example this is today in the gold and you know this time it's about 11 30 going into lunchtime and you can see how the volume is you know more or less
+
+[01:33] pretty light okay you're seeing some small size you know nine uh six two you know sort of the bigger volume that's being traded on the bid or the offer here you got 30 29 38 you know 20 20 34 17 16. um here's 64.46 so you know i'd guess anything over 30 would you know something that would catch my interest in the market now when you're seeing big volume coming into the market you want to take into account where it's coming in right now if a market is selling off
+
+[02:10] it's not uncommon to see big volumes on the bid side right because you know people are working bids you know in anticipation of buying the market lower okay just as you know if the market was rallying up you'd probably see some big offers coming in because people are trying to uh take profits at higher prices now where it gets interesting is you know when you sort of come down into a low like right in here okay markets sold off again i don't say sold off but you know
+
+[02:40] it dropped from was about 1945 down to 1943 pretty quick you know a two dollar move down and then you know we're seeing some bids in here right 47 lots traded on the bid right in here at 1944. you know and this was just below this sort of swing low you know people are they're trying to buy the market have been going sideways right for the last um you know 20 30 minutes and so it's not uncommon to see people you know putting in bids you know just below the
+
+[03:09] you know the swing low and they probably had some offers up here at uh 19 45 60 or 1945 70. so here you got 47 okay market trades down through that comes down it's a couple more bids down here some decent size 24 27 then the market starts creeping back up starts creeping back up into this area that you had just been trading at okay around the 1944 50 1944 60 70 80 up to about 1945. however on this way up now first let's talk before we talk
+
+[03:45] about the way up let's talk about the way down so we get through some size here right there's 50 on the bid here 47. and as we're going down you're seeing some not a lot of offers coming in trailing it down okay so what that's telling you is somebody's coming in here and cleaning out these bids right there's probably a big order that's coming through it trades out the 47 lots you know the 17 trades everything out because there's very little counter trade here so they're just coming in
+
+[04:11] hitting the bids hitting the bids hitting the bids gets down here 19 43 30 okay you see there's 38 that traded on the offer there so as we're coming down right now you're starting to see the offer come in trailing it down okay which is a sign of supply coming into the market now it gets through you know the 24 at 320 the 27 at 310 and you know trades all the way down to 270 okay now it starts to come back up but there's still a decent size offer at
+
+[04:46] 42.90 here so you had a decent offer here at 43.30 another decent offer at 42.90 so there is some supply coming in trailing the off trailing the you know the move down right basically um there's pressure on the market you have sellers coming in working offers on the way down however now now it starts trading up so we go through that 39 that we're offered there right trades the 39 there turns bid for 15. um 18 get lifted at 43 14 get lifted at 43.10 um thin volume up here you know just
+
+[05:24] very small size but when it gets into this bar here it's 32 you know it's bid for 32 well it's probably bid for more but 32 trade so there's some absorption now you're starting to see up on the way back up as opposed to just offers getting lifted so now right as the market was moving down you have offers trailing the move down now on the move up you're starting to see some support of buying right the 32 the 33 the 37 the 23. so on this way down you're seeing what you
+
+[05:56] expect to see on on a move down it did hit its inflection point right down here at around 43 okay then the buyers started coming in right the buyers came in they aggressively lifted this offer here at um 290. right bought it up they're bidding it here at 43.40 bidding again you know at 360 at 370 at 390. 4410 4420 right so after you see what's happening in these three bars okay what should be thinking well this market probably gonna go higher and it moves back all the way up back up to 460. now
+
+[06:36] you know then it just sort of went sideways and sort of dipped back down but this area where you start seeing this you know this aggressive buying um coming in followed by passive buying right in here you know we'll call it this area right in here because this is where the the interesting size that came in and again in the e-minis if you're looking at you know 39 32 37 33 that wouldn't be considered big size for that market but for the gold at this time of day that's considered big size
+
+[07:06] again it's all relative to the market that you're trading so basically this area where you had buying interest come in here okay you had some aggressive lifting of the offers then you had some nice passive bids following it up you know one of the clues of what can be happening is in the delta right you've seen the negative delta people say how can this market go up on negative delta right because theoretically you would be expecting a bar with negative delta to be going down right
+
+[07:37] because what is delta well delta is you know the net difference of aggressive buying and aggressive selling so if you have negative delta that tells you there was more aggressive selling than aggressive buying and generally what's going to help move the market is the aggressive in this case would be the aggressive buying on a move up people are buying the offer taking out the liquidity from the offer and buy the next offer then buy the next offer they're clearing it out but what's causing this negative
+
+[08:03] delta is absorption so you have bidders coming in here passive buyers coming in working bids they're absorbing all the selling that's going on right then the selling stops and aggressive buying takes over then they start working some more bids they absorb all the aggressive selling the aggressive selling tapers off and aggressive buying comes in and goes higher but there's just more aggressive selling than aggressive buying it's not taking much on the aggressive buying to move the market higher so you're basically looking at a level between you know 42 90 and 44 20.
+
+[08:36] you see how the market went up came right back down to that 4420 area right here this blue line and you know went back up so it's acting as essentially a support area because you know at that area you had buying interest right legitimate buying interest and if you're just looking at the market right and you're wondering oh why does the market come back to this level well that's one of the reasons why markets pull back to a certain level and then continue on in their original direction
+
+[09:07] is because it finds levels like that where there was buying earlier okay so let's take a look at euro currency now again like i said just to reiterate you know under your volume is relative to the market that you're trading so you know right now i have this chart open it's about nine o'clock in the morning and you can see the volumes that are going through um you know nothing really stands out above 100 you know here's 254 but everything else is relatively on the smaller side you know 60 52 49 a
+
+[09:38] lot of 40s you know here's 80 here's 91. so you know anything obviously above 100 which should get my interest obviously the 254 um you know kind of gets my interest but then there's not much really else to go on afterwards that happened to it did the market go up a little bit yeah um it came in this 254 came in at what is that 108.68 and you know the market did start to rally a bit but again just having one bar with you know a big
+
+[10:08] order in there that trades through is you know not always enough to go off of so you know just wait for something that makes more sense and as we get up here right we rally you know this red line is the low of the day so we rally up from uh 108.63 and then we get up into this area uh you know around 108.80 and we start going sideways and what was interesting in here you're starting to see some decent offers get lifted right here is 156
+
+[10:35] here's 158 here's 163 okay so again like i said earlier it's not uncommon to see resting liquidity in the offers especially when the market is going up right because people that bought earlier um you know probably want to get out at higher prices so to see the market sort of come up here and you know trade that out trade it out up here is not uncommon now where it gets interesting is this here this 152 so before right we had the market went up from 63 all the way up to you know
+
+[11:12] basically 83 a 20 tick rally and you know people that bought earlier they're getting out up here but now what you're seeing is supportive buying coming in here right you're seeing this bid come in here at 152. right it's not coming in on the offer side it's coming in on the bid so now there's support coming into this market market is starting to go higher now you're seeing support come into the market so what do you think is going to happen well the one the support can hold the
+
+[11:40] market go higher too the support can fail and market can drop now again you know sometimes especially with euro currency um you know there's a lot of trade that goes on between you know a lot of our trade that goes on between the cash in the futures but you gotta you know when you're invested in the market and you know you're trading you you want to sort of put the pieces together okay so i know i've got a big bid that came in here now this is an area that we had
+
+[12:08] been trading in basically for since about nine you know 9 24 9 25 it's 9 40. so about 15 minutes all of a sudden you're seeing a big bid come in the market okay all you got to do right you just wait for the market to give you some sort of confirmation that you know this market is you know this could be supportive for the market because if it's going to be supportive for the market we shouldn't dip you know much below the above the uh
+
+[12:36] sorry below that 1080 level and it just goes two ticks lower down to 79. you know it didn't come down here all you know didn't pull back down to you know 76 or 75 and then you're seeing some more in the next bar what are you seeing you're seeing selling imbalances on this green candle right 20 against four 43 against nine so not only do you have that supportive buying in this bar in the next bar it's still there it's come back right even though you know this order got
+
+[13:05] filled it traded a little bit lower next bar it's still there even at the next price it's still there so then this bar closes you know you could feel fairly confident that yeah you know what i think you know there's probably some move to the upside here because i now i know i've got support of buying right so this old business of this move up which was sort of closed when you know people were getting out of their positions here now you're seeing new business come into the market right
+
+[13:36] new supportive buying coming into the market and what the market do well the market went up from this 80 well this is 80 right but you know maybe you're getting in around 84.85 well you know all the way up to you know above uh 109 even right so you know that's where understanding how the big size comes into the market what effect it's going to have on the market again you know trading is a puzzle you got to put the pieces of the puzzle together so you can understand what's
+
+[14:09] going on it's just not about seeing the big size it's seeing where the big size came in in relationship to how the market is trading so if you like this video and you want to see more like it be sure to hit the like button and subscribe to my channel and i hope to be put out more videos like this i hope you found this helpful if you did hit the like button bye bye everyone

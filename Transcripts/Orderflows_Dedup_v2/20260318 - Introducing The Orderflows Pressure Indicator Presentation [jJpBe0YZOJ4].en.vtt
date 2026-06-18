@@ -1,0 +1,4272 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:02.190 align:start position:0%
+ 
+Hey,<00:00:00.560><c> it's</c><00:00:00.760><c> Mike</c><00:00:01.040><c> from</c><00:00:01.320><c> Orderflows,</c><00:00:01.920><c> and</c><00:00:02.120><c> I'm</c>
+
+00:00:02.190 --> 00:00:02.200 align:start position:0%
+Hey, it's Mike from Orderflows, and I'm
+ 
+
+00:00:02.200 --> 00:00:03.430 align:start position:0%
+Hey, it's Mike from Orderflows, and I'm
+excited<00:00:02.560><c> to</c><00:00:02.640><c> introduce</c><00:00:03.080><c> you</c><00:00:03.200><c> to</c><00:00:03.320><c> the</c>
+
+00:00:03.430 --> 00:00:03.440 align:start position:0%
+excited to introduce you to the
+ 
+
+00:00:03.440 --> 00:00:05.790 align:start position:0%
+excited to introduce you to the
+Orderflows<00:00:03.920><c> Pressure</c><00:00:04.400><c> Indicator.</c><00:00:05.600><c> I'll</c><00:00:05.680><c> be</c>
+
+00:00:05.790 --> 00:00:05.800 align:start position:0%
+Orderflows Pressure Indicator. I'll be
+ 
+
+00:00:05.800 --> 00:00:07.910 align:start position:0%
+Orderflows Pressure Indicator. I'll be
+walking<00:00:06.160><c> you</c><00:00:06.280><c> through</c><00:00:07.040><c> the</c><00:00:07.160><c> indicator</c><00:00:07.680><c> in</c>
+
+00:00:07.910 --> 00:00:07.920 align:start position:0%
+walking you through the indicator in
+ 
+
+00:00:07.920 --> 00:00:09.870 align:start position:0%
+walking you through the indicator in
+this<00:00:08.520><c> quick</c><00:00:08.800><c> video.</c><00:00:09.200><c> So,</c><00:00:09.480><c> what</c><00:00:09.600><c> I'm</c><00:00:09.680><c> going</c><00:00:09.800><c> to</c>
+
+00:00:09.870 --> 00:00:09.880 align:start position:0%
+this quick video. So, what I'm going to
+ 
+
+00:00:09.880 --> 00:00:12.710 align:start position:0%
+this quick video. So, what I'm going to
+cover<00:00:10.240><c> is</c><00:00:10.480><c> what</c><00:00:10.640><c> the</c><00:00:10.720><c> pressure</c><00:00:11.440><c> detects</c><00:00:12.080><c> and</c>
+
+00:00:12.710 --> 00:00:12.720 align:start position:0%
+cover is what the pressure detects and
+ 
+
+00:00:12.720 --> 00:00:14.310 align:start position:0%
+cover is what the pressure detects and
+why<00:00:12.920><c> the</c><00:00:13.000><c> passive</c><00:00:13.320><c> traders</c><00:00:13.680><c> matter</c><00:00:14.040><c> in</c><00:00:14.240><c> the</c>
+
+00:00:14.310 --> 00:00:14.320 align:start position:0%
+why the passive traders matter in the
+ 
+
+00:00:14.320 --> 00:00:16.230 align:start position:0%
+why the passive traders matter in the
+order<00:00:14.520><c> flow.</c><00:00:15.000><c> Talk</c><00:00:15.240><c> a</c><00:00:15.280><c> bit</c><00:00:15.440><c> about</c><00:00:15.640><c> multi-time</c>
+
+00:00:16.230 --> 00:00:16.240 align:start position:0%
+order flow. Talk a bit about multi-time
+ 
+
+00:00:16.240 --> 00:00:17.710 align:start position:0%
+order flow. Talk a bit about multi-time
+frame<00:00:16.400><c> analysis,</c><00:00:17.040><c> how</c><00:00:17.120><c> you</c><00:00:17.240><c> could</c><00:00:17.360><c> overlay</c>
+
+00:00:17.710 --> 00:00:17.720 align:start position:0%
+frame analysis, how you could overlay
+ 
+
+00:00:17.720 --> 00:00:19.510 align:start position:0%
+frame analysis, how you could overlay
+higher<00:00:18.080><c> or</c><00:00:18.280><c> lower</c><00:00:18.520><c> time</c><00:00:18.800><c> frame</c><00:00:19.000><c> signals</c><00:00:19.400><c> on</c>
+
+00:00:19.510 --> 00:00:19.520 align:start position:0%
+higher or lower time frame signals on
+ 
+
+00:00:19.520 --> 00:00:21.590 align:start position:0%
+higher or lower time frame signals on
+your<00:00:19.640><c> chart.</c><00:00:20.600><c> I'll</c><00:00:20.720><c> discuss</c><00:00:21.080><c> the</c><00:00:21.160><c> POC</c>
+
+00:00:21.590 --> 00:00:21.600 align:start position:0%
+your chart. I'll discuss the POC
+ 
+
+00:00:21.600 --> 00:00:24.190 align:start position:0%
+your chart. I'll discuss the POC
+movement<00:00:22.000><c> detection,</c><00:00:23.080><c> which</c><00:00:23.840><c> shows</c><00:00:24.120><c> you</c>
+
+00:00:24.190 --> 00:00:24.200 align:start position:0%
+movement detection, which shows you
+ 
+
+00:00:24.200 --> 00:00:26.270 align:start position:0%
+movement detection, which shows you
+volume<00:00:24.480><c> acceptance</c><00:00:25.000><c> and</c><00:00:25.120><c> rejection.</c><00:00:26.200><c> I'll</c>
+
+00:00:26.270 --> 00:00:26.280 align:start position:0%
+volume acceptance and rejection. I'll
+ 
+
+00:00:26.280 --> 00:00:27.470 align:start position:0%
+volume acceptance and rejection. I'll
+spend<00:00:26.480><c> some</c><00:00:26.600><c> time</c><00:00:26.840><c> talking</c><00:00:27.160><c> about</c><00:00:27.400><c> the</c>
+
+00:00:27.470 --> 00:00:27.480 align:start position:0%
+spend some time talking about the
+ 
+
+00:00:27.480 --> 00:00:29.790 align:start position:0%
+spend some time talking about the
+momentum<00:00:27.920><c> strength</c><00:00:28.240><c> filter</c><00:00:28.720><c> in</c><00:00:29.560><c> the</c>
+
+00:00:29.790 --> 00:00:29.800 align:start position:0%
+momentum strength filter in the
+ 
+
+00:00:29.800 --> 00:00:31.430 align:start position:0%
+momentum strength filter in the
+Orderflows<00:00:30.160><c> Pressure</c><00:00:30.520><c> Indicator.</c><00:00:30.960><c> So,</c><00:00:31.320><c> you</c>
+
+00:00:31.430 --> 00:00:31.440 align:start position:0%
+Orderflows Pressure Indicator. So, you
+ 
+
+00:00:31.440 --> 00:00:32.230 align:start position:0%
+Orderflows Pressure Indicator. So, you
+know,<00:00:31.560><c> you</c><00:00:31.640><c> want</c><00:00:31.760><c> to</c><00:00:31.840><c> make</c><00:00:31.960><c> sure</c><00:00:32.119><c> you're</c>
+
+00:00:32.230 --> 00:00:32.240 align:start position:0%
+know, you want to make sure you're
+ 
+
+00:00:32.240 --> 00:00:34.270 align:start position:0%
+know, you want to make sure you're
+trading<00:00:32.599><c> in</c><00:00:32.680><c> the</c><00:00:32.759><c> direction</c><00:00:33.160><c> of</c><00:00:33.280><c> momentum.</c>
+
+00:00:34.270 --> 00:00:34.280 align:start position:0%
+trading in the direction of momentum.
+ 
+
+00:00:34.280 --> 00:00:35.390 align:start position:0%
+trading in the direction of momentum.
+And,<00:00:34.560><c> you</c><00:00:34.640><c> know,</c><00:00:34.680><c> most</c><00:00:34.920><c> importantly,</c><00:00:35.320><c> you</c>
+
+00:00:35.390 --> 00:00:35.400 align:start position:0%
+And, you know, most importantly, you
+ 
+
+00:00:35.400 --> 00:00:36.550 align:start position:0%
+And, you know, most importantly, you
+know,<00:00:35.520><c> one</c><00:00:35.680><c> thing</c><00:00:35.800><c> you</c><00:00:35.880><c> got</c><00:00:35.960><c> to</c><00:00:36.040><c> realize</c><00:00:36.440><c> with</c>
+
+00:00:36.550 --> 00:00:36.560 align:start position:0%
+know, one thing you got to realize with
+ 
+
+00:00:36.560 --> 00:00:38.230 align:start position:0%
+know, one thing you got to realize with
+trading<00:00:36.840><c> in</c><00:00:37.160><c> indicators</c><00:00:37.720><c> is</c><00:00:37.880><c> sometimes</c>
+
+00:00:38.230 --> 00:00:38.240 align:start position:0%
+trading in indicators is sometimes
+ 
+
+00:00:38.240 --> 00:00:40.510 align:start position:0%
+trading in indicators is sometimes
+traders<00:00:38.520><c> like</c><00:00:38.680><c> to</c><00:00:38.800><c> curve</c><00:00:39.160><c> fit</c>
+
+00:00:40.510 --> 00:00:40.520 align:start position:0%
+traders like to curve fit
+ 
+
+00:00:40.520 --> 00:00:42.150 align:start position:0%
+traders like to curve fit
+something<00:00:40.880><c> to</c><00:00:41.040><c> the</c><00:00:41.160><c> market.</c><00:00:41.920><c> I'm</c><00:00:42.000><c> going</c><00:00:42.120><c> to</c>
+
+00:00:42.150 --> 00:00:42.160 align:start position:0%
+something to the market. I'm going to
+ 
+
+00:00:42.160 --> 00:00:43.710 align:start position:0%
+something to the market. I'm going to
+show<00:00:42.280><c> you</c><00:00:42.400><c> why</c><00:00:42.760><c> pressure</c><00:00:43.160><c> works</c><00:00:43.400><c> across</c>
+
+00:00:43.710 --> 00:00:43.720 align:start position:0%
+show you why pressure works across
+ 
+
+00:00:43.720 --> 00:00:45.910 align:start position:0%
+show you why pressure works across
+markets<00:00:44.120><c> without</c><00:00:44.560><c> optimization.</c><00:00:45.640><c> I'll</c><00:00:45.760><c> show</c>
+
+00:00:45.910 --> 00:00:45.920 align:start position:0%
+markets without optimization. I'll show
+ 
+
+00:00:45.920 --> 00:00:48.190 align:start position:0%
+markets without optimization. I'll show
+you<00:00:46.000><c> some</c><00:00:46.160><c> charts</c><00:00:46.520><c> from</c><00:00:47.240><c> today</c><00:00:47.640><c> and</c><00:00:47.880><c> a</c><00:00:47.920><c> few</c><00:00:48.160><c> of</c>
+
+00:00:48.190 --> 00:00:48.200 align:start position:0%
+you some charts from today and a few of
+ 
+
+00:00:48.200 --> 00:00:49.750 align:start position:0%
+you some charts from today and a few of
+the<00:00:48.280><c> previous</c><00:00:48.640><c> days,</c><00:00:49.080><c> and</c><00:00:49.240><c> I'll</c><00:00:49.320><c> show</c><00:00:49.520><c> you</c><00:00:49.640><c> how</c>
+
+00:00:49.750 --> 00:00:49.760 align:start position:0%
+the previous days, and I'll show you how
+ 
+
+00:00:49.760 --> 00:00:51.910 align:start position:0%
+the previous days, and I'll show you how
+you<00:00:49.880><c> can</c><00:00:50.000><c> get</c><00:00:50.680><c> the</c><00:00:50.800><c> Orderflows</c><00:00:51.200><c> Pressure</c><00:00:51.720><c> on</c>
+
+00:00:51.910 --> 00:00:51.920 align:start position:0%
+you can get the Orderflows Pressure on
+ 
+
+00:00:51.920 --> 00:00:54.470 align:start position:0%
+you can get the Orderflows Pressure on
+your<00:00:52.080><c> charts</c><00:00:52.480><c> today.</c><00:00:53.480><c> So,</c><00:00:54.160><c> what</c><00:00:54.360><c> the</c>
+
+00:00:54.470 --> 00:00:54.480 align:start position:0%
+your charts today. So, what the
+ 
+
+00:00:54.480 --> 00:00:57.790 align:start position:0%
+your charts today. So, what the
+Orderflow<00:00:54.920><c> Pressure</c><00:00:55.280><c> detects</c><00:00:56.080><c> is</c><00:00:57.320><c> basically</c>
+
+00:00:57.790 --> 00:00:57.800 align:start position:0%
+Orderflow Pressure detects is basically
+ 
+
+00:00:57.800 --> 00:01:00.270 align:start position:0%
+Orderflow Pressure detects is basically
+it's<00:00:57.960><c> looking</c><00:00:58.240><c> for</c><00:00:58.800><c> strong</c><00:00:59.320><c> passive</c><00:00:59.880><c> trading</c>
+
+00:01:00.270 --> 00:01:00.280 align:start position:0%
+it's looking for strong passive trading
+ 
+
+00:01:00.280 --> 00:01:01.670 align:start position:0%
+it's looking for strong passive trading
+in<00:01:00.400><c> the</c><00:01:00.440><c> market.</c><00:01:00.800><c> So,</c><00:01:00.920><c> the</c><00:01:01.000><c> pressure</c><00:01:01.320><c> occurs</c>
+
+00:01:01.670 --> 00:01:01.680 align:start position:0%
+in the market. So, the pressure occurs
+ 
+
+00:01:01.680 --> 00:01:03.830 align:start position:0%
+in the market. So, the pressure occurs
+when<00:01:02.200><c> the</c><00:01:02.320><c> market</c><00:01:02.640><c> quickly</c><00:01:03.000><c> runs</c><00:01:03.240><c> into</c><00:01:03.480><c> strong</c>
+
+00:01:03.830 --> 00:01:03.840 align:start position:0%
+when the market quickly runs into strong
+ 
+
+00:01:03.840 --> 00:01:05.830 align:start position:0%
+when the market quickly runs into strong
+passive<00:01:04.199><c> buyers</c><00:01:04.600><c> or</c><00:01:04.760><c> sellers.</c><00:01:05.480><c> It</c><00:01:05.600><c> reads</c><00:01:05.760><c> the</c>
+
+00:01:05.830 --> 00:01:05.840 align:start position:0%
+passive buyers or sellers. It reads the
+ 
+
+00:01:05.840 --> 00:01:07.630 align:start position:0%
+passive buyers or sellers. It reads the
+volume<00:01:06.200><c> footprint</c><00:01:06.560><c> chart</c><00:01:06.960><c> and</c><00:01:07.120><c> identifies</c>
+
+00:01:07.630 --> 00:01:07.640 align:start position:0%
+volume footprint chart and identifies
+ 
+
+00:01:07.640 --> 00:01:09.990 align:start position:0%
+volume footprint chart and identifies
+increasing<00:01:08.080><c> volume</c><00:01:08.480><c> on</c><00:01:08.560><c> the</c><00:01:08.640><c> passive</c><00:01:09.000><c> side</c><00:01:09.680><c> at</c>
+
+00:01:09.990 --> 00:01:10.000 align:start position:0%
+increasing volume on the passive side at
+ 
+
+00:01:10.000 --> 00:01:11.550 align:start position:0%
+increasing volume on the passive side at
+market<00:01:10.320><c> extremes.</c>
+
+00:01:11.550 --> 00:01:11.560 align:start position:0%
+market extremes.
+ 
+
+00:01:11.560 --> 00:01:12.790 align:start position:0%
+market extremes.
+You're<00:01:11.680><c> going</c><00:01:11.800><c> to</c><00:01:11.880><c> have</c><00:01:12.240><c> two</c><00:01:12.400><c> types</c><00:01:12.680><c> of</c>
+
+00:01:12.790 --> 00:01:12.800 align:start position:0%
+You're going to have two types of
+ 
+
+00:01:12.800 --> 00:01:13.470 align:start position:0%
+You're going to have two types of
+pressure.<00:01:13.040><c> You're</c><00:01:13.120><c> going</c><00:01:13.240><c> to</c><00:01:13.280><c> have</c><00:01:13.360><c> buy</c>
+
+00:01:13.470 --> 00:01:13.480 align:start position:0%
+pressure. You're going to have buy
+ 
+
+00:01:13.480 --> 00:01:15.190 align:start position:0%
+pressure. You're going to have buy
+pressure<00:01:13.800><c> and</c><00:01:13.920><c> sell</c><00:01:14.120><c> pressure.</c><00:01:14.520><c> Buy</c><00:01:14.720><c> pressure</c>
+
+00:01:15.190 --> 00:01:15.200 align:start position:0%
+pressure and sell pressure. Buy pressure
+ 
+
+00:01:15.200 --> 00:01:16.750 align:start position:0%
+pressure and sell pressure. Buy pressure
+is<00:01:15.440><c> increasing</c><00:01:15.880><c> bid</c><00:01:16.080><c> volume</c><00:01:16.400><c> at</c><00:01:16.520><c> lower</c>
+
+00:01:16.750 --> 00:01:16.760 align:start position:0%
+is increasing bid volume at lower
+ 
+
+00:01:16.760 --> 00:01:18.990 align:start position:0%
+is increasing bid volume at lower
+prices.<00:01:17.520><c> Passive</c><00:01:17.880><c> buyers</c><00:01:18.200><c> are</c><00:01:18.280><c> scaling</c><00:01:18.720><c> in</c><00:01:18.840><c> as</c>
+
+00:01:18.990 --> 00:01:19.000 align:start position:0%
+prices. Passive buyers are scaling in as
+ 
+
+00:01:19.000 --> 00:01:20.790 align:start position:0%
+prices. Passive buyers are scaling in as
+the<00:01:19.120><c> market</c><00:01:19.400><c> trades</c><00:01:19.680><c> lower.</c><00:01:20.280><c> They</c><00:01:20.400><c> absorb</c>
+
+00:01:20.790 --> 00:01:20.800 align:start position:0%
+the market trades lower. They absorb
+ 
+
+00:01:20.800 --> 00:01:22.710 align:start position:0%
+the market trades lower. They absorb
+aggressive<00:01:21.200><c> selling</c><00:01:21.600><c> with</c><00:01:21.840><c> increasing</c><00:01:22.320><c> size</c>
+
+00:01:22.710 --> 00:01:22.720 align:start position:0%
+aggressive selling with increasing size
+ 
+
+00:01:22.720 --> 00:01:25.110 align:start position:0%
+aggressive selling with increasing size
+and<00:01:22.880><c> the</c><00:01:22.920><c> move</c><00:01:23.240><c> often</c><00:01:23.640><c> stalls.</c><00:01:24.360><c> Markets</c><00:01:24.760><c> rally</c>
+
+00:01:25.110 --> 00:01:25.120 align:start position:0%
+and the move often stalls. Markets rally
+ 
+
+00:01:25.120 --> 00:01:27.750 align:start position:0%
+and the move often stalls. Markets rally
+off<00:01:25.320><c> the</c><00:01:25.440><c> defended</c><00:01:26.080><c> level.</c><00:01:26.840><c> Sell</c><00:01:27.080><c> pressure</c><00:01:27.520><c> is</c>
+
+00:01:27.750 --> 00:01:27.760 align:start position:0%
+off the defended level. Sell pressure is
+ 
+
+00:01:27.760 --> 00:01:29.230 align:start position:0%
+off the defended level. Sell pressure is
+the<00:01:27.920><c> opposite</c><00:01:28.360><c> than</c><00:01:28.480><c> buy</c><00:01:28.640><c> pressure.</c><00:01:29.080><c> So,</c><00:01:29.160><c> you</c>
+
+00:01:29.230 --> 00:01:29.240 align:start position:0%
+the opposite than buy pressure. So, you
+ 
+
+00:01:29.240 --> 00:01:30.750 align:start position:0%
+the opposite than buy pressure. So, you
+got<00:01:29.360><c> increasing</c><00:01:29.800><c> offer</c><00:01:30.040><c> volume</c><00:01:30.360><c> at</c><00:01:30.440><c> a</c><00:01:30.480><c> higher</c>
+
+00:01:30.750 --> 00:01:30.760 align:start position:0%
+got increasing offer volume at a higher
+ 
+
+00:01:30.760 --> 00:01:32.750 align:start position:0%
+got increasing offer volume at a higher
+prices.<00:01:31.400><c> Passive</c><00:01:31.760><c> sellers</c><00:01:32.040><c> are</c><00:01:32.120><c> scaling</c><00:01:32.600><c> in</c>
+
+00:01:32.750 --> 00:01:32.760 align:start position:0%
+prices. Passive sellers are scaling in
+ 
+
+00:01:32.760 --> 00:01:34.870 align:start position:0%
+prices. Passive sellers are scaling in
+as<00:01:32.920><c> the</c><00:01:33.000><c> market</c><00:01:33.280><c> trades</c><00:01:33.560><c> higher.</c><00:01:34.160><c> They</c><00:01:34.280><c> absorb</c>
+
+00:01:34.870 --> 00:01:34.880 align:start position:0%
+as the market trades higher. They absorb
+ 
+
+00:01:34.880 --> 00:01:37.070 align:start position:0%
+as the market trades higher. They absorb
+aggressive<00:01:35.280><c> buying</c><00:01:35.600><c> with</c><00:01:35.800><c> increasing</c><00:01:36.400><c> size.</c>
+
+00:01:37.070 --> 00:01:37.080 align:start position:0%
+aggressive buying with increasing size.
+ 
+
+00:01:37.080 --> 00:01:39.070 align:start position:0%
+aggressive buying with increasing size.
+The<00:01:37.200><c> rally</c><00:01:37.480><c> will</c><00:01:37.680><c> often</c><00:01:37.960><c> stall.</c><00:01:38.640><c> Markets</c>
+
+00:01:39.070 --> 00:01:39.080 align:start position:0%
+The rally will often stall. Markets
+ 
+
+00:01:39.080 --> 00:01:40.150 align:start position:0%
+The rally will often stall. Markets
+sells
+
+00:01:40.150 --> 00:01:40.160 align:start position:0%
+sells
+ 
+
+00:01:40.160 --> 00:01:43.390 align:start position:0%
+sells
+off<00:01:40.640><c> from</c><00:01:41.040><c> those</c><00:01:41.480><c> defended</c><00:01:42.160><c> levels.</c><00:01:43.080><c> Now,</c><00:01:43.280><c> for</c>
+
+00:01:43.390 --> 00:01:43.400 align:start position:0%
+off from those defended levels. Now, for
+ 
+
+00:01:43.400 --> 00:01:44.670 align:start position:0%
+off from those defended levels. Now, for
+those<00:01:43.600><c> of</c><00:01:43.720><c> you</c><00:01:43.800><c> that</c><00:01:43.960><c> aren't</c><00:01:44.160><c> familiar</c><00:01:44.480><c> with</c>
+
+00:01:44.670 --> 00:01:44.680 align:start position:0%
+those of you that aren't familiar with
+ 
+
+00:01:44.680 --> 00:01:45.990 align:start position:0%
+those of you that aren't familiar with
+me,<00:01:44.880><c> my</c><00:01:45.040><c> name</c><00:01:45.160><c> is</c><00:01:45.240><c> Michael</c><00:01:45.520><c> Valtos,</c><00:01:45.880><c> and</c><00:01:45.960><c> I</c>
+
+00:01:45.990 --> 00:01:46.000 align:start position:0%
+me, my name is Michael Valtos, and I
+ 
+
+00:01:46.000 --> 00:01:48.270 align:start position:0%
+me, my name is Michael Valtos, and I
+spent<00:01:46.200><c> over</c><00:01:46.360><c> 20</c><00:01:46.640><c> years</c><00:01:46.960><c> on</c><00:01:47.080><c> institutional</c>
+
+00:01:48.270 --> 00:01:48.280 align:start position:0%
+spent over 20 years on institutional
+ 
+
+00:01:48.280 --> 00:01:50.310 align:start position:0%
+spent over 20 years on institutional
+trading<00:01:48.600><c> desks.</c><00:01:48.920><c> I</c><00:01:48.960><c> spent</c><00:01:49.200><c> 8</c><00:01:49.320><c> years</c><00:01:49.680><c> as</c><00:01:50.080><c> vice</c>
+
+00:01:50.310 --> 00:01:50.320 align:start position:0%
+trading desks. I spent 8 years as vice
+ 
+
+00:01:50.320 --> 00:01:51.870 align:start position:0%
+trading desks. I spent 8 years as vice
+president<00:01:50.680><c> at</c><00:01:50.800><c> J.P.</c><00:01:51.080><c> Morgan,</c><00:01:51.480><c> which</c><00:01:51.600><c> is</c><00:01:51.680><c> one</c>
+
+00:01:51.870 --> 00:01:51.880 align:start position:0%
+president at J.P. Morgan, which is one
+ 
+
+00:01:51.880 --> 00:01:53.150 align:start position:0%
+president at J.P. Morgan, which is one
+of<00:01:51.960><c> the</c><00:01:52.040><c> world's</c><00:01:52.400><c> largest</c><00:01:52.800><c> trading</c>
+
+00:01:53.150 --> 00:01:53.160 align:start position:0%
+of the world's largest trading
+ 
+
+00:01:53.160 --> 00:01:54.630 align:start position:0%
+of the world's largest trading
+operations.
+
+00:01:54.630 --> 00:01:54.640 align:start position:0%
+operations.
+ 
+
+00:01:54.640 --> 00:01:57.470 align:start position:0%
+operations.
+Before<00:01:55.000><c> that,</c><00:01:55.240><c> I</c><00:01:55.320><c> spent</c><00:01:56.120><c> 3</c><00:01:56.560><c> years</c><00:01:56.920><c> at</c>
+
+00:01:57.470 --> 00:01:57.480 align:start position:0%
+Before that, I spent 3 years at
+ 
+
+00:01:57.480 --> 00:01:59.630 align:start position:0%
+Before that, I spent 3 years at
+Commerzbank.<00:01:58.440><c> I</c><00:01:58.520><c> traded</c><00:01:58.840><c> institutional</c><00:01:59.400><c> flow</c>
+
+00:01:59.630 --> 00:01:59.640 align:start position:0%
+Commerzbank. I traded institutional flow
+ 
+
+00:01:59.640 --> 00:02:02.390 align:start position:0%
+Commerzbank. I traded institutional flow
+across<00:02:00.000><c> European</c><00:02:00.880><c> and</c><00:02:01.000><c> global</c><00:02:01.320><c> markets.</c><00:02:02.280><c> I</c>
+
+00:02:02.390 --> 00:02:02.400 align:start position:0%
+across European and global markets. I
+ 
+
+00:02:02.400 --> 00:02:04.270 align:start position:0%
+across European and global markets. I
+spent<00:02:02.800><c> about</c><00:02:03.000><c> 4</c><00:02:03.160><c> years</c><00:02:03.480><c> at</c><00:02:03.680><c> Cargill,</c><00:02:04.080><c> which</c><00:02:04.240><c> is</c>
+
+00:02:04.270 --> 00:02:04.280 align:start position:0%
+spent about 4 years at Cargill, which is
+ 
+
+00:02:04.280 --> 00:02:06.350 align:start position:0%
+spent about 4 years at Cargill, which is
+a<00:02:04.320><c> big</c><00:02:04.560><c> physical</c><00:02:05.160><c> and</c><00:02:05.360><c> financial</c><00:02:05.760><c> commodity</c>
+
+00:02:06.350 --> 00:02:06.360 align:start position:0%
+a big physical and financial commodity
+ 
+
+00:02:06.360 --> 00:02:08.630 align:start position:0%
+a big physical and financial commodity
+trading<00:02:07.160><c> company,</c><00:02:07.760><c> and</c><00:02:07.880><c> we</c><00:02:07.960><c> just</c><00:02:08.119><c> trade</c><00:02:08.440><c> on</c><00:02:08.560><c> a</c>
+
+00:02:08.630 --> 00:02:08.640 align:start position:0%
+trading company, and we just trade on a
+ 
+
+00:02:08.640 --> 00:02:10.910 align:start position:0%
+trading company, and we just trade on a
+massive<00:02:09.000><c> scale.</c><00:02:09.479><c> EDF</c><00:02:09.880><c> Man,</c><00:02:10.119><c> I</c><00:02:10.160><c> spent</c><00:02:10.560><c> about</c><00:02:10.800><c> 2</c>
+
+00:02:10.910 --> 00:02:10.920 align:start position:0%
+massive scale. EDF Man, I spent about 2
+ 
+
+00:02:10.920 --> 00:02:12.150 align:start position:0%
+massive scale. EDF Man, I spent about 2
+years<00:02:11.200><c> there.</c>
+
+00:02:12.150 --> 00:02:12.160 align:start position:0%
+years there.
+ 
+
+00:02:12.160 --> 00:02:13.510 align:start position:0%
+years there.
+And,<00:02:12.400><c> I</c><00:02:12.480><c> you</c><00:02:12.600><c> know,</c><00:02:12.720><c> that's</c><00:02:12.960><c> where</c><00:02:13.080><c> I</c><00:02:13.160><c> built</c>
+
+00:02:13.510 --> 00:02:13.520 align:start position:0%
+And, I you know, that's where I built
+ 
+
+00:02:13.520 --> 00:02:16.150 align:start position:0%
+And, I you know, that's where I built
+some<00:02:13.880><c> experience</c><00:02:14.520><c> in</c><00:02:15.000><c> futures</c><00:02:15.440><c> and</c><00:02:15.680><c> commodity</c>
+
+00:02:16.150 --> 00:02:16.160 align:start position:0%
+some experience in futures and commodity
+ 
+
+00:02:16.160 --> 00:02:17.670 align:start position:0%
+some experience in futures and commodity
+markets.
+
+00:02:17.670 --> 00:02:17.680 align:start position:0%
+markets.
+ 
+
+00:02:17.680 --> 00:02:19.470 align:start position:0%
+markets.
+And,<00:02:18.280><c> about</c><00:02:18.520><c> 10</c><00:02:18.640><c> years</c><00:02:18.840><c> ago,</c><00:02:19.040><c> I</c><00:02:19.120><c> founded</c>
+
+00:02:19.470 --> 00:02:19.480 align:start position:0%
+And, about 10 years ago, I founded
+ 
+
+00:02:19.480 --> 00:02:21.110 align:start position:0%
+And, about 10 years ago, I founded
+Orderflows,<00:02:20.040><c> bringing</c><00:02:20.320><c> institutional</c><00:02:20.800><c> grade</c>
+
+00:02:21.110 --> 00:02:21.120 align:start position:0%
+Orderflows, bringing institutional grade
+ 
+
+00:02:21.120 --> 00:02:24.270 align:start position:0%
+Orderflows, bringing institutional grade
+order<00:02:21.360><c> flow</c><00:02:21.600><c> tools</c><00:02:22.000><c> to</c><00:02:22.120><c> retail</c><00:02:22.680><c> traders.</c>
+
+00:02:24.270 --> 00:02:24.280 align:start position:0%
+order flow tools to retail traders.
+ 
+
+00:02:24.280 --> 00:02:25.830 align:start position:0%
+order flow tools to retail traders.
+Now,<00:02:24.640><c> there</c><00:02:24.840><c> are</c><00:02:24.920><c> two</c><00:02:25.080><c> types</c><00:02:25.400><c> of</c><00:02:25.480><c> market</c>
+
+00:02:25.830 --> 00:02:25.840 align:start position:0%
+Now, there are two types of market
+ 
+
+00:02:25.840 --> 00:02:27.750 align:start position:0%
+Now, there are two types of market
+participants.<00:02:26.880><c> Okay,</c><00:02:27.080><c> you</c><00:02:27.160><c> have</c><00:02:27.320><c> aggressive</c>
+
+00:02:27.750 --> 00:02:27.760 align:start position:0%
+participants. Okay, you have aggressive
+ 
+
+00:02:27.760 --> 00:02:30.150 align:start position:0%
+participants. Okay, you have aggressive
+traders,<00:02:28.160><c> you</c><00:02:28.280><c> have</c><00:02:28.640><c> passive</c><00:02:29.080><c> traders.</c><00:02:29.920><c> Think</c>
+
+00:02:30.150 --> 00:02:30.160 align:start position:0%
+traders, you have passive traders. Think
+ 
+
+00:02:30.160 --> 00:02:31.910 align:start position:0%
+traders, you have passive traders. Think
+of<00:02:30.480><c> the</c><00:02:30.600><c> aggressive</c><00:02:30.920><c> traders</c><00:02:31.280><c> as</c><00:02:31.440><c> the</c><00:02:31.560><c> force.</c>
+
+00:02:31.910 --> 00:02:31.920 align:start position:0%
+of the aggressive traders as the force.
+ 
+
+00:02:31.920 --> 00:02:33.150 align:start position:0%
+of the aggressive traders as the force.
+They're<00:02:32.040><c> the</c><00:02:32.120><c> ones</c><00:02:32.280><c> that</c><00:02:32.440><c> move</c><00:02:32.680><c> the</c><00:02:32.760><c> market.</c>
+
+00:02:33.150 --> 00:02:33.160 align:start position:0%
+They're the ones that move the market.
+ 
+
+00:02:33.160 --> 00:02:35.550 align:start position:0%
+They're the ones that move the market.
+The<00:02:33.240><c> passive</c><00:02:33.560><c> traders</c><00:02:33.880><c> are</c><00:02:34.080><c> sort</c><00:02:34.280><c> of</c><00:02:34.360><c> the</c><00:02:34.480><c> wall</c>
+
+00:02:35.550 --> 00:02:35.560 align:start position:0%
+The passive traders are sort of the wall
+ 
+
+00:02:35.560 --> 00:02:38.310 align:start position:0%
+The passive traders are sort of the wall
+that<00:02:35.960><c> stops</c><00:02:36.600><c> movement.</c><00:02:37.680><c> Aggressive</c><00:02:38.040><c> traders</c>
+
+00:02:38.310 --> 00:02:38.320 align:start position:0%
+that stops movement. Aggressive traders
+ 
+
+00:02:38.320 --> 00:02:39.790 align:start position:0%
+that stops movement. Aggressive traders
+use<00:02:38.560><c> market</c><00:02:38.880><c> orders.</c><00:02:39.200><c> They</c><00:02:39.320><c> buy</c><00:02:39.560><c> at</c><00:02:39.680><c> the</c>
+
+00:02:39.790 --> 00:02:39.800 align:start position:0%
+use market orders. They buy at the
+ 
+
+00:02:39.800 --> 00:02:41.390 align:start position:0%
+use market orders. They buy at the
+offer,<00:02:40.080><c> sell</c><00:02:40.320><c> at</c><00:02:40.400><c> the</c><00:02:40.480><c> bid.</c><00:02:40.760><c> They</c><00:02:40.880><c> push</c><00:02:41.120><c> price</c>
+
+00:02:41.390 --> 00:02:41.400 align:start position:0%
+offer, sell at the bid. They push price
+ 
+
+00:02:41.400 --> 00:02:42.990 align:start position:0%
+offer, sell at the bid. They push price
+in<00:02:41.520><c> a</c><00:02:41.560><c> direction,</c><00:02:42.080><c> and</c><00:02:42.240><c> it's</c><00:02:42.400><c> what</c><00:02:42.640><c> most</c>
+
+00:02:42.990 --> 00:02:43.000 align:start position:0%
+in a direction, and it's what most
+ 
+
+00:02:43.000 --> 00:02:45.030 align:start position:0%
+in a direction, and it's what most
+traders<00:02:43.440><c> focus</c><00:02:43.920><c> on.</c>
+
+00:02:45.030 --> 00:02:45.040 align:start position:0%
+traders focus on.
+ 
+
+00:02:45.040 --> 00:02:47.470 align:start position:0%
+traders focus on.
+However,<00:02:45.560><c> passive</c><00:02:45.960><c> traders,</c>
+
+00:02:47.470 --> 00:02:47.480 align:start position:0%
+However, passive traders,
+ 
+
+00:02:47.480 --> 00:02:49.350 align:start position:0%
+However, passive traders,
+they<00:02:47.800><c> are</c><00:02:47.920><c> the</c><00:02:48.000><c> ones</c><00:02:48.360><c> that</c><00:02:48.520><c> determine</c><00:02:49.200><c> the</c>
+
+00:02:49.350 --> 00:02:49.360 align:start position:0%
+they are the ones that determine the
+ 
+
+00:02:49.360 --> 00:02:51.070 align:start position:0%
+they are the ones that determine the
+outcome<00:02:49.760><c> of</c><00:02:49.960><c> the</c><00:02:50.040><c> market.</c><00:02:50.480><c> They</c><00:02:50.600><c> use</c><00:02:50.800><c> limit</c>
+
+00:02:51.070 --> 00:02:51.080 align:start position:0%
+outcome of the market. They use limit
+ 
+
+00:02:51.080 --> 00:02:52.470 align:start position:0%
+outcome of the market. They use limit
+orders.<00:02:51.400><c> They</c><00:02:51.480><c> wait</c><00:02:51.680><c> for</c><00:02:51.760><c> the</c><00:02:51.840><c> market</c><00:02:52.200><c> to</c><00:02:52.240><c> come</c>
+
+00:02:52.470 --> 00:02:52.480 align:start position:0%
+orders. They wait for the market to come
+ 
+
+00:02:52.480 --> 00:02:54.790 align:start position:0%
+orders. They wait for the market to come
+to<00:02:52.600><c> them.</c><00:02:53.040><c> They</c><00:02:53.160><c> absorb</c><00:02:53.720><c> and</c><00:02:53.880><c> defend</c><00:02:54.400><c> price</c>
+
+00:02:54.790 --> 00:02:54.800 align:start position:0%
+to them. They absorb and defend price
+ 
+
+00:02:54.800 --> 00:02:56.186 align:start position:0%
+to them. They absorb and defend price
+levels.
+
+00:02:56.186 --> 00:02:56.196 align:start position:0%
+levels.
+ 
+
+00:02:56.196 --> 00:02:57.430 align:start position:0%
+levels.
+&gt;&gt; [clears throat]
+
+00:02:57.430 --> 00:02:57.440 align:start position:0%
+&gt;&gt; [clears throat]
+ 
+
+00:02:57.440 --> 00:02:59.030 align:start position:0%
+&gt;&gt; [clears throat]
+&gt;&gt; Now,<00:02:58.000><c> what</c><00:02:58.160><c> does</c><00:02:58.280><c> that</c><00:02:58.440><c> mean?</c><00:02:58.680><c> Passive</c>
+
+00:02:59.030 --> 00:02:59.040 align:start position:0%
+&gt;&gt; Now, what does that mean? Passive
+ 
+
+00:02:59.040 --> 00:03:01.470 align:start position:0%
+&gt;&gt; Now, what does that mean? Passive
+traders<00:02:59.360><c> determine</c><00:02:59.840><c> market</c><00:03:00.160><c> outcomes.</c><00:03:00.560><c> Well,</c>
+
+00:03:01.470 --> 00:03:01.480 align:start position:0%
+traders determine market outcomes. Well,
+ 
+
+00:03:01.480 --> 00:03:03.030 align:start position:0%
+traders determine market outcomes. Well,
+when<00:03:01.600><c> aggressive</c><00:03:02.000><c> sellers</c><00:03:02.360><c> push</c><00:03:02.600><c> the</c><00:03:02.720><c> market</c>
+
+00:03:03.030 --> 00:03:03.040 align:start position:0%
+when aggressive sellers push the market
+ 
+
+00:03:03.040 --> 00:03:04.990 align:start position:0%
+when aggressive sellers push the market
+lower<00:03:03.800><c> and</c><00:03:03.960><c> hit</c><00:03:04.120><c> a</c><00:03:04.200><c> level</c><00:03:04.520><c> where</c><00:03:04.640><c> passive</c>
+
+00:03:04.990 --> 00:03:05.000 align:start position:0%
+lower and hit a level where passive
+ 
+
+00:03:05.000 --> 00:03:06.750 align:start position:0%
+lower and hit a level where passive
+buyers<00:03:05.320><c> are</c><00:03:05.400><c> absorbing</c><00:03:05.880><c> every</c><00:03:06.120><c> contract</c><00:03:06.600><c> with</c>
+
+00:03:06.750 --> 00:03:06.760 align:start position:0%
+buyers are absorbing every contract with
+ 
+
+00:03:06.760 --> 00:03:09.110 align:start position:0%
+buyers are absorbing every contract with
+increasing<00:03:07.280><c> size,</c><00:03:08.040><c> passive</c><00:03:08.440><c> traders</c><00:03:08.880><c> are</c>
+
+00:03:09.110 --> 00:03:09.120 align:start position:0%
+increasing size, passive traders are
+ 
+
+00:03:09.120 --> 00:03:11.350 align:start position:0%
+increasing size, passive traders are
+present.<00:03:09.880><c> That's</c><00:03:10.120><c> the</c><00:03:10.200><c> moment</c><00:03:10.560><c> that</c><00:03:10.760><c> moves</c>
+
+00:03:11.350 --> 00:03:11.360 align:start position:0%
+present. That's the moment that moves
+ 
+
+00:03:11.360 --> 00:03:12.390 align:start position:0%
+present. That's the moment that moves
+stall.
+
+00:03:12.390 --> 00:03:12.400 align:start position:0%
+stall.
+ 
+
+00:03:12.400 --> 00:03:14.990 align:start position:0%
+stall.
+That's<00:03:12.600><c> the</c><00:03:12.680><c> moment</c><00:03:13.480><c> the</c><00:03:13.720><c> reversals</c><00:03:14.240><c> begin.</c>
+
+00:03:14.990 --> 00:03:15.000 align:start position:0%
+That's the moment the reversals begin.
+ 
+
+00:03:15.000 --> 00:03:17.030 align:start position:0%
+That's the moment the reversals begin.
+That's<00:03:15.280><c> the</c><00:03:15.360><c> level</c><00:03:15.640><c> being</c><00:03:15.920><c> defended.</c><00:03:16.880><c> On</c>
+
+00:03:17.030 --> 00:03:17.040 align:start position:0%
+That's the level being defended. On
+ 
+
+00:03:17.040 --> 00:03:18.430 align:start position:0%
+That's the level being defended. On
+institutional<00:03:17.600><c> desk,</c><00:03:17.960><c> you</c><00:03:18.040><c> know,</c><00:03:18.120><c> we</c><00:03:18.240><c> watch</c>
+
+00:03:18.430 --> 00:03:18.440 align:start position:0%
+institutional desk, you know, we watch
+ 
+
+00:03:18.440 --> 00:03:19.950 align:start position:0%
+institutional desk, you know, we watch
+for<00:03:18.560><c> passive</c><00:03:18.920><c> absorption</c><00:03:19.400><c> at</c><00:03:19.520><c> every</c><00:03:19.800><c> key</c>
+
+00:03:19.950 --> 00:03:19.960 align:start position:0%
+for passive absorption at every key
+ 
+
+00:03:19.960 --> 00:03:21.110 align:start position:0%
+for passive absorption at every key
+level.<00:03:20.280><c> It</c><00:03:20.360><c> was</c><00:03:20.520><c> one</c><00:03:20.680><c> of</c><00:03:20.760><c> the</c><00:03:20.840><c> highest</c>
+
+00:03:21.110 --> 00:03:21.120 align:start position:0%
+level. It was one of the highest
+ 
+
+00:03:21.120 --> 00:03:23.630 align:start position:0%
+level. It was one of the highest
+conviction<00:03:21.640><c> signals</c><00:03:22.080><c> that</c><00:03:22.320><c> we</c><00:03:22.480><c> had.</c><00:03:23.400><c> So,</c><00:03:23.600><c> I</c>
+
+00:03:23.630 --> 00:03:23.640 align:start position:0%
+conviction signals that we had. So, I
+ 
+
+00:03:23.640 --> 00:03:25.150 align:start position:0%
+conviction signals that we had. So, I
+want<00:03:23.760><c> to</c><00:03:23.800><c> introduce</c><00:03:24.320><c> you</c><00:03:24.480><c> to</c><00:03:24.640><c> the</c><00:03:24.760><c> Orderflows</c>
+
+00:03:25.150 --> 00:03:25.160 align:start position:0%
+want to introduce you to the Orderflows
+ 
+
+00:03:25.160 --> 00:03:26.670 align:start position:0%
+want to introduce you to the Orderflows
+Pressure<00:03:25.560><c> Indicator,</c><00:03:26.120><c> which</c><00:03:26.320><c> runs</c><00:03:26.560><c> on</c>
+
+00:03:26.670 --> 00:03:26.680 align:start position:0%
+Pressure Indicator, which runs on
+ 
+
+00:03:26.680 --> 00:03:28.350 align:start position:0%
+Pressure Indicator, which runs on
+NinjaTrader<00:03:27.400><c> 8.</c>
+
+00:03:28.350 --> 00:03:28.360 align:start position:0%
+NinjaTrader 8.
+ 
+
+00:03:28.360 --> 00:03:30.190 align:start position:0%
+NinjaTrader 8.
+It's<00:03:28.560><c> a</c><00:03:28.600><c> real-time</c><00:03:29.040><c> indicator</c><00:03:29.520><c> that</c><00:03:29.720><c> detects</c>
+
+00:03:30.190 --> 00:03:30.200 align:start position:0%
+It's a real-time indicator that detects
+ 
+
+00:03:30.200 --> 00:03:32.390 align:start position:0%
+It's a real-time indicator that detects
+passive<00:03:30.600><c> buying</c><00:03:30.920><c> and</c><00:03:31.040><c> selling</c><00:03:31.360><c> pressure</c><00:03:32.240><c> on</c>
+
+00:03:32.390 --> 00:03:32.400 align:start position:0%
+passive buying and selling pressure on
+ 
+
+00:03:32.400 --> 00:03:33.790 align:start position:0%
+passive buying and selling pressure on
+the<00:03:32.480><c> volume</c><00:03:32.840><c> footprint</c><00:03:33.240><c> chart,</c><00:03:33.480><c> showing</c><00:03:33.720><c> you</c>
+
+00:03:33.790 --> 00:03:33.800 align:start position:0%
+the volume footprint chart, showing you
+ 
+
+00:03:33.800 --> 00:03:35.710 align:start position:0%
+the volume footprint chart, showing you
+exactly<00:03:34.320><c> when</c><00:03:34.640><c> and</c><00:03:34.840><c> where</c><00:03:35.040><c> passive</c><00:03:35.400><c> traders</c>
+
+00:03:35.710 --> 00:03:35.720 align:start position:0%
+exactly when and where passive traders
+ 
+
+00:03:35.720 --> 00:03:38.230 align:start position:0%
+exactly when and where passive traders
+are<00:03:35.840><c> stepping</c><00:03:36.200><c> in</c><00:03:36.640><c> to</c><00:03:36.760><c> defend</c><00:03:37.120><c> a</c><00:03:37.160><c> level.</c><00:03:38.080><c> It's</c>
+
+00:03:38.230 --> 00:03:38.240 align:start position:0%
+are stepping in to defend a level. It's
+ 
+
+00:03:38.240 --> 00:03:39.550 align:start position:0%
+are stepping in to defend a level. It's
+going<00:03:38.360><c> to</c><00:03:38.400><c> be</c><00:03:38.440><c> able</c><00:03:38.560><c> to</c><00:03:38.680><c> detect</c><00:03:39.200><c> passive</c>
+
+00:03:39.550 --> 00:03:39.560 align:start position:0%
+going to be able to detect passive
+ 
+
+00:03:39.560 --> 00:03:40.750 align:start position:0%
+going to be able to detect passive
+absorption<00:03:39.960><c> in</c><00:03:40.080><c> real</c><00:03:40.240><c> time</c><00:03:40.520><c> from</c><00:03:40.640><c> the</c>
+
+00:03:40.750 --> 00:03:40.760 align:start position:0%
+absorption in real time from the
+ 
+
+00:03:40.760 --> 00:03:41.910 align:start position:0%
+absorption in real time from the
+footprint.<00:03:41.200><c> It's</c><00:03:41.280><c> going</c><00:03:41.400><c> to</c><00:03:41.480><c> identify</c>
+
+00:03:41.910 --> 00:03:41.920 align:start position:0%
+footprint. It's going to identify
+ 
+
+00:03:41.920 --> 00:03:43.430 align:start position:0%
+footprint. It's going to identify
+defended<00:03:42.360><c> levels</c><00:03:42.680><c> at</c><00:03:42.800><c> turning</c><00:03:43.080><c> points</c><00:03:43.360><c> and</c>
+
+00:03:43.430 --> 00:03:43.440 align:start position:0%
+defended levels at turning points and
+ 
+
+00:03:43.440 --> 00:03:45.950 align:start position:0%
+defended levels at turning points and
+within<00:03:43.760><c> moves.</c><00:03:44.360><c> And,</c><00:03:44.720><c> it's</c><00:03:44.880><c> built</c><00:03:45.360><c> from</c><00:03:45.760><c> 20</c>
+
+00:03:45.950 --> 00:03:45.960 align:start position:0%
+within moves. And, it's built from 20
+ 
+
+00:03:45.960 --> 00:03:47.670 align:start position:0%
+within moves. And, it's built from 20
+years<00:03:46.240><c> of</c><00:03:46.360><c> institutional</c><00:03:47.040><c> order</c><00:03:47.320><c> flow</c>
+
+00:03:47.670 --> 00:03:47.680 align:start position:0%
+years of institutional order flow
+ 
+
+00:03:47.680 --> 00:03:50.230 align:start position:0%
+years of institutional order flow
+experience.
+
+00:03:50.230 --> 00:03:50.240 align:start position:0%
+experience.
+ 
+
+00:03:50.240 --> 00:03:51.830 align:start position:0%
+experience.
+So,<00:03:50.440><c> how</c><00:03:50.600><c> it</c><00:03:50.720><c> works?</c><00:03:51.040><c> Well,</c><00:03:51.240><c> you</c><00:03:51.320><c> got</c><00:03:51.480><c> buying</c>
+
+00:03:51.830 --> 00:03:51.840 align:start position:0%
+So, how it works? Well, you got buying
+ 
+
+00:03:51.840 --> 00:03:53.390 align:start position:0%
+So, how it works? Well, you got buying
+pressure,<00:03:52.320><c> right?</c><00:03:52.560><c> It's</c><00:03:52.720><c> passive</c><00:03:53.080><c> buyers</c><00:03:53.320><c> are</c>
+
+00:03:53.390 --> 00:03:53.400 align:start position:0%
+pressure, right? It's passive buyers are
+ 
+
+00:03:53.400 --> 00:03:55.110 align:start position:0%
+pressure, right? It's passive buyers are
+being<00:03:53.640><c> detected</c><00:03:54.160><c> when</c><00:03:54.280><c> the</c><00:03:54.360><c> market</c><00:03:54.720><c> trades</c>
+
+00:03:55.110 --> 00:03:55.120 align:start position:0%
+being detected when the market trades
+ 
+
+00:03:55.120 --> 00:03:56.670 align:start position:0%
+being detected when the market trades
+lower<00:03:55.440><c> towards</c><00:03:55.720><c> the</c><00:03:55.800><c> low</c><00:03:56.040><c> and</c><00:03:56.120><c> the</c><00:03:56.200><c> volume</c><00:03:56.560><c> on</c>
+
+00:03:56.670 --> 00:03:56.680 align:start position:0%
+lower towards the low and the volume on
+ 
+
+00:03:56.680 --> 00:03:59.150 align:start position:0%
+lower towards the low and the volume on
+the<00:03:56.760><c> bid</c><00:03:57.640><c> side</c><00:03:58.000><c> shows</c><00:03:58.280><c> subsequent</c><00:03:58.680><c> increases</c>
+
+00:03:59.150 --> 00:03:59.160 align:start position:0%
+the bid side shows subsequent increases
+ 
+
+00:03:59.160 --> 00:04:00.590 align:start position:0%
+the bid side shows subsequent increases
+at<00:03:59.320><c> lower</c><00:03:59.560><c> price</c><00:03:59.800><c> levels,</c><00:04:00.080><c> that</c><00:04:00.240><c> is</c><00:04:00.400><c> buy</c>
+
+00:04:00.590 --> 00:04:00.600 align:start position:0%
+at lower price levels, that is buy
+ 
+
+00:04:00.600 --> 00:04:01.950 align:start position:0%
+at lower price levels, that is buy
+pressure.<00:04:01.240><c> So,</c><00:04:01.440><c> you</c><00:04:01.560><c> know,</c><00:04:01.680><c> you</c><00:04:01.720><c> have</c><00:04:01.920><c> a</c>
+
+00:04:01.950 --> 00:04:01.960 align:start position:0%
+pressure. So, you know, you have a
+ 
+
+00:04:01.960 --> 00:04:03.510 align:start position:0%
+pressure. So, you know, you have a
+combination<00:04:02.600><c> of</c><00:04:02.760><c> aggressive</c><00:04:03.160><c> sellers</c>
+
+00:04:03.510 --> 00:04:03.520 align:start position:0%
+combination of aggressive sellers
+ 
+
+00:04:03.520 --> 00:04:05.750 align:start position:0%
+combination of aggressive sellers
+pushing<00:04:03.840><c> price</c><00:04:04.080><c> lower</c><00:04:04.720><c> and</c><00:04:05.160><c> passive</c><00:04:05.480><c> buyers</c>
+
+00:04:05.750 --> 00:04:05.760 align:start position:0%
+pushing price lower and passive buyers
+ 
+
+00:04:05.760 --> 00:04:07.190 align:start position:0%
+pushing price lower and passive buyers
+stepping<00:04:06.080><c> in</c><00:04:06.200><c> with</c><00:04:06.320><c> increasing</c><00:04:06.800><c> volume</c><00:04:07.080><c> on</c>
+
+00:04:07.190 --> 00:04:07.200 align:start position:0%
+stepping in with increasing volume on
+ 
+
+00:04:07.200 --> 00:04:09.310 align:start position:0%
+stepping in with increasing volume on
+the<00:04:07.280><c> bid.</c><00:04:08.000><c> Each</c><00:04:08.240><c> lower</c><00:04:08.480><c> level</c><00:04:08.800><c> sees</c><00:04:09.080><c> more</c>
+
+00:04:09.310 --> 00:04:09.320 align:start position:0%
+the bid. Each lower level sees more
+ 
+
+00:04:09.320 --> 00:04:10.550 align:start position:0%
+the bid. Each lower level sees more
+volume<00:04:09.680><c> than</c><00:04:09.840><c> the</c><00:04:09.920><c> last.</c><00:04:10.320><c> You</c><00:04:10.360><c> know,</c><00:04:10.440><c> the</c>
+
+00:04:10.550 --> 00:04:10.560 align:start position:0%
+volume than the last. You know, the
+ 
+
+00:04:10.560 --> 00:04:11.990 align:start position:0%
+volume than the last. You know, the
+sellers<00:04:10.920><c> are</c><00:04:10.960><c> going</c><00:04:11.120><c> to</c><00:04:11.240><c> end</c><00:04:11.400><c> up</c><00:04:11.520><c> exhausting</c>
+
+00:04:11.990 --> 00:04:12.000 align:start position:0%
+sellers are going to end up exhausting
+ 
+
+00:04:12.000 --> 00:04:14.510 align:start position:0%
+sellers are going to end up exhausting
+themselves<00:04:13.120><c> against</c><00:04:13.520><c> that</c><00:04:13.720><c> wall</c><00:04:14.000><c> of</c><00:04:14.080><c> passive</c>
+
+00:04:14.510 --> 00:04:14.520 align:start position:0%
+themselves against that wall of passive
+ 
+
+00:04:14.520 --> 00:04:15.990 align:start position:0%
+themselves against that wall of passive
+buying,<00:04:15.160><c> and</c><00:04:15.360><c> the</c><00:04:15.400><c> market</c><00:04:15.680><c> will</c><00:04:15.760><c> often</c>
+
+00:04:15.990 --> 00:04:16.000 align:start position:0%
+buying, and the market will often
+ 
+
+00:04:16.000 --> 00:04:18.630 align:start position:0%
+buying, and the market will often
+stabilize<00:04:16.600><c> and</c><00:04:16.799><c> rally</c><00:04:17.160><c> off</c><00:04:17.400><c> the</c><00:04:17.519><c> defending</c>
+
+00:04:18.630 --> 00:04:18.640 align:start position:0%
+stabilize and rally off the defending
+ 
+
+00:04:18.640 --> 00:04:20.390 align:start position:0%
+stabilize and rally off the defending
+level.
+
+00:04:20.390 --> 00:04:20.400 align:start position:0%
+level.
+ 
+
+00:04:20.400 --> 00:04:22.910 align:start position:0%
+level.
+Sell<00:04:20.640><c> pressure</c><00:04:21.200><c> is</c><00:04:22.120><c> the</c><00:04:22.280><c> opposite</c><00:04:22.680><c> of</c><00:04:22.760><c> buy</c>
+
+00:04:22.910 --> 00:04:22.920 align:start position:0%
+Sell pressure is the opposite of buy
+ 
+
+00:04:22.920 --> 00:04:25.070 align:start position:0%
+Sell pressure is the opposite of buy
+pressure,<00:04:23.600><c> right?</c><00:04:23.920><c> And,</c><00:04:24.080><c> when</c><00:04:24.240><c> sell</c><00:04:24.720><c> passive</c>
+
+00:04:25.070 --> 00:04:25.080 align:start position:0%
+pressure, right? And, when sell passive
+ 
+
+00:04:25.080 --> 00:04:27.750 align:start position:0%
+pressure, right? And, when sell passive
+sellers<00:04:25.360><c> are</c><00:04:25.440><c> detected,</c><00:04:26.600><c> then</c><00:04:26.800><c> you</c><00:04:26.880><c> have</c><00:04:27.360><c> a</c>
+
+00:04:27.750 --> 00:04:27.760 align:start position:0%
+sellers are detected, then you have a
+ 
+
+00:04:27.760 --> 00:04:30.310 align:start position:0%
+sellers are detected, then you have a
+pressure<00:04:28.320><c> signal.</c><00:04:29.320><c> So,</c><00:04:29.800><c> when</c><00:04:30.000><c> the</c><00:04:30.080><c> market</c>
+
+00:04:30.310 --> 00:04:30.320 align:start position:0%
+pressure signal. So, when the market
+ 
+
+00:04:30.320 --> 00:04:32.830 align:start position:0%
+pressure signal. So, when the market
+trades<00:04:30.600><c> high</c><00:04:30.840><c> towards</c><00:04:31.520><c> a</c><00:04:31.640><c> high</c>
+
+00:04:32.830 --> 00:04:32.840 align:start position:0%
+trades high towards a high
+ 
+
+00:04:32.840 --> 00:04:34.510 align:start position:0%
+trades high towards a high
+and<00:04:33.000><c> the</c><00:04:33.080><c> volume</c><00:04:33.480><c> on</c><00:04:33.600><c> the</c><00:04:33.680><c> offer</c><00:04:33.920><c> side</c><00:04:34.200><c> shows</c>
+
+00:04:34.510 --> 00:04:34.520 align:start position:0%
+and the volume on the offer side shows
+ 
+
+00:04:34.520 --> 00:04:36.350 align:start position:0%
+and the volume on the offer side shows
+subsequent<00:04:35.080><c> increases</c><00:04:35.560><c> at</c><00:04:35.720><c> higher</c><00:04:36.040><c> price</c>
+
+00:04:36.350 --> 00:04:36.360 align:start position:0%
+subsequent increases at higher price
+ 
+
+00:04:36.360 --> 00:04:38.470 align:start position:0%
+subsequent increases at higher price
+levels,<00:04:37.000><c> that</c><00:04:37.160><c> is</c><00:04:37.320><c> sell</c><00:04:37.560><c> pressure.</c><00:04:38.360><c> So,</c>
+
+00:04:38.470 --> 00:04:38.480 align:start position:0%
+levels, that is sell pressure. So,
+ 
+
+00:04:38.480 --> 00:04:40.430 align:start position:0%
+levels, that is sell pressure. So,
+what's<00:04:38.640><c> taking</c><00:04:38.920><c> place</c><00:04:39.280><c> is</c><00:04:39.680><c> aggressive</c><00:04:40.080><c> buyers</c>
+
+00:04:40.430 --> 00:04:40.440 align:start position:0%
+what's taking place is aggressive buyers
+ 
+
+00:04:40.440 --> 00:04:42.350 align:start position:0%
+what's taking place is aggressive buyers
+push<00:04:40.680><c> the</c><00:04:40.760><c> price</c><00:04:41.040><c> higher.</c><00:04:41.720><c> Passive</c><00:04:42.040><c> sellers</c>
+
+00:04:42.350 --> 00:04:42.360 align:start position:0%
+push the price higher. Passive sellers
+ 
+
+00:04:42.360 --> 00:04:43.950 align:start position:0%
+push the price higher. Passive sellers
+step<00:04:42.640><c> in</c><00:04:42.760><c> with</c><00:04:42.880><c> increasing</c><00:04:43.360><c> volume</c><00:04:43.720><c> on</c><00:04:43.840><c> the</c>
+
+00:04:43.950 --> 00:04:43.960 align:start position:0%
+step in with increasing volume on the
+ 
+
+00:04:43.960 --> 00:04:45.230 align:start position:0%
+step in with increasing volume on the
+offer.
+
+00:04:45.230 --> 00:04:45.240 align:start position:0%
+offer.
+ 
+
+00:04:45.240 --> 00:04:47.230 align:start position:0%
+offer.
+Each<00:04:45.600><c> higher</c><00:04:45.880><c> level</c><00:04:46.200><c> sees</c><00:04:46.480><c> more</c><00:04:46.720><c> volume</c><00:04:47.120><c> than</c>
+
+00:04:47.230 --> 00:04:47.240 align:start position:0%
+Each higher level sees more volume than
+ 
+
+00:04:47.240 --> 00:04:49.750 align:start position:0%
+Each higher level sees more volume than
+the<00:04:47.320><c> last.</c><00:04:47.920><c> Buyers</c><00:04:48.280><c> exhaust</c><00:04:48.640><c> themselves</c>
+
+00:04:49.750 --> 00:04:49.760 align:start position:0%
+the last. Buyers exhaust themselves
+ 
+
+00:04:49.760 --> 00:04:51.230 align:start position:0%
+the last. Buyers exhaust themselves
+against<00:04:50.040><c> the</c><00:04:50.120><c> wall</c><00:04:50.400><c> of</c><00:04:50.480><c> passive</c><00:04:50.800><c> selling,</c><00:04:51.120><c> and</c>
+
+00:04:51.230 --> 00:04:51.240 align:start position:0%
+against the wall of passive selling, and
+ 
+
+00:04:51.240 --> 00:04:53.190 align:start position:0%
+against the wall of passive selling, and
+the<00:04:51.320><c> market</c><00:04:51.720><c> will</c><00:04:51.800><c> often</c><00:04:52.040><c> stall</c><00:04:52.480><c> and</c><00:04:52.640><c> reverses</c>
+
+00:04:53.190 --> 00:04:53.200 align:start position:0%
+the market will often stall and reverses
+ 
+
+00:04:53.200 --> 00:04:55.070 align:start position:0%
+the market will often stall and reverses
+off<00:04:53.440><c> the</c>
+
+00:04:55.070 --> 00:04:55.080 align:start position:0%
+off the
+ 
+
+00:04:55.080 --> 00:04:57.710 align:start position:0%
+off the
+the<00:04:55.400><c> defended</c><00:04:56.040><c> level.</c><00:04:56.760><c> Okay?</c><00:04:57.200><c> And,</c><00:04:57.560><c> you</c><00:04:57.600><c> know,</c>
+
+00:04:57.710 --> 00:04:57.720 align:start position:0%
+the defended level. Okay? And, you know,
+ 
+
+00:04:57.720 --> 00:04:58.910 align:start position:0%
+the defended level. Okay? And, you know,
+you<00:04:57.800><c> could</c><00:04:57.920><c> just</c><00:04:58.120><c> see</c><00:04:58.240><c> this</c><00:04:58.440><c> little</c><00:04:58.640><c> picture</c>
+
+00:04:58.910 --> 00:04:58.920 align:start position:0%
+you could just see this little picture
+ 
+
+00:04:58.920 --> 00:05:00.550 align:start position:0%
+you could just see this little picture
+here<00:04:59.080><c> on</c><00:04:59.200><c> the</c><00:04:59.280><c> side.</c><00:04:59.920><c> You</c><00:05:00.000><c> know,</c><00:05:00.080><c> as</c><00:05:00.200><c> price</c><00:05:00.440><c> is</c>
+
+00:05:00.550 --> 00:05:00.560 align:start position:0%
+here on the side. You know, as price is
+ 
+
+00:05:00.560 --> 00:05:02.590 align:start position:0%
+here on the side. You know, as price is
+going<00:05:00.800><c> up,</c><00:05:00.960><c> it's</c><00:05:01.120><c> running</c><00:05:01.520><c> into</c><00:05:02.040><c> more</c><00:05:02.400><c> and</c>
+
+00:05:02.590 --> 00:05:02.600 align:start position:0%
+going up, it's running into more and
+ 
+
+00:05:02.600 --> 00:05:04.470 align:start position:0%
+going up, it's running into more and
+more<00:05:02.960><c> volume.</c>
+
+00:05:04.470 --> 00:05:04.480 align:start position:0%
+more volume.
+ 
+
+00:05:04.480 --> 00:05:06.390 align:start position:0%
+more volume.
+Now,<00:05:04.960><c> that</c><00:05:05.120><c> doesn't</c><00:05:05.400><c> happen</c><00:05:05.680><c> in</c><00:05:05.840><c> every</c><00:05:06.080><c> single</c>
+
+00:05:06.390 --> 00:05:06.400 align:start position:0%
+Now, that doesn't happen in every single
+ 
+
+00:05:06.400 --> 00:05:08.190 align:start position:0%
+Now, that doesn't happen in every single
+bar,<00:05:06.680><c> but</c><00:05:06.880><c> when</c><00:05:07.000><c> it</c><00:05:07.120><c> does</c><00:05:07.360><c> happen,</c><00:05:08.000><c> you</c><00:05:08.080><c> know,</c>
+
+00:05:08.190 --> 00:05:08.200 align:start position:0%
+bar, but when it does happen, you know,
+ 
+
+00:05:08.200 --> 00:05:09.790 align:start position:0%
+bar, but when it does happen, you know,
+you<00:05:08.320><c> got</c><00:05:08.480><c> to</c><00:05:08.520><c> start</c><00:05:08.800><c> paying</c><00:05:09.080><c> attention</c><00:05:09.520><c> to</c><00:05:09.680><c> it.</c>
+
+00:05:09.790 --> 00:05:09.800 align:start position:0%
+you got to start paying attention to it.
+ 
+
+00:05:09.800 --> 00:05:12.070 align:start position:0%
+you got to start paying attention to it.
+Now,<00:05:09.960><c> it's</c><00:05:10.080><c> just</c><00:05:10.840><c> not</c><00:05:11.160><c> based</c><00:05:11.520><c> off</c><00:05:11.840><c> of</c>
+
+00:05:12.070 --> 00:05:12.080 align:start position:0%
+Now, it's just not based off of
+ 
+
+00:05:12.080 --> 00:05:13.630 align:start position:0%
+Now, it's just not based off of
+increasing<00:05:12.640><c> volume.</c><00:05:13.000><c> There's</c><00:05:13.200><c> other</c><00:05:13.400><c> things</c>
+
+00:05:13.630 --> 00:05:13.640 align:start position:0%
+increasing volume. There's other things
+ 
+
+00:05:13.640 --> 00:05:16.590 align:start position:0%
+increasing volume. There's other things
+that<00:05:13.840><c> are</c><00:05:14.000><c> added</c><00:05:14.360><c> to</c><00:05:14.560><c> it</c><00:05:15.240><c> in</c><00:05:15.440><c> the</c><00:05:15.560><c> algo.</c><00:05:16.040><c> So,</c>
+
+00:05:16.590 --> 00:05:16.600 align:start position:0%
+that are added to it in the algo. So,
+ 
+
+00:05:16.600 --> 00:05:17.910 align:start position:0%
+that are added to it in the algo. So,
+let's<00:05:16.760><c> go</c><00:05:16.880><c> over</c><00:05:17.040><c> a</c><00:05:17.080><c> couple</c><00:05:17.360><c> examples.</c><00:05:17.800><c> So,</c>
+
+00:05:17.910 --> 00:05:17.920 align:start position:0%
+let's go over a couple examples. So,
+ 
+
+00:05:17.920 --> 00:05:21.030 align:start position:0%
+let's go over a couple examples. So,
+here's<00:05:18.280><c> buying</c><00:05:18.640><c> pressure</c><00:05:19.360><c> at</c><00:05:19.560><c> a</c><00:05:19.640><c> swing</c><00:05:19.960><c> low.</c>
+
+00:05:21.030 --> 00:05:21.040 align:start position:0%
+here's buying pressure at a swing low.
+ 
+
+00:05:21.040 --> 00:05:22.910 align:start position:0%
+here's buying pressure at a swing low.
+Right,<00:05:21.240><c> you</c><00:05:21.320><c> can</c><00:05:21.400><c> see</c><00:05:21.560><c> down</c><00:05:21.840><c> here</c><00:05:22.680><c> at</c><00:05:22.840><c> the</c>
+
+00:05:22.910 --> 00:05:22.920 align:start position:0%
+Right, you can see down here at the
+ 
+
+00:05:22.920 --> 00:05:24.510 align:start position:0%
+Right, you can see down here at the
+swing<00:05:23.200><c> low,</c><00:05:23.360><c> we</c><00:05:23.480><c> got</c><00:05:23.680><c> this</c><00:05:23.840><c> bullish</c><00:05:24.160><c> signal</c>
+
+00:05:24.510 --> 00:05:24.520 align:start position:0%
+swing low, we got this bullish signal
+ 
+
+00:05:24.520 --> 00:05:27.310 align:start position:0%
+swing low, we got this bullish signal
+and<00:05:24.640><c> the</c><00:05:24.720><c> market,</c><00:05:25.520><c> you</c><00:05:25.600><c> know,</c><00:05:25.680><c> had</c><00:05:25.840><c> a</c><00:05:25.880><c> nice</c><00:05:26.840><c> run</c>
+
+00:05:27.310 --> 00:05:27.320 align:start position:0%
+and the market, you know, had a nice run
+ 
+
+00:05:27.320 --> 00:05:30.030 align:start position:0%
+and the market, you know, had a nice run
+up<00:05:27.520><c> over</c><00:05:27.760><c> the</c><00:05:27.880><c> next</c><00:05:28.680><c> 10</c><00:05:28.920><c> minutes.</c><00:05:29.200><c> This</c><00:05:29.360><c> is</c><00:05:29.520><c> a</c>
+
+00:05:30.030 --> 00:05:30.040 align:start position:0%
+up over the next 10 minutes. This is a
+ 
+
+00:05:30.040 --> 00:05:34.030 align:start position:0%
+up over the next 10 minutes. This is a
+30<00:05:30.520><c> 60-second</c><00:05:31.280><c> 1-minute</c><00:05:31.760><c> chart</c><00:05:32.240><c> in</c><00:05:32.600><c> E</c><00:05:33.480><c> MES,</c>
+
+00:05:34.030 --> 00:05:34.040 align:start position:0%
+30 60-second 1-minute chart in E MES,
+ 
+
+00:05:34.040 --> 00:05:35.070 align:start position:0%
+30 60-second 1-minute chart in E MES,
+actually.
+
+00:05:35.070 --> 00:05:35.080 align:start position:0%
+actually.
+ 
+
+00:05:35.080 --> 00:05:37.670 align:start position:0%
+actually.
+Um<00:05:35.680><c> here</c><00:05:35.840><c> we</c><00:05:36.000><c> have</c><00:05:36.560><c> selling</c><00:05:36.920><c> pressure</c><00:05:37.440><c> at</c>
+
+00:05:37.670 --> 00:05:37.680 align:start position:0%
+Um here we have selling pressure at
+ 
+
+00:05:37.680 --> 00:05:39.350 align:start position:0%
+Um here we have selling pressure at
+resistance,<00:05:38.200><c> right?</c><00:05:38.720><c> We</c><00:05:38.840><c> have</c><00:05:38.960><c> the</c><00:05:39.080><c> high</c><00:05:39.280><c> of</c>
+
+00:05:39.350 --> 00:05:39.360 align:start position:0%
+resistance, right? We have the high of
+ 
+
+00:05:39.360 --> 00:05:40.670 align:start position:0%
+resistance, right? We have the high of
+the<00:05:39.440><c> day.</c><00:05:39.680><c> The</c><00:05:39.760><c> market</c><00:05:40.040><c> is</c><00:05:40.120><c> sort</c><00:05:40.280><c> of</c><00:05:40.360><c> butting</c>
+
+00:05:40.670 --> 00:05:40.680 align:start position:0%
+the day. The market is sort of butting
+ 
+
+00:05:40.680 --> 00:05:42.270 align:start position:0%
+the day. The market is sort of butting
+up<00:05:40.800><c> against</c><00:05:41.160><c> it,</c><00:05:41.560><c> and</c><00:05:41.640><c> we</c><00:05:41.720><c> have</c><00:05:41.840><c> selling</c>
+
+00:05:42.270 --> 00:05:42.280 align:start position:0%
+up against it, and we have selling
+ 
+
+00:05:42.280 --> 00:05:44.230 align:start position:0%
+up against it, and we have selling
+pressure<00:05:42.640><c> coming</c><00:05:42.960><c> in</c><00:05:43.400><c> just</c><00:05:43.720><c> right</c><00:05:43.920><c> off</c><00:05:44.120><c> the</c>
+
+00:05:44.230 --> 00:05:44.240 align:start position:0%
+pressure coming in just right off the
+ 
+
+00:05:44.240 --> 00:05:45.950 align:start position:0%
+pressure coming in just right off the
+high<00:05:44.440><c> of</c><00:05:44.520><c> the</c><00:05:44.600><c> day</c><00:05:44.800><c> before</c><00:05:45.120><c> the</c><00:05:45.240><c> market</c><00:05:45.640><c> sells</c>
+
+00:05:45.950 --> 00:05:45.960 align:start position:0%
+high of the day before the market sells
+ 
+
+00:05:45.960 --> 00:05:49.590 align:start position:0%
+high of the day before the market sells
+off<00:05:46.800><c> 20</c><00:05:47.160><c> points.</c>
+
+00:05:49.590 --> 00:05:49.600 align:start position:0%
+off 20 points.
+ 
+
+00:05:49.600 --> 00:05:51.470 align:start position:0%
+off 20 points.
+Now,
+
+00:05:51.470 --> 00:05:51.480 align:start position:0%
+Now,
+ 
+
+00:05:51.480 --> 00:05:53.190 align:start position:0%
+Now,
+we<00:05:51.640><c> talk</c><00:05:51.880><c> about</c><00:05:52.360><c> buying</c><00:05:52.760><c> pressure</c><00:05:53.080><c> and</c>
+
+00:05:53.190 --> 00:05:53.200 align:start position:0%
+we talk about buying pressure and
+ 
+
+00:05:53.200 --> 00:05:55.510 align:start position:0%
+we talk about buying pressure and
+selling<00:05:53.520><c> pressure</c><00:05:54.080><c> at</c><00:05:54.360><c> reversal</c><00:05:54.840><c> points.</c><00:05:55.480><c> You</c>
+
+00:05:55.510 --> 00:05:55.520 align:start position:0%
+selling pressure at reversal points. You
+ 
+
+00:05:55.520 --> 00:05:56.910 align:start position:0%
+selling pressure at reversal points. You
+know,<00:05:55.640><c> that's</c><00:05:55.880><c> great,</c><00:05:56.240><c> but</c><00:05:56.440><c> you</c><00:05:56.560><c> could</c><00:05:56.680><c> also</c>
+
+00:05:56.910 --> 00:05:56.920 align:start position:0%
+know, that's great, but you could also
+ 
+
+00:05:56.920 --> 00:05:59.590 align:start position:0%
+know, that's great, but you could also
+have<00:05:57.160><c> it</c><00:05:57.320><c> within</c><00:05:57.960><c> moves.</c><00:05:59.000><c> And,</c><00:05:59.360><c> you</c><00:05:59.440><c> know,</c><00:05:59.520><c> I</c>
+
+00:05:59.590 --> 00:05:59.600 align:start position:0%
+have it within moves. And, you know, I
+ 
+
+00:05:59.600 --> 00:06:00.630 align:start position:0%
+have it within moves. And, you know, I
+often
+
+00:06:00.630 --> 00:06:00.640 align:start position:0%
+often
+ 
+
+00:06:00.640 --> 00:06:02.030 align:start position:0%
+often
+tell<00:06:00.920><c> traders,</c><00:06:01.280><c> you</c><00:06:01.360><c> know,</c><00:06:01.440><c> you</c><00:06:01.520><c> should</c><00:06:01.680><c> keep</c>
+
+00:06:02.030 --> 00:06:02.040 align:start position:0%
+tell traders, you know, you should keep
+ 
+
+00:06:02.040 --> 00:06:04.310 align:start position:0%
+tell traders, you know, you should keep
+two<00:06:02.200><c> types</c><00:06:02.480><c> of</c><00:06:02.560><c> charts</c><00:06:02.920><c> open.</c><00:06:03.560><c> One</c><00:06:03.840><c> chart</c><00:06:04.120><c> for</c>
+
+00:06:04.310 --> 00:06:04.320 align:start position:0%
+two types of charts open. One chart for
+ 
+
+00:06:04.320 --> 00:06:07.270 align:start position:0%
+two types of charts open. One chart for
+reversals,<00:06:05.200><c> one</c><00:06:05.440><c> chart</c><00:06:06.160><c> for</c><00:06:06.640><c> momentum.</c><00:06:07.240><c> You</c>
+
+00:06:07.270 --> 00:06:07.280 align:start position:0%
+reversals, one chart for momentum. You
+ 
+
+00:06:07.280 --> 00:06:08.750 align:start position:0%
+reversals, one chart for momentum. You
+know,<00:06:07.400><c> so</c><00:06:07.560><c> when</c><00:06:07.720><c> the</c><00:06:07.800><c> market</c><00:06:08.160><c> is</c><00:06:08.280><c> moving</c><00:06:08.600><c> and</c>
+
+00:06:08.750 --> 00:06:08.760 align:start position:0%
+know, so when the market is moving and
+ 
+
+00:06:08.760 --> 00:06:10.070 align:start position:0%
+know, so when the market is moving and
+you're<00:06:09.000><c> involved,</c><00:06:09.680><c> you</c><00:06:09.720><c> know,</c><00:06:09.800><c> you</c><00:06:09.920><c> want</c><00:06:10.040><c> to</c>
+
+00:06:10.070 --> 00:06:10.080 align:start position:0%
+you're involved, you know, you want to
+ 
+
+00:06:10.080 --> 00:06:11.630 align:start position:0%
+you're involved, you know, you want to
+be<00:06:10.200><c> participating</c><00:06:10.960><c> in</c><00:06:11.080><c> that</c><00:06:11.280><c> move.</c><00:06:11.480><c> And,</c><00:06:11.560><c> you</c>
+
+00:06:11.630 --> 00:06:11.640 align:start position:0%
+be participating in that move. And, you
+ 
+
+00:06:11.640 --> 00:06:13.550 align:start position:0%
+be participating in that move. And, you
+can<00:06:11.760><c> see</c><00:06:12.320><c> here</c><00:06:12.600><c> these</c>
+
+00:06:13.550 --> 00:06:13.560 align:start position:0%
+can see here these
+ 
+
+00:06:13.560 --> 00:06:16.710 align:start position:0%
+can see here these
+magenta<00:06:14.840><c> down</c><00:06:15.160><c> arrows</c><00:06:15.680><c> are</c><00:06:15.960><c> bearish</c><00:06:16.280><c> signals</c>
+
+00:06:16.710 --> 00:06:16.720 align:start position:0%
+magenta down arrows are bearish signals
+ 
+
+00:06:16.720 --> 00:06:19.910 align:start position:0%
+magenta down arrows are bearish signals
+on<00:06:16.840><c> the</c><00:06:16.960><c> down</c><00:06:17.240><c> move,</c><00:06:17.560><c> and</c><00:06:18.200><c> these</c><00:06:18.880><c> blue</c><00:06:19.720><c> up</c>
+
+00:06:19.910 --> 00:06:19.920 align:start position:0%
+on the down move, and these blue up
+ 
+
+00:06:19.920 --> 00:06:21.750 align:start position:0%
+on the down move, and these blue up
+triangles
+
+00:06:21.750 --> 00:06:21.760 align:start position:0%
+triangles
+ 
+
+00:06:21.760 --> 00:06:22.870 align:start position:0%
+triangles
+are
+
+00:06:22.870 --> 00:06:22.880 align:start position:0%
+are
+ 
+
+00:06:22.880 --> 00:06:27.710 align:start position:0%
+are
+bullish<00:06:23.480><c> momentum</c><00:06:23.960><c> on</c><00:06:24.160><c> the</c><00:06:24.360><c> up</c><00:06:24.600><c> moves.</c><00:06:25.560><c> Okay?</c>
+
+00:06:27.710 --> 00:06:27.720 align:start position:0%
+bullish momentum on the up moves. Okay?
+ 
+
+00:06:27.720 --> 00:06:29.390 align:start position:0%
+bullish momentum on the up moves. Okay?
+Now,<00:06:27.880><c> we</c><00:06:27.960><c> have</c><00:06:28.120><c> some</c><00:06:28.320><c> filters</c><00:06:28.840><c> on</c><00:06:29.000><c> there</c><00:06:29.200><c> like</c>
+
+00:06:29.390 --> 00:06:29.400 align:start position:0%
+Now, we have some filters on there like
+ 
+
+00:06:29.400 --> 00:06:31.870 align:start position:0%
+Now, we have some filters on there like
+delta<00:06:29.680><c> confirmation,</c><00:06:30.840><c> delta</c><00:06:31.160><c> divergence,</c>
+
+00:06:31.870 --> 00:06:31.880 align:start position:0%
+delta confirmation, delta divergence,
+ 
+
+00:06:31.880 --> 00:06:34.750 align:start position:0%
+delta confirmation, delta divergence,
+POC,<00:06:32.560><c> swings,</c><00:06:33.120><c> etc.</c><00:06:34.000><c> I</c><00:06:34.120><c> could</c><00:06:34.240><c> go</c><00:06:34.360><c> through</c><00:06:34.560><c> all</c>
+
+00:06:34.750 --> 00:06:34.760 align:start position:0%
+POC, swings, etc. I could go through all
+ 
+
+00:06:34.760 --> 00:06:37.110 align:start position:0%
+POC, swings, etc. I could go through all
+those,<00:06:35.120><c> but</c><00:06:35.320><c> that</c><00:06:35.480><c> it's</c><00:06:35.720><c> quite</c><00:06:36.000><c> robust.</c><00:06:37.080><c> Um</c>
+
+00:06:37.110 --> 00:06:37.120 align:start position:0%
+those, but that it's quite robust. Um
+ 
+
+00:06:37.120 --> 00:06:39.110 align:start position:0%
+those, but that it's quite robust. Um
+this<00:06:37.280><c> is,</c><00:06:37.680><c> you</c><00:06:37.760><c> know,</c><00:06:38.120><c> where</c><00:06:38.280><c> we</c><00:06:38.440><c> have</c><00:06:38.720><c> delta</c>
+
+00:06:39.110 --> 00:06:39.120 align:start position:0%
+this is, you know, where we have delta
+ 
+
+00:06:39.120 --> 00:06:40.670 align:start position:0%
+this is, you know, where we have delta
+confirmation,<00:06:40.120><c> meaning,</c><00:06:40.480><c> you</c><00:06:40.560><c> know,</c><00:06:40.640><c> the</c>
+
+00:06:40.670 --> 00:06:40.680 align:start position:0%
+confirmation, meaning, you know, the
+ 
+
+00:06:40.680 --> 00:06:43.470 align:start position:0%
+confirmation, meaning, you know, the
+delta's<00:06:41.000><c> got</c><00:06:41.120><c> to</c><00:06:41.200><c> be</c><00:06:41.280><c> positive</c><00:06:42.240><c> as</c><00:06:42.480><c> well</c><00:06:42.880><c> as</c><00:06:43.360><c> a</c>
+
+00:06:43.470 --> 00:06:43.480 align:start position:0%
+delta's got to be positive as well as a
+ 
+
+00:06:43.480 --> 00:06:46.150 align:start position:0%
+delta's got to be positive as well as a
+pressure<00:06:43.880><c> signal.</c><00:06:44.880><c> Okay?</c><00:06:45.640><c> So,</c><00:06:45.800><c> what</c><00:06:45.960><c> this</c>
+
+00:06:46.150 --> 00:06:46.160 align:start position:0%
+pressure signal. Okay? So, what this
+ 
+
+00:06:46.160 --> 00:06:48.230 align:start position:0%
+pressure signal. Okay? So, what this
+does<00:06:46.480><c> is,</c><00:06:46.640><c> you</c><00:06:46.720><c> know,</c><00:06:47.360><c> it</c><00:06:47.520><c> filters</c><00:06:47.880><c> out</c><00:06:48.040><c> those</c>
+
+00:06:48.230 --> 00:06:48.240 align:start position:0%
+does is, you know, it filters out those
+ 
+
+00:06:48.240 --> 00:06:51.390 align:start position:0%
+does is, you know, it filters out those
+bars<00:06:48.680><c> where</c><00:06:48.880><c> the</c><00:06:49.000><c> delta</c><00:06:49.480><c> is</c><00:06:49.840><c> not</c><00:06:50.440><c> coinciding</c>
+
+00:06:51.390 --> 00:06:51.400 align:start position:0%
+bars where the delta is not coinciding
+ 
+
+00:06:51.400 --> 00:06:52.710 align:start position:0%
+bars where the delta is not coinciding
+with
+
+00:06:52.710 --> 00:06:52.720 align:start position:0%
+with
+ 
+
+00:06:52.720 --> 00:06:54.150 align:start position:0%
+with
+the<00:06:52.920><c> pressure</c><00:06:53.280><c> signal.</c><00:06:53.720><c> For</c><00:06:53.840><c> whatever</c>
+
+00:06:54.150 --> 00:06:54.160 align:start position:0%
+the pressure signal. For whatever
+ 
+
+00:06:54.160 --> 00:06:55.830 align:start position:0%
+the pressure signal. For whatever
+reason,<00:06:54.720><c> you</c><00:06:54.800><c> know,</c><00:06:54.920><c> I</c><00:06:54.960><c> mean,</c><00:06:55.120><c> maybe</c><00:06:55.360><c> there's,</c>
+
+00:06:55.830 --> 00:06:55.840 align:start position:0%
+reason, you know, I mean, maybe there's,
+ 
+
+00:06:55.840 --> 00:06:58.670 align:start position:0%
+reason, you know, I mean, maybe there's,
+you<00:06:55.920><c> know,</c><00:06:56.360><c> early</c><00:06:56.720><c> at</c><00:06:56.840><c> one</c><00:06:57.040><c> point</c><00:06:57.360><c> in</c><00:06:57.440><c> the</c><00:06:57.520><c> bar,</c>
+
+00:06:58.670 --> 00:06:58.680 align:start position:0%
+you know, early at one point in the bar,
+ 
+
+00:06:58.680 --> 00:07:00.430 align:start position:0%
+you know, early at one point in the bar,
+um<00:06:58.760><c> you</c><00:06:58.840><c> know,</c><00:06:58.920><c> there</c><00:06:59.080><c> was</c><00:06:59.800><c> the</c><00:07:00.000><c> opposite</c>
+
+00:07:00.430 --> 00:07:00.440 align:start position:0%
+um you know, there was the opposite
+ 
+
+00:07:00.440 --> 00:07:02.150 align:start position:0%
+um you know, there was the opposite
+order<00:07:00.720><c> flow,</c><00:07:01.000><c> right?</c><00:07:01.200><c> We</c><00:07:01.360><c> we</c><00:07:01.560><c> really</c><00:07:01.920><c> want</c><00:07:02.080><c> to</c>
+
+00:07:02.150 --> 00:07:02.160 align:start position:0%
+order flow, right? We we really want to
+ 
+
+00:07:02.160 --> 00:07:04.910 align:start position:0%
+order flow, right? We we really want to
+focus<00:07:02.440><c> on</c><00:07:02.560><c> the</c><00:07:02.640><c> bars</c><00:07:03.480><c> that</c><00:07:03.720><c> have</c><00:07:04.440><c> order</c><00:07:04.680><c> flow</c>
+
+00:07:04.910 --> 00:07:04.920 align:start position:0%
+focus on the bars that have order flow
+ 
+
+00:07:04.920 --> 00:07:06.950 align:start position:0%
+focus on the bars that have order flow
+going<00:07:05.200><c> in</c><00:07:05.320><c> the</c><00:07:05.400><c> same</c><00:07:05.720><c> direction.</c>
+
+00:07:06.950 --> 00:07:06.960 align:start position:0%
+going in the same direction.
+ 
+
+00:07:06.960 --> 00:07:09.110 align:start position:0%
+going in the same direction.
+Now,<00:07:07.240><c> here's</c><00:07:07.480><c> the</c><00:07:07.560><c> beauty,</c><00:07:08.200><c> right?</c><00:07:08.960><c> The</c>
+
+00:07:09.110 --> 00:07:09.120 align:start position:0%
+Now, here's the beauty, right? The
+ 
+
+00:07:09.120 --> 00:07:11.110 align:start position:0%
+Now, here's the beauty, right? The
+Orderflows<00:07:09.600><c> Pressure</c><00:07:09.960><c> Indicator</c><00:07:10.600><c> works</c><00:07:10.960><c> on</c>
+
+00:07:11.110 --> 00:07:11.120 align:start position:0%
+Orderflows Pressure Indicator works on
+ 
+
+00:07:11.120 --> 00:07:14.390 align:start position:0%
+Orderflows Pressure Indicator works on
+your<00:07:11.280><c> normal</c><00:07:11.800><c> candlestick</c><00:07:12.480><c> chart.</c><00:07:13.360><c> Okay?</c><00:07:13.720><c> So,</c>
+
+00:07:14.390 --> 00:07:14.400 align:start position:0%
+your normal candlestick chart. Okay? So,
+ 
+
+00:07:14.400 --> 00:07:15.830 align:start position:0%
+your normal candlestick chart. Okay? So,
+if<00:07:14.560><c> you</c><00:07:14.640><c> don't</c><00:07:14.840><c> want</c><00:07:15.040><c> to</c><00:07:15.160><c> read</c><00:07:15.360><c> a</c><00:07:15.440><c> footprint</c>
+
+00:07:15.830 --> 00:07:15.840 align:start position:0%
+if you don't want to read a footprint
+ 
+
+00:07:15.840 --> 00:07:18.790 align:start position:0%
+if you don't want to read a footprint
+chart,<00:07:16.160><c> you</c><00:07:16.360><c> don't</c><00:07:16.680><c> have</c><00:07:16.920><c> to.</c><00:07:17.480><c> You</c><00:07:17.680><c> can</c><00:07:18.600><c> put</c>
+
+00:07:18.790 --> 00:07:18.800 align:start position:0%
+chart, you don't have to. You can put
+ 
+
+00:07:18.800 --> 00:07:21.350 align:start position:0%
+chart, you don't have to. You can put
+the<00:07:18.920><c> indicator</c><00:07:19.680><c> on</c><00:07:20.000><c> your</c><00:07:20.200><c> existing</c><00:07:21.000><c> chart</c>
+
+00:07:21.350 --> 00:07:21.360 align:start position:0%
+the indicator on your existing chart
+ 
+
+00:07:21.360 --> 00:07:23.510 align:start position:0%
+the indicator on your existing chart
+that<00:07:21.560><c> you're</c><00:07:21.800><c> already</c><00:07:22.400><c> using</c><00:07:22.840><c> for</c><00:07:23.000><c> trading,</c>
+
+00:07:23.510 --> 00:07:23.520 align:start position:0%
+that you're already using for trading,
+ 
+
+00:07:23.520 --> 00:07:25.750 align:start position:0%
+that you're already using for trading,
+whether<00:07:23.840><c> it's,</c><00:07:24.440><c> you</c><00:07:24.560><c> know,</c><00:07:24.800><c> a</c><00:07:25.200><c> a</c><00:07:25.240><c> 1-minute</c>
+
+00:07:25.750 --> 00:07:25.760 align:start position:0%
+whether it's, you know, a a 1-minute
+ 
+
+00:07:25.760 --> 00:07:27.990 align:start position:0%
+whether it's, you know, a a 1-minute
+chart,
+
+00:07:27.990 --> 00:07:28.000 align:start position:0%
+chart,
+ 
+
+00:07:28.000 --> 00:07:30.950 align:start position:0%
+chart,
+you<00:07:28.120><c> know,</c><00:07:28.280><c> a</c><00:07:28.360><c> range-based</c><00:07:29.080><c> chart,</c><00:07:29.960><c> um</c><00:07:30.840><c> you</c>
+
+00:07:30.950 --> 00:07:30.960 align:start position:0%
+you know, a range-based chart, um you
+ 
+
+00:07:30.960 --> 00:07:32.870 align:start position:0%
+you know, a range-based chart, um you
+know,<00:07:31.200><c> volume</c><00:07:31.680><c> or</c><00:07:31.800><c> tick-based</c><00:07:32.360><c> chart,</c><00:07:32.600><c> even</c><00:07:32.800><c> a</c>
+
+00:07:32.870 --> 00:07:32.880 align:start position:0%
+know, volume or tick-based chart, even a
+ 
+
+00:07:32.880 --> 00:07:35.430 align:start position:0%
+know, volume or tick-based chart, even a
+reversal<00:07:33.560><c> bar</c><00:07:33.960><c> chart,</c><00:07:34.360><c> right?</c><00:07:35.040><c> You</c><00:07:35.160><c> don't</c>
+
+00:07:35.430 --> 00:07:35.440 align:start position:0%
+reversal bar chart, right? You don't
+ 
+
+00:07:35.440 --> 00:07:38.670 align:start position:0%
+reversal bar chart, right? You don't
+have<00:07:35.720><c> to</c><00:07:35.840><c> use</c><00:07:36.640><c> the</c><00:07:37.480><c> order</c><00:07:37.760><c> flow</c><00:07:38.160><c> footprint</c>
+
+00:07:38.670 --> 00:07:38.680 align:start position:0%
+have to use the order flow footprint
+ 
+
+00:07:38.680 --> 00:07:40.390 align:start position:0%
+have to use the order flow footprint
+chart,<00:07:38.960><c> the</c><00:07:39.040><c> volume</c><00:07:39.440><c> footprint</c><00:07:39.840><c> chart,</c>
+
+00:07:40.390 --> 00:07:40.400 align:start position:0%
+chart, the volume footprint chart,
+ 
+
+00:07:40.400 --> 00:07:41.910 align:start position:0%
+chart, the volume footprint chart,
+because<00:07:40.640><c> what</c><00:07:40.840><c> the</c><00:07:40.920><c> Orderflows</c><00:07:41.360><c> Pressure</c>
+
+00:07:41.910 --> 00:07:41.920 align:start position:0%
+because what the Orderflows Pressure
+ 
+
+00:07:41.920 --> 00:07:44.070 align:start position:0%
+because what the Orderflows Pressure
+Indicator<00:07:42.320><c> is</c><00:07:42.440><c> doing</c><00:07:42.720><c> is</c><00:07:42.880><c> it's</c><00:07:43.120><c> reading</c><00:07:43.880><c> all</c>
+
+00:07:44.070 --> 00:07:44.080 align:start position:0%
+Indicator is doing is it's reading all
+ 
+
+00:07:44.080 --> 00:07:47.510 align:start position:0%
+Indicator is doing is it's reading all
+that<00:07:44.240><c> information</c><00:07:44.960><c> that</c><00:07:45.160><c> goes</c><00:07:45.520><c> into</c><00:07:46.080><c> forming</c>
+
+00:07:47.510 --> 00:07:47.520 align:start position:0%
+that information that goes into forming
+ 
+
+00:07:47.520 --> 00:07:49.270 align:start position:0%
+that information that goes into forming
+the<00:07:47.680><c> footprint</c><00:07:48.120><c> chart,</c>
+
+00:07:49.270 --> 00:07:49.280 align:start position:0%
+the footprint chart,
+ 
+
+00:07:49.280 --> 00:07:50.870 align:start position:0%
+the footprint chart,
+and<00:07:49.480><c> it</c><00:07:49.560><c> does</c><00:07:49.720><c> its</c><00:07:49.840><c> calculations,</c><00:07:50.720><c> and</c><00:07:50.800><c> it</c>
+
+00:07:50.870 --> 00:07:50.880 align:start position:0%
+and it does its calculations, and it
+ 
+
+00:07:50.880 --> 00:07:53.150 align:start position:0%
+and it does its calculations, and it
+just<00:07:51.080><c> plots</c><00:07:51.480><c> it</c><00:07:51.680><c> on</c><00:07:51.960><c> a</c><00:07:52.040><c> normal</c><00:07:52.520><c> candlestick</c>
+
+00:07:53.150 --> 00:07:53.160 align:start position:0%
+just plots it on a normal candlestick
+ 
+
+00:07:53.160 --> 00:07:55.270 align:start position:0%
+just plots it on a normal candlestick
+chart,<00:07:53.960><c> right?</c><00:07:54.160><c> That's</c><00:07:54.400><c> the</c><00:07:54.560><c> that's</c><00:07:54.840><c> the</c><00:07:55.000><c> real</c>
+
+00:07:55.270 --> 00:07:55.280 align:start position:0%
+chart, right? That's the that's the real
+ 
+
+00:07:55.280 --> 00:07:57.350 align:start position:0%
+chart, right? That's the that's the real
+power<00:07:55.680><c> of</c><00:07:55.840><c> it.</c>
+
+00:07:57.350 --> 00:07:57.360 align:start position:0%
+power of it.
+ 
+
+00:07:57.360 --> 00:07:58.990 align:start position:0%
+power of it.
+Now,<00:07:57.680><c> there</c><00:07:57.840><c> are</c><00:07:57.960><c> three</c><00:07:58.320><c> game-changing</c>
+
+00:07:58.990 --> 00:07:59.000 align:start position:0%
+Now, there are three game-changing
+ 
+
+00:07:59.000 --> 00:08:00.990 align:start position:0%
+Now, there are three game-changing
+features<00:07:59.480><c> I</c><00:07:59.520><c> want</c><00:07:59.720><c> to</c><00:07:59.800><c> talk</c><00:08:00.080><c> about</c><00:08:00.560><c> that,</c><00:08:00.920><c> you</c>
+
+00:08:00.990 --> 00:08:01.000 align:start position:0%
+features I want to talk about that, you
+ 
+
+00:08:01.000 --> 00:08:03.470 align:start position:0%
+features I want to talk about that, you
+know,<00:08:01.120><c> I</c><00:08:01.360><c> really</c><00:08:01.680><c> think</c><00:08:02.680><c> take</c><00:08:03.040><c> the</c><00:08:03.120><c> Orderflows</c>
+
+00:08:03.470 --> 00:08:03.480 align:start position:0%
+know, I really think take the Orderflows
+ 
+
+00:08:03.480 --> 00:08:06.110 align:start position:0%
+know, I really think take the Orderflows
+Pressure<00:08:03.880><c> to</c><00:08:04.160><c> a</c><00:08:04.280><c> higher</c><00:08:04.640><c> level.</c><00:08:05.600><c> Okay?</c><00:08:05.920><c> So,</c>
+
+00:08:06.110 --> 00:08:06.120 align:start position:0%
+Pressure to a higher level. Okay? So,
+ 
+
+00:08:06.120 --> 00:08:07.990 align:start position:0%
+Pressure to a higher level. Okay? So,
+first<00:08:06.360><c> one</c><00:08:06.520><c> is</c><00:08:06.640><c> multi-time</c><00:08:07.240><c> frame</c><00:08:07.440><c> analysis,</c>
+
+00:08:07.990 --> 00:08:08.000 align:start position:0%
+first one is multi-time frame analysis,
+ 
+
+00:08:08.000 --> 00:08:10.550 align:start position:0%
+first one is multi-time frame analysis,
+which<00:08:08.160><c> allows</c><00:08:08.560><c> you</c><00:08:08.680><c> to</c><00:08:09.000><c> overlay</c><00:08:09.960><c> higher</c><00:08:10.360><c> or</c>
+
+00:08:10.550 --> 00:08:10.560 align:start position:0%
+which allows you to overlay higher or
+ 
+
+00:08:10.560 --> 00:08:12.390 align:start position:0%
+which allows you to overlay higher or
+lower<00:08:11.160><c> time</c><00:08:11.440><c> frame</c><00:08:11.680><c> pressure</c><00:08:12.000><c> signals</c>
+
+00:08:12.390 --> 00:08:12.400 align:start position:0%
+lower time frame pressure signals
+ 
+
+00:08:12.400 --> 00:08:14.070 align:start position:0%
+lower time frame pressure signals
+directly<00:08:12.840><c> on</c><00:08:12.960><c> your</c><00:08:13.080><c> existing</c><00:08:13.560><c> chart.</c><00:08:13.840><c> So,</c><00:08:13.960><c> for</c>
+
+00:08:14.070 --> 00:08:14.080 align:start position:0%
+directly on your existing chart. So, for
+ 
+
+00:08:14.080 --> 00:08:15.470 align:start position:0%
+directly on your existing chart. So, for
+example,
+
+00:08:15.470 --> 00:08:15.480 align:start position:0%
+example,
+ 
+
+00:08:15.480 --> 00:08:16.990 align:start position:0%
+example,
+you<00:08:15.560><c> know,</c><00:08:15.600><c> if</c><00:08:15.680><c> you</c><00:08:15.760><c> want</c><00:08:15.920><c> to</c><00:08:16.000><c> see</c><00:08:16.160><c> 5-minute</c>
+
+00:08:16.990 --> 00:08:17.000 align:start position:0%
+you know, if you want to see 5-minute
+ 
+
+00:08:17.000 --> 00:08:18.990 align:start position:0%
+you know, if you want to see 5-minute
+signals,<00:08:17.600><c> but</c><00:08:17.800><c> basically</c><00:08:18.240><c> signals</c><00:08:18.640><c> based</c><00:08:18.880><c> off</c>
+
+00:08:18.990 --> 00:08:19.000 align:start position:0%
+signals, but basically signals based off
+ 
+
+00:08:19.000 --> 00:08:21.910 align:start position:0%
+signals, but basically signals based off
+of<00:08:19.120><c> 5-minute</c><00:08:19.920><c> analysis,</c><00:08:21.080><c> but</c><00:08:21.240><c> you're</c><00:08:21.400><c> using</c><00:08:21.840><c> a</c>
+
+00:08:21.910 --> 00:08:21.920 align:start position:0%
+of 5-minute analysis, but you're using a
+ 
+
+00:08:21.920 --> 00:08:23.470 align:start position:0%
+of 5-minute analysis, but you're using a
+1-minute<00:08:22.440><c> chart,</c><00:08:22.760><c> you</c><00:08:22.840><c> can</c><00:08:23.000><c> take</c><00:08:23.280><c> those</c>
+
+00:08:23.470 --> 00:08:23.480 align:start position:0%
+1-minute chart, you can take those
+ 
+
+00:08:23.480 --> 00:08:25.590 align:start position:0%
+1-minute chart, you can take those
+signals<00:08:24.200><c> from</c><00:08:24.320><c> the</c><00:08:24.440><c> 5-minute</c><00:08:24.920><c> chart</c><00:08:25.160><c> and</c><00:08:25.280><c> plot</c>
+
+00:08:25.590 --> 00:08:25.600 align:start position:0%
+signals from the 5-minute chart and plot
+ 
+
+00:08:25.600 --> 00:08:28.630 align:start position:0%
+signals from the 5-minute chart and plot
+them<00:08:26.160><c> on</c><00:08:26.320><c> your</c><00:08:26.480><c> 1-minute</c><00:08:27.000><c> chart.</c><00:08:27.720><c> We</c><00:08:28.040><c> have</c><00:08:28.200><c> POC</c>
+
+00:08:28.630 --> 00:08:28.640 align:start position:0%
+them on your 1-minute chart. We have POC
+ 
+
+00:08:28.640 --> 00:08:30.230 align:start position:0%
+them on your 1-minute chart. We have POC
+movement<00:08:29.080><c> detection.</c><00:08:29.880><c> So,</c><00:08:29.960><c> you're</c><00:08:30.040><c> going</c><00:08:30.160><c> to</c>
+
+00:08:30.230 --> 00:08:30.240 align:start position:0%
+movement detection. So, you're going to
+ 
+
+00:08:30.240 --> 00:08:32.390 align:start position:0%
+movement detection. So, you're going to
+track<00:08:31.040><c> where</c><00:08:31.240><c> the</c><00:08:31.360><c> POC</c><00:08:31.760><c> is</c><00:08:31.880><c> shifting.</c><00:08:32.280><c> You're</c>
+
+00:08:32.390 --> 00:08:32.400 align:start position:0%
+track where the POC is shifting. You're
+ 
+
+00:08:32.400 --> 00:08:33.909 align:start position:0%
+track where the POC is shifting. You're
+going<00:08:32.520><c> to</c><00:08:32.599><c> detect,</c>
+
+00:08:33.909 --> 00:08:33.919 align:start position:0%
+going to detect,
+ 
+
+00:08:33.919 --> 00:08:35.589 align:start position:0%
+going to detect,
+you<00:08:34.000><c> know,</c><00:08:34.479><c> volume</c><00:08:34.840><c> acceptance,</c><00:08:35.360><c> market</c>
+
+00:08:35.589 --> 00:08:35.599 align:start position:0%
+you know, volume acceptance, market
+ 
+
+00:08:35.599 --> 00:08:37.310 align:start position:0%
+you know, volume acceptance, market
+rejection,<00:08:36.320><c> and,</c><00:08:36.719><c> you</c><00:08:36.760><c> know,</c><00:08:36.880><c> maybe</c><00:08:37.159><c> you</c><00:08:37.200><c> can</c>
+
+00:08:37.310 --> 00:08:37.320 align:start position:0%
+rejection, and, you know, maybe you can
+ 
+
+00:08:37.320 --> 00:08:39.909 align:start position:0%
+rejection, and, you know, maybe you can
+find<00:08:37.520><c> some</c><00:08:37.680><c> early</c><00:08:37.960><c> reversal</c><00:08:38.560><c> signals.</c>
+
+00:08:39.909 --> 00:08:39.919 align:start position:0%
+find some early reversal signals.
+ 
+
+00:08:39.919 --> 00:08:41.750 align:start position:0%
+find some early reversal signals.
+We<00:08:40.039><c> have</c><00:08:40.159><c> a</c><00:08:40.599><c> momentum</c><00:08:41.039><c> strength</c><00:08:41.360><c> filter.</c><00:08:41.680><c> So,</c>
+
+00:08:41.750 --> 00:08:41.760 align:start position:0%
+We have a momentum strength filter. So,
+ 
+
+00:08:41.760 --> 00:08:43.149 align:start position:0%
+We have a momentum strength filter. So,
+you're<00:08:41.840><c> going</c><00:08:41.960><c> to</c><00:08:42.039><c> be</c><00:08:42.360><c> trading</c><00:08:42.880><c> in</c><00:08:43.080><c> the</c>
+
+00:08:43.149 --> 00:08:43.159 align:start position:0%
+you're going to be trading in the
+ 
+
+00:08:43.159 --> 00:08:45.150 align:start position:0%
+you're going to be trading in the
+direction<00:08:43.760><c> of</c><00:08:44.000><c> momentum,</c><00:08:44.800><c> right?</c><00:08:45.000><c> So,</c>
+
+00:08:45.150 --> 00:08:45.160 align:start position:0%
+direction of momentum, right? So,
+ 
+
+00:08:45.160 --> 00:08:46.430 align:start position:0%
+direction of momentum, right? So,
+pressure
+
+00:08:46.430 --> 00:08:46.440 align:start position:0%
+pressure
+ 
+
+00:08:46.440 --> 00:08:48.790 align:start position:0%
+pressure
+now<00:08:46.840><c> analyzes</c><00:08:47.560><c> the</c><00:08:47.680><c> order</c><00:08:47.840><c> flow</c><00:08:48.040><c> price</c><00:08:48.360><c> action</c>
+
+00:08:48.790 --> 00:08:48.800 align:start position:0%
+now analyzes the order flow price action
+ 
+
+00:08:48.800 --> 00:08:50.990 align:start position:0%
+now analyzes the order flow price action
+and<00:08:49.080><c> momentum</c><00:08:49.520><c> together,</c><00:08:50.320><c> right?</c><00:08:50.600><c> And</c><00:08:50.840><c> And</c>
+
+00:08:50.990 --> 00:08:51.000 align:start position:0%
+and momentum together, right? And And
+ 
+
+00:08:51.000 --> 00:08:52.230 align:start position:0%
+and momentum together, right? And And
+that's<00:08:51.200><c> important,</c><00:08:51.720><c> right?</c><00:08:51.880><c> Everyone</c><00:08:52.080><c> says</c>
+
+00:08:52.230 --> 00:08:52.240 align:start position:0%
+that's important, right? Everyone says
+ 
+
+00:08:52.240 --> 00:08:54.030 align:start position:0%
+that's important, right? Everyone says
+you<00:08:52.320><c> got</c><00:08:52.440><c> to</c><00:08:52.520><c> trade,</c><00:08:53.480><c> you</c><00:08:53.560><c> know,</c><00:08:53.640><c> the</c><00:08:53.720><c> trend</c><00:08:53.960><c> is</c>
+
+00:08:54.030 --> 00:08:54.040 align:start position:0%
+you got to trade, you know, the trend is
+ 
+
+00:08:54.040 --> 00:08:55.390 align:start position:0%
+you got to trade, you know, the trend is
+your<00:08:54.160><c> friend.</c><00:08:54.480><c> Trade</c><00:08:54.680><c> in</c><00:08:54.760><c> the</c><00:08:54.840><c> direction</c><00:08:55.280><c> of</c>
+
+00:08:55.390 --> 00:08:55.400 align:start position:0%
+your friend. Trade in the direction of
+ 
+
+00:08:55.400 --> 00:08:57.630 align:start position:0%
+your friend. Trade in the direction of
+the<00:08:55.480><c> trend,</c><00:08:56.360><c> and</c><00:08:56.480><c> this</c><00:08:56.640><c> just</c><00:08:56.840><c> helps</c><00:08:57.080><c> keep</c><00:08:57.360><c> you</c>
+
+00:08:57.630 --> 00:08:57.640 align:start position:0%
+the trend, and this just helps keep you
+ 
+
+00:08:57.640 --> 00:08:59.670 align:start position:0%
+the trend, and this just helps keep you
+on<00:08:58.040><c> the</c><00:08:58.160><c> right</c><00:08:58.520><c> side.</c>
+
+00:08:59.670 --> 00:08:59.680 align:start position:0%
+on the right side.
+ 
+
+00:08:59.680 --> 00:09:02.070 align:start position:0%
+on the right side.
+So,<00:09:00.200><c> the</c><00:09:00.280><c> multi-time</c><00:09:00.920><c> frame</c><00:09:01.040><c> analysis</c>
+
+00:09:02.070 --> 00:09:02.080 align:start position:0%
+So, the multi-time frame analysis
+ 
+
+00:09:02.080 --> 00:09:03.430 align:start position:0%
+So, the multi-time frame analysis
+feature<00:09:02.560><c> is,</c><00:09:02.800><c> you</c><00:09:02.880><c> know,</c><00:09:03.000><c> you'll</c><00:09:03.120><c> be</c><00:09:03.200><c> able</c><00:09:03.320><c> to</c>
+
+00:09:03.430 --> 00:09:03.440 align:start position:0%
+feature is, you know, you'll be able to
+ 
+
+00:09:03.440 --> 00:09:04.910 align:start position:0%
+feature is, you know, you'll be able to
+trade<00:09:03.720><c> higher</c><00:09:03.960><c> time</c><00:09:04.240><c> frame</c><00:09:04.520><c> order</c><00:09:04.720><c> flow</c>
+
+00:09:04.910 --> 00:09:04.920 align:start position:0%
+trade higher time frame order flow
+ 
+
+00:09:04.920 --> 00:09:07.190 align:start position:0%
+trade higher time frame order flow
+analysis<00:09:06.000><c> on</c><00:09:06.160><c> your</c><00:09:06.280><c> existing</c><00:09:06.800><c> chart.</c><00:09:07.040><c> Now,</c><00:09:07.120><c> I</c>
+
+00:09:07.190 --> 00:09:07.200 align:start position:0%
+analysis on your existing chart. Now, I
+ 
+
+00:09:07.200 --> 00:09:08.710 align:start position:0%
+analysis on your existing chart. Now, I
+did<00:09:07.360><c> say</c><00:09:07.520><c> you</c><00:09:07.640><c> can</c><00:09:07.760><c> trade</c><00:09:08.000><c> lower</c><00:09:08.240><c> time</c><00:09:08.480><c> frame,</c>
+
+00:09:08.710 --> 00:09:08.720 align:start position:0%
+did say you can trade lower time frame,
+ 
+
+00:09:08.720 --> 00:09:10.150 align:start position:0%
+did say you can trade lower time frame,
+and<00:09:08.840><c> but,</c><00:09:09.240><c> you</c><00:09:09.320><c> know,</c><00:09:09.440><c> I</c><00:09:09.520><c> know</c><00:09:09.680><c> most</c><00:09:09.920><c> people</c>
+
+00:09:10.150 --> 00:09:10.160 align:start position:0%
+and but, you know, I know most people
+ 
+
+00:09:10.160 --> 00:09:11.510 align:start position:0%
+and but, you know, I know most people
+like<00:09:10.360><c> to</c><00:09:10.480><c> use</c>
+
+00:09:11.510 --> 00:09:11.520 align:start position:0%
+like to use
+ 
+
+00:09:11.520 --> 00:09:14.030 align:start position:0%
+like to use
+the<00:09:11.600><c> higher</c><00:09:11.880><c> time</c><00:09:12.120><c> frame</c><00:09:12.960><c> and</c>
+
+00:09:14.030 --> 00:09:14.040 align:start position:0%
+the higher time frame and
+ 
+
+00:09:14.040 --> 00:09:15.950 align:start position:0%
+the higher time frame and
+find<00:09:14.360><c> those</c><00:09:14.600><c> levels</c><00:09:15.080><c> and</c><00:09:15.320><c> add</c><00:09:15.520><c> them</c><00:09:15.680><c> to</c><00:09:15.800><c> their</c>
+
+00:09:15.950 --> 00:09:15.960 align:start position:0%
+find those levels and add them to their
+ 
+
+00:09:15.960 --> 00:09:19.110 align:start position:0%
+find those levels and add them to their
+chart.<00:09:16.760><c> So,</c><00:09:17.080><c> it</c><00:09:17.200><c> allows</c><00:09:17.560><c> you</c><00:09:17.720><c> to</c><00:09:18.720><c> overlay</c>
+
+00:09:19.110 --> 00:09:19.120 align:start position:0%
+chart. So, it allows you to overlay
+ 
+
+00:09:19.120 --> 00:09:20.750 align:start position:0%
+chart. So, it allows you to overlay
+different<00:09:19.440><c> time</c><00:09:19.680><c> frame</c><00:09:19.920><c> or</c><00:09:20.000><c> chart</c><00:09:20.240><c> analysis</c>
+
+00:09:20.750 --> 00:09:20.760 align:start position:0%
+different time frame or chart analysis
+ 
+
+00:09:20.760 --> 00:09:22.510 align:start position:0%
+different time frame or chart analysis
+to<00:09:20.840><c> give</c><00:09:21.000><c> you</c><00:09:21.080><c> a</c><00:09:21.120><c> completely</c><00:09:21.640><c> new</c><00:09:21.920><c> perspective</c>
+
+00:09:22.510 --> 00:09:22.520 align:start position:0%
+to give you a completely new perspective
+ 
+
+00:09:22.520 --> 00:09:23.830 align:start position:0%
+to give you a completely new perspective
+on<00:09:22.640><c> your</c><00:09:22.760><c> current</c><00:09:23.080><c> analysis.</c><00:09:23.720><c> You</c><00:09:23.760><c> know,</c>
+
+00:09:23.830 --> 00:09:23.840 align:start position:0%
+on your current analysis. You know,
+ 
+
+00:09:23.840 --> 00:09:25.870 align:start position:0%
+on your current analysis. You know,
+again,<00:09:24.080><c> for</c><00:09:24.200><c> example,</c><00:09:25.080><c> 5-minute</c><00:09:25.600><c> pressure</c>
+
+00:09:25.870 --> 00:09:25.880 align:start position:0%
+again, for example, 5-minute pressure
+ 
+
+00:09:25.880 --> 00:09:27.870 align:start position:0%
+again, for example, 5-minute pressure
+signals<00:09:26.280><c> on</c><00:09:26.400><c> your</c><00:09:26.520><c> 1-minute</c><00:09:26.960><c> chart,</c><00:09:27.600><c> or</c><00:09:27.720><c> maybe</c>
+
+00:09:27.870 --> 00:09:27.880 align:start position:0%
+signals on your 1-minute chart, or maybe
+ 
+
+00:09:27.880 --> 00:09:29.030 align:start position:0%
+signals on your 1-minute chart, or maybe
+you<00:09:27.920><c> want</c><00:09:28.040><c> to</c><00:09:28.120><c> go</c><00:09:28.160><c> the</c><00:09:28.280><c> opposite</c><00:09:28.680><c> direction.</c>
+
+00:09:29.030 --> 00:09:29.040 align:start position:0%
+you want to go the opposite direction.
+ 
+
+00:09:29.040 --> 00:09:31.230 align:start position:0%
+you want to go the opposite direction.
+You<00:09:29.120><c> could</c><00:09:29.280><c> add</c><00:09:29.520><c> 30-second</c><00:09:30.320><c> pressure</c><00:09:30.640><c> signals</c>
+
+00:09:31.230 --> 00:09:31.240 align:start position:0%
+You could add 30-second pressure signals
+ 
+
+00:09:31.240 --> 00:09:34.070 align:start position:0%
+You could add 30-second pressure signals
+to<00:09:31.440><c> your</c><00:09:31.760><c> 1-minute</c><00:09:32.320><c> chart.</c>
+
+00:09:34.070 --> 00:09:34.080 align:start position:0%
+to your 1-minute chart.
+ 
+
+00:09:34.080 --> 00:09:36.430 align:start position:0%
+to your 1-minute chart.
+And,<00:09:34.240><c> why</c><00:09:34.400><c> this</c><00:09:34.600><c> changes</c><00:09:35.000><c> everything</c><00:09:35.480><c> is</c>
+
+00:09:36.430 --> 00:09:36.440 align:start position:0%
+And, why this changes everything is
+ 
+
+00:09:36.440 --> 00:09:37.390 align:start position:0%
+And, why this changes everything is
+you<00:09:36.560><c> know,</c><00:09:36.680><c> you're</c><00:09:36.800><c> going</c><00:09:36.920><c> to</c><00:09:36.960><c> see</c><00:09:37.120><c> higher</c>
+
+00:09:37.390 --> 00:09:37.400 align:start position:0%
+you know, you're going to see higher
+ 
+
+00:09:37.400 --> 00:09:39.750 align:start position:0%
+you know, you're going to see higher
+time<00:09:37.640><c> frame</c><00:09:38.320><c> context</c><00:09:38.840><c> on</c><00:09:38.960><c> your</c><00:09:39.160><c> execution</c>
+
+00:09:39.750 --> 00:09:39.760 align:start position:0%
+time frame context on your execution
+ 
+
+00:09:39.760 --> 00:09:41.070 align:start position:0%
+time frame context on your execution
+chart,<00:09:39.960><c> the</c><00:09:40.080><c> chart</c><00:09:40.320><c> that</c><00:09:40.480><c> you</c><00:09:40.560><c> execute</c><00:09:40.960><c> your</c>
+
+00:09:41.070 --> 00:09:41.080 align:start position:0%
+chart, the chart that you execute your
+ 
+
+00:09:41.080 --> 00:09:43.270 align:start position:0%
+chart, the chart that you execute your
+trades<00:09:41.440><c> on.</c><00:09:41.560><c> So,</c><00:09:41.640><c> you're</c><00:09:41.720><c> going</c><00:09:41.840><c> to</c><00:09:41.920><c> see</c><00:09:42.080><c> where</c>
+
+00:09:43.270 --> 00:09:43.280 align:start position:0%
+trades on. So, you're going to see where
+ 
+
+00:09:43.280 --> 00:09:44.910 align:start position:0%
+trades on. So, you're going to see where
+the<00:09:43.480><c> 5-minute</c><00:09:43.960><c> or</c><00:09:44.040><c> 15-minute</c><00:09:44.600><c> pressure</c>
+
+00:09:44.910 --> 00:09:44.920 align:start position:0%
+the 5-minute or 15-minute pressure
+ 
+
+00:09:44.920 --> 00:09:47.070 align:start position:0%
+the 5-minute or 15-minute pressure
+signals<00:09:45.280><c> are</c><00:09:45.360><c> firing</c><00:09:46.240><c> while</c><00:09:46.480><c> you</c><00:09:46.560><c> trade</c><00:09:47.000><c> the</c>
+
+00:09:47.070 --> 00:09:47.080 align:start position:0%
+signals are firing while you trade the
+ 
+
+00:09:47.080 --> 00:09:48.670 align:start position:0%
+signals are firing while you trade the
+1-minute<00:09:47.520><c> chart.</c><00:09:48.160><c> You</c><00:09:48.240><c> know,</c><00:09:48.360><c> the</c><00:09:48.440><c> higher</c>
+
+00:09:48.670 --> 00:09:48.680 align:start position:0%
+1-minute chart. You know, the higher
+ 
+
+00:09:48.680 --> 00:09:50.710 align:start position:0%
+1-minute chart. You know, the higher
+time<00:09:48.880><c> frame</c><00:09:49.120><c> signals</c><00:09:49.920><c> often</c><00:09:50.240><c> carry</c><00:09:50.480><c> more</c>
+
+00:09:50.710 --> 00:09:50.720 align:start position:0%
+time frame signals often carry more
+ 
+
+00:09:50.720 --> 00:09:52.270 align:start position:0%
+time frame signals often carry more
+weight.<00:09:51.000><c> Now,</c><00:09:51.240><c> you</c><00:09:51.400><c> can</c><00:09:51.560><c> see</c><00:09:51.760><c> them</c><00:09:51.920><c> without</c>
+
+00:09:52.270 --> 00:09:52.280 align:start position:0%
+weight. Now, you can see them without
+ 
+
+00:09:52.280 --> 00:09:54.510 align:start position:0%
+weight. Now, you can see them without
+leaving<00:09:52.560><c> your</c><00:09:52.760><c> execution</c><00:09:53.360><c> chart.</c><00:09:54.320><c> You</c><00:09:54.440><c> know,</c>
+
+00:09:54.510 --> 00:09:54.520 align:start position:0%
+leaving your execution chart. You know,
+ 
+
+00:09:54.520 --> 00:09:55.790 align:start position:0%
+leaving your execution chart. You know,
+if<00:09:54.640><c> you're</c><00:09:54.720><c> going</c><00:09:55.000><c> And</c><00:09:55.120><c> lower</c><00:09:55.400><c> time</c><00:09:55.640><c> frame,</c>
+
+00:09:55.790 --> 00:09:55.800 align:start position:0%
+if you're going And lower time frame,
+ 
+
+00:09:55.800 --> 00:09:57.830 align:start position:0%
+if you're going And lower time frame,
+it's<00:09:55.880><c> going</c><00:09:56.000><c> to</c><00:09:56.080><c> give</c><00:09:56.320><c> you</c><00:09:56.560><c> more</c><00:09:57.000><c> precise</c>
+
+00:09:57.830 --> 00:09:57.840 align:start position:0%
+it's going to give you more precise
+ 
+
+00:09:57.840 --> 00:09:59.510 align:start position:0%
+it's going to give you more precise
+entries,<00:09:58.400><c> right?</c><00:09:58.680><c> Add</c><00:09:58.840><c> a</c><00:09:58.880><c> 30-second</c><00:09:59.440><c> or</c>
+
+00:09:59.510 --> 00:09:59.520 align:start position:0%
+entries, right? Add a 30-second or
+ 
+
+00:09:59.520 --> 00:10:00.950 align:start position:0%
+entries, right? Add a 30-second or
+tick-based<00:10:00.000><c> pressure</c><00:10:00.360><c> signals</c><00:10:00.720><c> to</c><00:10:00.840><c> your</c>
+
+00:10:00.950 --> 00:10:00.960 align:start position:0%
+tick-based pressure signals to your
+ 
+
+00:10:00.960 --> 00:10:03.590 align:start position:0%
+tick-based pressure signals to your
+chart<00:10:01.600><c> for</c><00:10:01.720><c> micro</c><00:10:02.120><c> level</c><00:10:02.560><c> passive</c><00:10:02.960><c> detection.</c>
+
+00:10:03.590 --> 00:10:03.600 align:start position:0%
+chart for micro level passive detection.
+ 
+
+00:10:03.600 --> 00:10:05.230 align:start position:0%
+chart for micro level passive detection.
+Find<00:10:03.840><c> precise</c><00:10:04.280><c> entry</c><00:10:04.560><c> points</c><00:10:04.840><c> within</c><00:10:05.120><c> the</c>
+
+00:10:05.230 --> 00:10:05.240 align:start position:0%
+Find precise entry points within the
+ 
+
+00:10:05.240 --> 00:10:07.590 align:start position:0%
+Find precise entry points within the
+larger<00:10:05.720><c> move.</c>
+
+00:10:07.590 --> 00:10:07.600 align:start position:0%
+larger move.
+ 
+
+00:10:07.600 --> 00:10:09.950 align:start position:0%
+larger move.
+You're<00:10:07.680><c> going</c><00:10:07.760><c> to</c><00:10:07.800><c> have</c><00:10:07.920><c> confluence</c><00:10:08.480><c> against</c>
+
+00:10:09.950 --> 00:10:09.960 align:start position:0%
+You're going to have confluence against
+ 
+
+00:10:09.960 --> 00:10:11.270 align:start position:0%
+You're going to have confluence against
+different<00:10:10.360><c> time</c><00:10:10.600><c> frames.</c><00:10:10.920><c> So,</c><00:10:11.040><c> when</c><00:10:11.160><c> your</c>
+
+00:10:11.270 --> 00:10:11.280 align:start position:0%
+different time frames. So, when your
+ 
+
+00:10:11.280 --> 00:10:12.830 align:start position:0%
+different time frames. So, when your
+current<00:10:11.600><c> chart</c><00:10:11.880><c> and</c><00:10:12.040><c> the</c><00:10:12.120><c> higher</c><00:10:12.360><c> time</c><00:10:12.600><c> frame</c>
+
+00:10:12.830 --> 00:10:12.840 align:start position:0%
+current chart and the higher time frame
+ 
+
+00:10:12.840 --> 00:10:14.670 align:start position:0%
+current chart and the higher time frame
+both<00:10:13.240><c> show</c><00:10:13.520><c> pressure</c><00:10:14.000><c> at</c><00:10:14.080><c> the</c><00:10:14.160><c> same</c><00:10:14.400><c> level,</c>
+
+00:10:14.670 --> 00:10:14.680 align:start position:0%
+both show pressure at the same level,
+ 
+
+00:10:14.680 --> 00:10:16.830 align:start position:0%
+both show pressure at the same level,
+the<00:10:14.760><c> signal</c><00:10:15.080><c> has</c><00:10:15.280><c> multi-time</c><00:10:15.880><c> frame</c><00:10:16.720><c> uh</c>
+
+00:10:16.830 --> 00:10:16.840 align:start position:0%
+the signal has multi-time frame uh
+ 
+
+00:10:16.840 --> 00:10:18.390 align:start position:0%
+the signal has multi-time frame uh
+confirmation.<00:10:17.520><c> That's</c><00:10:17.720><c> significantly</c>
+
+00:10:18.390 --> 00:10:18.400 align:start position:0%
+confirmation. That's significantly
+ 
+
+00:10:18.400 --> 00:10:20.150 align:start position:0%
+confirmation. That's significantly
+higher<00:10:18.880><c> conviction.</c>
+
+00:10:20.150 --> 00:10:20.160 align:start position:0%
+higher conviction.
+ 
+
+00:10:20.160 --> 00:10:21.430 align:start position:0%
+higher conviction.
+So,<00:10:20.240><c> you</c><00:10:20.320><c> have</c><00:10:20.480><c> one</c><00:10:20.720><c> chart,</c><00:10:21.080><c> multiple</c>
+
+00:10:21.430 --> 00:10:21.440 align:start position:0%
+So, you have one chart, multiple
+ 
+
+00:10:21.440 --> 00:10:23.150 align:start position:0%
+So, you have one chart, multiple
+perspective,<00:10:22.240><c> no</c><00:10:22.320><c> more</c><00:10:22.480><c> flipping</c><00:10:22.800><c> between</c>
+
+00:10:23.150 --> 00:10:23.160 align:start position:0%
+perspective, no more flipping between
+ 
+
+00:10:23.160 --> 00:10:24.630 align:start position:0%
+perspective, no more flipping between
+charts<00:10:23.560><c> trying</c><00:10:23.760><c> to</c><00:10:23.880><c> piece</c><00:10:24.080><c> together</c><00:10:24.440><c> what's</c>
+
+00:10:24.630 --> 00:10:24.640 align:start position:0%
+charts trying to piece together what's
+ 
+
+00:10:24.640 --> 00:10:25.990 align:start position:0%
+charts trying to piece together what's
+happening<00:10:25.040><c> on</c><00:10:25.160><c> different</c><00:10:25.480><c> time</c><00:10:25.640><c> frames.</c>
+
+00:10:25.990 --> 00:10:26.000 align:start position:0%
+happening on different time frames.
+ 
+
+00:10:26.000 --> 00:10:28.910 align:start position:0%
+happening on different time frames.
+Everything<00:10:26.440><c> is</c><00:10:26.560><c> layered</c><00:10:27.000><c> on</c><00:10:27.400><c> one</c><00:10:27.680><c> screen.</c>
+
+00:10:28.910 --> 00:10:28.920 align:start position:0%
+Everything is layered on one screen.
+ 
+
+00:10:28.920 --> 00:10:32.870 align:start position:0%
+Everything is layered on one screen.
+So,<00:10:29.280><c> you</c><00:10:29.360><c> know,</c><00:10:29.480><c> here's</c><00:10:29.720><c> an</c><00:10:29.840><c> example.</c><00:10:30.400><c> This</c><00:10:30.720><c> is</c>
+
+00:10:32.870 --> 00:10:32.880 align:start position:0%
+So, you know, here's an example. This is
+ 
+
+00:10:32.880 --> 00:10:34.870 align:start position:0%
+So, you know, here's an example. This is
+an<00:10:33.080><c> E-mini</c><00:10:33.560><c> 1-minute</c><00:10:34.040><c> chart,</c><00:10:34.480><c> but</c><00:10:34.640><c> it's</c>
+
+00:10:34.870 --> 00:10:34.880 align:start position:0%
+an E-mini 1-minute chart, but it's
+ 
+
+00:10:34.880 --> 00:10:36.590 align:start position:0%
+an E-mini 1-minute chart, but it's
+showing
+
+00:10:36.590 --> 00:10:36.600 align:start position:0%
+showing
+ 
+
+00:10:36.600 --> 00:10:40.590 align:start position:0%
+showing
+signals<00:10:37.080><c> based</c><00:10:37.400><c> off</c><00:10:37.680><c> of</c><00:10:38.000><c> the</c><00:10:38.120><c> 5-minute</c><00:10:39.160><c> chart.</c>
+
+00:10:40.590 --> 00:10:40.600 align:start position:0%
+signals based off of the 5-minute chart.
+ 
+
+00:10:40.600 --> 00:10:42.190 align:start position:0%
+signals based off of the 5-minute chart.
+It<00:10:40.640><c> helps</c><00:10:40.880><c> clean</c><00:10:41.160><c> up</c><00:10:41.320><c> some</c><00:10:41.480><c> of</c><00:10:41.560><c> those</c><00:10:41.760><c> messier</c>
+
+00:10:42.190 --> 00:10:42.200 align:start position:0%
+It helps clean up some of those messier
+ 
+
+00:10:42.200 --> 00:10:43.990 align:start position:0%
+It helps clean up some of those messier
+charts,<00:10:42.680><c> you</c><00:10:42.760><c> know,</c><00:10:42.920><c> where</c>
+
+00:10:43.990 --> 00:10:44.000 align:start position:0%
+charts, you know, where
+ 
+
+00:10:44.000 --> 00:10:44.670 align:start position:0%
+charts, you know, where
+um
+
+00:10:44.670 --> 00:10:44.680 align:start position:0%
+um
+ 
+
+00:10:44.680 --> 00:10:46.630 align:start position:0%
+um
+you<00:10:44.840><c> know,</c><00:10:44.960><c> in</c><00:10:45.200><c> in</c><00:10:45.320><c> this</c><00:10:45.960><c> time</c><00:10:46.240><c> period,</c><00:10:46.600><c> you</c>
+
+00:10:46.630 --> 00:10:46.640 align:start position:0%
+you know, in in this time period, you
+ 
+
+00:10:46.640 --> 00:10:47.910 align:start position:0%
+you know, in in this time period, you
+know,<00:10:46.760><c> with</c><00:10:47.000><c> everything</c><00:10:47.320><c> going</c><00:10:47.560><c> on</c><00:10:47.720><c> in</c><00:10:47.840><c> the</c>
+
+00:10:47.910 --> 00:10:47.920 align:start position:0%
+know, with everything going on in the
+ 
+
+00:10:47.920 --> 00:10:49.470 align:start position:0%
+know, with everything going on in the
+Middle<00:10:48.200><c> East,</c><00:10:48.760><c> you</c><00:10:48.840><c> know,</c><00:10:48.920><c> markets</c><00:10:49.280><c> look</c><00:10:49.440><c> a</c>
+
+00:10:49.470 --> 00:10:49.480 align:start position:0%
+Middle East, you know, markets look a
+ 
+
+00:10:49.480 --> 00:10:51.390 align:start position:0%
+Middle East, you know, markets look a
+bit<00:10:49.680><c> volatile</c><00:10:50.320><c> and</c><00:10:50.480><c> sometimes,</c><00:10:50.920><c> you</c><00:10:51.000><c> know,</c>
+
+00:10:51.390 --> 00:10:51.400 align:start position:0%
+bit volatile and sometimes, you know,
+ 
+
+00:10:51.400 --> 00:10:53.510 align:start position:0%
+bit volatile and sometimes, you know,
+you<00:10:51.600><c> see</c><00:10:51.760><c> a</c><00:10:51.800><c> lot</c><00:10:52.000><c> of</c><00:10:52.080><c> signals</c><00:10:52.960><c> and</c><00:10:53.120><c> you</c><00:10:53.240><c> want</c><00:10:53.440><c> to</c>
+
+00:10:53.510 --> 00:10:53.520 align:start position:0%
+you see a lot of signals and you want to
+ 
+
+00:10:53.520 --> 00:10:55.310 align:start position:0%
+you see a lot of signals and you want to
+go<00:10:53.680><c> to</c><00:10:53.840><c> a</c><00:10:53.920><c> slightly</c><00:10:54.320><c> higher</c><00:10:54.640><c> time</c><00:10:54.920><c> frame,</c><00:10:55.160><c> but</c>
+
+00:10:55.310 --> 00:10:55.320 align:start position:0%
+go to a slightly higher time frame, but
+ 
+
+00:10:55.320 --> 00:10:57.110 align:start position:0%
+go to a slightly higher time frame, but
+you<00:10:55.400><c> want</c><00:10:55.520><c> to</c><00:10:55.600><c> stay</c><00:10:55.760><c> on</c><00:10:55.880><c> your</c><00:10:56.000><c> existing</c><00:10:56.520><c> chart.</c>
+
+00:10:57.110 --> 00:10:57.120 align:start position:0%
+you want to stay on your existing chart.
+ 
+
+00:10:57.120 --> 00:10:58.990 align:start position:0%
+you want to stay on your existing chart.
+This<00:10:57.320><c> is</c><00:10:57.440><c> how</c><00:10:57.600><c> you</c><00:10:57.720><c> do</c><00:10:57.920><c> it.</c>
+
+00:10:58.990 --> 00:10:59.000 align:start position:0%
+This is how you do it.
+ 
+
+00:10:59.000 --> 00:11:01.590 align:start position:0%
+This is how you do it.
+Now,<00:10:59.120><c> the</c><00:10:59.240><c> POC</c><00:10:59.680><c> movement</c><00:11:00.200><c> analysis</c><00:11:00.920><c> function,</c>
+
+00:11:01.590 --> 00:11:01.600 align:start position:0%
+Now, the POC movement analysis function,
+ 
+
+00:11:01.600 --> 00:11:02.910 align:start position:0%
+Now, the POC movement analysis function,
+right?<00:11:01.839><c> It's</c><00:11:02.000><c> it's</c><00:11:02.200><c> the</c><00:11:02.320><c> ultimate</c><00:11:02.640><c> edge,</c>
+
+00:11:02.910 --> 00:11:02.920 align:start position:0%
+right? It's it's the ultimate edge,
+ 
+
+00:11:02.920 --> 00:11:04.510 align:start position:0%
+right? It's it's the ultimate edge,
+right?<00:11:03.160><c> Because</c><00:11:03.360><c> you're</c><00:11:03.440><c> going</c><00:11:03.560><c> to</c><00:11:03.600><c> see</c><00:11:03.760><c> where</c>
+
+00:11:04.510 --> 00:11:04.520 align:start position:0%
+right? Because you're going to see where
+ 
+
+00:11:04.520 --> 00:11:06.390 align:start position:0%
+right? Because you're going to see where
+the<00:11:04.600><c> market</c><00:11:04.960><c> is</c><00:11:05.080><c> placing</c><00:11:05.560><c> its</c><00:11:05.760><c> conviction,</c>
+
+00:11:06.390 --> 00:11:06.400 align:start position:0%
+the market is placing its conviction,
+ 
+
+00:11:06.400 --> 00:11:08.430 align:start position:0%
+the market is placing its conviction,
+right?<00:11:06.560><c> Through</c><00:11:06.880><c> POC,</c><00:11:07.440><c> right?</c><00:11:08.160><c> Remember,</c>
+
+00:11:08.430 --> 00:11:08.440 align:start position:0%
+right? Through POC, right? Remember,
+ 
+
+00:11:08.440 --> 00:11:10.750 align:start position:0%
+right? Through POC, right? Remember,
+volume<00:11:09.000><c> is</c><00:11:09.160><c> the</c><00:11:09.280><c> fuel</c><00:11:09.600><c> that</c><00:11:09.800><c> drives</c><00:11:10.320><c> price.</c>
+
+00:11:10.750 --> 00:11:10.760 align:start position:0%
+volume is the fuel that drives price.
+ 
+
+00:11:10.760 --> 00:11:12.150 align:start position:0%
+volume is the fuel that drives price.
+Without<00:11:11.080><c> sufficient</c><00:11:11.520><c> volume,</c><00:11:11.839><c> price</c>
+
+00:11:12.150 --> 00:11:12.160 align:start position:0%
+Without sufficient volume, price
+ 
+
+00:11:12.160 --> 00:11:14.270 align:start position:0%
+Without sufficient volume, price
+movements<00:11:12.520><c> are</c><00:11:12.800><c> unsustainable.</c><00:11:13.880><c> POC</c>
+
+00:11:14.270 --> 00:11:14.280 align:start position:0%
+movements are unsustainable. POC
+ 
+
+00:11:14.280 --> 00:11:16.790 align:start position:0%
+movements are unsustainable. POC
+movements<00:11:15.480><c> show</c><00:11:15.720><c> you</c><00:11:16.000><c> exactly</c><00:11:16.560><c> where</c><00:11:16.680><c> the</c>
+
+00:11:16.790 --> 00:11:16.800 align:start position:0%
+movements show you exactly where the
+ 
+
+00:11:16.800 --> 00:11:18.510 align:start position:0%
+movements show you exactly where the
+market<00:11:17.120><c> is</c><00:11:17.240><c> placing</c><00:11:17.560><c> its</c><00:11:17.720><c> conviction,</c><00:11:18.200><c> giving</c>
+
+00:11:18.510 --> 00:11:18.520 align:start position:0%
+market is placing its conviction, giving
+ 
+
+00:11:18.520 --> 00:11:20.070 align:start position:0%
+market is placing its conviction, giving
+you<00:11:18.640><c> the</c><00:11:18.760><c> ultimate</c><00:11:19.200><c> edge</c><00:11:19.440><c> in</c><00:11:19.520><c> determining</c>
+
+00:11:20.070 --> 00:11:20.080 align:start position:0%
+you the ultimate edge in determining
+ 
+
+00:11:20.080 --> 00:11:21.430 align:start position:0%
+you the ultimate edge in determining
+which<00:11:20.320><c> moves</c><00:11:20.560><c> will</c><00:11:20.680><c> stick</c><00:11:21.000><c> and</c><00:11:21.120><c> which</c><00:11:21.320><c> will</c>
+
+00:11:21.430 --> 00:11:21.440 align:start position:0%
+which moves will stick and which will
+ 
+
+00:11:21.440 --> 00:11:22.510 align:start position:0%
+which moves will stick and which will
+fail.
+
+00:11:22.510 --> 00:11:22.520 align:start position:0%
+fail.
+ 
+
+00:11:22.520 --> 00:11:23.790 align:start position:0%
+fail.
+So,<00:11:22.640><c> you're</c><00:11:22.720><c> going</c><00:11:22.839><c> to</c><00:11:22.920><c> look</c><00:11:23.160><c> for</c><00:11:23.400><c> volume</c>
+
+00:11:23.790 --> 00:11:23.800 align:start position:0%
+So, you're going to look for volume
+ 
+
+00:11:23.800 --> 00:11:25.630 align:start position:0%
+So, you're going to look for volume
+acceptance,<00:11:24.360><c> right?</c><00:11:24.560><c> POC</c><00:11:25.000><c> shifting</c><00:11:25.400><c> higher</c>
+
+00:11:25.630 --> 00:11:25.640 align:start position:0%
+acceptance, right? POC shifting higher
+ 
+
+00:11:25.640 --> 00:11:27.390 align:start position:0%
+acceptance, right? POC shifting higher
+with<00:11:25.839><c> rising</c><00:11:26.200><c> prices.</c><00:11:26.960><c> Maybe</c><00:11:27.200><c> you're</c><00:11:27.280><c> going</c>
+
+00:11:27.390 --> 00:11:27.400 align:start position:0%
+with rising prices. Maybe you're going
+ 
+
+00:11:27.400 --> 00:11:29.829 align:start position:0%
+with rising prices. Maybe you're going
+to<00:11:27.440><c> see</c><00:11:27.720><c> a</c><00:11:27.760><c> market</c><00:11:28.160><c> rejection</c><00:11:28.680><c> where</c><00:11:29.480><c> POC</c>
+
+00:11:29.829 --> 00:11:29.839 align:start position:0%
+to see a market rejection where POC
+ 
+
+00:11:29.839 --> 00:11:31.790 align:start position:0%
+to see a market rejection where POC
+starts<00:11:30.120><c> migrating</c><00:11:30.600><c> lower</c><00:11:30.880><c> with</c><00:11:31.120><c> falling</c>
+
+00:11:31.790 --> 00:11:31.800 align:start position:0%
+starts migrating lower with falling
+ 
+
+00:11:31.800 --> 00:11:33.270 align:start position:0%
+starts migrating lower with falling
+prices.<00:11:32.839><c> It's</c><00:11:32.839><c> going</c><00:11:32.960><c> to</c><00:11:33.040><c> give</c><00:11:33.160><c> you</c>
+
+00:11:33.270 --> 00:11:33.280 align:start position:0%
+prices. It's going to give you
+ 
+
+00:11:33.280 --> 00:11:34.870 align:start position:0%
+prices. It's going to give you
+conviction<00:11:33.800><c> analysis.</c><00:11:34.320><c> You're</c><00:11:34.400><c> going</c><00:11:34.520><c> to</c>
+
+00:11:34.870 --> 00:11:34.880 align:start position:0%
+conviction analysis. You're going to
+ 
+
+00:11:34.880 --> 00:11:37.230 align:start position:0%
+conviction analysis. You're going to
+trend<00:11:35.200><c> in</c><00:11:35.320><c> acceptance</c><00:11:35.839><c> across</c><00:11:36.240><c> bars.</c><00:11:37.160><c> You</c>
+
+00:11:37.230 --> 00:11:37.240 align:start position:0%
+trend in acceptance across bars. You
+ 
+
+00:11:37.240 --> 00:11:39.230 align:start position:0%
+trend in acceptance across bars. You
+know,<00:11:37.360><c> maybe</c><00:11:38.080><c> um</c><00:11:38.200><c> for</c><00:11:38.360><c> reversals,</c><00:11:39.040><c> you</c><00:11:39.120><c> know,</c>
+
+00:11:39.230 --> 00:11:39.240 align:start position:0%
+know, maybe um for reversals, you know,
+ 
+
+00:11:39.240 --> 00:11:41.230 align:start position:0%
+know, maybe um for reversals, you know,
+price<00:11:39.520><c> and</c><00:11:39.640><c> POC</c><00:11:40.040><c> move</c><00:11:40.480><c> in</c><00:11:40.680><c> the</c><00:11:40.800><c> opposite</c>
+
+00:11:41.230 --> 00:11:41.240 align:start position:0%
+price and POC move in the opposite
+ 
+
+00:11:41.240 --> 00:11:42.950 align:start position:0%
+price and POC move in the opposite
+direction<00:11:41.839><c> and</c><00:11:41.960><c> that's</c><00:11:42.160><c> maybe</c><00:11:42.360><c> not</c><00:11:42.560><c> a</c><00:11:42.600><c> trade</c>
+
+00:11:42.950 --> 00:11:42.960 align:start position:0%
+direction and that's maybe not a trade
+ 
+
+00:11:42.960 --> 00:11:45.190 align:start position:0%
+direction and that's maybe not a trade
+that<00:11:43.120><c> you</c><00:11:43.200><c> want</c><00:11:43.400><c> to</c><00:11:43.480><c> take.</c>
+
+00:11:45.190 --> 00:11:45.200 align:start position:0%
+that you want to take.
+ 
+
+00:11:45.200 --> 00:11:47.829 align:start position:0%
+that you want to take.
+So,<00:11:45.440><c> why</c><00:11:45.640><c> POC</c><00:11:46.120><c> helps</c><00:11:46.400><c> analysis</c><00:11:47.000><c> is</c><00:11:47.640><c> it's</c><00:11:47.720><c> going</c>
+
+00:11:47.829 --> 00:11:47.839 align:start position:0%
+So, why POC helps analysis is it's going
+ 
+
+00:11:47.839 --> 00:11:49.350 align:start position:0%
+So, why POC helps analysis is it's going
+to<00:11:47.880><c> show</c><00:11:48.000><c> you</c><00:11:48.120><c> that</c><00:11:48.280><c> volume</c><00:11:48.640><c> acceptance,</c><00:11:49.200><c> like</c>
+
+00:11:49.350 --> 00:11:49.360 align:start position:0%
+to show you that volume acceptance, like
+ 
+
+00:11:49.360 --> 00:11:51.390 align:start position:0%
+to show you that volume acceptance, like
+I<00:11:49.400><c> said,</c><00:11:49.640><c> POC</c><00:11:50.120><c> shifts</c><00:11:50.440><c> higher</c><00:11:50.680><c> with</c><00:11:50.880><c> rising</c>
+
+00:11:51.390 --> 00:11:51.400 align:start position:0%
+I said, POC shifts higher with rising
+ 
+
+00:11:51.400 --> 00:11:53.270 align:start position:0%
+I said, POC shifts higher with rising
+prices.<00:11:52.360><c> Traders</c><00:11:52.640><c> are</c><00:11:52.760><c> accepting</c><00:11:53.160><c> and</c>
+
+00:11:53.270 --> 00:11:53.280 align:start position:0%
+prices. Traders are accepting and
+ 
+
+00:11:53.280 --> 00:11:55.310 align:start position:0%
+prices. Traders are accepting and
+embracing<00:11:53.720><c> elevated</c><00:11:54.200><c> price</c><00:11:54.480><c> levels.</c><00:11:55.240><c> The</c>
+
+00:11:55.310 --> 00:11:55.320 align:start position:0%
+embracing elevated price levels. The
+ 
+
+00:11:55.320 --> 00:11:57.390 align:start position:0%
+embracing elevated price levels. The
+move<00:11:56.000><c> has</c><00:11:56.360><c> conviction</c><00:11:56.800><c> behind</c><00:11:57.160><c> it.</c><00:11:57.280><c> This</c>
+
+00:11:57.390 --> 00:11:57.400 align:start position:0%
+move has conviction behind it. This
+ 
+
+00:11:57.400 --> 00:11:59.630 align:start position:0%
+move has conviction behind it. This
+confirms<00:11:57.800><c> the</c><00:11:57.880><c> rally</c><00:11:58.240><c> is</c><00:11:58.440><c> real.</c>
+
+00:11:59.630 --> 00:11:59.640 align:start position:0%
+confirms the rally is real.
+ 
+
+00:11:59.640 --> 00:12:00.870 align:start position:0%
+confirms the rally is real.
+It's<00:11:59.720><c> going</c><00:11:59.839><c> to</c><00:11:59.880><c> show</c><00:12:00.000><c> you</c><00:12:00.080><c> market</c><00:12:00.400><c> rejection.</c>
+
+00:12:00.870 --> 00:12:00.880 align:start position:0%
+It's going to show you market rejection.
+ 
+
+00:12:00.880 --> 00:12:03.110 align:start position:0%
+It's going to show you market rejection.
+POC<00:12:01.480><c> migrating</c><00:12:01.920><c> lower</c><00:12:02.200><c> with</c><00:12:02.400><c> falling</c><00:12:02.720><c> prices.</c>
+
+00:12:03.110 --> 00:12:03.120 align:start position:0%
+POC migrating lower with falling prices.
+ 
+
+00:12:03.120 --> 00:12:04.910 align:start position:0%
+POC migrating lower with falling prices.
+Traders<00:12:03.400><c> are</c><00:12:03.520><c> only</c><00:12:03.760><c> willing</c><00:12:04.040><c> to</c><00:12:04.160><c> participate</c>
+
+00:12:04.910 --> 00:12:04.920 align:start position:0%
+Traders are only willing to participate
+ 
+
+00:12:04.920 --> 00:12:06.870 align:start position:0%
+Traders are only willing to participate
+at<00:12:05.080><c> reduced</c><00:12:05.520><c> levels.</c><00:12:06.120><c> Selling</c><00:12:06.440><c> pressure</c><00:12:06.720><c> is</c>
+
+00:12:06.870 --> 00:12:06.880 align:start position:0%
+at reduced levels. Selling pressure is
+ 
+
+00:12:06.880 --> 00:12:09.110 align:start position:0%
+at reduced levels. Selling pressure is
+genuine<00:12:07.400><c> and</c><00:12:07.600><c> sustainable.</c><00:12:08.480><c> The</c><00:12:08.560><c> move</c><00:12:08.800><c> down</c>
+
+00:12:09.110 --> 00:12:09.120 align:start position:0%
+genuine and sustainable. The move down
+ 
+
+00:12:09.120 --> 00:12:10.430 align:start position:0%
+genuine and sustainable. The move down
+has<00:12:09.400><c> legs.</c><00:12:10.000><c> It's</c><00:12:10.080><c> going</c><00:12:10.200><c> to</c><00:12:10.240><c> give</c><00:12:10.360><c> you</c>
+
+00:12:10.430 --> 00:12:10.440 align:start position:0%
+has legs. It's going to give you
+ 
+
+00:12:10.440 --> 00:12:12.510 align:start position:0%
+has legs. It's going to give you
+conviction<00:12:10.920><c> analysis.</c><00:12:11.560><c> Monitor</c><00:12:12.000><c> current</c><00:12:12.400><c> and</c>
+
+00:12:12.510 --> 00:12:12.520 align:start position:0%
+conviction analysis. Monitor current and
+ 
+
+00:12:12.520 --> 00:12:14.750 align:start position:0%
+conviction analysis. Monitor current and
+previous<00:12:12.920><c> bars</c><00:12:13.240><c> to</c><00:12:13.360><c> identify</c><00:12:13.800><c> trends</c><00:12:14.560><c> in</c>
+
+00:12:14.750 --> 00:12:14.760 align:start position:0%
+previous bars to identify trends in
+ 
+
+00:12:14.760 --> 00:12:16.230 align:start position:0%
+previous bars to identify trends in
+market<00:12:15.080><c> acceptance.</c><00:12:15.600><c> You</c><00:12:15.640><c> can</c><00:12:15.800><c> see</c><00:12:16.000><c> when</c>
+
+00:12:16.230 --> 00:12:16.240 align:start position:0%
+market acceptance. You can see when
+ 
+
+00:12:16.240 --> 00:12:17.990 align:start position:0%
+market acceptance. You can see when
+buying<00:12:16.600><c> or</c><00:12:16.720><c> selling</c><00:12:17.040><c> conviction</c><00:12:17.880><c> is</c>
+
+00:12:17.990 --> 00:12:18.000 align:start position:0%
+buying or selling conviction is
+ 
+
+00:12:18.000 --> 00:12:19.630 align:start position:0%
+buying or selling conviction is
+strengthening<00:12:18.560><c> or</c><00:12:18.720><c> weakening</c><00:12:19.160><c> before</c><00:12:19.520><c> the</c>
+
+00:12:19.630 --> 00:12:19.640 align:start position:0%
+strengthening or weakening before the
+ 
+
+00:12:19.640 --> 00:12:22.070 align:start position:0%
+strengthening or weakening before the
+crowd<00:12:20.000><c> catches</c><00:12:20.400><c> on.</c>
+
+00:12:22.070 --> 00:12:22.080 align:start position:0%
+crowd catches on.
+ 
+
+00:12:22.080 --> 00:12:23.910 align:start position:0%
+crowd catches on.
+So,<00:12:22.160><c> here's</c>
+
+00:12:23.910 --> 00:12:23.920 align:start position:0%
+So, here's
+ 
+
+00:12:23.920 --> 00:12:26.110 align:start position:0%
+So, here's
+the<00:12:24.000><c> euro</c><00:12:24.240><c> currency</c><00:12:24.839><c> signals,</c><00:12:25.680><c> right?</c><00:12:25.960><c> Not</c>
+
+00:12:26.110 --> 00:12:26.120 align:start position:0%
+the euro currency signals, right? Not
+ 
+
+00:12:26.120 --> 00:12:27.710 align:start position:0%
+the euro currency signals, right? Not
+just<00:12:26.320><c> your</c><00:12:26.440><c> normal</c><00:12:26.760><c> signals,</c><00:12:27.160><c> but</c><00:12:27.360><c> signals</c>
+
+00:12:27.710 --> 00:12:27.720 align:start position:0%
+just your normal signals, but signals
+ 
+
+00:12:27.720 --> 00:12:31.670 align:start position:0%
+just your normal signals, but signals
+that<00:12:27.920><c> are</c><00:12:28.120><c> using</c><00:12:28.680><c> the</c><00:12:28.839><c> POC</c><00:12:29.600><c> movements,</c><00:12:30.760><c> okay?</c>
+
+00:12:31.670 --> 00:12:31.680 align:start position:0%
+that are using the POC movements, okay?
+ 
+
+00:12:31.680 --> 00:12:32.870 align:start position:0%
+that are using the POC movements, okay?
+And<00:12:32.040><c> you</c><00:12:32.120><c> know,</c><00:12:32.200><c> you</c><00:12:32.280><c> can</c><00:12:32.360><c> see</c><00:12:32.480><c> it's</c><00:12:32.600><c> catching</c>
+
+00:12:32.870 --> 00:12:32.880 align:start position:0%
+And you know, you can see it's catching
+ 
+
+00:12:32.880 --> 00:12:34.670 align:start position:0%
+And you know, you can see it's catching
+a<00:12:32.920><c> lot</c><00:12:33.240><c> of</c><00:12:33.280><c> these</c><00:12:33.480><c> nice</c><00:12:33.720><c> sell-offs</c><00:12:34.280><c> and</c><00:12:34.520><c> some</c>
+
+00:12:34.670 --> 00:12:34.680 align:start position:0%
+a lot of these nice sell-offs and some
+ 
+
+00:12:34.680 --> 00:12:35.630 align:start position:0%
+a lot of these nice sell-offs and some
+of<00:12:34.760><c> these</c>
+
+00:12:35.630 --> 00:12:35.640 align:start position:0%
+of these
+ 
+
+00:12:35.640 --> 00:12:37.630 align:start position:0%
+of these
+uh<00:12:35.760><c> nice</c><00:12:36.080><c> rallies</c><00:12:36.560><c> here,</c><00:12:37.200><c> right?</c><00:12:37.360><c> And</c><00:12:37.520><c> and</c>
+
+00:12:37.630 --> 00:12:37.640 align:start position:0%
+uh nice rallies here, right? And and
+ 
+
+00:12:37.640 --> 00:12:38.790 align:start position:0%
+uh nice rallies here, right? And and
+that's<00:12:37.839><c> what</c><00:12:37.920><c> it</c><00:12:38.000><c> gives</c><00:12:38.200><c> you</c><00:12:38.320><c> cuz</c><00:12:38.480><c> it's</c><00:12:38.640><c> going</c>
+
+00:12:38.790 --> 00:12:38.800 align:start position:0%
+that's what it gives you cuz it's going
+ 
+
+00:12:38.800 --> 00:12:41.350 align:start position:0%
+that's what it gives you cuz it's going
+to<00:12:38.880><c> it's</c><00:12:39.240><c> it's</c><00:12:39.440><c> an</c><00:12:39.640><c> extra</c><00:12:40.440><c> tool</c><00:12:41.040><c> in</c><00:12:41.200><c> your</c>
+
+00:12:41.350 --> 00:12:41.360 align:start position:0%
+to it's it's an extra tool in your
+ 
+
+00:12:41.360 --> 00:12:44.190 align:start position:0%
+to it's it's an extra tool in your
+arsenal<00:12:42.200><c> to</c><00:12:42.320><c> say</c><00:12:42.480><c> you're</c><00:12:42.640><c> trading</c><00:12:43.680><c> with</c>
+
+00:12:44.190 --> 00:12:44.200 align:start position:0%
+arsenal to say you're trading with
+ 
+
+00:12:44.200 --> 00:12:46.630 align:start position:0%
+arsenal to say you're trading with
+volume<00:12:44.839><c> in</c><00:12:45.000><c> the</c><00:12:45.080><c> direction</c><00:12:45.600><c> that</c><00:12:45.800><c> volume</c><00:12:46.280><c> is</c>
+
+00:12:46.630 --> 00:12:46.640 align:start position:0%
+volume in the direction that volume is
+ 
+
+00:12:46.640 --> 00:12:48.829 align:start position:0%
+volume in the direction that volume is
+moving.<00:12:47.800><c> Now,</c><00:12:47.960><c> the</c><00:12:48.040><c> momentum</c><00:12:48.520><c> strength</c>
+
+00:12:48.829 --> 00:12:48.839 align:start position:0%
+moving. Now, the momentum strength
+ 
+
+00:12:48.839 --> 00:12:52.190 align:start position:0%
+moving. Now, the momentum strength
+filter<00:12:49.600><c> keeps</c><00:12:49.880><c> you</c><00:12:50.040><c> in</c><00:12:50.600><c> the</c><00:12:50.680><c> trade</c>
+
+00:12:52.190 --> 00:12:52.200 align:start position:0%
+filter keeps you in the trade
+ 
+
+00:12:52.200 --> 00:12:54.110 align:start position:0%
+filter keeps you in the trade
+when<00:12:52.400><c> there's</c><00:12:52.600><c> momentum</c><00:12:53.080><c> in</c><00:12:53.160><c> the</c><00:12:53.240><c> market.</c><00:12:53.680><c> So,</c>
+
+00:12:54.110 --> 00:12:54.120 align:start position:0%
+when there's momentum in the market. So,
+ 
+
+00:12:54.120 --> 00:12:55.750 align:start position:0%
+when there's momentum in the market. So,
+trade<00:12:54.440><c> in</c><00:12:54.520><c> the</c><00:12:54.600><c> direction</c><00:12:55.080><c> of</c><00:12:55.160><c> the</c><00:12:55.240><c> momentum,</c>
+
+00:12:55.750 --> 00:12:55.760 align:start position:0%
+trade in the direction of the momentum,
+ 
+
+00:12:55.760 --> 00:12:57.590 align:start position:0%
+trade in the direction of the momentum,
+right?<00:12:55.920><c> That's</c><00:12:56.400><c> what</c><00:12:56.520><c> you</c><00:12:56.600><c> should</c><00:12:56.760><c> always</c><00:12:57.480><c> be</c>
+
+00:12:57.590 --> 00:12:57.600 align:start position:0%
+right? That's what you should always be
+ 
+
+00:12:57.600 --> 00:12:59.630 align:start position:0%
+right? That's what you should always be
+looking<00:12:57.920><c> to</c><00:12:58.040><c> do.</c><00:12:58.680><c> The</c><00:12:58.800><c> order</c><00:12:59.000><c> flow</c><00:12:59.200><c> pressure</c>
+
+00:12:59.630 --> 00:12:59.640 align:start position:0%
+looking to do. The order flow pressure
+ 
+
+00:12:59.640 --> 00:13:01.510 align:start position:0%
+looking to do. The order flow pressure
+now<00:13:00.000><c> analyzes</c>
+
+00:13:01.510 --> 00:13:01.520 align:start position:0%
+now analyzes
+ 
+
+00:13:01.520 --> 00:13:03.750 align:start position:0%
+now analyzes
+order<00:13:01.760><c> flow</c><00:13:02.000><c> and</c><00:13:02.160><c> price</c><00:13:02.480><c> action</c><00:13:03.080><c> and</c><00:13:03.240><c> momentum</c>
+
+00:13:03.750 --> 00:13:03.760 align:start position:0%
+order flow and price action and momentum
+ 
+
+00:13:03.760 --> 00:13:05.870 align:start position:0%
+order flow and price action and momentum
+together.<00:13:04.360><c> So,</c><00:13:04.560><c> when</c><00:13:04.720><c> momentum</c><00:13:05.200><c> aligns</c><00:13:05.720><c> with</c>
+
+00:13:05.870 --> 00:13:05.880 align:start position:0%
+together. So, when momentum aligns with
+ 
+
+00:13:05.880 --> 00:13:07.590 align:start position:0%
+together. So, when momentum aligns with
+the<00:13:05.960><c> pressure</c><00:13:06.280><c> signal,</c><00:13:06.680><c> it</c><00:13:06.880><c> reinforces</c><00:13:07.520><c> the</c>
+
+00:13:07.590 --> 00:13:07.600 align:start position:0%
+the pressure signal, it reinforces the
+ 
+
+00:13:07.600 --> 00:13:09.750 align:start position:0%
+the pressure signal, it reinforces the
+validity<00:13:08.160><c> of</c><00:13:08.280><c> the</c><00:13:08.400><c> trade.</c><00:13:09.160><c> When</c><00:13:09.320><c> momentum</c>
+
+00:13:09.750 --> 00:13:09.760 align:start position:0%
+validity of the trade. When momentum
+ 
+
+00:13:09.760 --> 00:13:12.070 align:start position:0%
+validity of the trade. When momentum
+diverges,<00:13:10.360><c> it's</c><00:13:10.560><c> telling</c><00:13:10.880><c> you</c><00:13:11.000><c> to</c><00:13:11.120><c> pass.</c><00:13:11.960><c> Now,</c>
+
+00:13:12.070 --> 00:13:12.080 align:start position:0%
+diverges, it's telling you to pass. Now,
+ 
+
+00:13:12.080 --> 00:13:14.110 align:start position:0%
+diverges, it's telling you to pass. Now,
+there's<00:13:12.280><c> four</c><00:13:12.480><c> strength</c><00:13:12.839><c> levels.</c><00:13:13.640><c> Zero</c><00:13:14.000><c> is</c>
+
+00:13:14.110 --> 00:13:14.120 align:start position:0%
+there's four strength levels. Zero is
+ 
+
+00:13:14.120 --> 00:13:16.230 align:start position:0%
+there's four strength levels. Zero is
+disabled.<00:13:14.960><c> One</c><00:13:15.280><c> is,</c><00:13:15.600><c> you</c><00:13:15.680><c> know,</c><00:13:15.839><c> basically</c>
+
+00:13:16.230 --> 00:13:16.240 align:start position:0%
+disabled. One is, you know, basically
+ 
+
+00:13:16.240 --> 00:13:18.070 align:start position:0%
+disabled. One is, you know, basically
+the<00:13:16.320><c> minimum.</c>
+
+00:13:18.070 --> 00:13:18.080 align:start position:0%
+the minimum.
+ 
+
+00:13:18.080 --> 00:13:20.190 align:start position:0%
+the minimum.
+Three<00:13:18.280><c> is</c><00:13:18.440><c> average.</c><00:13:19.600><c> So,</c><00:13:19.839><c> that's</c><00:13:19.960><c> sort</c><00:13:20.120><c> of</c>
+
+00:13:20.190 --> 00:13:20.200 align:start position:0%
+Three is average. So, that's sort of
+ 
+
+00:13:20.200 --> 00:13:21.990 align:start position:0%
+Three is average. So, that's sort of
+balanced<00:13:20.640><c> filtering.</c><00:13:21.240><c> It's</c><00:13:21.360><c> a</c><00:13:21.440><c> recommended</c>
+
+00:13:21.990 --> 00:13:22.000 align:start position:0%
+balanced filtering. It's a recommended
+ 
+
+00:13:22.000 --> 00:13:23.990 align:start position:0%
+balanced filtering. It's a recommended
+starting<00:13:22.360><c> point.</c><00:13:22.880><c> Six</c><00:13:23.160><c> is</c><00:13:23.280><c> the</c><00:13:23.400><c> strongest.</c>
+
+00:13:23.990 --> 00:13:24.000 align:start position:0%
+starting point. Six is the strongest.
+ 
+
+00:13:24.000 --> 00:13:26.950 align:start position:0%
+starting point. Six is the strongest.
+It's<00:13:24.320><c> only</c><00:13:24.600><c> the</c><00:13:24.720><c> highest</c><00:13:25.120><c> momentum</c><00:13:25.760><c> signals</c>
+
+00:13:26.950 --> 00:13:26.960 align:start position:0%
+It's only the highest momentum signals
+ 
+
+00:13:26.960 --> 00:13:27.590 align:start position:0%
+It's only the highest momentum signals
+um
+
+00:13:27.590 --> 00:13:27.600 align:start position:0%
+um
+ 
+
+00:13:27.600 --> 00:13:29.829 align:start position:0%
+um
+will<00:13:27.760><c> show</c><00:13:28.000><c> up.</c>
+
+00:13:29.829 --> 00:13:29.839 align:start position:0%
+will show up.
+ 
+
+00:13:29.839 --> 00:13:32.030 align:start position:0%
+will show up.
+Now,<00:13:30.360><c> what</c><00:13:30.560><c> momentum</c><00:13:31.080><c> adds</c><00:13:31.520><c> to</c><00:13:31.760><c> the</c><00:13:31.880><c> order</c>
+
+00:13:32.030 --> 00:13:32.040 align:start position:0%
+Now, what momentum adds to the order
+ 
+
+00:13:32.040 --> 00:13:34.710 align:start position:0%
+Now, what momentum adds to the order
+flow<00:13:32.160><c> pressure</c><00:13:32.480><c> indicator</c><00:13:33.080><c> is</c><00:13:33.839><c> it</c><00:13:33.960><c> can</c><00:13:34.480><c> it's</c><00:13:34.640><c> a</c>
+
+00:13:34.710 --> 00:13:34.720 align:start position:0%
+flow pressure indicator is it can it's a
+ 
+
+00:13:34.720 --> 00:13:36.829 align:start position:0%
+flow pressure indicator is it can it's a
+confirmation<00:13:35.400><c> signal.</c><00:13:35.760><c> So,</c><00:13:35.880><c> when</c><00:13:36.280><c> momentum</c>
+
+00:13:36.829 --> 00:13:36.839 align:start position:0%
+confirmation signal. So, when momentum
+ 
+
+00:13:36.839 --> 00:13:38.390 align:start position:0%
+confirmation signal. So, when momentum
+aligns<00:13:37.280><c> with</c><00:13:37.440><c> a</c><00:13:37.480><c> pressure</c><00:13:37.800><c> signal,</c><00:13:38.240><c> it</c>
+
+00:13:38.390 --> 00:13:38.400 align:start position:0%
+aligns with a pressure signal, it
+ 
+
+00:13:38.400 --> 00:13:42.590 align:start position:0%
+aligns with a pressure signal, it
+reinforces<00:13:39.160><c> validity.</c><00:13:40.360><c> Passive</c><00:13:40.680><c> absorption</c>
+
+00:13:42.590 --> 00:13:42.600 align:start position:0%
+reinforces validity. Passive absorption
+ 
+
+00:13:42.600 --> 00:13:45.430 align:start position:0%
+reinforces validity. Passive absorption
+and<00:13:43.160><c> the</c><00:13:43.240><c> market</c><00:13:44.160><c> has</c><00:13:44.400><c> momentum</c><00:13:44.920><c> in</c><00:13:45.080><c> the</c><00:13:45.160><c> same</c>
+
+00:13:45.430 --> 00:13:45.440 align:start position:0%
+and the market has momentum in the same
+ 
+
+00:13:45.440 --> 00:13:47.230 align:start position:0%
+and the market has momentum in the same
+direction.<00:13:45.920><c> That</c><00:13:46.040><c> should</c><00:13:46.200><c> give</c><00:13:46.360><c> you</c><00:13:46.520><c> a</c><00:13:46.640><c> higher</c>
+
+00:13:47.230 --> 00:13:47.240 align:start position:0%
+direction. That should give you a higher
+ 
+
+00:13:47.240 --> 00:13:50.310 align:start position:0%
+direction. That should give you a higher
+conviction<00:13:48.000><c> trade.</c><00:13:49.080><c> If</c><00:13:49.240><c> momentum</c><00:13:49.720><c> diverges,</c>
+
+00:13:50.310 --> 00:13:50.320 align:start position:0%
+conviction trade. If momentum diverges,
+ 
+
+00:13:50.320 --> 00:13:52.270 align:start position:0%
+conviction trade. If momentum diverges,
+so<00:13:50.560><c> when</c><00:13:50.760><c> momentum</c><00:13:51.440><c> opposes</c><00:13:51.880><c> the</c><00:13:51.960><c> pressure</c>
+
+00:13:52.270 --> 00:13:52.280 align:start position:0%
+so when momentum opposes the pressure
+ 
+
+00:13:52.280 --> 00:13:53.750 align:start position:0%
+so when momentum opposes the pressure
+signal,<00:13:52.640><c> it's</c><00:13:52.800><c> a</c><00:13:52.839><c> warning.</c><00:13:53.320><c> The</c><00:13:53.440><c> passive</c>
+
+00:13:53.750 --> 00:13:53.760 align:start position:0%
+signal, it's a warning. The passive
+ 
+
+00:13:53.760 --> 00:13:56.190 align:start position:0%
+signal, it's a warning. The passive
+detection<00:13:54.360><c> may</c><00:13:54.560><c> be</c><00:13:54.720><c> valid,</c><00:13:55.600><c> but</c><00:13:55.760><c> the</c><00:13:55.839><c> broader</c>
+
+00:13:56.190 --> 00:13:56.200 align:start position:0%
+detection may be valid, but the broader
+ 
+
+00:13:56.200 --> 00:13:57.790 align:start position:0%
+detection may be valid, but the broader
+market<00:13:56.520><c> dynamics</c><00:13:57.040><c> aren't</c><00:13:57.280><c> supporting</c><00:13:57.680><c> the</c>
+
+00:13:57.790 --> 00:13:57.800 align:start position:0%
+market dynamics aren't supporting the
+ 
+
+00:13:57.800 --> 00:14:00.030 align:start position:0%
+market dynamics aren't supporting the
+trade,<00:13:58.120><c> so</c><00:13:58.240><c> stay</c><00:13:58.480><c> out.</c>
+
+00:14:00.030 --> 00:14:00.040 align:start position:0%
+trade, so stay out.
+ 
+
+00:14:00.040 --> 00:14:02.510 align:start position:0%
+trade, so stay out.
+Market<00:14:00.400><c> psychology,</c><00:14:01.520><c> right?</c><00:14:01.800><c> Momentum</c>
+
+00:14:02.510 --> 00:14:02.520 align:start position:0%
+Market psychology, right? Momentum
+ 
+
+00:14:02.520 --> 00:14:04.270 align:start position:0%
+Market psychology, right? Momentum
+reflects<00:14:03.080><c> the</c><00:14:03.160><c> collective</c><00:14:03.640><c> sentiment</c><00:14:04.160><c> of</c>
+
+00:14:04.270 --> 00:14:04.280 align:start position:0%
+reflects the collective sentiment of
+ 
+
+00:14:04.280 --> 00:14:05.950 align:start position:0%
+reflects the collective sentiment of
+traders.<00:14:04.720><c> It</c><00:14:04.839><c> shows</c><00:14:05.160><c> you</c><00:14:05.280><c> the</c><00:14:05.440><c> underlying</c>
+
+00:14:05.950 --> 00:14:05.960 align:start position:0%
+traders. It shows you the underlying
+ 
+
+00:14:05.960 --> 00:14:08.350 align:start position:0%
+traders. It shows you the underlying
+forces<00:14:06.480><c> driving</c><00:14:06.960><c> the</c><00:14:07.040><c> market</c><00:14:07.800><c> and</c><00:14:07.960><c> combined</c>
+
+00:14:08.350 --> 00:14:08.360 align:start position:0%
+forces driving the market and combined
+ 
+
+00:14:08.360 --> 00:14:10.030 align:start position:0%
+forces driving the market and combined
+with<00:14:08.520><c> passive</c><00:14:08.839><c> detection,</c><00:14:09.360><c> you</c><00:14:09.480><c> see</c><00:14:09.680><c> both</c><00:14:09.960><c> the</c>
+
+00:14:10.030 --> 00:14:10.040 align:start position:0%
+with passive detection, you see both the
+ 
+
+00:14:10.040 --> 00:14:12.110 align:start position:0%
+with passive detection, you see both the
+structure<00:14:10.600><c> and</c><00:14:10.839><c> the</c><00:14:10.960><c> energy.</c><00:14:11.959><c> It's</c><00:14:11.959><c> going</c><00:14:12.079><c> to</c>
+
+00:14:12.110 --> 00:14:12.120 align:start position:0%
+structure and the energy. It's going to
+ 
+
+00:14:12.120 --> 00:14:13.870 align:start position:0%
+structure and the energy. It's going to
+give<00:14:12.240><c> you</c><00:14:12.320><c> better</c><00:14:12.880><c> entry</c><00:14:13.280><c> timing.</c><00:14:13.720><c> By</c>
+
+00:14:13.870 --> 00:14:13.880 align:start position:0%
+give you better entry timing. By
+ 
+
+00:14:13.880 --> 00:14:15.990 align:start position:0%
+give you better entry timing. By
+filtering<00:14:14.400><c> signals</c><00:14:14.800><c> through</c><00:14:15.000><c> momentum,</c><00:14:15.839><c> you</c>
+
+00:14:15.990 --> 00:14:16.000 align:start position:0%
+filtering signals through momentum, you
+ 
+
+00:14:16.000 --> 00:14:17.990 align:start position:0%
+filtering signals through momentum, you
+enter<00:14:16.240><c> trades</c><00:14:16.680><c> that</c><00:14:16.800><c> have</c><00:14:17.000><c> both</c><00:14:17.600><c> passive</c>
+
+00:14:17.990 --> 00:14:18.000 align:start position:0%
+enter trades that have both passive
+ 
+
+00:14:18.000 --> 00:14:20.750 align:start position:0%
+enter trades that have both passive
+support<00:14:18.520><c> and</c><00:14:18.839><c> directional</c><00:14:19.839><c> energy.</c><00:14:20.680><c> You're</c>
+
+00:14:20.750 --> 00:14:20.760 align:start position:0%
+support and directional energy. You're
+ 
+
+00:14:20.760 --> 00:14:21.910 align:start position:0%
+support and directional energy. You're
+going<00:14:20.880><c> to</c><00:14:20.920><c> have</c><00:14:21.040><c> fewer</c><00:14:21.320><c> signals,</c><00:14:21.760><c> but</c>
+
+00:14:21.910 --> 00:14:21.920 align:start position:0%
+going to have fewer signals, but
+ 
+
+00:14:21.920 --> 00:14:25.190 align:start position:0%
+going to have fewer signals, but
+significantly<00:14:22.800><c> higher</c><00:14:23.200><c> quality</c><00:14:23.720><c> signals.</c>
+
+00:14:25.190 --> 00:14:25.200 align:start position:0%
+significantly higher quality signals.
+ 
+
+00:14:25.200 --> 00:14:26.710 align:start position:0%
+significantly higher quality signals.
+Right?<00:14:25.400><c> And</c><00:14:25.520><c> that's</c><00:14:25.720><c> the</c><00:14:25.800><c> whole</c><00:14:26.000><c> point,</c>
+
+00:14:26.710 --> 00:14:26.720 align:start position:0%
+Right? And that's the whole point,
+ 
+
+00:14:26.720 --> 00:14:30.870 align:start position:0%
+Right? And that's the whole point,
+taking<00:14:27.160><c> higher</c><00:14:27.600><c> quality</c><00:14:28.200><c> trades.</c>
+
+00:14:30.870 --> 00:14:30.880 align:start position:0%
+taking higher quality trades.
+ 
+
+00:14:30.880 --> 00:14:33.030 align:start position:0%
+taking higher quality trades.
+See<00:14:31.160><c> See</c><00:14:31.520><c> here,</c><00:14:31.839><c> I</c><00:14:31.920><c> got</c><00:14:32.079><c> these</c><00:14:32.400><c> are</c><00:14:32.520><c> just,</c><00:14:33.000><c> you</c>
+
+00:14:33.030 --> 00:14:33.040 align:start position:0%
+See See here, I got these are just, you
+ 
+
+00:14:33.040 --> 00:14:35.470 align:start position:0%
+See See here, I got these are just, you
+know,<00:14:33.800><c> um</c><00:14:34.240><c> this</c><00:14:34.400><c> is</c><00:14:34.520><c> crude</c><00:14:34.720><c> oil,</c><00:14:35.120><c> right?</c><00:14:35.280><c> Crude</c>
+
+00:14:35.470 --> 00:14:35.480 align:start position:0%
+know, um this is crude oil, right? Crude
+ 
+
+00:14:35.480 --> 00:14:37.190 align:start position:0%
+know, um this is crude oil, right? Crude
+oil<00:14:35.640><c> we</c><00:14:35.760><c> know</c><00:14:35.959><c> is</c><00:14:36.240><c> is</c><00:14:36.480><c> moving.</c><00:14:36.800><c> Doesn't</c><00:14:37.040><c> look</c>
+
+00:14:37.190 --> 00:14:37.200 align:start position:0%
+oil we know is is moving. Doesn't look
+ 
+
+00:14:37.200 --> 00:14:38.750 align:start position:0%
+oil we know is is moving. Doesn't look
+like<00:14:37.360><c> a</c><00:14:37.400><c> big</c><00:14:37.560><c> move,</c><00:14:37.800><c> but</c><00:14:37.959><c> this</c><00:14:38.160><c> is</c><00:14:38.280><c> a</c><00:14:38.320><c> move</c><00:14:38.560><c> from</c>
+
+00:14:38.750 --> 00:14:38.760 align:start position:0%
+like a big move, but this is a move from
+ 
+
+00:14:38.760 --> 00:14:40.430 align:start position:0%
+like a big move, but this is a move from
+9480
+
+00:14:40.430 --> 00:14:40.440 align:start position:0%
+9480
+ 
+
+00:14:40.440 --> 00:14:42.590 align:start position:0%
+9480
+all<00:14:40.560><c> the</c><00:14:40.640><c> way</c><00:14:40.800><c> up</c><00:14:40.920><c> to</c><00:14:41.000><c> 9860.</c><00:14:42.120><c> So,</c><00:14:42.320><c> this</c><00:14:42.520><c> is</c>
+
+00:14:42.590 --> 00:14:42.600 align:start position:0%
+all the way up to 9860. So, this is
+ 
+
+00:14:42.600 --> 00:14:43.590 align:start position:0%
+all the way up to 9860. So, this is
+about<00:14:42.839><c> a</c>
+
+00:14:43.590 --> 00:14:43.600 align:start position:0%
+about a
+ 
+
+00:14:43.600 --> 00:14:46.110 align:start position:0%
+about a
+$4<00:14:44.160><c> move</c><00:14:44.640><c> and</c><00:14:44.880><c> you</c><00:14:45.000><c> want</c><00:14:45.160><c> to</c><00:14:45.240><c> be</c><00:14:45.360><c> trading</c><00:14:45.920><c> in</c>
+
+00:14:46.110 --> 00:14:46.120 align:start position:0%
+$4 move and you want to be trading in
+ 
+
+00:14:46.120 --> 00:14:47.750 align:start position:0%
+$4 move and you want to be trading in
+that<00:14:46.360><c> direction,</c><00:14:46.920><c> right?</c><00:14:47.120><c> It's</c><00:14:47.240><c> not</c><00:14:47.480><c> giving</c>
+
+00:14:47.750 --> 00:14:47.760 align:start position:0%
+that direction, right? It's not giving
+ 
+
+00:14:47.760 --> 00:14:50.949 align:start position:0%
+that direction, right? It's not giving
+you<00:14:47.959><c> any</c><00:14:48.240><c> short</c><00:14:48.600><c> signals</c><00:14:49.440><c> on</c><00:14:49.720><c> that</c><00:14:50.160><c> rally</c><00:14:50.640><c> up,</c>
+
+00:14:50.949 --> 00:14:50.959 align:start position:0%
+you any short signals on that rally up,
+ 
+
+00:14:50.959 --> 00:14:53.990 align:start position:0%
+you any short signals on that rally up,
+that<00:14:51.160><c> $4</c><00:14:51.920><c> rally</c><00:14:52.360><c> up.</c>
+
+00:14:53.990 --> 00:14:54.000 align:start position:0%
+that $4 rally up.
+ 
+
+00:14:54.000 --> 00:14:55.790 align:start position:0%
+that $4 rally up.
+Until<00:14:54.280><c> we</c><00:14:54.400><c> hit</c><00:14:54.560><c> the</c><00:14:54.680><c> turning</c><00:14:55.040><c> point</c><00:14:55.560><c> and</c><00:14:55.720><c> the</c>
+
+00:14:55.790 --> 00:14:55.800 align:start position:0%
+Until we hit the turning point and the
+ 
+
+00:14:55.800 --> 00:14:59.350 align:start position:0%
+Until we hit the turning point and the
+market<00:14:56.160><c> starts</c><00:14:56.600><c> selling</c><00:14:57.040><c> off.</c>
+
+00:14:59.350 --> 00:14:59.360 align:start position:0%
+market starts selling off.
+ 
+
+00:14:59.360 --> 00:15:01.949 align:start position:0%
+market starts selling off.
+Now,<00:14:59.920><c> this</c><00:15:00.079><c> is</c><00:15:00.200><c> important.</c><00:15:00.760><c> No</c><00:15:01.200><c> curve</c><00:15:01.560><c> fitting</c>
+
+00:15:01.949 --> 00:15:01.959 align:start position:0%
+Now, this is important. No curve fitting
+ 
+
+00:15:01.959 --> 00:15:03.870 align:start position:0%
+Now, this is important. No curve fitting
+is<00:15:02.200><c> required.</c><00:15:02.720><c> You</c><00:15:02.800><c> know,</c><00:15:02.920><c> a</c><00:15:02.959><c> lot</c><00:15:03.480><c> of</c><00:15:03.839><c> a</c>
+
+00:15:03.870 --> 00:15:03.880 align:start position:0%
+is required. You know, a lot of a
+ 
+
+00:15:03.880 --> 00:15:05.270 align:start position:0%
+is required. You know, a lot of a
+problem<00:15:04.160><c> with</c><00:15:04.280><c> a</c><00:15:04.360><c> lot</c><00:15:04.520><c> of</c><00:15:04.640><c> indicators</c><00:15:05.120><c> is</c><00:15:05.240><c> you</c>
+
+00:15:05.270 --> 00:15:05.280 align:start position:0%
+problem with a lot of indicators is you
+ 
+
+00:15:05.280 --> 00:15:07.390 align:start position:0%
+problem with a lot of indicators is you
+have<00:15:05.400><c> to</c><00:15:05.520><c> curve</c><00:15:05.800><c> fit</c><00:15:06.000><c> them</c><00:15:06.640><c> for</c><00:15:06.839><c> your</c><00:15:06.959><c> market,</c>
+
+00:15:07.390 --> 00:15:07.400 align:start position:0%
+have to curve fit them for your market,
+ 
+
+00:15:07.400 --> 00:15:08.630 align:start position:0%
+have to curve fit them for your market,
+right?<00:15:07.600><c> You</c><00:15:07.680><c> find</c><00:15:07.920><c> the</c><00:15:08.000><c> best</c><00:15:08.200><c> settings</c><00:15:08.520><c> that</c>
+
+00:15:08.630 --> 00:15:08.640 align:start position:0%
+right? You find the best settings that
+ 
+
+00:15:08.640 --> 00:15:10.110 align:start position:0%
+right? You find the best settings that
+worked<00:15:08.880><c> in</c><00:15:08.959><c> the</c><00:15:09.040><c> past</c><00:15:09.400><c> and</c><00:15:09.480><c> hope</c><00:15:09.680><c> they</c><00:15:09.800><c> work</c><00:15:10.040><c> in</c>
+
+00:15:10.110 --> 00:15:10.120 align:start position:0%
+worked in the past and hope they work in
+ 
+
+00:15:10.120 --> 00:15:11.910 align:start position:0%
+worked in the past and hope they work in
+the<00:15:10.200><c> future.</c><00:15:10.880><c> That</c><00:15:11.120><c> is</c><00:15:11.240><c> a</c><00:15:11.320><c> recipe</c><00:15:11.760><c> for</c>
+
+00:15:11.910 --> 00:15:11.920 align:start position:0%
+the future. That is a recipe for
+ 
+
+00:15:11.920 --> 00:15:13.910 align:start position:0%
+the future. That is a recipe for
+disaster.<00:15:13.000><c> Pressure</c><00:15:13.360><c> is</c><00:15:13.480><c> different.</c><00:15:13.839><c> It</c>
+
+00:15:13.910 --> 00:15:13.920 align:start position:0%
+disaster. Pressure is different. It
+ 
+
+00:15:13.920 --> 00:15:15.829 align:start position:0%
+disaster. Pressure is different. It
+reads<00:15:14.120><c> the</c><00:15:14.240><c> actual</c><00:15:14.600><c> volume</c><00:15:15.040><c> being</c><00:15:15.320><c> traded</c><00:15:15.720><c> at</c>
+
+00:15:15.829 --> 00:15:15.839 align:start position:0%
+reads the actual volume being traded at
+ 
+
+00:15:15.839 --> 00:15:18.230 align:start position:0%
+reads the actual volume being traded at
+the<00:15:15.920><c> bid</c><00:15:16.200><c> and</c><00:15:16.360><c> offer</c><00:15:17.040><c> at</c><00:15:17.200><c> each</c><00:15:17.400><c> level.</c><00:15:18.160><c> It's</c>
+
+00:15:18.230 --> 00:15:18.240 align:start position:0%
+the bid and offer at each level. It's
+ 
+
+00:15:18.240 --> 00:15:20.069 align:start position:0%
+the bid and offer at each level. It's
+not<00:15:18.400><c> calculating</c><00:15:19.000><c> a</c><00:15:19.040><c> formula</c><00:15:19.600><c> from</c><00:15:19.760><c> price</c>
+
+00:15:20.069 --> 00:15:20.079 align:start position:0%
+not calculating a formula from price
+ 
+
+00:15:20.079 --> 00:15:21.710 align:start position:0%
+not calculating a formula from price
+history.<00:15:20.400><c> It's</c><00:15:20.640><c> reading</c><00:15:20.920><c> the</c><00:15:21.040><c> live</c><00:15:21.320><c> auction,</c>
+
+00:15:21.710 --> 00:15:21.720 align:start position:0%
+history. It's reading the live auction,
+ 
+
+00:15:21.720 --> 00:15:23.829 align:start position:0%
+history. It's reading the live auction,
+the<00:15:21.920><c> actual</c><00:15:22.440><c> order</c><00:15:22.720><c> flow</c><00:15:22.959><c> happening</c><00:15:23.560><c> right</c>
+
+00:15:23.829 --> 00:15:23.839 align:start position:0%
+the actual order flow happening right
+ 
+
+00:15:23.839 --> 00:15:26.790 align:start position:0%
+the actual order flow happening right
+now.<00:15:24.680><c> Now,</c><00:15:25.240><c> traditional</c><00:15:25.760><c> indicators</c>
+
+00:15:26.790 --> 00:15:26.800 align:start position:0%
+now. Now, traditional indicators
+ 
+
+00:15:26.800 --> 00:15:28.710 align:start position:0%
+now. Now, traditional indicators
+calculate<00:15:27.320><c> from</c><00:15:27.480><c> past</c><00:15:27.839><c> price</c><00:15:28.160><c> data.</c><00:15:28.600><c> They</c>
+
+00:15:28.710 --> 00:15:28.720 align:start position:0%
+calculate from past price data. They
+ 
+
+00:15:28.720 --> 00:15:31.230 align:start position:0%
+calculate from past price data. They
+require<00:15:29.120><c> optimization</c><00:15:30.440><c> per</c><00:15:30.680><c> market.</c>
+
+00:15:31.230 --> 00:15:31.240 align:start position:0%
+require optimization per market.
+ 
+
+00:15:31.240 --> 00:15:32.870 align:start position:0%
+require optimization per market.
+Settings<00:15:31.560><c> that</c><00:15:31.680><c> worked</c><00:15:31.920><c> yesterday</c><00:15:32.360><c> may</c><00:15:32.600><c> fail</c>
+
+00:15:32.870 --> 00:15:32.880 align:start position:0%
+Settings that worked yesterday may fail
+ 
+
+00:15:32.880 --> 00:15:35.069 align:start position:0%
+Settings that worked yesterday may fail
+tomorrow.<00:15:33.839><c> Now,</c><00:15:34.040><c> the</c><00:15:34.160><c> order</c><00:15:34.320><c> flow's</c><00:15:34.640><c> pressure</c>
+
+00:15:35.069 --> 00:15:35.079 align:start position:0%
+tomorrow. Now, the order flow's pressure
+ 
+
+00:15:35.079 --> 00:15:37.150 align:start position:0%
+tomorrow. Now, the order flow's pressure
+reads<00:15:35.520><c> live</c><00:15:35.880><c> bid</c><00:15:36.200><c> offer</c><00:15:36.480><c> volume.</c><00:15:36.959><c> No</c>
+
+00:15:37.150 --> 00:15:37.160 align:start position:0%
+reads live bid offer volume. No
+ 
+
+00:15:37.160 --> 00:15:39.230 align:start position:0%
+reads live bid offer volume. No
+optimization<00:15:37.959><c> needed.</c><00:15:38.640><c> Works</c><00:15:38.920><c> across</c>
+
+00:15:39.230 --> 00:15:39.240 align:start position:0%
+optimization needed. Works across
+ 
+
+00:15:39.240 --> 00:15:41.270 align:start position:0%
+optimization needed. Works across
+markets<00:15:39.640><c> because</c><00:15:39.880><c> it</c><00:15:40.000><c> reads</c><00:15:40.480><c> the</c><00:15:40.680><c> actual</c>
+
+00:15:41.270 --> 00:15:41.280 align:start position:0%
+markets because it reads the actual
+ 
+
+00:15:41.280 --> 00:15:44.550 align:start position:0%
+markets because it reads the actual
+auction<00:15:41.839><c> process.</c>
+
+00:15:44.550 --> 00:15:44.560 align:start position:0%
+auction process.
+ 
+
+00:15:44.560 --> 00:15:46.870 align:start position:0%
+auction process.
+Now,<00:15:45.400><c> everything</c><00:15:46.040><c> in</c><00:15:46.320><c> the</c><00:15:46.440><c> order</c><00:15:46.600><c> flow's</c>
+
+00:15:46.870 --> 00:15:46.880 align:start position:0%
+Now, everything in the order flow's
+ 
+
+00:15:46.880 --> 00:15:48.390 align:start position:0%
+Now, everything in the order flow's
+pressure
+
+00:15:48.390 --> 00:15:48.400 align:start position:0%
+pressure
+ 
+
+00:15:48.400 --> 00:15:50.949 align:start position:0%
+pressure
+is<00:15:48.920><c> listed</c><00:15:49.320><c> here,</c><00:15:49.560><c> right?</c><00:15:49.720><c> You</c><00:15:49.839><c> got</c><00:15:50.040><c> all</c><00:15:50.200><c> these</c>
+
+00:15:50.949 --> 00:15:50.959 align:start position:0%
+is listed here, right? You got all these
+ 
+
+00:15:50.959 --> 00:15:52.430 align:start position:0%
+is listed here, right? You got all these
+nice<00:15:51.240><c> features,</c><00:15:51.640><c> right?</c><00:15:51.800><c> The</c><00:15:51.880><c> multi-time</c>
+
+00:15:52.430 --> 00:15:52.440 align:start position:0%
+nice features, right? The multi-time
+ 
+
+00:15:52.440 --> 00:15:54.069 align:start position:0%
+nice features, right? The multi-time
+frame<00:15:52.600><c> analysis,</c><00:15:53.120><c> the</c><00:15:53.240><c> POC</c><00:15:53.720><c> movement</c>
+
+00:15:54.069 --> 00:15:54.079 align:start position:0%
+frame analysis, the POC movement
+ 
+
+00:15:54.079 --> 00:15:55.910 align:start position:0%
+frame analysis, the POC movement
+detection,<00:15:54.600><c> momentum</c><00:15:55.079><c> strength,</c><00:15:55.680><c> trade</c>
+
+00:15:55.910 --> 00:15:55.920 align:start position:0%
+detection, momentum strength, trade
+ 
+
+00:15:55.920 --> 00:15:58.230 align:start position:0%
+detection, momentum strength, trade
+entry<00:15:56.240><c> signal,</c><00:15:57.160><c> pressure</c><00:15:57.560><c> sensitivity</c>
+
+00:15:58.230 --> 00:15:58.240 align:start position:0%
+entry signal, pressure sensitivity
+ 
+
+00:15:58.240 --> 00:15:59.990 align:start position:0%
+entry signal, pressure sensitivity
+levels.
+
+00:15:59.990 --> 00:16:00.000 align:start position:0%
+levels.
+ 
+
+00:16:00.000 --> 00:16:02.230 align:start position:0%
+levels.
+POC<00:16:00.560><c> filter,</c><00:16:01.000><c> delta</c><00:16:01.320><c> confirmation,</c><00:16:01.959><c> delta</c>
+
+00:16:02.230 --> 00:16:02.240 align:start position:0%
+POC filter, delta confirmation, delta
+ 
+
+00:16:02.240 --> 00:16:04.630 align:start position:0%
+POC filter, delta confirmation, delta
+divergence,<00:16:02.920><c> visual</c><00:16:03.800><c> signal</c><00:16:04.200><c> zones,</c><00:16:04.560><c> a</c>
+
+00:16:04.630 --> 00:16:04.640 align:start position:0%
+divergence, visual signal zones, a
+ 
+
+00:16:04.640 --> 00:16:07.470 align:start position:0%
+divergence, visual signal zones, a
+look-back<00:16:05.160><c> filter,</c><00:16:06.079><c> um</c><00:16:06.280><c> bar</c><00:16:06.600><c> threshold</c>
+
+00:16:07.470 --> 00:16:07.480 align:start position:0%
+look-back filter, um bar threshold
+ 
+
+00:16:07.480 --> 00:16:08.670 align:start position:0%
+look-back filter, um bar threshold
+volume.
+
+00:16:08.670 --> 00:16:08.680 align:start position:0%
+volume.
+ 
+
+00:16:08.680 --> 00:16:10.310 align:start position:0%
+volume.
+Um<00:16:08.839><c> we</c><00:16:08.959><c> have</c><00:16:09.079><c> a</c><00:16:09.160><c> very</c><00:16:09.320><c> comprehensive</c><00:16:10.000><c> user</c>
+
+00:16:10.310 --> 00:16:10.320 align:start position:0%
+Um we have a very comprehensive user
+ 
+
+00:16:10.320 --> 00:16:13.829 align:start position:0%
+Um we have a very comprehensive user
+guide<00:16:10.560><c> that</c><00:16:10.720><c> explains</c><00:16:11.400><c> all</c><00:16:11.880><c> the</c><00:16:12.839><c> settings.</c><00:16:13.760><c> It</c>
+
+00:16:13.829 --> 00:16:13.839 align:start position:0%
+guide that explains all the settings. It
+ 
+
+00:16:13.839 --> 00:16:15.750 align:start position:0%
+guide that explains all the settings. It
+works<00:16:14.000><c> on</c><00:16:14.120><c> NinjaTrader</c><00:16:14.800><c> 8</c><00:16:15.079><c> on</c><00:16:15.240><c> any</c><00:16:15.400><c> futures</c>
+
+00:16:15.750 --> 00:16:15.760 align:start position:0%
+works on NinjaTrader 8 on any futures
+ 
+
+00:16:15.760 --> 00:16:17.110 align:start position:0%
+works on NinjaTrader 8 on any futures
+market.<00:16:16.200><c> There's</c><00:16:16.360><c> no</c><00:16:16.480><c> curve</c><00:16:16.800><c> fitting</c>
+
+00:16:17.110 --> 00:16:17.120 align:start position:0%
+market. There's no curve fitting
+ 
+
+00:16:17.120 --> 00:16:19.230 align:start position:0%
+market. There's no curve fitting
+required<00:16:18.040><c> and</c><00:16:18.240><c> you're</c><00:16:18.320><c> going</c><00:16:18.440><c> to</c><00:16:18.480><c> get</c><00:16:18.880><c> instant</c>
+
+00:16:19.230 --> 00:16:19.240 align:start position:0%
+required and you're going to get instant
+ 
+
+00:16:19.240 --> 00:16:20.870 align:start position:0%
+required and you're going to get instant
+delivery.
+
+00:16:20.870 --> 00:16:20.880 align:start position:0%
+delivery.
+ 
+
+00:16:20.880 --> 00:16:23.030 align:start position:0%
+delivery.
+So,<00:16:21.079><c> five</c><00:16:21.440><c> ways</c><00:16:21.680><c> pressure</c><00:16:22.040><c> gives</c><00:16:22.280><c> you</c><00:16:22.520><c> an</c><00:16:22.680><c> edge</c>
+
+00:16:23.030 --> 00:16:23.040 align:start position:0%
+So, five ways pressure gives you an edge
+ 
+
+00:16:23.040 --> 00:16:24.670 align:start position:0%
+So, five ways pressure gives you an edge
+is<00:16:23.280><c> one,</c><00:16:23.480><c> it's</c><00:16:23.560><c> going</c><00:16:23.680><c> to</c><00:16:23.760><c> uh</c><00:16:23.920><c> help</c><00:16:24.160><c> identify</c>
+
+00:16:24.670 --> 00:16:24.680 align:start position:0%
+is one, it's going to uh help identify
+ 
+
+00:16:24.680 --> 00:16:26.630 align:start position:0%
+is one, it's going to uh help identify
+reversals<00:16:25.240><c> at</c><00:16:25.360><c> swing</c><00:16:25.680><c> highs</c><00:16:25.959><c> and</c><00:16:26.079><c> lows</c><00:16:26.320><c> before</c>
+
+00:16:26.630 --> 00:16:26.640 align:start position:0%
+reversals at swing highs and lows before
+ 
+
+00:16:26.640 --> 00:16:28.470 align:start position:0%
+reversals at swing highs and lows before
+price<00:16:26.880><c> confirms.</c><00:16:27.839><c> You're</c><00:16:27.920><c> going</c><00:16:28.040><c> to</c><00:16:28.079><c> discover</c>
+
+00:16:28.470 --> 00:16:28.480 align:start position:0%
+price confirms. You're going to discover
+ 
+
+00:16:28.480 --> 00:16:30.350 align:start position:0%
+price confirms. You're going to discover
+defended<00:16:28.959><c> levels</c><00:16:29.240><c> that</c><00:16:29.360><c> become</c><00:16:29.720><c> key</c><00:16:29.959><c> support</c>
+
+00:16:30.350 --> 00:16:30.360 align:start position:0%
+defended levels that become key support
+ 
+
+00:16:30.360 --> 00:16:31.670 align:start position:0%
+defended levels that become key support
+and<00:16:30.440><c> resistance.</c><00:16:31.280><c> You're</c><00:16:31.360><c> going</c><00:16:31.480><c> to</c><00:16:31.520><c> be</c><00:16:31.600><c> able</c>
+
+00:16:31.670 --> 00:16:31.680 align:start position:0%
+and resistance. You're going to be able
+ 
+
+00:16:31.680 --> 00:16:33.190 align:start position:0%
+and resistance. You're going to be able
+to<00:16:31.760><c> confirm</c><00:16:32.079><c> breakouts</c><00:16:32.560><c> and</c><00:16:32.680><c> fake</c><00:16:32.920><c> outs</c><00:16:33.079><c> by</c>
+
+00:16:33.190 --> 00:16:33.200 align:start position:0%
+to confirm breakouts and fake outs by
+ 
+
+00:16:33.200 --> 00:16:35.270 align:start position:0%
+to confirm breakouts and fake outs by
+checking<00:16:33.560><c> for</c><00:16:33.680><c> passive</c><00:16:34.079><c> defense.</c><00:16:34.839><c> Manage</c>
+
+00:16:35.270 --> 00:16:35.280 align:start position:0%
+checking for passive defense. Manage
+ 
+
+00:16:35.280 --> 00:16:37.829 align:start position:0%
+checking for passive defense. Manage
+trades<00:16:35.720><c> and</c><00:16:35.920><c> time</c><00:16:36.280><c> exits</c><00:16:36.720><c> based</c><00:16:37.079><c> on</c><00:16:37.440><c> passive</c>
+
+00:16:37.829 --> 00:16:37.839 align:start position:0%
+trades and time exits based on passive
+ 
+
+00:16:37.839 --> 00:16:39.630 align:start position:0%
+trades and time exits based on passive
+support<00:16:38.320><c> or</c><00:16:38.480><c> opposition.</c><00:16:39.320><c> You're</c><00:16:39.440><c> going</c><00:16:39.560><c> to</c>
+
+00:16:39.630 --> 00:16:39.640 align:start position:0%
+support or opposition. You're going to
+ 
+
+00:16:39.640 --> 00:16:41.870 align:start position:0%
+support or opposition. You're going to
+read<00:16:39.839><c> the</c><00:16:39.920><c> internal</c><00:16:40.360><c> dynamics</c><00:16:40.959><c> of</c><00:16:41.320><c> trending</c>
+
+00:16:41.870 --> 00:16:41.880 align:start position:0%
+read the internal dynamics of trending
+ 
+
+00:16:41.880 --> 00:16:43.110 align:start position:0%
+read the internal dynamics of trending
+moves.
+
+00:16:43.110 --> 00:16:43.120 align:start position:0%
+moves.
+ 
+
+00:16:43.120 --> 00:16:45.069 align:start position:0%
+moves.
+Trading<00:16:43.520><c> with</c><00:16:43.800><c> or</c><00:16:43.880><c> without</c><00:16:44.280><c> pressure?</c><00:16:44.720><c> Well,</c>
+
+00:16:45.069 --> 00:16:45.079 align:start position:0%
+Trading with or without pressure? Well,
+ 
+
+00:16:45.079 --> 00:16:46.110 align:start position:0%
+Trading with or without pressure? Well,
+if<00:16:45.240><c> you</c><00:16:45.320><c> don't</c><00:16:45.520><c> have</c><00:16:45.720><c> the</c><00:16:45.839><c> order</c><00:16:45.959><c> flow</c>
+
+00:16:46.110 --> 00:16:46.120 align:start position:0%
+if you don't have the order flow
+ 
+
+00:16:46.120 --> 00:16:47.550 align:start position:0%
+if you don't have the order flow
+pressure<00:16:46.480><c> indicator,</c><00:16:46.959><c> you're</c><00:16:47.040><c> going</c><00:16:47.160><c> to</c><00:16:47.200><c> rely</c>
+
+00:16:47.550 --> 00:16:47.560 align:start position:0%
+pressure indicator, you're going to rely
+ 
+
+00:16:47.560 --> 00:16:49.310 align:start position:0%
+pressure indicator, you're going to rely
+on<00:16:47.720><c> lagging</c><00:16:48.040><c> indicators.</c><00:16:48.959><c> You're</c><00:16:49.079><c> not</c><00:16:49.200><c> going</c>
+
+00:16:49.310 --> 00:16:49.320 align:start position:0%
+on lagging indicators. You're not going
+ 
+
+00:16:49.320 --> 00:16:51.110 align:start position:0%
+on lagging indicators. You're not going
+to<00:16:49.360><c> be</c><00:16:49.440><c> able</c><00:16:49.520><c> to</c><00:16:49.600><c> see</c><00:16:49.800><c> passive</c><00:16:50.200><c> absorption.</c>
+
+00:16:51.110 --> 00:16:51.120 align:start position:0%
+to be able to see passive absorption.
+ 
+
+00:16:51.120 --> 00:16:52.949 align:start position:0%
+to be able to see passive absorption.
+You're<00:16:51.200><c> going</c><00:16:51.320><c> to</c><00:16:51.400><c> fall</c><00:16:51.640><c> for</c><00:16:51.800><c> fake</c><00:16:52.079><c> breakouts.</c>
+
+00:16:52.949 --> 00:16:52.959 align:start position:0%
+You're going to fall for fake breakouts.
+ 
+
+00:16:52.959 --> 00:16:54.550 align:start position:0%
+You're going to fall for fake breakouts.
+You're<00:16:53.040><c> going</c><00:16:53.160><c> to</c><00:16:53.280><c> exit</c><00:16:53.680><c> too</c><00:16:53.880><c> early</c><00:16:54.200><c> or</c><00:16:54.320><c> hold</c>
+
+00:16:54.550 --> 00:16:54.560 align:start position:0%
+You're going to exit too early or hold
+ 
+
+00:16:54.560 --> 00:16:55.910 align:start position:0%
+You're going to exit too early or hold
+too<00:16:54.720><c> long.</c><00:16:55.079><c> You're</c><00:16:55.160><c> going</c><00:16:55.320><c> to</c><00:16:55.400><c> miss</c><00:16:55.760><c> the</c>
+
+00:16:55.910 --> 00:16:55.920 align:start position:0%
+too long. You're going to miss the
+ 
+
+00:16:55.920 --> 00:16:58.350 align:start position:0%
+too long. You're going to miss the
+internal<00:16:56.400><c> dynamics</c><00:16:56.920><c> of</c><00:16:57.040><c> the</c><00:16:57.160><c> market.</c><00:16:58.200><c> But</c>
+
+00:16:58.350 --> 00:16:58.360 align:start position:0%
+internal dynamics of the market. But
+ 
+
+00:16:58.360 --> 00:16:59.430 align:start position:0%
+internal dynamics of the market. But
+with<00:16:58.520><c> the</c><00:16:58.640><c> order</c><00:16:58.800><c> flow's</c><00:16:59.040><c> pressure,</c><00:16:59.360><c> you're</c>
+
+00:16:59.430 --> 00:16:59.440 align:start position:0%
+with the order flow's pressure, you're
+ 
+
+00:16:59.440 --> 00:17:01.069 align:start position:0%
+with the order flow's pressure, you're
+going<00:16:59.560><c> to</c><00:16:59.600><c> see</c><00:16:59.800><c> passive</c><00:17:00.160><c> absorption</c><00:17:00.720><c> in</c><00:17:00.880><c> real</c>
+
+00:17:01.069 --> 00:17:01.079 align:start position:0%
+going to see passive absorption in real
+ 
+
+00:17:01.079 --> 00:17:01.949 align:start position:0%
+going to see passive absorption in real
+time.<00:17:01.440><c> You're</c><00:17:01.520><c> going</c><00:17:01.640><c> to</c><00:17:01.720><c> be</c><00:17:01.760><c> able</c><00:17:01.880><c> to</c>
+
+00:17:01.949 --> 00:17:01.959 align:start position:0%
+time. You're going to be able to
+ 
+
+00:17:01.959 --> 00:17:04.030 align:start position:0%
+time. You're going to be able to
+identify<00:17:02.480><c> turning</c><00:17:02.839><c> points</c><00:17:03.200><c> early.</c><00:17:03.959><c> You're</c>
+
+00:17:04.030 --> 00:17:04.040 align:start position:0%
+identify turning points early. You're
+ 
+
+00:17:04.040 --> 00:17:05.790 align:start position:0%
+identify turning points early. You're
+going<00:17:04.160><c> to</c><00:17:04.240><c> filter</c><00:17:04.640><c> genuine</c><00:17:05.160><c> versus</c><00:17:05.520><c> fake</c>
+
+00:17:05.790 --> 00:17:05.800 align:start position:0%
+going to filter genuine versus fake
+ 
+
+00:17:05.800 --> 00:17:06.990 align:start position:0%
+going to filter genuine versus fake
+breakouts.<00:17:06.280><c> You're</c><00:17:06.360><c> going</c><00:17:06.480><c> to</c><00:17:06.520><c> hold</c><00:17:06.839><c> with</c>
+
+00:17:06.990 --> 00:17:07.000 align:start position:0%
+breakouts. You're going to hold with
+ 
+
+00:17:07.000 --> 00:17:08.870 align:start position:0%
+breakouts. You're going to hold with
+confidence
+
+00:17:08.870 --> 00:17:08.880 align:start position:0%
+confidence
+ 
+
+00:17:08.880 --> 00:17:09.949 align:start position:0%
+confidence
+because<00:17:09.120><c> you're</c><00:17:09.199><c> going</c><00:17:09.320><c> to</c><00:17:09.360><c> see</c><00:17:09.480><c> when</c><00:17:09.640><c> levels</c>
+
+00:17:09.949 --> 00:17:09.959 align:start position:0%
+because you're going to see when levels
+ 
+
+00:17:09.959 --> 00:17:11.470 align:start position:0%
+because you're going to see when levels
+are<00:17:10.120><c> defended</c>
+
+00:17:11.470 --> 00:17:11.480 align:start position:0%
+are defended
+ 
+
+00:17:11.480 --> 00:17:12.949 align:start position:0%
+are defended
+and<00:17:11.640><c> you're</c><00:17:11.720><c> going</c><00:17:11.839><c> to</c><00:17:11.880><c> read</c><00:17:12.040><c> the</c><00:17:12.120><c> full</c><00:17:12.360><c> battle</c>
+
+00:17:12.949 --> 00:17:12.959 align:start position:0%
+and you're going to read the full battle
+ 
+
+00:17:12.959 --> 00:17:15.310 align:start position:0%
+and you're going to read the full battle
+at<00:17:13.240><c> each</c><00:17:13.640><c> level.</c>
+
+00:17:15.310 --> 00:17:15.320 align:start position:0%
+at each level.
+ 
+
+00:17:15.320 --> 00:17:16.990 align:start position:0%
+at each level.
+So,<00:17:15.439><c> to</c><00:17:15.520><c> get</c><00:17:15.720><c> the</c><00:17:16.040><c> order</c><00:17:16.320><c> flow's</c><00:17:16.640><c> pressure</c>
+
+00:17:16.990 --> 00:17:17.000 align:start position:0%
+So, to get the order flow's pressure
+ 
+
+00:17:17.000 --> 00:17:19.030 align:start position:0%
+So, to get the order flow's pressure
+indicator<00:17:17.520><c> today,</c><00:17:18.199><c> just</c><00:17:18.520><c> go</c><00:17:18.800><c> to</c>
+
+00:17:19.030 --> 00:17:19.040 align:start position:0%
+indicator today, just go to
+ 
+
+00:17:19.040 --> 00:17:22.510 align:start position:0%
+indicator today, just go to
+www.orderflows.com/pressure.
+
+00:17:22.510 --> 00:17:22.520 align:start position:0%
+ 
+ 
+
+00:17:22.520 --> 00:17:25.030 align:start position:0%
+ 
+It's<00:17:22.679><c> a</c><00:17:22.720><c> one-time</c><00:17:23.160><c> payment,</c><00:17:23.520><c> only</c><00:17:23.720><c> $269.</c><00:17:24.959><c> You</c>
+
+00:17:25.030 --> 00:17:25.040 align:start position:0%
+It's a one-time payment, only $269. You
+ 
+
+00:17:25.040 --> 00:17:27.910 align:start position:0%
+It's a one-time payment, only $269. You
+get<00:17:25.160><c> a</c><00:17:25.199><c> lifetime</c><00:17:26.120><c> license</c><00:17:26.880><c> and</c><00:17:27.240><c> all</c><00:17:27.439><c> future</c>
+
+00:17:27.910 --> 00:17:27.920 align:start position:0%
+get a lifetime license and all future
+ 
+
+00:17:27.920 --> 00:17:31.150 align:start position:0%
+get a lifetime license and all future
+updates<00:17:28.480><c> are</c><00:17:28.800><c> included.</c><00:17:30.280><c> So,</c><00:17:30.600><c> again,</c><00:17:30.920><c> go</c><00:17:31.040><c> to</c>
+
+00:17:31.150 --> 00:17:31.160 align:start position:0%
+updates are included. So, again, go to
+ 
+
+00:17:31.160 --> 00:17:34.590 align:start position:0%
+updates are included. So, again, go to
+www.orderflows.com/pressure
+
+00:17:34.590 --> 00:17:34.600 align:start position:0%
+ 
+ 
+
+00:17:34.600 --> 00:17:36.830 align:start position:0%
+ 
+or<00:17:34.760><c> click</c><00:17:35.360><c> on</c><00:17:35.720><c> the</c><00:17:35.840><c> link</c><00:17:36.080><c> below</c><00:17:36.480><c> to</c><00:17:36.679><c> get</c>
+
+00:17:36.830 --> 00:17:36.840 align:start position:0%
+or click on the link below to get
+ 
+
+00:17:36.840 --> 00:17:38.550 align:start position:0%
+or click on the link below to get
+started<00:17:37.440><c> and</c><00:17:37.600><c> I'll</c><00:17:37.720><c> see</c><00:17:37.880><c> you</c><00:17:38.000><c> guys</c><00:17:38.320><c> on</c><00:17:38.440><c> the</c>
+
+00:17:38.550 --> 00:17:38.560 align:start position:0%
+started and I'll see you guys on the
+ 
+
+00:17:38.560 --> 00:17:41.200 align:start position:0%
+started and I'll see you guys on the
+inside.
+

@@ -1,0 +1,99 @@
+---
+video_number: 227
+inferred_title: "Flowedges & The Power Of Tick Charts"
+inferred_date: "2021-11-16"
+video_id: "M4k5jAgJhM4"
+source_vtt: "20211116 - Flowedges & The Power Of Tick Charts [M4k5jAgJhM4].en.vtt"
+word_count: 3829
+segment_count: 600
+---
+
+# Flowedges & The Power Of Tick Charts
+*Date:* 2021-11-16  |  *Video ID:* M4k5jAgJhM4  |  *Words:* 3829
+*Source VTT:* `20211116 - Flowedges & The Power Of Tick Charts [M4k5jAgJhM4].en.vtt`
+
+---
+
+[00:00] hey everybody it's mike from overflows and welcome to this video on tick charts and flow edges you know as traders we have so many different types of charts that we can look at you know we have time-based charts like minute-based charts you know even 30-second charts and i know some people that look at five second charts you also got volume based charts tick based charts ranked charts hiking ashy charts you know the list just goes on and on but today really what i want to spend some
+
+[00:28] time on is talking about tick charts so unlike time-based charts like one minute charts or five-minute charts tick charts are not constrained by time a bar on a tick chart is based on a particular number of trades that take place in that bar so for example if you have a 100 tick chart there has to be 100 trades regardless of the volume okay so and that's how they differ from volume based charts is because they don't count the volume that would be a volume based chart so if you're using
+
+[00:59] a volume based chart and you have a set of a thousand it has to be a total of a thousand contracts traded for one bar to be formed whereas if you're using a tick chart say of one thousand it has to be one 000 trades and the trade size can vary so for example right just keep it simple a 50 tick chart is going to be made up of bars that each have 50 trades in them a trade can be any volume trade can be as small as one contract or it can be
+
+[01:26] more it could be three contracts 10 contracts 30 contracts 100 contracts obviously if you're using a volume based chart and you're using you know say you know depending on the market say you're using a uh you know say you're trading wheat right and you've got a 100 volume chart and 200 contracts trade that would go over into two bars but on a tick based chart contracts trade that only counts as one trade okay so you're looking at the number of trades not the volume and not over a
+
+[02:02] period of time you're looking at it in the bar now you can choose how many ticks you want to look at you can use say 25 ticks you know 100 ticks 500 ticks it's up to you but keep in mind when trading activity is busy you're going to see a lot of bars form in a short period of time so for example if you're using a 100 tick chart in the e-minis you're going to get bars like every second basically so you're going to want to space it out whereas if you're
+
+[02:28] looking at a 100 tick chart in a market like say euro currency you know you could take you know you'd be you know one bar can form in you know 30 45 seconds you know maybe sometimes it could be you know two minutes and you know during slow periods of time like for example you know after the market reopens at 5 pm and asia doesn't open up for another couple hours volume can be very light and you might not get a lot of trades so you might not
+
+[02:57] see very many bars on a tick based chart whereas if you're looking at a minute-based chart you know every minute is just going to tick tick you know new bar new bar every minute whereas on a tick based chart it's got to have those trades for it to um form a bar okay so one of the benefits of tick charts well i feel they allow you to get into moves sooner and spot potential market terms before they appear on more traditional time-based charts because you know
+
+[03:25] you're looking at a time-based chart you've got to wait for something to develop because it's based on time whereas when you're looking at a tick based chart you're really looking at trading activity in the market and one of the caveats though of tick charts is you're gonna find yourself much more active in the markets meaning you're probably gonna see more trading opportunities and as a result you're gonna take more trades alright so it's tick charts in my opinion is is not for everybody and again you know that comes down to your
+
+[04:01] personal choice but you know i just want you to understand some of the benefits some of the caveats of using a tick based chart now the flow edges indicator which is our new indicator that we've released works great on tick based charts i mean it works great on all types of charts but you know i want to spend some time talking about tick based charts because you know usually i do my presentations you know i show things in minute based charts but then you know people say can you show
+
+[04:27] this on a tick chart you know it can show it on on this type of chart so i want you to see how this tool works on other types of charts so let me show you let me uh pause this here for a second and get up a chart all right so this is a british pound chart so i'm going to show you it's the same settings these are the default settings for the flow edge indicator setting at 1 for the flow edge level swing strength
+
+[04:53] set to 0 and i'm using the trade signal entry meaning there's got to be follow through order flow in the next bar or bars for it to actually give you a signal that's what these down triangles mean for a cell and the up triangles for a buy so this british pound 50 tick chart all right set at one uh as the flow edge level okay you see some nice movements coming here all right nice move down a nice move up you know you just sort of
+
+[05:23] take it back you know a little moves down again you know this one here probably would have stopped you out you take a small loss but that's okay right not every trade is going to be you know this big beautiful trend here i mean these are the trades we love to catch but sometimes due to market conditions you're gonna get smaller moves or you're gonna have you know a chance to take a small loss or or break even on a trade but the key is to you know sort of keep
+
+[05:50] your powder dry right keep some bullets in the gun so that when the big moves happen like this you can participate in them right so this is british pound again i'm just scrolling back here wait i just want you to see these moves that occur in the british pound on a 50 tick chart right nice move up again this is that quiet period you know from the five o'clock reopen right in here until this is eight o'clock this is three hours which you're not seeing very many bars
+
+[06:22] maybe about 20 bars just because the market's quiet at that time whereas opposed to here during the day you know from you know this is what 9 30 to 9 o'clock you're seeing a lot more bars in this 30 minute period than in this three hour period just because it's not a lot of trades going through let's go back another day here this is the previous day this is the eighth right nice move up nice move down actually the move down started from way up here in the 70s then you got a nice
+
+[06:55] move up here just prior to that all right we've actually started in here you know from the 50 area all the way up into the 80s scroll back a little bit more again a little move here again you know you don't just because you see the bar colored right for bullish flow edge you would color it blue for bearish you would color it dark red now again you can change those colors simply by going to the indicator setting and you just change you know the bearish color so you don't want dark red
+
+[07:25] right you know you can change it to magenta or yellow or whatever color you want but for now default is set at dark red okay but you don't see the triangle right on the cell here triangle what you want to say mike why is there not a triangle here because it's using the trade entry signal which is this setting enable trade signal trade validity in bars is 2 trade entry tick in bars is 2. so it means you have to have follow through order flow over the next two two
+
+[07:56] bars you can set it to one bar you can set it to three bars four bars whatever you want but that's confirming in the price action the signal that you just got okay so that's why you don't see a blue triangle here or a red down triangle here that's why you don't see a red triangle here here you have the follow through order flow coming in this bar that's why it's telling you to buy now let's go back a little further again this is where some earlier buys here on
+
+[08:26] the o6 area all the way up into the 20s you know a little cell here a little by there but that was the previous day again here's a nice cell here a nice little cell here um let's take a look at another contract let's well since we're on currencies take a look at the euro currency okay euro currency in british pound generally generally not all the time you know have sort of the same price movement so british pound was selling off a little bit today so expect
+
+[09:00] the same thing out of the euro currency is trying to rally here a little sell-off here a little rally here nice sell-off here you know from the o4 area down into the 90s you know nice little buy here these cells didn't work out okay fine small small losses i could live with that for catching a nice move nice move down nice move up a little move up here again just some small trades coming in here little move up nice beautiful move down
+
+[09:41] again this is a 50 tick chart in the euro currency again i don't want to talk about every single move but i just want to show you some potentials of some of these big moves you know this move here from you know the 94 area all the way up into the teens you know some late pies the day before you know just a nice methodical move up from 88 now this is 88 but this is 85 86 all the way up to double it's oh nice moves here and there
+
+[10:24] a beautiful move here during the european hours okay so yeah let's take a look at another contract you know those two were currencies but you know sure you want to see how it looks on some other markets here so let's take a look at crude oil now crude oil this is a 50 tick chart so it might be a little bit quick might be moving very fast and again you don't have to use a 50 tick chart you can change it to 100 or 200 it really depends on your trading
+
+[11:00] style if you're very short-term trader in and out a lot you're going to lower the tick level but again yeah i'm just changing the chart so i'm not changing the settings trying to fine-tune it for these markets it's the same setting for each of these markets you can see it's just happening right here right it's just running up right you got your buy signals coming in down here and shooting up you got a buy signal down here it's going up again you know i don't want to talk
+
+[11:30] about every single little signal here i just want to show you you know i'm sure someone will say oh you had this losing trade here well really the signal you want to take is the first one right you're not going to if you get a sell signal way up here you know on the 55 area then you get a sell signal 15 points lower at 40. don't say well the 40 is a loser because he really should have been long from up there again you can see how it's just starting
+
+[12:05] to turn right here right it rallied up it's starting to turn boom you get your cell signal just like here's rallied up starting to turn get your cell signal now this is a 50 tick chart it's pretty quick you can just see the time you know 8 55 26 28 30 31 i'll show you 36 et cetera these bars are coming in hot and heavy so on a tick based chart when a market is got a lot of activity going on you're going to get a lot of bars very quick
+
+[12:37] that doesn't mean you're going to get a lot of signals very quick but it does open that up for it a nice move here that's why i talk about you know being able to catch these moves as soon as possible look at this literally the bar right at the high is giving you the sell signal right from 07. look at that march down from 07 all the way down to 60s let me just go back some more you know a beautiful buy right here you know from
+
+[13:03] the 55 area all the way up to the 80s this is just this morning this is just the last couple of hours in in crude oil just to give you an idea all right i should just not talk so much and just go through the charts again you know 95 all the way up into the 30s i mean you do have some small trades here some small trades there but you really want to participate when those big moves happen let's take a look during european hours in crude oil
+
+[13:36] okay four in the morning right here's a nice sell coming in here around the 65 area all the way down into the 40s and look at this move up you're going to buy here but then you got maybe this one would have stopped you out or you take a small loss or you take a few ticks then it came right back with this move from 40s all the way up into the 80s that just during the european session again you see those moves look at that move
+
+[14:14] move down okay so let's just go back to the previous day here so this is the eighth okay this is again same chart setting i'm not changing it just find some cherry pick chart i'm showing you different markets the same chart setting and look at this you know it's catching this whole move up here all right imagine you're getting long here from 55 all the way up into the 90s you just seen these moves over and over right as soon as it turns right here telling you to get short it's not
+
+[14:53] telling you to get short when you break out of this swing low here no it's time to get short right now just as you hit the swing high where do you want to be getting short right after you hit the swing high or after you take out a swing low ideally if you get out after you hit a swing high it's going to give you a better entry and if you're wrong it's going to limit your loss because you're getting short near a high as opposed to getting
+
+[15:19] short near a low there's just there's a lot of trades you know maybe a 50 tick chart on crude isn't for everybody maybe some people want to use a 100 tick chart or a 150 or 200 it really depends um you know on on your trading style you know if you're sort of a cardiac trader you know someone that wants to take a lot of trades then you're gonna use a lower tick number okay but again you know you just seen these these nice moves happen
+
+[15:57] over and over over the in different markets right you want to participate them as often as possible okay so you're seeing some nice and nice moves here boom nice move down nice move up go back to the european hours again right as the market turns right here right that's what you want to see is is these moves happen as soon as possible okay here you're getting short oh maybe get long don't get short again write it down okay cover get long up doesn't work
+
+[16:39] get short again 04 all the way down into the 70s okay again this is the overnight session you're seeing nice moves up and you know sometimes in these night sessions they don't give you a lot of moves marcus does move though and you know you're only talking about a 20-point move here 20-point move there but it's giving you that signal as soon as that swing low has been made or as soon as that swing high has been made right and that's what you want to see as
+
+[17:16] a trader right you want to be getting into these moves literally as soon as they're happening you know swing high boom get short swing high boom get short good you know you like ride these moves for as much as it can you know here here a little back and forth okay uh let's take a look at another market you know a market that's sort of near and dear to me is the wheat market 50 tick chart this is this morning look at this move you know 771 all the way down in the 60s
+
+[18:01] all right as soon as that's high has been made here giving you a short signal now again you know wheat doesn't trade as much as crude oil this is just the day here basically you know from there to there but look at that you're able to scalp this market move here move up here move down here move down here back up back down move up move down move up move down so let's take a look at another market
+
+[18:43] uh look at mini dao okay because yeah this is interesting because i'm on a 50 tick chart okay so there's let's talk a little bit about the settings i don't make this too much about the settings today but this is again the default setting that comes with the indicator set to one and zero all right so you can see here right it looks like there's a lot of signals uh god you know i can't trade this mic because look at this from 926 right here basically to here you've got like eight
+
+[19:14] bars okay you got a lot of signals and again you know some people you know they want to see those signals now a way you can clean it up is you set the strength higher see mike that's too many signals well then you set the flow edge level to a higher number three which means it's a stronger one okay and now you're seeing you know the buy here you're not seeing so many signals right getting short in here right getting short from here getting long from down here
+
+[19:50] okay little stutter step here a little move here then boom just get you back going in that direction gets you back up in this direction so that's one way you can do it another way is is the swing filters if you have it at one you could you know you could change the swing filter to one or swing strength rather to one so one and one again it cleans it up a bit you're seeing this nice buy at the low here now you're not getting the cell here
+
+[20:29] getting the cell here so imagine you're buying it in here around 20 15 to 20. your first sell signal is up here at 80. it's a 60-point move right you'll catch this sharp move down followed by this sharp move up getting short at 60 56 cover it at 16 right back up to where you got short at right nice move up here nice move up there so there's many different ways that you can use tick charts right but you know flow edges in my opinion is a great tool for
+
+[21:06] using with tick charts in the future i'll be making a video you know using time-based charts and volume-based charts that you can compare but you know if you're not already using tick based charts you might want to throw one up on your on your monitor right monitors now are very inexpensive if you have you know i see these people saying oh you know you don't need many monitors to trade successfully you know you don't but there's no harm in adding another one just to keep an eye on
+
+[21:35] something in the market right no but you know i hate these people that say no you have to trade this way no you have to trade that way no you trade the way that benefits you the most right so whether you're using one monitor two monitors three monitors it's your personal decision okay it's like this whole hoo-ha with the vaccine you know some people don't want the vaccine other people want to have the vaccine i have the vaccine i'm fine with it but there's other people you know i respect
+
+[22:06] their choice if they don't want to get the vaccine fine you know you don't have to trade with one monitor you don't have to trade with two monitors i'm just saying you know if you are trading there's no harm in adding an additional chart to look at right because you know you might find that you start to move away from you know your time-based chart into something that is more conducive to how you want to trade so anyway thanks for watching this video and again you know
+
+[22:34] if you're interested in getting flow edges go to www flow or just click on click on the link below so thank you and bye

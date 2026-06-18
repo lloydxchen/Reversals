@@ -1,0 +1,69 @@
+---
+video_number: 413
+inferred_title: "Understanding Market Weakness In The Order Flow And How To Trade It With Orderflows Trader For NT8"
+inferred_date: "2024-02-10"
+video_id: "NaaqojhCnmQ"
+source_vtt: "20240210 - Understanding Market Weakness In The Order Flow And How To Trade It With Orderflows Trader For NT8 [NaaqojhCnmQ].en.vtt"
+word_count: 2517
+segment_count: 353
+---
+
+# Understanding Market Weakness In The Order Flow And How To Trade It With Orderflows Trader For NT8
+*Date:* 2024-02-10  |  *Video ID:* NaaqojhCnmQ  |  *Words:* 2517
+*Source VTT:* `20240210 - Understanding Market Weakness In The Order Flow And How To Trade It With Orderflows Trader For NT8 [NaaqojhCnmQ].en.vtt`
+
+---
+
+[00:00] hey everyone it's Mike from orderflows here and welcome back to my channel I'm glad you can join me for this video where I'm going to talk about a special feature on orderflows Trader that uh detects Market weakness in the market by reading the order flow and why is you know Market weakness important is because you know these are often great turning points in the market okay now before we jump in you know if you enjoy my videos be sure to subscribe and click the notification Bell so you don't miss
+
+[00:26] any new upload and if you find the information you learn in here helpful be sure to leave a comment down below and you know what if you want to get the software there's a link Down Below in the description all right so what are reasons for Market weakness well basically you know it could be profit taking Market could be tired could be showing some signs of exhaustion um overextension you know on a move that's gone too far too fast and sometimes you know it can be hitting support or
+
+[00:56] resistance levels okay and you know if you're looking at a a chart whether it's a footprint chart or any other chart you know a bar chart for example you know of times you're going to wonder why did the market you know trade up to here and then sell off right it got all the way up to 34 then sold down uh you know down to 25 okay um you know these are turning points in the market right why does the market you know sort of trading back and
+
+[01:23] forth here then it pops up you know basically from um you know 30 and A2 up to that that high at 34 and then reverse and goes down well Market is often showing what we call Market weakness now I know the the term on the surface weakness um you know when you hear that term you automatically assume the Market's going to sell off but we also there's bullish weakness in the sense that um selling has weakened really when we use the term Market weakness it it means the buying has
+
+[01:58] weakened or the selling has weakened doesn't mean the overall Market has weakened and it's can only trade in One Direction which is down right if a market is rallying but the buying is weakening the market generally will sell off and on the orderflows trader software we have a tool for that it's called Market weakness okay and you you can find it in the settings under Market weakness detector okay and you can draw it out fixed or until tested I I like to draw it out until tested which means I
+
+[02:31] have a Zone a line being drawn out from that bar the high of the bar which tells me hey you know what there was weakness here and oftentimes that can act as a support or resistance in the future okay and again you could adjust whatever colors you like to have um blue or Violet and you can adjust the opacity and the Zone size Zone size would be if you you're going to draw it fixed but I like to use until tested so it's just going to draw it out till price comes
+
+[02:59] back to the those levels okay so I've enabled it I'm going to hit apply okay and let it show up on the chart now again you know the tools that you find in the orderflows trader software are tools that I use in trading and you know that's the whole reason why I develop the orderflows trader software I'm not a programmer I pay a programmer to put all this stuff in there because these are things that I look for in the orderflow and what do we have here okay
+
+[03:29] so here right Market weakness this is bearish weakness that's why it's colored I supposed to be what was that color supposed to be like an orange but again I have the opacity on so it's not the so strong color so dark orange even though it looks light orange and blue blue violet let's say blue velvet it's blue violet here right bullish bearish okay and you often see that or I say often really what you want to see it at is Market turning points okay and so why is
+
+[04:00] this Market weakening okay well among other things if a market is going up what's generally what's driving the market up it's aggressive buying okay so if you know what and what is aggressive buying it's people buying the offer taking out the current offer and then trading the next offer taking that out right and that's what aggressive buying is aggressive selling is the opposite people selling the bid cleaning it out selling into the next bid cleaning it out in the market dropping further okay now where do you
+
+[04:35] want to see that though right you want to see it around swing highs or swing lows I'd love to say the high of the day the low of the day but you don't always see it at the highs of the days the lows of the day so you need to um sort of widen your net and look at swing highs and swing lows now that's not to say you can't look at it anywhere in the market but I found it's going to be most effective at swing highs or swing lows
+
+[04:57] because those are going to give you the potential for stronger moves right if you're trading anything in the middle of congestion often times it doesn't really go the way you would like it right just just because the market lacks Direction but when you have aggressive buying weakening going into a swing High what do you think you know that's going to give you a great trade opportunity just as if you have aggressive selling going into the low or swing low that's going to give you a great buying opportunity why
+
+[05:27] because the aggressive Traders ones that are moving the market are weakening right think of it like a machine gun right you seeing guys in the movie shooting the machine gun boom boom boom boom boom boom eventually they run out of bullets and it's the same thing with the market the aggressive buyers that were in here lifting the market higher have declined and it gets to a point where obviously eventually it turns negative and it's aggressive selling and the market starts to sell off okay this is a e mini chart let's take a look
+
+[06:02] here at at some other charts M andq okay M andq I'll be honest it's not a market that I regularly follow but I know a lot of my users follow it because I do get a lot of questions on m andq i I me personally I think there are markets out there much more suited towards order flow that move in an orderly fashion that don't jump around the way M andq does but I have it turned on here right um let me just check the market weakness detector okay so
+
+[06:33] I'll just scroll down here make sure it's oh the market sweep Market weakness turned on okay let's see here I'll just scrunch the chart to make it a little smaller so what am I looking for it's that Violet there was I saw one from earlier right down here right Market went up some selling came in it pulled back here Market went back up actually made new highs you did have a little bit of weakness coming in here now again is this a swing High you got to decide that
+
+[07:03] yourself um about earlier right down here right Market went up Market pulled back beauty is I don't necessarily need to analyze every single tick going through in the order flow to see this right this is the beauty of having software that does the the heavy lifting so to speak for you okay what I'm doing here is sometimes ninja Trader will automatically reset the default of the chart Style to Bar withd 100 right you're using candlesticks which is the max so you can't expand it anymore so I
+
+[07:37] got to change it down to 10 that that just happens once in a while um I don't know why IND Trader does have its uh quirks you see here look at this Market weakness right you went up to this High aggressive selling coming in but it's weakening going down and then the market takes off again where does it take off from basically you know 36 37 all the way up into the 60s okay there any more I like looking at mainly during uh Us hours now let's take
+
+[08:08] a look at another market right this is what is this Ultra bonds today okay what do we got here weakness now I have this one this is so you can see the difference the opacity is set at uh full opacity 100 right see so it's really going to be blue violet and dark orange right opacity set to 100 bearish there's a bearish one didn't work out but again that was right ahead of the uh number that came out today there's a bullish one bearish bearish bullish this bullish one
+
+[08:46] sort of went sideways for a while but you can see right at the high of the day so imagine that you're at the high of the day and you have a way a tool that's telling hey you know what there's Market weakness here what do you think the trade is going to be now this is where it gets interesting okay because it's one thing to have you know tools like this like Market weakness or whatever um but it's just one tool right I mean let me just go back here see if there's
+
+[09:17] any more there's one there okay but okay let's just expand this out here so change the opacity a little bit here okay so it's not so bright on you let just change it back down to let's call it the 25 okay what else do you have in this bar when you start adding sort of the other parts of order flow to it right it becomes much more I say alive but you know I get excited when I think about it but what's in this bar got an exhaustion print
+
+[09:56] seven right I did this video a few days ago talking about exhaustion prints all right now this one I'll keep set at nine because you know it's treasuries well it's Ultra bonds the interest rate see right here seven okay he's coloring it a little bit darker if I wanted to um that's fixed right but if if I wanted to uh draw it out here and you know maybe give it a different a darker opacity we'll call it 35 you can see how the colors change right cuz now you're blend colors right
+
+[10:30] it's okay what do I got well I've got exhaustion here because why how do I know this's exhaustion here cuz the color should be green if it was just exhaustion and if it was um Market weakness it'd be that BL dark violet color but it's this gray color right the color wheel right when you mix colors together you get different colors so let's tell me if it's a color that I'm not familiar with I don't need to know all the combinations of of colors I know
+
+[11:01] see there should be down here I can see the little triangle so it's telling me green there's exhaustion um the blue violet Dark Violet whatever is telling me that there's weakness and actually I got a bullish ratio here as well 44.3 so I got three things going here up up arrows triangles rather so if I have sort of this combination of things taking place okay that should give you a little bit more confidence in what you're looking at okay now I'll be honest I'm not usually somebody that is
+
+[11:37] going to say well I got three up triangles here that's got to be very strong and then take a trade but when you have this Confluence right when I see things sort of combined um you know with the order flow coming in at a certain point right we just sold off from the high down to the swing low aggressive selling weakening not only that but overall selling weakening and you end up with an exhaustion print to me that's bullish information information I can trade off of as opposed to just a normal
+
+[12:07] exhaustion print or a normal um Market weakness signal okay so that's how you can combine the tools together in forming your own analysis okay because at the end of the day that's what you want to do you want to form your own analysis make your own trading decisions so why we give you the tools with the orderflows trader so you can use um the software to do analysis for you and then you just putting the pieces together right you're you don't have to sit here and say well is this an
+
+[12:43] exhaustion print or not the software says it okay that's an exhaustion print is this Market weakness or not oh the market it is Market weakness because the software is telling you I I could have I wanted to throw in the word algo there because you know that's the term everyone loves to use use nowadays algo I do have a software called the orful algo by the way but um you know people say oh the algo says this no this is just what's happening in the order flow okay I don't like to use
+
+[13:11] fancy words if you don't need to use fancy words but when you start putting it together taking in context of what's actually happening in the market then the market starts to make a hell of a lot more sense to you as a Trader all right so GNA wrap up this video I hope you've enjoyed this one you know you got you can understand um Market weakness right basically Market weakness there's bullish Market weakness bearish Market weakness it's not overall Market weakness oh the Market's weak it's got
+
+[13:37] to sell off what you have when I Define it in the order flow is you're going to have the bearish order flow is getting weaker which would in turn be bullish for the market okay where the bullish order flow that's going through is getting weaker and it's measured through the aggressive trading all right so catch you guys on the next video if you haven't already be sure to subscribe to the channel and I'll see you guys later bye-bye

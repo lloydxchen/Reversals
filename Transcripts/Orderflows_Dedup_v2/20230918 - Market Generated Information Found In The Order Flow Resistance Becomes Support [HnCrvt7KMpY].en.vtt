@@ -1,0 +1,3440 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.840 --> 00:00:02.390 align:start position:0%
+ 
+Hey<00:00:00.920><c> everyone,</c><00:00:01.280><c> it's</c><00:00:01.480><c> Mike</c><00:00:01.760><c> from</c><00:00:02.000><c> OrderFlows</c>
+
+00:00:02.390 --> 00:00:02.400 align:start position:0%
+Hey everyone, it's Mike from OrderFlows
+ 
+
+00:00:02.400 --> 00:00:04.430 align:start position:0%
+Hey everyone, it's Mike from OrderFlows
+here<00:00:02.640><c> and</c><00:00:02.880><c> welcome</c><00:00:03.160><c> back</c><00:00:03.320><c> to</c><00:00:03.400><c> my</c><00:00:03.520><c> channel.</c><00:00:04.240><c> I'm</c>
+
+00:00:04.430 --> 00:00:04.440 align:start position:0%
+here and welcome back to my channel. I'm
+ 
+
+00:00:04.440 --> 00:00:05.550 align:start position:0%
+here and welcome back to my channel. I'm
+glad<00:00:04.640><c> you</c><00:00:04.720><c> could</c><00:00:04.840><c> join</c><00:00:05.000><c> me</c><00:00:05.120><c> for</c><00:00:05.240><c> today's</c>
+
+00:00:05.550 --> 00:00:05.560 align:start position:0%
+glad you could join me for today's
+ 
+
+00:00:05.560 --> 00:00:06.950 align:start position:0%
+glad you could join me for today's
+video.<00:00:05.960><c> I'm</c><00:00:06.040><c> going</c><00:00:06.160><c> to</c><00:00:06.240><c> be</c><00:00:06.280><c> talking</c><00:00:06.600><c> about</c><00:00:06.880><c> the</c>
+
+00:00:06.950 --> 00:00:06.960 align:start position:0%
+video. I'm going to be talking about the
+ 
+
+00:00:06.960 --> 00:00:08.990 align:start position:0%
+video. I'm going to be talking about the
+market<00:00:07.280><c> generated</c><00:00:07.800><c> information</c><00:00:08.760><c> that</c><00:00:08.880><c> you're</c>
+
+00:00:08.990 --> 00:00:09.000 align:start position:0%
+market generated information that you're
+ 
+
+00:00:09.000 --> 00:00:11.150 align:start position:0%
+market generated information that you're
+going<00:00:09.120><c> to</c><00:00:09.200><c> find</c><00:00:09.600><c> in</c><00:00:09.680><c> the</c><00:00:09.840><c> order</c><00:00:10.120><c> flow.</c><00:00:10.960><c> So,</c>
+
+00:00:11.150 --> 00:00:11.160 align:start position:0%
+going to find in the order flow. So,
+ 
+
+00:00:11.160 --> 00:00:12.870 align:start position:0%
+going to find in the order flow. So,
+before<00:00:11.440><c> we</c><00:00:11.560><c> jump</c><00:00:11.840><c> in,</c><00:00:12.120><c> if</c><00:00:12.480><c> you've</c><00:00:12.640><c> been</c>
+
+00:00:12.870 --> 00:00:12.880 align:start position:0%
+before we jump in, if you've been
+ 
+
+00:00:12.880 --> 00:00:15.310 align:start position:0%
+before we jump in, if you've been
+enjoying<00:00:13.640><c> learning</c><00:00:14.000><c> from</c><00:00:14.240><c> my</c><00:00:14.400><c> videos,</c><00:00:15.160><c> don't</c>
+
+00:00:15.310 --> 00:00:15.320 align:start position:0%
+enjoying learning from my videos, don't
+ 
+
+00:00:15.320 --> 00:00:16.790 align:start position:0%
+enjoying learning from my videos, don't
+forget<00:00:15.600><c> to</c><00:00:15.720><c> subscribe</c><00:00:16.360><c> and</c><00:00:16.520><c> click</c><00:00:16.720><c> the</c>
+
+00:00:16.790 --> 00:00:16.800 align:start position:0%
+forget to subscribe and click the
+ 
+
+00:00:16.800 --> 00:00:18.310 align:start position:0%
+forget to subscribe and click the
+notification<00:00:17.360><c> bell</c><00:00:17.560><c> so</c><00:00:17.680><c> you</c><00:00:17.760><c> don't</c><00:00:17.920><c> miss</c><00:00:18.120><c> any</c>
+
+00:00:18.310 --> 00:00:18.320 align:start position:0%
+notification bell so you don't miss any
+ 
+
+00:00:18.320 --> 00:00:20.830 align:start position:0%
+notification bell so you don't miss any
+new<00:00:18.640><c> upload.</c><00:00:19.480><c> And</c><00:00:19.720><c> if</c><00:00:19.800><c> you</c><00:00:19.920><c> find</c><00:00:20.480><c> today's</c>
+
+00:00:20.830 --> 00:00:20.840 align:start position:0%
+new upload. And if you find today's
+ 
+
+00:00:20.840 --> 00:00:22.630 align:start position:0%
+new upload. And if you find today's
+video<00:00:21.080><c> helpful,</c><00:00:21.760><c> hit</c><00:00:21.920><c> the</c><00:00:22.040><c> like</c><00:00:22.240><c> button</c><00:00:22.480><c> for</c>
+
+00:00:22.630 --> 00:00:22.640 align:start position:0%
+video helpful, hit the like button for
+ 
+
+00:00:22.640 --> 00:00:23.910 align:start position:0%
+video helpful, hit the like button for
+me<00:00:22.840><c> and</c><00:00:23.040><c> leave</c><00:00:23.200><c> a</c><00:00:23.240><c> comment</c><00:00:23.560><c> sharing</c><00:00:23.800><c> your</c>
+
+00:00:23.910 --> 00:00:23.920 align:start position:0%
+me and leave a comment sharing your
+ 
+
+00:00:23.920 --> 00:00:24.990 align:start position:0%
+me and leave a comment sharing your
+biggest<00:00:24.200><c> takeaway.</c><00:00:24.560><c> You</c><00:00:24.640><c> know,</c><00:00:24.720><c> I</c><00:00:24.800><c> love</c>
+
+00:00:24.990 --> 00:00:25.000 align:start position:0%
+biggest takeaway. You know, I love
+ 
+
+00:00:25.000 --> 00:00:26.590 align:start position:0%
+biggest takeaway. You know, I love
+hearing<00:00:25.240><c> your</c><00:00:25.360><c> feedback.</c><00:00:25.840><c> Often</c><00:00:26.120><c> times</c><00:00:26.400><c> I</c><00:00:26.440><c> do</c>
+
+00:00:26.590 --> 00:00:26.600 align:start position:0%
+hearing your feedback. Often times I do
+ 
+
+00:00:26.600 --> 00:00:27.990 align:start position:0%
+hearing your feedback. Often times I do
+make<00:00:26.800><c> videos</c><00:00:27.160><c> based</c><00:00:27.440><c> off</c><00:00:27.640><c> of</c><00:00:27.840><c> your</c>
+
+00:00:27.990 --> 00:00:28.000 align:start position:0%
+make videos based off of your
+ 
+
+00:00:28.000 --> 00:00:30.270 align:start position:0%
+make videos based off of your
+suggestions<00:00:28.680><c> that</c><00:00:28.800><c> I</c><00:00:28.880><c> find</c><00:00:29.160><c> in</c><00:00:29.280><c> the</c><00:00:29.360><c> comments.</c>
+
+00:00:30.270 --> 00:00:30.280 align:start position:0%
+suggestions that I find in the comments.
+ 
+
+00:00:30.280 --> 00:00:31.630 align:start position:0%
+suggestions that I find in the comments.
+So,<00:00:30.360><c> your</c><00:00:30.480><c> support</c><00:00:30.720><c> really</c><00:00:31.280><c> does</c><00:00:31.400><c> go</c><00:00:31.480><c> a</c><00:00:31.520><c> long</c>
+
+00:00:31.630 --> 00:00:31.640 align:start position:0%
+So, your support really does go a long
+ 
+
+00:00:31.640 --> 00:00:33.230 align:start position:0%
+So, your support really does go a long
+way<00:00:31.720><c> in</c><00:00:31.800><c> helping</c><00:00:32.040><c> me</c><00:00:32.160><c> create</c><00:00:32.439><c> more</c><00:00:32.800><c> content</c>
+
+00:00:33.230 --> 00:00:33.240 align:start position:0%
+way in helping me create more content
+ 
+
+00:00:33.240 --> 00:00:35.190 align:start position:0%
+way in helping me create more content
+just<00:00:33.440><c> like</c><00:00:33.640><c> this.</c><00:00:33.880><c> So,</c><00:00:34.480><c> again,</c><00:00:34.920><c> if</c><00:00:35.120><c> you're</c>
+
+00:00:35.190 --> 00:00:35.200 align:start position:0%
+just like this. So, again, if you're
+ 
+
+00:00:35.200 --> 00:00:37.190 align:start position:0%
+just like this. So, again, if you're
+getting<00:00:35.760><c> value</c><00:00:36.120><c> from</c><00:00:36.320><c> my</c><00:00:36.480><c> channel,</c><00:00:36.800><c> be</c><00:00:36.920><c> sure</c>
+
+00:00:37.190 --> 00:00:37.200 align:start position:0%
+getting value from my channel, be sure
+ 
+
+00:00:37.200 --> 00:00:38.190 align:start position:0%
+getting value from my channel, be sure
+to
+
+00:00:38.190 --> 00:00:38.200 align:start position:0%
+to
+ 
+
+00:00:38.200 --> 00:00:40.310 align:start position:0%
+to
+hit<00:00:38.320><c> the</c><00:00:38.400><c> subscribe</c><00:00:38.880><c> button.</c><00:00:39.360><c> Okay,</c><00:00:39.640><c> so</c><00:00:40.240><c> what</c>
+
+00:00:40.310 --> 00:00:40.320 align:start position:0%
+hit the subscribe button. Okay, so what
+ 
+
+00:00:40.320 --> 00:00:41.150 align:start position:0%
+hit the subscribe button. Okay, so what
+I'm<00:00:40.360><c> going</c><00:00:40.480><c> to</c><00:00:40.560><c> talk</c><00:00:40.720><c> about</c><00:00:40.920><c> I'm</c><00:00:41.000><c> going</c><00:00:41.120><c> to</c>
+
+00:00:41.150 --> 00:00:41.160 align:start position:0%
+I'm going to talk about I'm going to
+ 
+
+00:00:41.160 --> 00:00:42.550 align:start position:0%
+I'm going to talk about I'm going to
+talk<00:00:41.240><c> about</c><00:00:41.360><c> it's</c><00:00:41.560><c> the</c><00:00:41.680><c> gold</c><00:00:42.000><c> market</c><00:00:42.360><c> today</c>
+
+00:00:42.550 --> 00:00:42.560 align:start position:0%
+talk about it's the gold market today
+ 
+
+00:00:42.560 --> 00:00:44.750 align:start position:0%
+talk about it's the gold market today
+cuz<00:00:42.760><c> gold</c><00:00:43.000><c> was</c><00:00:43.480><c> quite</c><00:00:43.760><c> interesting.</c><00:00:44.680><c> I'll</c>
+
+00:00:44.750 --> 00:00:44.760 align:start position:0%
+cuz gold was quite interesting. I'll
+ 
+
+00:00:44.760 --> 00:00:46.750 align:start position:0%
+cuz gold was quite interesting. I'll
+just<00:00:44.880><c> pull</c><00:00:45.040><c> up</c><00:00:45.160><c> the</c><00:00:45.240><c> chart</c><00:00:45.520><c> here</c><00:00:45.840><c> real</c><00:00:46.000><c> quick.</c>
+
+00:00:46.750 --> 00:00:46.760 align:start position:0%
+just pull up the chart here real quick.
+ 
+
+00:00:46.760 --> 00:00:49.030 align:start position:0%
+just pull up the chart here real quick.
+You<00:00:46.840><c> know,</c><00:00:46.880><c> we</c><00:00:47.000><c> had</c><00:00:47.120><c> this</c><00:00:47.280><c> nice</c><00:00:47.640><c> big</c><00:00:48.320><c> rally</c>
+
+00:00:49.030 --> 00:00:49.040 align:start position:0%
+You know, we had this nice big rally
+ 
+
+00:00:49.040 --> 00:00:51.390 align:start position:0%
+You know, we had this nice big rally
+take<00:00:49.280><c> place</c><00:00:49.560><c> in</c><00:00:49.680><c> the</c><00:00:49.760><c> gold</c><00:00:50.760><c> from</c><00:00:51.040><c> our</c><00:00:51.120><c> lows</c>
+
+00:00:51.390 --> 00:00:51.400 align:start position:0%
+take place in the gold from our lows
+ 
+
+00:00:51.400 --> 00:00:55.630 align:start position:0%
+take place in the gold from our lows
+around<00:00:51.640><c> 44</c><00:00:52.760><c> up</c><00:00:52.960><c> to</c><00:00:53.280><c> new</c><00:00:53.560><c> highs</c><00:00:54.040><c> at</c><00:00:54.640><c> 54,</c><00:00:55.560><c> all</c>
+
+00:00:55.630 --> 00:00:55.640 align:start position:0%
+around 44 up to new highs at 54, all
+ 
+
+00:00:55.640 --> 00:00:58.590 align:start position:0%
+around 44 up to new highs at 54, all
+right?<00:00:56.080><c> And</c><00:00:57.000><c> you</c><00:00:57.080><c> know,</c><00:00:57.280><c> we</c>
+
+00:00:58.590 --> 00:00:58.600 align:start position:0%
+right? And you know, we
+ 
+
+00:00:58.600 --> 00:01:00.830 align:start position:0%
+right? And you know, we
+spent<00:00:59.560><c> uh</c><00:01:00.000><c> you</c><00:01:00.080><c> know,</c><00:01:00.200><c> Friday</c><00:01:00.560><c> we</c><00:01:00.640><c> sort</c><00:01:00.760><c> of</c>
+
+00:01:00.830 --> 00:01:00.840 align:start position:0%
+spent uh you know, Friday we sort of
+ 
+
+00:01:00.840 --> 00:01:02.910 align:start position:0%
+spent uh you know, Friday we sort of
+closed<00:01:01.120><c> around</c><00:01:01.360><c> 45.</c>
+
+00:01:02.910 --> 00:01:02.920 align:start position:0%
+closed around 45.
+ 
+
+00:01:02.920 --> 00:01:05.470 align:start position:0%
+closed around 45.
+So,<00:01:03.480><c> you</c><00:01:03.560><c> know,</c><00:01:03.680><c> we're</c><00:01:03.800><c> about</c><00:01:04.480><c> $10</c><00:01:05.120><c> higher</c>
+
+00:01:05.470 --> 00:01:05.480 align:start position:0%
+So, you know, we're about $10 higher
+ 
+
+00:01:05.480 --> 00:01:07.430 align:start position:0%
+So, you know, we're about $10 higher
+right<00:01:05.720><c> now.</c><00:01:06.360><c> But,</c><00:01:06.760><c> I</c><00:01:06.800><c> want</c><00:01:06.920><c> to</c><00:01:07.000><c> talk</c><00:01:07.160><c> about</c>
+
+00:01:07.430 --> 00:01:07.440 align:start position:0%
+right now. But, I want to talk about
+ 
+
+00:01:07.440 --> 00:01:09.270 align:start position:0%
+right now. But, I want to talk about
+what's<00:01:07.680><c> taking</c><00:01:08.000><c> place</c><00:01:08.320><c> right</c><00:01:08.560><c> here</c><00:01:08.920><c> in</c><00:01:09.120><c> the</c>
+
+00:01:09.270 --> 00:01:09.280 align:start position:0%
+what's taking place right here in the
+ 
+
+00:01:09.280 --> 00:01:11.830 align:start position:0%
+what's taking place right here in the
+order<00:01:09.560><c> flow</c><00:01:10.440><c> that</c><00:01:10.840><c> can</c><00:01:10.960><c> give</c><00:01:11.120><c> you</c><00:01:11.240><c> some</c><00:01:11.440><c> decent</c>
+
+00:01:11.830 --> 00:01:11.840 align:start position:0%
+order flow that can give you some decent
+ 
+
+00:01:11.840 --> 00:01:13.590 align:start position:0%
+order flow that can give you some decent
+signs<00:01:12.240><c> of</c><00:01:12.440><c> what's</c><00:01:12.640><c> going</c><00:01:12.800><c> to</c><00:01:12.880><c> happen</c><00:01:13.320><c> later</c>
+
+00:01:13.590 --> 00:01:13.600 align:start position:0%
+signs of what's going to happen later
+ 
+
+00:01:13.600 --> 00:01:16.430 align:start position:0%
+signs of what's going to happen later
+when<00:01:13.760><c> we</c><00:01:13.880><c> come</c><00:01:14.080><c> back</c><00:01:14.440><c> up</c><00:01:14.680><c> to</c><00:01:14.840><c> that</c><00:01:15.160><c> area,</c><00:01:16.200><c> okay?</c>
+
+00:01:16.430 --> 00:01:16.440 align:start position:0%
+when we come back up to that area, okay?
+ 
+
+00:01:16.440 --> 00:01:18.390 align:start position:0%
+when we come back up to that area, okay?
+Because<00:01:17.080><c> once</c><00:01:17.320><c> we</c><00:01:17.440><c> got</c><00:01:17.600><c> past</c><00:01:17.840><c> this</c><00:01:18.000><c> area,</c><00:01:18.280><c> it</c>
+
+00:01:18.390 --> 00:01:18.400 align:start position:0%
+Because once we got past this area, it
+ 
+
+00:01:18.400 --> 00:01:20.390 align:start position:0%
+Because once we got past this area, it
+really<00:01:18.600><c> became</c><00:01:18.960><c> a</c><00:01:19.000><c> springboard</c><00:01:19.760><c> to</c><00:01:20.040><c> higher</c>
+
+00:01:20.390 --> 00:01:20.400 align:start position:0%
+really became a springboard to higher
+ 
+
+00:01:20.400 --> 00:01:21.670 align:start position:0%
+really became a springboard to higher
+prices.
+
+00:01:21.670 --> 00:01:21.680 align:start position:0%
+prices.
+ 
+
+00:01:21.680 --> 00:01:22.990 align:start position:0%
+prices.
+All<00:01:21.720><c> right,</c><00:01:21.880><c> so</c><00:01:21.960><c> let's</c><00:01:22.120><c> take</c><00:01:22.240><c> a</c><00:01:22.320><c> look</c><00:01:22.680><c> at</c><00:01:22.880><c> the</c>
+
+00:01:22.990 --> 00:01:23.000 align:start position:0%
+All right, so let's take a look at the
+ 
+
+00:01:23.000 --> 00:01:25.350 align:start position:0%
+All right, so let's take a look at the
+footprint,<00:01:23.680><c> okay?</c><00:01:23.880><c> So,</c><00:01:24.040><c> this</c><00:01:24.200><c> is</c><00:01:24.320><c> your</c><00:01:24.480><c> basic</c>
+
+00:01:25.350 --> 00:01:25.360 align:start position:0%
+footprint, okay? So, this is your basic
+ 
+
+00:01:25.360 --> 00:01:26.950 align:start position:0%
+footprint, okay? So, this is your basic
+uh
+
+00:01:26.950 --> 00:01:26.960 align:start position:0%
+uh
+ 
+
+00:01:26.960 --> 00:01:28.670 align:start position:0%
+uh
+order<00:01:27.200><c> flow</c><00:01:27.480><c> footprint</c><00:01:28.000><c> chart,</c><00:01:28.320><c> right?</c><00:01:28.600><c> You</c>
+
+00:01:28.670 --> 00:01:28.680 align:start position:0%
+order flow footprint chart, right? You
+ 
+
+00:01:28.680 --> 00:01:30.070 align:start position:0%
+order flow footprint chart, right? You
+know,<00:01:28.840><c> with</c><00:01:29.040><c> the</c><00:01:29.240><c> volume</c><00:01:29.600><c> on</c><00:01:29.680><c> the</c><00:01:29.760><c> bid</c><00:01:30.000><c> and</c>
+
+00:01:30.070 --> 00:01:30.080 align:start position:0%
+know, with the volume on the bid and
+ 
+
+00:01:30.080 --> 00:01:31.750 align:start position:0%
+know, with the volume on the bid and
+volume<00:01:30.360><c> on</c><00:01:30.480><c> the</c><00:01:30.680><c> offer.</c>
+
+00:01:31.750 --> 00:01:31.760 align:start position:0%
+volume on the offer.
+ 
+
+00:01:31.760 --> 00:01:33.430 align:start position:0%
+volume on the offer.
+And
+
+00:01:33.430 --> 00:01:33.440 align:start position:0%
+And
+ 
+
+00:01:33.440 --> 00:01:37.110 align:start position:0%
+And
+probably<00:01:33.600><c> around</c><00:01:34.440><c> uh</c><00:01:34.640><c> 8:25</c><00:01:35.880><c> this</c><00:01:36.120><c> morning,</c>
+
+00:01:37.110 --> 00:01:37.120 align:start position:0%
+probably around uh 8:25 this morning,
+ 
+
+00:01:37.120 --> 00:01:38.630 align:start position:0%
+probably around uh 8:25 this morning,
+all<00:01:37.160><c> right?</c><00:01:37.320><c> We</c><00:01:37.440><c> sort</c><00:01:37.600><c> of</c><00:01:37.680><c> hit</c><00:01:37.800><c> these</c><00:01:38.040><c> areas</c><00:01:38.480><c> up</c>
+
+00:01:38.630 --> 00:01:38.640 align:start position:0%
+all right? We sort of hit these areas up
+ 
+
+00:01:38.640 --> 00:01:43.030 align:start position:0%
+all right? We sort of hit these areas up
+in<00:01:38.760><c> here</c><00:01:39.360><c> around</c><00:01:39.800><c> the</c><00:01:40.120><c> 49</c><00:01:40.880><c> and</c><00:01:41.760><c> uh</c><00:01:41.840><c> 4970-ish</c>
+
+00:01:43.030 --> 00:01:43.040 align:start position:0%
+in here around the 49 and uh 4970-ish
+ 
+
+00:01:43.040 --> 00:01:44.870 align:start position:0%
+in here around the 49 and uh 4970-ish
+area,<00:01:43.640><c> okay?</c><00:01:44.280><c> I'm</c><00:01:44.360><c> just</c><00:01:44.480><c> going</c><00:01:44.600><c> to</c><00:01:44.640><c> draw</c><00:01:44.800><c> a</c>
+
+00:01:44.870 --> 00:01:44.880 align:start position:0%
+area, okay? I'm just going to draw a
+ 
+
+00:01:44.880 --> 00:01:46.430 align:start position:0%
+area, okay? I'm just going to draw a
+line<00:01:45.200><c> here</c><00:01:45.520><c> cuz</c><00:01:45.720><c> we're</c><00:01:45.800><c> going</c><00:01:45.920><c> to</c><00:01:46.040><c> come</c><00:01:46.200><c> back</c>
+
+00:01:46.430 --> 00:01:46.440 align:start position:0%
+line here cuz we're going to come back
+ 
+
+00:01:46.440 --> 00:01:48.110 align:start position:0%
+line here cuz we're going to come back
+to<00:01:46.560><c> this</c><00:01:46.800><c> in</c><00:01:46.920><c> a</c><00:01:46.960><c> second.</c>
+
+00:01:48.110 --> 00:01:48.120 align:start position:0%
+to this in a second.
+ 
+
+00:01:48.120 --> 00:01:50.270 align:start position:0%
+to this in a second.
+But,<00:01:48.920><c> you</c><00:01:49.000><c> know,</c><00:01:49.400><c> in</c><00:01:49.600><c> order</c><00:01:49.840><c> flow,</c><00:01:50.040><c> there's</c><00:01:50.200><c> a</c>
+
+00:01:50.270 --> 00:01:50.280 align:start position:0%
+But, you know, in order flow, there's a
+ 
+
+00:01:50.280 --> 00:01:51.790 align:start position:0%
+But, you know, in order flow, there's a
+lot<00:01:50.560><c> of</c><00:01:50.680><c> information,</c><00:01:51.240><c> right?</c><00:01:51.400><c> There's</c><00:01:51.560><c> a</c><00:01:51.600><c> lot</c>
+
+00:01:51.790 --> 00:01:51.800 align:start position:0%
+lot of information, right? There's a lot
+ 
+
+00:01:51.800 --> 00:01:52.790 align:start position:0%
+lot of information, right? There's a lot
+of
+
+00:01:52.790 --> 00:01:52.800 align:start position:0%
+of
+ 
+
+00:01:52.800 --> 00:01:55.110 align:start position:0%
+of
+numbers<00:01:53.640><c> and</c><00:01:54.360><c> you</c><00:01:54.480><c> know,</c><00:01:54.600><c> things</c><00:01:54.880><c> that</c><00:01:55.000><c> you're</c>
+
+00:01:55.110 --> 00:01:55.120 align:start position:0%
+numbers and you know, things that you're
+ 
+
+00:01:55.120 --> 00:01:56.630 align:start position:0%
+numbers and you know, things that you're
+looking<00:01:55.440><c> at</c>
+
+00:01:56.630 --> 00:01:56.640 align:start position:0%
+looking at
+ 
+
+00:01:56.640 --> 00:01:59.190 align:start position:0%
+looking at
+in<00:01:56.840><c> the</c><00:01:56.920><c> volume,</c><00:01:57.640><c> okay?</c><00:01:58.520><c> And</c><00:01:58.920><c> one</c><00:01:59.080><c> of</c><00:01:59.120><c> the</c>
+
+00:01:59.190 --> 00:01:59.200 align:start position:0%
+in the volume, okay? And one of the
+ 
+
+00:01:59.200 --> 00:02:01.430 align:start position:0%
+in the volume, okay? And one of the
+things<00:01:59.400><c> I</c><00:01:59.480><c> like</c><00:01:59.720><c> to</c><00:01:59.840><c> focus</c><00:02:00.280><c> on,</c><00:02:00.680><c> which</c><00:02:00.960><c> in</c><00:02:01.280><c> my</c>
+
+00:02:01.430 --> 00:02:01.440 align:start position:0%
+things I like to focus on, which in my
+ 
+
+00:02:01.440 --> 00:02:03.790 align:start position:0%
+things I like to focus on, which in my
+opinion<00:02:01.840><c> is</c><00:02:02.000><c> a</c><00:02:02.040><c> great</c><00:02:02.480><c> piece</c><00:02:02.840><c> of</c><00:02:03.440><c> market</c>
+
+00:02:03.790 --> 00:02:03.800 align:start position:0%
+opinion is a great piece of market
+ 
+
+00:02:03.800 --> 00:02:05.430 align:start position:0%
+opinion is a great piece of market
+generated<00:02:04.400><c> information.</c><00:02:05.000><c> What's</c><00:02:05.160><c> market</c>
+
+00:02:05.430 --> 00:02:05.440 align:start position:0%
+generated information. What's market
+ 
+
+00:02:05.440 --> 00:02:06.870 align:start position:0%
+generated information. What's market
+generated<00:02:05.960><c> information?</c><00:02:06.440><c> It's</c><00:02:06.560><c> simply</c>
+
+00:02:06.870 --> 00:02:06.880 align:start position:0%
+generated information? It's simply
+ 
+
+00:02:06.880 --> 00:02:10.230 align:start position:0%
+generated information? It's simply
+information<00:02:07.960><c> that</c><00:02:08.320><c> is</c><00:02:09.280><c> generated</c><00:02:09.920><c> by</c><00:02:10.119><c> the</c>
+
+00:02:10.230 --> 00:02:10.240 align:start position:0%
+information that is generated by the
+ 
+
+00:02:10.240 --> 00:02:11.550 align:start position:0%
+information that is generated by the
+market,<00:02:10.759><c> right?</c><00:02:11.000><c> I</c><00:02:11.040><c> mean,</c><00:02:11.160><c> it's</c><00:02:11.320><c> nothing</c>
+
+00:02:11.550 --> 00:02:11.560 align:start position:0%
+market, right? I mean, it's nothing
+ 
+
+00:02:11.560 --> 00:02:13.550 align:start position:0%
+market, right? I mean, it's nothing
+complicated.<00:02:12.320><c> And</c><00:02:12.560><c> what</c><00:02:12.720><c> that</c><00:02:12.920><c> means</c><00:02:13.240><c> is,</c><00:02:13.480><c> you</c>
+
+00:02:13.550 --> 00:02:13.560 align:start position:0%
+complicated. And what that means is, you
+ 
+
+00:02:13.560 --> 00:02:15.430 align:start position:0%
+complicated. And what that means is, you
+know,<00:02:13.680><c> it's</c><00:02:13.920><c> like</c><00:02:14.120><c> a</c><00:02:14.200><c> support</c><00:02:14.720><c> or</c><00:02:14.840><c> resistance</c>
+
+00:02:15.430 --> 00:02:15.440 align:start position:0%
+know, it's like a support or resistance
+ 
+
+00:02:15.440 --> 00:02:18.110 align:start position:0%
+know, it's like a support or resistance
+area<00:02:15.800><c> based</c><00:02:16.120><c> off</c><00:02:16.320><c> of</c><00:02:16.400><c> the</c><00:02:16.480><c> volume,</c><00:02:17.200><c> okay?</c><00:02:17.480><c> Now,</c>
+
+00:02:18.110 --> 00:02:18.120 align:start position:0%
+area based off of the volume, okay? Now,
+ 
+
+00:02:18.120 --> 00:02:19.790 align:start position:0%
+area based off of the volume, okay? Now,
+I<00:02:18.200><c> could</c><00:02:18.360><c> look</c><00:02:18.560><c> at</c><00:02:18.680><c> this</c><00:02:18.840><c> volume,</c><00:02:19.280><c> right?</c><00:02:19.480><c> We</c>
+
+00:02:19.790 --> 00:02:19.800 align:start position:0%
+I could look at this volume, right? We
+ 
+
+00:02:19.800 --> 00:02:21.670 align:start position:0%
+I could look at this volume, right? We
+just<00:02:20.200><c> rallied</c><00:02:20.560><c> up</c><00:02:20.800><c> to</c><00:02:20.920><c> the</c><00:02:21.000><c> swing</c><00:02:21.320><c> high</c><00:02:21.520><c> up</c>
+
+00:02:21.670 --> 00:02:21.680 align:start position:0%
+just rallied up to the swing high up
+ 
+
+00:02:21.680 --> 00:02:23.830 align:start position:0%
+just rallied up to the swing high up
+here,<00:02:22.160><c> and</c><00:02:22.280><c> I</c><00:02:22.360><c> see</c><00:02:22.480><c> a</c><00:02:22.520><c> nice</c><00:02:22.840><c> big</c><00:02:23.120><c> volume</c><00:02:23.560><c> coming</c>
+
+00:02:23.830 --> 00:02:23.840 align:start position:0%
+here, and I see a nice big volume coming
+ 
+
+00:02:23.840 --> 00:02:25.670 align:start position:0%
+here, and I see a nice big volume coming
+through<00:02:24.120><c> here</c><00:02:24.560><c> at</c><00:02:25.040><c> uh</c>
+
+00:02:25.670 --> 00:02:25.680 align:start position:0%
+through here at uh
+ 
+
+00:02:25.680 --> 00:02:30.230 align:start position:0%
+through here at uh
+4970,<00:02:26.840><c> 194970,</c><00:02:27.880><c> 134</c><00:02:29.280><c> contracts,</c><00:02:29.920><c> right?</c><00:02:30.080><c> And</c>
+
+00:02:30.230 --> 00:02:30.240 align:start position:0%
+4970, 194970, 134 contracts, right? And
+ 
+
+00:02:30.240 --> 00:02:32.350 align:start position:0%
+4970, 194970, 134 contracts, right? And
+even,<00:02:31.000><c> you</c><00:02:31.080><c> know,</c><00:02:31.160><c> sort</c><00:02:31.400><c> of</c><00:02:31.480><c> preceding</c><00:02:32.080><c> it</c><00:02:32.240><c> on</c>
+
+00:02:32.350 --> 00:02:32.360 align:start position:0%
+even, you know, sort of preceding it on
+ 
+
+00:02:32.360 --> 00:02:35.190 align:start position:0%
+even, you know, sort of preceding it on
+the<00:02:32.480><c> way</c><00:02:32.680><c> up,</c><00:02:32.880><c> I</c><00:02:32.959><c> see</c><00:02:33.120><c> there's</c><00:02:33.320><c> 78</c><00:02:33.920><c> here,</c><00:02:34.160><c> 71,</c>
+
+00:02:35.190 --> 00:02:35.200 align:start position:0%
+the way up, I see there's 78 here, 71,
+ 
+
+00:02:35.200 --> 00:02:38.030 align:start position:0%
+the way up, I see there's 78 here, 71,
+70,<00:02:36.280><c> and</c><00:02:36.720><c> we</c><00:02:37.000><c> hit</c><00:02:37.200><c> that</c><00:02:37.360><c> area,</c><00:02:37.640><c> come</c><00:02:37.840><c> off</c><00:02:38.000><c> a</c>
+
+00:02:38.030 --> 00:02:38.040 align:start position:0%
+70, and we hit that area, come off a
+ 
+
+00:02:38.040 --> 00:02:40.030 align:start position:0%
+70, and we hit that area, come off a
+little<00:02:38.200><c> bit,</c><00:02:38.400><c> going</c><00:02:38.640><c> sideways.</c><00:02:39.600><c> I</c><00:02:39.720><c> get</c><00:02:39.880><c> this</c>
+
+00:02:40.030 --> 00:02:40.040 align:start position:0%
+little bit, going sideways. I get this
+ 
+
+00:02:40.040 --> 00:02:41.390 align:start position:0%
+little bit, going sideways. I get this
+point<00:02:40.200><c> of</c><00:02:40.280><c> control</c><00:02:40.680><c> right</c><00:02:40.880><c> up</c><00:02:41.000><c> here</c><00:02:41.160><c> on</c><00:02:41.280><c> the</c>
+
+00:02:41.390 --> 00:02:41.400 align:start position:0%
+point of control right up here on the
+ 
+
+00:02:41.400 --> 00:02:43.949 align:start position:0%
+point of control right up here on the
+extreme<00:02:42.040><c> of</c><00:02:42.200><c> the</c><00:02:42.480><c> red</c><00:02:42.760><c> candle,</c><00:02:43.560><c> a</c><00:02:43.600><c> decent</c>
+
+00:02:43.949 --> 00:02:43.959 align:start position:0%
+extreme of the red candle, a decent
+ 
+
+00:02:43.959 --> 00:02:45.430 align:start position:0%
+extreme of the red candle, a decent
+volume<00:02:44.240><c> up</c><00:02:44.400><c> here</c><00:02:44.520><c> at</c><00:02:44.600><c> 34,</c><00:02:45.160><c> and</c><00:02:45.240><c> then</c><00:02:45.360><c> the</c>
+
+00:02:45.430 --> 00:02:45.440 align:start position:0%
+volume up here at 34, and then the
+ 
+
+00:02:45.440 --> 00:02:49.350 align:start position:0%
+volume up here at 34, and then the
+market<00:02:45.800><c> sells</c><00:02:46.120><c> off,</c><00:02:46.840><c> okay?</c><00:02:47.560><c> Now,</c>
+
+00:02:49.350 --> 00:02:49.360 align:start position:0%
+market sells off, okay? Now,
+ 
+
+00:02:49.360 --> 00:02:52.590 align:start position:0%
+market sells off, okay? Now,
+years<00:02:49.720><c> ago,</c><00:02:50.320><c> right?</c><00:02:50.640><c> Before</c><00:02:51.080><c> I</c><00:02:51.120><c> even</c><00:02:52.040><c> started</c>
+
+00:02:52.590 --> 00:02:52.600 align:start position:0%
+years ago, right? Before I even started
+ 
+
+00:02:52.600 --> 00:02:56.110 align:start position:0%
+years ago, right? Before I even started
+the<00:02:52.760><c> orderflows.com</c><00:02:54.040><c> website</c><00:02:55.440><c> and</c><00:02:55.680><c> and</c><00:02:55.880><c> doing</c>
+
+00:02:56.110 --> 00:02:56.120 align:start position:0%
+the orderflows.com website and and doing
+ 
+
+00:02:56.120 --> 00:02:57.510 align:start position:0%
+the orderflows.com website and and doing
+all<00:02:56.240><c> that,</c><00:02:56.520><c> you</c><00:02:56.600><c> know,</c><00:02:56.800><c> when</c><00:02:57.000><c> I</c><00:02:57.080><c> was</c><00:02:57.240><c> trading</c>
+
+00:02:57.510 --> 00:02:57.520 align:start position:0%
+all that, you know, when I was trading
+ 
+
+00:02:57.520 --> 00:02:59.870 align:start position:0%
+all that, you know, when I was trading
+with<00:02:57.680><c> order</c><00:02:57.920><c> flow,</c><00:02:58.680><c> what</c><00:02:59.000><c> I</c><00:02:59.120><c> did</c><00:02:59.480><c> is</c><00:02:59.600><c> is</c><00:02:59.840><c> I</c>
+
+00:02:59.870 --> 00:02:59.880 align:start position:0%
+with order flow, what I did is is I
+ 
+
+00:02:59.880 --> 00:03:01.830 align:start position:0%
+with order flow, what I did is is I
+literally<00:03:00.239><c> went</c><00:03:00.440><c> through</c>
+
+00:03:01.830 --> 00:03:01.840 align:start position:0%
+literally went through
+ 
+
+00:03:01.840 --> 00:03:03.509 align:start position:0%
+literally went through
+charts,<00:03:02.480><c> right?</c>
+
+00:03:03.509 --> 00:03:03.519 align:start position:0%
+charts, right?
+ 
+
+00:03:03.519 --> 00:03:05.270 align:start position:0%
+charts, right?
+I<00:03:03.560><c> don't</c><00:03:03.760><c> know</c><00:03:03.880><c> how</c><00:03:04.000><c> many</c><00:03:04.280><c> thousands</c><00:03:04.800><c> of</c><00:03:04.920><c> days</c>
+
+00:03:05.270 --> 00:03:05.280 align:start position:0%
+I don't know how many thousands of days
+ 
+
+00:03:05.280 --> 00:03:07.550 align:start position:0%
+I don't know how many thousands of days
+of<00:03:05.720><c> of</c><00:03:06.560><c> charts,</c><00:03:06.920><c> because,</c><00:03:07.239><c> you</c><00:03:07.280><c> know,</c><00:03:07.440><c> it's</c>
+
+00:03:07.550 --> 00:03:07.560 align:start position:0%
+of of charts, because, you know, it's
+ 
+
+00:03:07.560 --> 00:03:09.229 align:start position:0%
+of of charts, because, you know, it's
+not<00:03:07.760><c> just</c><00:03:07.959><c> one</c><00:03:08.160><c> market,</c><00:03:08.480><c> but</c><00:03:08.680><c> all</c><00:03:08.880><c> the</c><00:03:09.040><c> other</c>
+
+00:03:09.229 --> 00:03:09.239 align:start position:0%
+not just one market, but all the other
+ 
+
+00:03:09.239 --> 00:03:10.470 align:start position:0%
+not just one market, but all the other
+markets,
+
+00:03:10.470 --> 00:03:10.480 align:start position:0%
+markets,
+ 
+
+00:03:10.480 --> 00:03:12.590 align:start position:0%
+markets,
+um<00:03:10.600><c> you</c><00:03:10.680><c> know,</c><00:03:10.840><c> gold,</c><00:03:11.320><c> silver,</c><00:03:12.040><c> you</c><00:03:12.160><c> know,</c>
+
+00:03:12.590 --> 00:03:12.600 align:start position:0%
+um you know, gold, silver, you know,
+ 
+
+00:03:12.600 --> 00:03:16.110 align:start position:0%
+um you know, gold, silver, you know,
+bonds,<00:03:13.040><c> fives,</c><00:03:13.959><c> tens,</c><00:03:14.600><c> minis,</c>
+
+00:03:16.110 --> 00:03:16.120 align:start position:0%
+bonds, fives, tens, minis,
+ 
+
+00:03:16.120 --> 00:03:16.910 align:start position:0%
+bonds, fives, tens, minis,
+um
+
+00:03:16.910 --> 00:03:16.920 align:start position:0%
+um
+ 
+
+00:03:16.920 --> 00:03:18.910 align:start position:0%
+um
+currencies,<00:03:17.480><c> all</c><00:03:17.680><c> that,</c><00:03:17.920><c> to</c><00:03:18.160><c> I</c><00:03:18.480><c> to</c><00:03:18.640><c> take</c><00:03:18.840><c> a</c>
+
+00:03:18.910 --> 00:03:18.920 align:start position:0%
+currencies, all that, to I to take a
+ 
+
+00:03:18.920 --> 00:03:22.190 align:start position:0%
+currencies, all that, to I to take a
+look<00:03:19.200><c> at</c><00:03:19.600><c> how</c><00:03:19.880><c> markets</c><00:03:20.400><c> top</c><00:03:20.800><c> out,</c><00:03:21.640><c> and</c><00:03:22.000><c> what</c>
+
+00:03:22.190 --> 00:03:22.200 align:start position:0%
+look at how markets top out, and what
+ 
+
+00:03:22.200 --> 00:03:24.070 align:start position:0%
+look at how markets top out, and what
+are<00:03:22.320><c> some</c><00:03:22.560><c> of</c><00:03:22.640><c> the</c><00:03:22.720><c> signs</c><00:03:23.120><c> of</c><00:03:23.239><c> a</c><00:03:23.280><c> market</c>
+
+00:03:24.070 --> 00:03:24.080 align:start position:0%
+are some of the signs of a market
+ 
+
+00:03:24.080 --> 00:03:26.229 align:start position:0%
+are some of the signs of a market
+topping<00:03:24.519><c> out</c><00:03:24.840><c> in</c><00:03:25.000><c> because</c>
+
+00:03:26.229 --> 00:03:26.239 align:start position:0%
+topping out in because
+ 
+
+00:03:26.239 --> 00:03:28.550 align:start position:0%
+topping out in because
+you<00:03:26.320><c> know,</c><00:03:26.600><c> all</c><00:03:26.880><c> day</c><00:03:27.080><c> long,</c><00:03:27.440><c> right?</c><00:03:27.640><c> Markets</c>
+
+00:03:28.550 --> 00:03:28.560 align:start position:0%
+you know, all day long, right? Markets
+ 
+
+00:03:28.560 --> 00:03:30.470 align:start position:0%
+you know, all day long, right? Markets
+make<00:03:28.800><c> swing</c><00:03:29.080><c> highs,</c><00:03:29.400><c> make</c><00:03:29.600><c> swing</c><00:03:29.880><c> lows.</c><00:03:30.280><c> And</c>
+
+00:03:30.470 --> 00:03:30.480 align:start position:0%
+make swing highs, make swing lows. And
+ 
+
+00:03:30.480 --> 00:03:31.710 align:start position:0%
+make swing highs, make swing lows. And
+if<00:03:30.600><c> there</c><00:03:30.680><c> was</c><00:03:30.800><c> something</c><00:03:31.120><c> in</c><00:03:31.200><c> the</c><00:03:31.320><c> order</c><00:03:31.560><c> flow</c>
+
+00:03:31.710 --> 00:03:31.720 align:start position:0%
+if there was something in the order flow
+ 
+
+00:03:31.720 --> 00:03:33.390 align:start position:0%
+if there was something in the order flow
+that<00:03:31.920><c> I</c><00:03:32.040><c> could</c>
+
+00:03:33.390 --> 00:03:33.400 align:start position:0%
+that I could
+ 
+
+00:03:33.400 --> 00:03:36.630 align:start position:0%
+that I could
+identify,<00:03:34.400><c> sort</c><00:03:34.560><c> of</c><00:03:34.720><c> pick</c><00:03:35.040><c> out</c><00:03:35.880><c> in,</c><00:03:36.440><c> you</c><00:03:36.519><c> know,</c>
+
+00:03:36.630 --> 00:03:36.640 align:start position:0%
+identify, sort of pick out in, you know,
+ 
+
+00:03:36.640 --> 00:03:38.150 align:start position:0%
+identify, sort of pick out in, you know,
+by<00:03:36.840><c> by</c><00:03:37.080><c> going</c><00:03:37.360><c> through</c><00:03:37.560><c> all</c><00:03:37.680><c> these</c><00:03:37.880><c> different</c>
+
+00:03:38.150 --> 00:03:38.160 align:start position:0%
+by by going through all these different
+ 
+
+00:03:38.160 --> 00:03:40.590 align:start position:0%
+by by going through all these different
+charts,<00:03:38.959><c> you</c><00:03:39.040><c> know,</c><00:03:39.120><c> something</c><00:03:39.640><c> tangible</c>
+
+00:03:40.590 --> 00:03:40.600 align:start position:0%
+charts, you know, something tangible
+ 
+
+00:03:40.600 --> 00:03:42.910 align:start position:0%
+charts, you know, something tangible
+that,<00:03:41.120><c> you</c><00:03:41.200><c> know,</c><00:03:41.480><c> if</c><00:03:41.720><c> I</c><00:03:42.040><c> see</c><00:03:42.320><c> the</c><00:03:42.440><c> market</c><00:03:42.760><c> come</c>
+
+00:03:42.910 --> 00:03:42.920 align:start position:0%
+that, you know, if I see the market come
+ 
+
+00:03:42.920 --> 00:03:44.910 align:start position:0%
+that, you know, if I see the market come
+up<00:03:43.000><c> to</c><00:03:43.120><c> a</c><00:03:43.160><c> swing</c><00:03:43.480><c> high,</c><00:03:44.200><c> I</c><00:03:44.280><c> could</c><00:03:44.400><c> say,</c><00:03:44.600><c> "Aha,</c>
+
+00:03:44.910 --> 00:03:44.920 align:start position:0%
+up to a swing high, I could say, "Aha,
+ 
+
+00:03:44.920 --> 00:03:46.470 align:start position:0%
+up to a swing high, I could say, "Aha,
+I've<00:03:45.080><c> seen</c><00:03:45.320><c> that</c><00:03:45.480><c> before.</c><00:03:45.959><c> I</c><00:03:46.040><c> know</c><00:03:46.200><c> what</c><00:03:46.360><c> to</c>
+
+00:03:46.470 --> 00:03:46.480 align:start position:0%
+I've seen that before. I know what to
+ 
+
+00:03:46.480 --> 00:03:49.509 align:start position:0%
+I've seen that before. I know what to
+do."<00:03:47.120><c> And</c><00:03:47.840><c> that</c><00:03:48.120><c> is</c><00:03:48.280><c> why</c><00:03:48.600><c> in</c><00:03:48.800><c> the</c><00:03:48.920><c> order</c><00:03:49.160><c> flows</c>
+
+00:03:49.509 --> 00:03:49.519 align:start position:0%
+do." And that is why in the order flows
+ 
+
+00:03:49.519 --> 00:03:51.670 align:start position:0%
+do." And that is why in the order flows
+trader,<00:03:50.400><c> right?</c><00:03:50.600><c> We</c><00:03:50.680><c> have</c><00:03:50.840><c> a</c><00:03:50.920><c> lot</c><00:03:51.120><c> of</c><00:03:51.200><c> tools</c><00:03:51.560><c> in</c>
+
+00:03:51.670 --> 00:03:51.680 align:start position:0%
+trader, right? We have a lot of tools in
+ 
+
+00:03:51.680 --> 00:03:54.190 align:start position:0%
+trader, right? We have a lot of tools in
+there<00:03:51.840><c> because</c><00:03:52.720><c> these</c><00:03:52.960><c> tools</c><00:03:53.280><c> that</c><00:03:54.000><c> you</c><00:03:54.040><c> know,</c>
+
+00:03:54.190 --> 00:03:54.200 align:start position:0%
+there because these tools that you know,
+ 
+
+00:03:54.200 --> 00:03:56.910 align:start position:0%
+there because these tools that you know,
+I<00:03:54.320><c> developed</c><00:03:55.640><c> is</c><00:03:56.040><c> they</c><00:03:56.160><c> were</c><00:03:56.280><c> developed</c><00:03:56.720><c> for</c><00:03:56.880><c> a</c>
+
+00:03:56.910 --> 00:03:56.920 align:start position:0%
+I developed is they were developed for a
+ 
+
+00:03:56.920 --> 00:03:59.230 align:start position:0%
+I developed is they were developed for a
+specific<00:03:57.480><c> reason.</c><00:03:58.480><c> Right?</c><00:03:58.720><c> Because</c><00:03:59.040><c> it</c><00:03:59.120><c> was</c>
+
+00:03:59.230 --> 00:03:59.240 align:start position:0%
+specific reason. Right? Because it was
+ 
+
+00:03:59.240 --> 00:04:01.550 align:start position:0%
+specific reason. Right? Because it was
+something<00:03:59.880><c> I've</c><00:04:00.080><c> seen</c><00:04:00.480><c> in</c><00:04:00.720><c> the</c><00:04:00.880><c> order</c><00:04:01.160><c> flow</c><00:04:01.440><c> in</c>
+
+00:04:01.550 --> 00:04:01.560 align:start position:0%
+something I've seen in the order flow in
+ 
+
+00:04:01.560 --> 00:04:02.950 align:start position:0%
+something I've seen in the order flow in
+the<00:04:01.640><c> past,</c><00:04:02.040><c> right?</c><00:04:02.240><c> I</c><00:04:02.280><c> didn't</c><00:04:02.480><c> just</c><00:04:02.640><c> copy</c>
+
+00:04:02.950 --> 00:04:02.960 align:start position:0%
+the past, right? I didn't just copy
+ 
+
+00:04:02.960 --> 00:04:05.590 align:start position:0%
+the past, right? I didn't just copy
+these<00:04:03.200><c> ideas</c><00:04:03.560><c> from</c><00:04:04.160><c> other</c>
+
+00:04:05.590 --> 00:04:05.600 align:start position:0%
+these ideas from other
+ 
+
+00:04:05.600 --> 00:04:07.670 align:start position:0%
+these ideas from other
+softwares<00:04:06.120><c> out</c><00:04:06.280><c> there.</c><00:04:06.400><c> These</c><00:04:06.560><c> are</c><00:04:07.240><c> my</c><00:04:07.480><c> own</c>
+
+00:04:07.670 --> 00:04:07.680 align:start position:0%
+softwares out there. These are my own
+ 
+
+00:04:07.680 --> 00:04:09.630 align:start position:0%
+softwares out there. These are my own
+ideas<00:04:08.080><c> that</c><00:04:08.200><c> I</c><00:04:08.280><c> put</c><00:04:08.480><c> in</c><00:04:08.600><c> there.</c><00:04:09.200><c> And</c><00:04:09.440><c> one</c><00:04:09.560><c> of</c>
+
+00:04:09.630 --> 00:04:09.640 align:start position:0%
+ideas that I put in there. And one of
+ 
+
+00:04:09.640 --> 00:04:12.150 align:start position:0%
+ideas that I put in there. And one of
+them<00:04:10.040><c> is</c><00:04:10.280><c> the</c><00:04:10.600><c> whole</c><00:04:10.880><c> concept</c><00:04:11.400><c> of</c><00:04:11.640><c> prominent</c>
+
+00:04:12.150 --> 00:04:12.160 align:start position:0%
+them is the whole concept of prominent
+ 
+
+00:04:12.160 --> 00:04:13.910 align:start position:0%
+them is the whole concept of prominent
+point<00:04:12.360><c> of</c><00:04:12.440><c> controls.</c><00:04:13.440><c> Okay?</c><00:04:13.600><c> And</c><00:04:13.680><c> you</c><00:04:13.720><c> can</c><00:04:13.840><c> see</c>
+
+00:04:13.910 --> 00:04:13.920 align:start position:0%
+point of controls. Okay? And you can see
+ 
+
+00:04:13.920 --> 00:04:15.949 align:start position:0%
+point of controls. Okay? And you can see
+I<00:04:14.000><c> got</c><00:04:14.240><c> level</c><00:04:14.600><c> 1,</c><00:04:14.800><c> 2,</c><00:04:14.959><c> and</c><00:04:15.080><c> 3.</c><00:04:15.720><c> But</c><00:04:15.800><c> I'm</c><00:04:15.840><c> just</c>
+
+00:04:15.949 --> 00:04:15.959 align:start position:0%
+I got level 1, 2, and 3. But I'm just
+ 
+
+00:04:15.959 --> 00:04:18.030 align:start position:0%
+I got level 1, 2, and 3. But I'm just
+going<00:04:16.079><c> to</c><00:04:16.120><c> focus</c><00:04:16.480><c> on</c><00:04:16.799><c> this</c><00:04:17.000><c> level</c><00:04:17.280><c> 3</c><00:04:17.600><c> prominent</c>
+
+00:04:18.030 --> 00:04:18.040 align:start position:0%
+going to focus on this level 3 prominent
+ 
+
+00:04:18.040 --> 00:04:20.229 align:start position:0%
+going to focus on this level 3 prominent
+point<00:04:18.200><c> of</c><00:04:18.280><c> control.</c><00:04:19.120><c> Okay?</c>
+
+00:04:20.229 --> 00:04:20.239 align:start position:0%
+point of control. Okay?
+ 
+
+00:04:20.239 --> 00:04:23.990 align:start position:0%
+point of control. Okay?
+And<00:04:20.720><c> I'm</c><00:04:20.799><c> just</c><00:04:20.920><c> going</c><00:04:21.040><c> to</c><00:04:21.120><c> click</c><00:04:21.320><c> apply.</c>
+
+00:04:23.990 --> 00:04:24.000 align:start position:0%
+ 
+ 
+
+00:04:24.000 --> 00:04:25.710 align:start position:0%
+ 
+And<00:04:24.280><c> it's</c><00:04:24.400><c> going</c><00:04:24.520><c> to</c><00:04:24.600><c> show</c><00:04:24.840><c> me,</c><00:04:25.360><c> right,</c><00:04:25.600><c> the</c>
+
+00:04:25.710 --> 00:04:25.720 align:start position:0%
+And it's going to show me, right, the
+ 
+
+00:04:25.720 --> 00:04:27.790 align:start position:0%
+And it's going to show me, right, the
+point<00:04:25.880><c> of</c><00:04:25.960><c> controls</c><00:04:26.720><c> that</c><00:04:26.960><c> matter.</c><00:04:27.400><c> This</c><00:04:27.640><c> is</c>
+
+00:04:27.790 --> 00:04:27.800 align:start position:0%
+point of controls that matter. This is
+ 
+
+00:04:27.800 --> 00:04:29.030 align:start position:0%
+point of controls that matter. This is
+what<00:04:28.000><c> I</c><00:04:28.080><c> talk</c><00:04:28.320><c> about</c><00:04:28.480><c> when</c><00:04:28.600><c> I</c><00:04:28.640><c> talk</c><00:04:28.840><c> about</c>
+
+00:04:29.030 --> 00:04:29.040 align:start position:0%
+what I talk about when I talk about
+ 
+
+00:04:29.040 --> 00:04:32.390 align:start position:0%
+what I talk about when I talk about
+market<00:04:29.400><c> generated</c><00:04:29.880><c> information.</c>
+
+00:04:32.390 --> 00:04:32.400 align:start position:0%
+market generated information.
+ 
+
+00:04:32.400 --> 00:04:34.310 align:start position:0%
+market generated information.
+The<00:04:32.480><c> point</c><00:04:32.640><c> of</c><00:04:32.720><c> control</c><00:04:33.600><c> is</c><00:04:33.760><c> the</c><00:04:33.840><c> price</c><00:04:34.120><c> level</c>
+
+00:04:34.310 --> 00:04:34.320 align:start position:0%
+The point of control is the price level
+ 
+
+00:04:34.320 --> 00:04:37.750 align:start position:0%
+The point of control is the price level
+in<00:04:34.400><c> the</c><00:04:34.480><c> bar</c><00:04:34.840><c> with</c><00:04:35.120><c> the</c><00:04:35.200><c> most</c><00:04:35.560><c> volume.</c>
+
+00:04:37.750 --> 00:04:37.760 align:start position:0%
+in the bar with the most volume.
+ 
+
+00:04:37.760 --> 00:04:39.390 align:start position:0%
+in the bar with the most volume.
+Okay,<00:04:38.080><c> what</c><00:04:38.200><c> does</c><00:04:38.320><c> that</c><00:04:38.480><c> mean?</c><00:04:38.919><c> Well,</c><00:04:39.240><c> it's</c>
+
+00:04:39.390 --> 00:04:39.400 align:start position:0%
+Okay, what does that mean? Well, it's
+ 
+
+00:04:39.400 --> 00:04:40.950 align:start position:0%
+Okay, what does that mean? Well, it's
+telling<00:04:39.680><c> me</c><00:04:39.840><c> that,</c><00:04:40.440><c> you</c><00:04:40.480><c> know,</c><00:04:40.560><c> that's</c><00:04:40.800><c> an</c>
+
+00:04:40.950 --> 00:04:40.960 align:start position:0%
+telling me that, you know, that's an
+ 
+
+00:04:40.960 --> 00:04:42.909 align:start position:0%
+telling me that, you know, that's an
+area<00:04:41.400><c> where</c><00:04:41.720><c> traders</c><00:04:42.200><c> were</c><00:04:42.360><c> happy</c><00:04:42.720><c> to</c>
+
+00:04:42.909 --> 00:04:42.919 align:start position:0%
+area where traders were happy to
+ 
+
+00:04:42.919 --> 00:04:45.909 align:start position:0%
+area where traders were happy to
+transact<00:04:43.880><c> the</c><00:04:43.960><c> most</c><00:04:44.160><c> volume</c><00:04:44.680><c> in</c><00:04:44.919><c> a</c><00:04:45.000><c> bar.</c><00:04:45.640><c> Okay?</c>
+
+00:04:45.909 --> 00:04:45.919 align:start position:0%
+transact the most volume in a bar. Okay?
+ 
+
+00:04:45.919 --> 00:04:47.710 align:start position:0%
+transact the most volume in a bar. Okay?
+And<00:04:46.160><c> And</c><00:04:46.280><c> you</c><00:04:46.360><c> know,</c><00:04:46.760><c> honestly,</c><00:04:47.160><c> every</c><00:04:47.400><c> bar</c><00:04:47.600><c> is</c>
+
+00:04:47.710 --> 00:04:47.720 align:start position:0%
+And And you know, honestly, every bar is
+ 
+
+00:04:47.720 --> 00:04:49.470 align:start position:0%
+And And you know, honestly, every bar is
+going<00:04:47.840><c> to</c><00:04:47.919><c> have</c><00:04:48.160><c> one,</c><00:04:48.720><c> right?</c><00:04:49.000><c> And</c><00:04:49.160><c> often</c>
+
+00:04:49.470 --> 00:04:49.480 align:start position:0%
+going to have one, right? And often
+ 
+
+00:04:49.480 --> 00:04:51.909 align:start position:0%
+going to have one, right? And often
+times<00:04:50.120><c> the</c><00:04:50.160><c> point</c><00:04:50.360><c> of</c><00:04:50.440><c> control</c><00:04:51.480><c> should</c><00:04:51.720><c> come</c>
+
+00:04:51.909 --> 00:04:51.919 align:start position:0%
+times the point of control should come
+ 
+
+00:04:51.919 --> 00:04:53.630 align:start position:0%
+times the point of control should come
+somewhere<00:04:52.560><c> around</c><00:04:52.880><c> the</c><00:04:52.960><c> middle</c><00:04:53.240><c> of</c><00:04:53.320><c> the</c><00:04:53.400><c> bar,</c>
+
+00:04:53.630 --> 00:04:53.640 align:start position:0%
+somewhere around the middle of the bar,
+ 
+
+00:04:53.640 --> 00:04:55.190 align:start position:0%
+somewhere around the middle of the bar,
+like<00:04:53.840><c> here,</c><00:04:54.080><c> right?</c><00:04:54.240><c> In</c><00:04:54.320><c> the</c><00:04:54.400><c> middle</c><00:04:54.840><c> here,</c>
+
+00:04:55.190 --> 00:04:55.200 align:start position:0%
+like here, right? In the middle here,
+ 
+
+00:04:55.200 --> 00:04:56.670 align:start position:0%
+like here, right? In the middle here,
+kind<00:04:55.440><c> of</c><00:04:55.520><c> close</c><00:04:55.720><c> to</c><00:04:55.800><c> the</c><00:04:55.919><c> middle,</c><00:04:56.400><c> kind</c><00:04:56.520><c> of</c><00:04:56.600><c> the</c>
+
+00:04:56.670 --> 00:04:56.680 align:start position:0%
+kind of close to the middle, kind of the
+ 
+
+00:04:56.680 --> 00:04:57.710 align:start position:0%
+kind of close to the middle, kind of the
+middle,
+
+00:04:57.710 --> 00:04:57.720 align:start position:0%
+middle,
+ 
+
+00:04:57.720 --> 00:05:00.030 align:start position:0%
+middle,
+uh<00:04:57.960><c> the</c><00:04:58.040><c> middle,</c><00:04:58.840><c> the</c><00:04:58.919><c> middle,</c><00:04:59.680><c> you</c><00:04:59.720><c> know,</c>
+
+00:05:00.030 --> 00:05:00.040 align:start position:0%
+uh the middle, the middle, you know,
+ 
+
+00:05:00.040 --> 00:05:02.110 align:start position:0%
+uh the middle, the middle, you know,
+mostly<00:05:00.440><c> the</c><00:05:00.520><c> middle.</c><00:05:01.280><c> Even</c><00:05:01.520><c> on</c><00:05:01.600><c> the</c><00:05:01.680><c> way</c><00:05:01.800><c> down,</c>
+
+00:05:02.110 --> 00:05:02.120 align:start position:0%
+mostly the middle. Even on the way down,
+ 
+
+00:05:02.120 --> 00:05:04.750 align:start position:0%
+mostly the middle. Even on the way down,
+the<00:05:02.160><c> middle,</c><00:05:02.520><c> the</c><00:05:02.640><c> middle.</c><00:05:03.440><c> But</c><00:05:03.919><c> what</c><00:05:04.160><c> I</c><00:05:04.240><c> found</c>
+
+00:05:04.750 --> 00:05:04.760 align:start position:0%
+the middle, the middle. But what I found
+ 
+
+00:05:04.760 --> 00:05:07.430 align:start position:0%
+the middle, the middle. But what I found
+is,<00:05:05.200><c> you</c><00:05:05.320><c> know,</c><00:05:05.440><c> when</c><00:05:05.720><c> a</c><00:05:05.760><c> market</c><00:05:06.360><c> is</c><00:05:06.720><c> sort</c><00:05:06.919><c> of</c>
+
+00:05:07.430 --> 00:05:07.440 align:start position:0%
+is, you know, when a market is sort of
+ 
+
+00:05:07.440 --> 00:05:09.950 align:start position:0%
+is, you know, when a market is sort of
+topping<00:05:07.919><c> out,</c><00:05:08.680><c> you</c><00:05:08.720><c> know,</c><00:05:09.240><c> swing</c><00:05:09.560><c> high,</c>
+
+00:05:09.950 --> 00:05:09.960 align:start position:0%
+topping out, you know, swing high,
+ 
+
+00:05:09.960 --> 00:05:11.630 align:start position:0%
+topping out, you know, swing high,
+doesn't<00:05:10.120><c> have</c><00:05:10.240><c> to</c><00:05:10.320><c> be</c><00:05:10.400><c> high</c><00:05:10.600><c> of</c><00:05:10.680><c> the</c><00:05:10.800><c> day,</c><00:05:11.600><c> you</c>
+
+00:05:11.630 --> 00:05:11.640 align:start position:0%
+doesn't have to be high of the day, you
+ 
+
+00:05:11.640 --> 00:05:13.510 align:start position:0%
+doesn't have to be high of the day, you
+know,<00:05:11.840><c> and</c><00:05:12.000><c> I'm</c><00:05:12.160><c> seeing</c><00:05:12.480><c> the</c><00:05:12.720><c> heavy</c><00:05:13.040><c> volume</c>
+
+00:05:13.510 --> 00:05:13.520 align:start position:0%
+know, and I'm seeing the heavy volume
+ 
+
+00:05:13.520 --> 00:05:15.990 align:start position:0%
+know, and I'm seeing the heavy volume
+sort<00:05:13.720><c> of</c><00:05:13.800><c> transacting</c><00:05:15.080><c> up</c><00:05:15.280><c> near</c><00:05:15.480><c> the</c><00:05:15.600><c> high</c><00:05:15.880><c> of</c>
+
+00:05:15.990 --> 00:05:16.000 align:start position:0%
+sort of transacting up near the high of
+ 
+
+00:05:16.000 --> 00:05:17.950 align:start position:0%
+sort of transacting up near the high of
+the<00:05:16.120><c> bar,</c><00:05:16.800><c> that's</c><00:05:17.040><c> going</c><00:05:17.200><c> to</c><00:05:17.280><c> be</c><00:05:17.440><c> important.</c>
+
+00:05:17.950 --> 00:05:17.960 align:start position:0%
+the bar, that's going to be important.
+ 
+
+00:05:17.960 --> 00:05:20.070 align:start position:0%
+the bar, that's going to be important.
+That's<00:05:18.160><c> a</c><00:05:18.240><c> level</c><00:05:19.040><c> that</c><00:05:19.200><c> if</c><00:05:19.360><c> the</c><00:05:19.440><c> market</c><00:05:19.800><c> starts</c>
+
+00:05:20.070 --> 00:05:20.080 align:start position:0%
+That's a level that if the market starts
+ 
+
+00:05:20.080 --> 00:05:22.670 align:start position:0%
+That's a level that if the market starts
+to<00:05:20.200><c> react</c><00:05:20.600><c> from</c><00:05:21.160><c> right</c><00:05:21.480><c> now,</c>
+
+00:05:22.670 --> 00:05:22.680 align:start position:0%
+to react from right now,
+ 
+
+00:05:22.680 --> 00:05:24.510 align:start position:0%
+to react from right now,
+I<00:05:22.800><c> also</c><00:05:23.080><c> want</c><00:05:23.200><c> to</c><00:05:23.280><c> pay</c><00:05:23.400><c> attention</c><00:05:23.880><c> to</c><00:05:24.160><c> when</c><00:05:24.360><c> it</c>
+
+00:05:24.510 --> 00:05:24.520 align:start position:0%
+I also want to pay attention to when it
+ 
+
+00:05:24.520 --> 00:05:27.710 align:start position:0%
+I also want to pay attention to when it
+comes<00:05:24.800><c> back</c><00:05:25.440><c> to</c><00:05:25.640><c> that</c><00:05:25.840><c> level</c><00:05:26.360><c> later.</c><00:05:27.040><c> Okay?</c>
+
+00:05:27.710 --> 00:05:27.720 align:start position:0%
+comes back to that level later. Okay?
+ 
+
+00:05:27.720 --> 00:05:29.390 align:start position:0%
+comes back to that level later. Okay?
+So,<00:05:27.880><c> before</c><00:05:28.280><c> going</c><00:05:28.560><c> forward,</c><00:05:29.040><c> right?</c><00:05:29.240><c> Cuz</c>
+
+00:05:29.390 --> 00:05:29.400 align:start position:0%
+So, before going forward, right? Cuz
+ 
+
+00:05:29.400 --> 00:05:30.630 align:start position:0%
+So, before going forward, right? Cuz
+this<00:05:29.560><c> was</c><00:05:29.720><c> an</c><00:05:29.800><c> interesting</c><00:05:30.160><c> level,</c><00:05:30.400><c> right?</c><00:05:30.520><c> We</c>
+
+00:05:30.630 --> 00:05:30.640 align:start position:0%
+this was an interesting level, right? We
+ 
+
+00:05:30.640 --> 00:05:32.030 align:start position:0%
+this was an interesting level, right? We
+came<00:05:30.840><c> up</c><00:05:30.960><c> here.</c>
+
+00:05:32.030 --> 00:05:32.040 align:start position:0%
+came up here.
+ 
+
+00:05:32.040 --> 00:05:34.470 align:start position:0%
+came up here.
+Um<00:05:32.600><c> 4970,</c><00:05:33.360><c> you</c><00:05:33.440><c> traded</c><00:05:33.680><c> four</c><00:05:33.880><c> contracts</c><00:05:34.360><c> at</c>
+
+00:05:34.470 --> 00:05:34.480 align:start position:0%
+Um 4970, you traded four contracts at
+ 
+
+00:05:34.480 --> 00:05:37.630 align:start position:0%
+Um 4970, you traded four contracts at
+4980,<00:05:35.360><c> but</c><00:05:35.680><c> we</c><00:05:35.840><c> hit</c><00:05:36.160><c> 4970</c><00:05:36.960><c> for</c><00:05:37.120><c> some</c><00:05:37.320><c> decent</c>
+
+00:05:37.630 --> 00:05:37.640 align:start position:0%
+4980, but we hit 4970 for some decent
+ 
+
+00:05:37.640 --> 00:05:41.550 align:start position:0%
+4980, but we hit 4970 for some decent
+volume<00:05:38.000><c> up</c><00:05:38.160><c> in</c><00:05:38.240><c> here.</c><00:05:38.840><c> Okay?</c><00:05:39.440><c> And</c><00:05:39.680><c> earlier,</c>
+
+00:05:41.550 --> 00:05:41.560 align:start position:0%
+volume up in here. Okay? And earlier,
+ 
+
+00:05:41.560 --> 00:05:44.510 align:start position:0%
+volume up in here. Okay? And earlier,
+a<00:05:41.600><c> little</c><00:05:41.840><c> bit</c><00:05:42.080><c> earlier,</c><00:05:43.000><c> actually</c><00:05:43.560><c> even</c><00:05:44.440><c> uh</c>
+
+00:05:44.510 --> 00:05:44.520 align:start position:0%
+a little bit earlier, actually even uh
+ 
+
+00:05:44.520 --> 00:05:46.710 align:start position:0%
+a little bit earlier, actually even uh
+this<00:05:44.640><c> was</c><00:05:44.800><c> about</c><00:05:45.040><c> 7:20,</c><00:05:45.760><c> so</c><00:05:45.880><c> about</c><00:05:46.080><c> an</c><00:05:46.200><c> hour</c>
+
+00:05:46.710 --> 00:05:46.720 align:start position:0%
+this was about 7:20, so about an hour
+ 
+
+00:05:46.720 --> 00:05:47.750 align:start position:0%
+this was about 7:20, so about an hour
+prior,
+
+00:05:47.750 --> 00:05:47.760 align:start position:0%
+prior,
+ 
+
+00:05:47.760 --> 00:05:49.670 align:start position:0%
+prior,
+um<00:05:48.480><c> you</c><00:05:48.560><c> even</c><00:05:48.760><c> got</c><00:05:48.880><c> a</c><00:05:48.920><c> bearish</c><00:05:49.280><c> point</c><00:05:49.440><c> of</c><00:05:49.520><c> point</c>
+
+00:05:49.670 --> 00:05:49.680 align:start position:0%
+um you even got a bearish point of point
+ 
+
+00:05:49.680 --> 00:05:51.150 align:start position:0%
+um you even got a bearish point of point
+of<00:05:49.720><c> control</c><00:05:50.080><c> coming</c><00:05:50.360><c> in</c><00:05:50.600><c> up</c><00:05:50.800><c> here</c><00:05:50.960><c> at</c><00:05:51.080><c> the</c>
+
+00:05:51.150 --> 00:05:51.160 align:start position:0%
+of control coming in up here at the
+ 
+
+00:05:51.160 --> 00:05:54.470 align:start position:0%
+of control coming in up here at the
+swing<00:05:51.440><c> high</c><00:05:51.560><c> at</c><00:05:51.680><c> 4920,</c><00:05:53.040><c> right?</c><00:05:53.280><c> This</c><00:05:53.480><c> is</c><00:05:53.640><c> 4970,</c>
+
+00:05:54.470 --> 00:05:54.480 align:start position:0%
+swing high at 4920, right? This is 4970,
+ 
+
+00:05:54.480 --> 00:05:56.990 align:start position:0%
+swing high at 4920, right? This is 4970,
+which<00:05:54.600><c> we</c><00:05:54.680><c> hit</c><00:05:54.800><c> a</c><00:05:54.840><c> little</c><00:05:55.080><c> bit</c><00:05:55.280><c> earlier.</c><00:05:55.640><c> So,</c><00:05:56.240><c> I</c>
+
+00:05:56.990 --> 00:05:57.000 align:start position:0%
+which we hit a little bit earlier. So, I
+ 
+
+00:05:57.000 --> 00:05:58.270 align:start position:0%
+which we hit a little bit earlier. So, I
+in<00:05:57.120><c> the</c><00:05:57.200><c> back</c><00:05:57.440><c> of</c><00:05:57.480><c> my</c><00:05:57.640><c> head,</c><00:05:57.920><c> I'm</c><00:05:58.000><c> sort</c><00:05:58.200><c> of</c>
+
+00:05:58.270 --> 00:05:58.280 align:start position:0%
+in the back of my head, I'm sort of
+ 
+
+00:05:58.280 --> 00:06:00.550 align:start position:0%
+in the back of my head, I'm sort of
+thinking<00:05:58.560><c> that</c><00:05:58.760><c> as</c><00:05:58.960><c> we're</c><00:05:59.080><c> coming</c><00:05:59.320><c> back</c><00:05:59.600><c> up</c><00:05:59.840><c> to</c>
+
+00:06:00.550 --> 00:06:00.560 align:start position:0%
+thinking that as we're coming back up to
+ 
+
+00:06:00.560 --> 00:06:04.910 align:start position:0%
+thinking that as we're coming back up to
+4920,<00:06:01.600><c> right?</c><00:06:02.040><c> Over</c><00:06:02.280><c> here,</c><00:06:02.920><c> 4920,</c><00:06:04.280><c> we</c><00:06:04.440><c> may</c><00:06:04.720><c> run</c>
+
+00:06:04.910 --> 00:06:04.920 align:start position:0%
+4920, right? Over here, 4920, we may run
+ 
+
+00:06:04.920 --> 00:06:06.870 align:start position:0%
+4920, right? Over here, 4920, we may run
+into<00:06:05.320><c> more</c><00:06:05.560><c> size,</c><00:06:05.840><c> and</c><00:06:06.080><c> we</c><00:06:06.200><c> do,</c><00:06:06.680><c> right?</c><00:06:06.840><c> You</c>
+
+00:06:06.870 --> 00:06:06.880 align:start position:0%
+into more size, and we do, right? You
+ 
+
+00:06:06.880 --> 00:06:10.270 align:start position:0%
+into more size, and we do, right? You
+can<00:06:06.960><c> see</c><00:06:07.080><c> the</c><00:06:07.160><c> 78</c><00:06:07.840><c> here,</c><00:06:08.440><c> the</c><00:06:08.520><c> 71,</c><00:06:09.160><c> the</c><00:06:09.240><c> 70.</c>
+
+00:06:10.270 --> 00:06:10.280 align:start position:0%
+can see the 78 here, the 71, the 70.
+ 
+
+00:06:10.280 --> 00:06:13.830 align:start position:0%
+can see the 78 here, the 71, the 70.
+Okay,<00:06:10.440><c> now</c><00:06:10.720><c> we</c><00:06:10.840><c> hit</c><00:06:11.040><c> that</c><00:06:11.640><c> 4970</c><00:06:12.600><c> area,</c><00:06:13.520><c> right?</c>
+
+00:06:13.830 --> 00:06:13.840 align:start position:0%
+Okay, now we hit that 4970 area, right?
+ 
+
+00:06:13.840 --> 00:06:15.470 align:start position:0%
+Okay, now we hit that 4970 area, right?
+And<00:06:13.960><c> the</c><00:06:14.040><c> market</c><00:06:14.400><c> starts</c><00:06:15.000><c> selling</c><00:06:15.200><c> off.</c><00:06:15.400><c> I</c>
+
+00:06:15.470 --> 00:06:15.480 align:start position:0%
+And the market starts selling off. I
+ 
+
+00:06:15.480 --> 00:06:17.909 align:start position:0%
+And the market starts selling off. I
+know<00:06:15.640><c> I've</c><00:06:15.760><c> got</c><00:06:15.960><c> supply</c><00:06:16.440><c> up</c><00:06:16.600><c> in</c><00:06:16.680><c> here.</c>
+
+00:06:17.909 --> 00:06:17.919 align:start position:0%
+know I've got supply up in here.
+ 
+
+00:06:17.919 --> 00:06:19.870 align:start position:0%
+know I've got supply up in here.
+You<00:06:18.000><c> know,</c><00:06:18.080><c> basically</c><00:06:18.520><c> between</c>
+
+00:06:19.870 --> 00:06:19.880 align:start position:0%
+You know, basically between
+ 
+
+00:06:19.880 --> 00:06:21.990 align:start position:0%
+You know, basically between
+you<00:06:19.919><c> know,</c><00:06:20.080><c> earlier</c><00:06:20.360><c> we</c><00:06:20.480><c> had</c><00:06:20.720><c> at</c><00:06:20.840><c> 4920,</c><00:06:21.840><c> but</c>
+
+00:06:21.990 --> 00:06:22.000 align:start position:0%
+you know, earlier we had at 4920, but
+ 
+
+00:06:22.000 --> 00:06:25.390 align:start position:0%
+you know, earlier we had at 4920, but
+it's<00:06:22.360><c> there</c><00:06:22.880><c> from</c><00:06:23.040><c> 4920</c><00:06:23.840><c> on</c><00:06:24.120><c> up,</c><00:06:24.760><c> maybe</c><00:06:25.160><c> even</c>
+
+00:06:25.390 --> 00:06:25.400 align:start position:0%
+it's there from 4920 on up, maybe even
+ 
+
+00:06:25.400 --> 00:06:28.230 align:start position:0%
+it's there from 4920 on up, maybe even
+as<00:06:25.520><c> high</c><00:06:25.720><c> as</c><00:06:25.880><c> 50,</c><00:06:26.560><c> okay?</c><00:06:27.400><c> But</c><00:06:28.000><c> what's</c>
+
+00:06:28.230 --> 00:06:28.240 align:start position:0%
+as high as 50, okay? But what's
+ 
+
+00:06:28.240 --> 00:06:30.110 align:start position:0%
+as high as 50, okay? But what's
+important<00:06:28.560><c> is</c><00:06:28.680><c> the</c><00:06:28.760><c> market</c><00:06:29.240><c> is</c><00:06:29.440><c> reacting</c><00:06:29.960><c> to</c>
+
+00:06:30.110 --> 00:06:30.120 align:start position:0%
+important is the market is reacting to
+ 
+
+00:06:30.120 --> 00:06:31.870 align:start position:0%
+important is the market is reacting to
+the<00:06:30.240><c> supply</c><00:06:30.720><c> here,</c><00:06:31.240><c> and</c><00:06:31.320><c> then</c><00:06:31.440><c> the</c><00:06:31.520><c> market</c>
+
+00:06:31.870 --> 00:06:31.880 align:start position:0%
+the supply here, and then the market
+ 
+
+00:06:31.880 --> 00:06:35.750 align:start position:0%
+the supply here, and then the market
+sells<00:06:32.160><c> off,</c><00:06:32.680><c> right?</c><00:06:32.880><c> We</c><00:06:32.960><c> sell</c><00:06:33.200><c> off</c><00:06:33.440><c> from</c><00:06:34.160><c> 4970,</c>
+
+00:06:35.750 --> 00:06:35.760 align:start position:0%
+sells off, right? We sell off from 4970,
+ 
+
+00:06:35.760 --> 00:06:38.670 align:start position:0%
+sells off, right? We sell off from 4970,
+we<00:06:35.880><c> get</c><00:06:36.080><c> back</c><00:06:36.360><c> down</c><00:06:36.680><c> into</c><00:06:37.040><c> the</c><00:06:37.160><c> 4570</c><00:06:38.240><c> area,</c><00:06:38.560><c> so</c>
+
+00:06:38.670 --> 00:06:38.680 align:start position:0%
+we get back down into the 4570 area, so
+ 
+
+00:06:38.680 --> 00:06:39.790 align:start position:0%
+we get back down into the 4570 area, so
+about
+
+00:06:39.790 --> 00:06:39.800 align:start position:0%
+about
+ 
+
+00:06:39.800 --> 00:06:41.390 align:start position:0%
+about
+you<00:06:39.840><c> know,</c><00:06:39.960><c> a</c><00:06:40.000><c> $4</c>
+
+00:06:41.390 --> 00:06:41.400 align:start position:0%
+you know, a $4
+ 
+
+00:06:41.400 --> 00:06:42.750 align:start position:0%
+you know, a $4
+move.
+
+00:06:42.750 --> 00:06:42.760 align:start position:0%
+move.
+ 
+
+00:06:42.760 --> 00:06:44.270 align:start position:0%
+move.
+All<00:06:42.800><c> right?</c><00:06:43.040><c> Then</c><00:06:43.160><c> we</c><00:06:43.240><c> go</c><00:06:43.360><c> down,</c><00:06:43.960><c> and</c><00:06:44.080><c> then</c><00:06:44.160><c> we</c>
+
+00:06:44.270 --> 00:06:44.280 align:start position:0%
+All right? Then we go down, and then we
+ 
+
+00:06:44.280 --> 00:06:46.950 align:start position:0%
+All right? Then we go down, and then we
+actually<00:06:45.080><c> make</c><00:06:45.560><c> new</c><00:06:45.760><c> lows</c><00:06:46.120><c> down</c><00:06:46.360><c> here</c><00:06:46.720><c> at</c>
+
+00:06:46.950 --> 00:06:46.960 align:start position:0%
+actually make new lows down here at
+ 
+
+00:06:46.960 --> 00:06:48.510 align:start position:0%
+actually make new lows down here at
+4380.
+
+00:06:48.510 --> 00:06:48.520 align:start position:0%
+4380.
+ 
+
+00:06:48.520 --> 00:06:51.790 align:start position:0%
+4380.
+Then<00:06:49.320><c> we</c><00:06:49.440><c> start</c><00:06:49.760><c> going</c><00:06:50.040><c> back</c><00:06:50.360><c> up,</c><00:06:50.840><c> okay?</c><00:06:51.080><c> So,</c>
+
+00:06:51.790 --> 00:06:51.800 align:start position:0%
+Then we start going back up, okay? So,
+ 
+
+00:06:51.800 --> 00:06:54.510 align:start position:0%
+Then we start going back up, okay? So,
+as<00:06:52.000><c> we</c><00:06:52.080><c> start</c><00:06:52.360><c> going</c><00:06:52.600><c> back</c><00:06:52.880><c> up,</c><00:06:53.240><c> where's</c><00:06:53.480><c> my</c>
+
+00:06:54.510 --> 00:06:54.520 align:start position:0%
+as we start going back up, where's my
+ 
+
+00:06:54.520 --> 00:06:56.190 align:start position:0%
+as we start going back up, where's my
+market<00:06:54.840><c> generated</c><00:06:55.400><c> information?</c><00:06:55.919><c> It's</c><00:06:56.040><c> up</c>
+
+00:06:56.190 --> 00:06:56.200 align:start position:0%
+market generated information? It's up
+ 
+
+00:06:56.200 --> 00:06:57.870 align:start position:0%
+market generated information? It's up
+here<00:06:56.400><c> at</c><00:06:56.480><c> this</c><00:06:56.840><c> blue</c><00:06:57.080><c> line,</c><00:06:57.520><c> right?</c><00:06:57.720><c> That</c><00:06:57.840><c> I</c>
+
+00:06:57.870 --> 00:06:57.880 align:start position:0%
+here at this blue line, right? That I
+ 
+
+00:06:57.880 --> 00:07:02.510 align:start position:0%
+here at this blue line, right? That I
+drew<00:06:58.200><c> earlier</c><00:06:58.840><c> at</c><00:06:59.040><c> 4970.</c><00:07:00.200><c> So,</c><00:07:00.440><c> we're</c><00:07:00.640><c> at</c><00:07:01.360><c> 43,</c>
+
+00:07:02.510 --> 00:07:02.520 align:start position:0%
+drew earlier at 4970. So, we're at 43,
+ 
+
+00:07:02.520 --> 00:07:04.350 align:start position:0%
+drew earlier at 4970. So, we're at 43,
+you<00:07:02.640><c> know,</c><00:07:02.880><c> 80</c><00:07:03.240><c> is</c><00:07:03.400><c> the</c><00:07:03.520><c> low.</c><00:07:03.760><c> We</c><00:07:03.840><c> start</c><00:07:04.120><c> going</c>
+
+00:07:04.350 --> 00:07:04.360 align:start position:0%
+you know, 80 is the low. We start going
+ 
+
+00:07:04.360 --> 00:07:07.350 align:start position:0%
+you know, 80 is the low. We start going
+up,<00:07:04.560><c> and</c><00:07:04.720><c> again,</c><00:07:05.040><c> some</c><00:07:05.240><c> nice</c><00:07:06.280><c> um</c>
+
+00:07:07.350 --> 00:07:07.360 align:start position:0%
+up, and again, some nice um
+ 
+
+00:07:07.360 --> 00:07:09.030 align:start position:0%
+up, and again, some nice um
+bullish<00:07:07.720><c> signs</c><00:07:08.080><c> in</c><00:07:08.160><c> the</c><00:07:08.320><c> order</c><00:07:08.600><c> flow.</c><00:07:08.919><c> We're</c>
+
+00:07:09.030 --> 00:07:09.040 align:start position:0%
+bullish signs in the order flow. We're
+ 
+
+00:07:09.040 --> 00:07:11.030 align:start position:0%
+bullish signs in the order flow. We're
+seeing<00:07:09.280><c> some</c><00:07:09.440><c> supportive</c><00:07:09.880><c> buying</c><00:07:10.240><c> coming</c><00:07:10.560><c> in.</c>
+
+00:07:11.030 --> 00:07:11.040 align:start position:0%
+seeing some supportive buying coming in.
+ 
+
+00:07:11.040 --> 00:07:12.310 align:start position:0%
+seeing some supportive buying coming in.
+How<00:07:11.160><c> do</c><00:07:11.320><c> I</c><00:07:11.360><c> know</c><00:07:11.520><c> there's</c><00:07:11.680><c> supportive</c><00:07:12.080><c> buying</c>
+
+00:07:12.310 --> 00:07:12.320 align:start position:0%
+How do I know there's supportive buying
+ 
+
+00:07:12.320 --> 00:07:13.990 align:start position:0%
+How do I know there's supportive buying
+coming<00:07:12.520><c> in?</c><00:07:12.600><c> Cuz</c><00:07:12.680><c> I'm</c><00:07:12.760><c> seeing</c><00:07:13.040><c> big</c>
+
+00:07:13.990 --> 00:07:14.000 align:start position:0%
+coming in? Cuz I'm seeing big
+ 
+
+00:07:14.000 --> 00:07:15.790 align:start position:0%
+coming in? Cuz I'm seeing big
+bigger<00:07:14.200><c> volumes</c><00:07:14.600><c> on</c><00:07:14.720><c> the</c><00:07:14.800><c> bid</c><00:07:15.360><c> than</c><00:07:15.560><c> on</c><00:07:15.680><c> the</c>
+
+00:07:15.790 --> 00:07:15.800 align:start position:0%
+bigger volumes on the bid than on the
+ 
+
+00:07:15.800 --> 00:07:19.190 align:start position:0%
+bigger volumes on the bid than on the
+offer.<00:07:16.200><c> I</c><00:07:16.240><c> see</c><00:07:16.440><c> 145</c><00:07:17.280><c> here,</c><00:07:17.480><c> I</c><00:07:17.520><c> see</c><00:07:17.680><c> a</c><00:07:17.720><c> 172</c><00:07:18.560><c> here.</c>
+
+00:07:19.190 --> 00:07:19.200 align:start position:0%
+offer. I see 145 here, I see a 172 here.
+ 
+
+00:07:19.200 --> 00:07:20.510 align:start position:0%
+offer. I see 145 here, I see a 172 here.
+That's<00:07:19.400><c> what</c><00:07:19.520><c> I</c><00:07:19.560><c> like</c><00:07:19.720><c> to</c><00:07:19.840><c> see</c><00:07:20.000><c> on</c><00:07:20.080><c> a</c><00:07:20.120><c> market</c>
+
+00:07:20.510 --> 00:07:20.520 align:start position:0%
+That's what I like to see on a market
+ 
+
+00:07:20.520 --> 00:07:23.110 align:start position:0%
+That's what I like to see on a market
+that's<00:07:20.760><c> moving</c><00:07:21.120><c> up.</c>
+
+00:07:23.110 --> 00:07:23.120 align:start position:0%
+that's moving up.
+ 
+
+00:07:23.120 --> 00:07:25.150 align:start position:0%
+that's moving up.
+And<00:07:23.200><c> then</c><00:07:23.320><c> we</c><00:07:23.400><c> get</c><00:07:23.600><c> back</c><00:07:23.880><c> up,</c><00:07:24.360><c> right?</c><00:07:24.840><c> Again,</c>
+
+00:07:25.150 --> 00:07:25.160 align:start position:0%
+And then we get back up, right? Again,
+ 
+
+00:07:25.160 --> 00:07:29.790 align:start position:0%
+And then we get back up, right? Again,
+4980<00:07:26.480><c> or</c><00:07:26.640><c> 4970.</c><00:07:27.800><c> We</c><00:07:27.919><c> do</c><00:07:28.080><c> come</c><00:07:28.280><c> up</c><00:07:28.400><c> to</c><00:07:28.720><c> 4890,</c>
+
+00:07:29.790 --> 00:07:29.800 align:start position:0%
+4980 or 4970. We do come up to 4890,
+ 
+
+00:07:29.800 --> 00:07:31.990 align:start position:0%
+4980 or 4970. We do come up to 4890,
+some<00:07:30.680><c> you</c><00:07:30.760><c> know,</c><00:07:30.919><c> and</c><00:07:31.160><c> sort</c><00:07:31.400><c> of</c><00:07:31.480><c> bounce</c><00:07:31.760><c> off,</c>
+
+00:07:31.990 --> 00:07:32.000 align:start position:0%
+some you know, and sort of bounce off,
+ 
+
+00:07:32.000 --> 00:07:34.310 align:start position:0%
+some you know, and sort of bounce off,
+going<00:07:32.240><c> sideways.</c><00:07:33.440><c> And</c><00:07:33.520><c> then</c><00:07:33.720><c> we</c><00:07:33.840><c> get</c><00:07:34.120><c> right</c>
+
+00:07:34.310 --> 00:07:34.320 align:start position:0%
+going sideways. And then we get right
+ 
+
+00:07:34.320 --> 00:07:35.750 align:start position:0%
+going sideways. And then we get right
+back<00:07:34.560><c> up</c><00:07:34.720><c> here.</c><00:07:34.840><c> We</c><00:07:34.919><c> get</c><00:07:35.040><c> within</c><00:07:35.320><c> a</c><00:07:35.360><c> couple</c><00:07:35.680><c> of</c>
+
+00:07:35.750 --> 00:07:35.760 align:start position:0%
+back up here. We get within a couple of
+ 
+
+00:07:35.760 --> 00:07:37.830 align:start position:0%
+back up here. We get within a couple of
+ticks,<00:07:36.480><c> right?</c>
+
+00:07:37.830 --> 00:07:37.840 align:start position:0%
+ticks, right?
+ 
+
+00:07:37.840 --> 00:07:41.390 align:start position:0%
+ticks, right?
+We<00:07:37.919><c> get</c><00:07:38.400><c> up</c><00:07:38.640><c> to</c><00:07:39.080><c> 4960.</c><00:07:40.160><c> Again,</c><00:07:40.360><c> 4970</c><00:07:41.160><c> is</c><00:07:41.280><c> my</c>
+
+00:07:41.390 --> 00:07:41.400 align:start position:0%
+We get up to 4960. Again, 4970 is my
+ 
+
+00:07:41.400 --> 00:07:44.070 align:start position:0%
+We get up to 4960. Again, 4970 is my
+level,<00:07:42.040><c> trade</c><00:07:42.400><c> to</c><00:07:42.720><c> sort</c><00:07:42.919><c> of</c><00:07:43.080><c> come</c><00:07:43.280><c> off.</c><00:07:43.840><c> That's</c>
+
+00:07:44.070 --> 00:07:44.080 align:start position:0%
+level, trade to sort of come off. That's
+ 
+
+00:07:44.080 --> 00:07:45.710 align:start position:0%
+level, trade to sort of come off. That's
+the<00:07:44.160><c> first</c><00:07:44.440><c> sign</c><00:07:44.680><c> that</c><00:07:44.800><c> it's</c>
+
+00:07:45.710 --> 00:07:45.720 align:start position:0%
+the first sign that it's
+ 
+
+00:07:45.720 --> 00:07:47.950 align:start position:0%
+the first sign that it's
+running<00:07:46.280><c> sort</c><00:07:46.520><c> of</c><00:07:46.680><c> into</c><00:07:47.520><c> this</c><00:07:47.640><c> market</c>
+
+00:07:47.950 --> 00:07:47.960 align:start position:0%
+running sort of into this market
+ 
+
+00:07:47.960 --> 00:07:50.710 align:start position:0%
+running sort of into this market
+generated<00:07:48.520><c> information</c><00:07:49.080><c> level</c><00:07:49.480><c> of</c><00:07:49.680><c> supply.</c>
+
+00:07:50.710 --> 00:07:50.720 align:start position:0%
+generated information level of supply.
+ 
+
+00:07:50.720 --> 00:07:52.070 align:start position:0%
+generated information level of supply.
+And<00:07:50.920><c> how</c><00:07:51.040><c> do</c><00:07:51.160><c> I</c><00:07:51.200><c> know</c><00:07:51.400><c> that?</c><00:07:51.640><c> Well,</c><00:07:51.880><c> I'm</c>
+
+00:07:52.070 --> 00:07:52.080 align:start position:0%
+And how do I know that? Well, I'm
+ 
+
+00:07:52.080 --> 00:07:54.430 align:start position:0%
+And how do I know that? Well, I'm
+putting<00:07:52.400><c> in</c><00:07:52.600><c> one,</c><00:07:52.920><c> two,</c><00:07:53.280><c> three</c><00:07:54.280><c> point</c><00:07:54.400><c> of</c>
+
+00:07:54.430 --> 00:07:54.440 align:start position:0%
+putting in one, two, three point of
+ 
+
+00:07:54.440 --> 00:07:56.070 align:start position:0%
+putting in one, two, three point of
+controls<00:07:54.920><c> more</c><00:07:55.080><c> or</c><00:07:55.160><c> less</c><00:07:55.360><c> at</c><00:07:55.480><c> the</c><00:07:55.560><c> same</c><00:07:55.800><c> area.</c>
+
+00:07:56.070 --> 00:07:56.080 align:start position:0%
+controls more or less at the same area.
+ 
+
+00:07:56.080 --> 00:07:58.110 align:start position:0%
+controls more or less at the same area.
+Two<00:07:56.320><c> are</c><00:07:56.480><c> coming</c><00:07:56.760><c> in</c><00:07:56.880><c> at</c><00:07:57.000><c> 49</c>
+
+00:07:58.110 --> 00:07:58.120 align:start position:0%
+Two are coming in at 49
+ 
+
+00:07:58.120 --> 00:08:00.790 align:start position:0%
+Two are coming in at 49
+and<00:07:58.280><c> a</c><00:07:58.320><c> half,</c><00:07:59.040><c> one</c><00:07:59.240><c> is</c><00:07:59.320><c> coming</c><00:07:59.560><c> in</c><00:07:59.600><c> at</c><00:07:59.680><c> 4940.</c>
+
+00:08:00.790 --> 00:08:00.800 align:start position:0%
+and a half, one is coming in at 4940.
+ 
+
+00:08:00.800 --> 00:08:02.070 align:start position:0%
+and a half, one is coming in at 4940.
+This<00:08:01.000><c> is</c><00:08:01.080><c> a</c><00:08:01.160><c> bearish</c><00:08:01.520><c> prominent</c><00:08:01.840><c> point</c><00:08:02.000><c> of</c>
+
+00:08:02.070 --> 00:08:02.080 align:start position:0%
+This is a bearish prominent point of
+ 
+
+00:08:02.080 --> 00:08:03.470 align:start position:0%
+This is a bearish prominent point of
+control.
+
+00:08:03.470 --> 00:08:03.480 align:start position:0%
+control.
+ 
+
+00:08:03.480 --> 00:08:04.990 align:start position:0%
+control.
+Okay,<00:08:03.560><c> but</c><00:08:03.720><c> we</c><00:08:03.840><c> are</c><00:08:03.960><c> trading.</c><00:08:04.680><c> That's</c><00:08:04.880><c> where</c>
+
+00:08:04.990 --> 00:08:05.000 align:start position:0%
+Okay, but we are trading. That's where
+ 
+
+00:08:05.000 --> 00:08:07.070 align:start position:0%
+Okay, but we are trading. That's where
+the<00:08:05.080><c> size</c><00:08:05.440><c> is</c><00:08:05.600><c> trading,</c><00:08:06.080><c> just</c><00:08:06.560><c> right</c><00:08:06.760><c> below</c>
+
+00:08:07.070 --> 00:08:07.080 align:start position:0%
+the size is trading, just right below
+ 
+
+00:08:07.080 --> 00:08:08.430 align:start position:0%
+the size is trading, just right below
+that
+
+00:08:08.430 --> 00:08:08.440 align:start position:0%
+that
+ 
+
+00:08:08.440 --> 00:08:10.910 align:start position:0%
+that
+resistance<00:08:08.960><c> area</c><00:08:09.400><c> where</c><00:08:09.520><c> there's</c><00:08:10.240><c> identified</c>
+
+00:08:10.910 --> 00:08:10.920 align:start position:0%
+resistance area where there's identified
+ 
+
+00:08:10.920 --> 00:08:12.710 align:start position:0%
+resistance area where there's identified
+earlier<00:08:11.320><c> in</c><00:08:11.400><c> the</c><00:08:11.520><c> order</c><00:08:11.720><c> flow</c><00:08:12.280><c> that</c><00:08:12.440><c> there</c><00:08:12.560><c> was</c>
+
+00:08:12.710 --> 00:08:12.720 align:start position:0%
+earlier in the order flow that there was
+ 
+
+00:08:12.720 --> 00:08:14.750 align:start position:0%
+earlier in the order flow that there was
+supply<00:08:13.120><c> in</c><00:08:13.200><c> the</c><00:08:13.280><c> market.</c><00:08:14.360><c> Okay,</c><00:08:14.560><c> then</c><00:08:14.680><c> the</c>
+
+00:08:14.750 --> 00:08:14.760 align:start position:0%
+supply in the market. Okay, then the
+ 
+
+00:08:14.760 --> 00:08:16.710 align:start position:0%
+supply in the market. Okay, then the
+market<00:08:15.120><c> just,</c><00:08:15.520><c> you</c><00:08:15.600><c> know,</c><00:08:15.720><c> it's</c><00:08:16.200><c> just</c><00:08:16.440><c> hanging</c>
+
+00:08:16.710 --> 00:08:16.720 align:start position:0%
+market just, you know, it's just hanging
+ 
+
+00:08:16.720 --> 00:08:18.470 align:start position:0%
+market just, you know, it's just hanging
+around<00:08:17.000><c> there.</c><00:08:17.120><c> Doesn't</c><00:08:17.360><c> really</c><00:08:17.560><c> sell</c><00:08:17.880><c> off,</c>
+
+00:08:18.470 --> 00:08:18.480 align:start position:0%
+around there. Doesn't really sell off,
+ 
+
+00:08:18.480 --> 00:08:20.470 align:start position:0%
+around there. Doesn't really sell off,
+comes<00:08:18.720><c> back</c><00:08:19.040><c> up</c><00:08:19.240><c> again.</c>
+
+00:08:20.470 --> 00:08:20.480 align:start position:0%
+comes back up again.
+ 
+
+00:08:20.480 --> 00:08:22.710 align:start position:0%
+comes back up again.
+Decent<00:08:20.760><c> volume</c><00:08:21.080><c> coming</c><00:08:21.320><c> through</c><00:08:21.520><c> at</c><00:08:21.640><c> 4930.</c>
+
+00:08:22.710 --> 00:08:22.720 align:start position:0%
+Decent volume coming through at 4930.
+ 
+
+00:08:22.720 --> 00:08:24.270 align:start position:0%
+Decent volume coming through at 4930.
+Again,<00:08:23.000><c> my</c><00:08:23.200><c> my</c><00:08:23.360><c> level's</c><00:08:23.680><c> just</c><00:08:23.880><c> right</c><00:08:24.040><c> here</c><00:08:24.200><c> at</c>
+
+00:08:24.270 --> 00:08:24.280 align:start position:0%
+Again, my my level's just right here at
+ 
+
+00:08:24.280 --> 00:08:25.990 align:start position:0%
+Again, my my level's just right here at
+4970.
+
+00:08:25.990 --> 00:08:26.000 align:start position:0%
+4970.
+ 
+
+00:08:26.000 --> 00:08:27.670 align:start position:0%
+4970.
+Just<00:08:26.240><c> hanging</c><00:08:26.600><c> around</c><00:08:26.960><c> there,</c><00:08:27.360><c> right?</c><00:08:27.520><c> It's</c>
+
+00:08:27.670 --> 00:08:27.680 align:start position:0%
+Just hanging around there, right? It's
+ 
+
+00:08:27.680 --> 00:08:30.470 align:start position:0%
+Just hanging around there, right? It's
+not<00:08:28.320><c> selling</c><00:08:28.800><c> off.</c><00:08:29.560><c> So,</c><00:08:29.760><c> what</c><00:08:29.880><c> do</c><00:08:29.960><c> I</c><00:08:30.040><c> have?</c><00:08:30.400><c> I</c>
+
+00:08:30.470 --> 00:08:30.480 align:start position:0%
+not selling off. So, what do I have? I
+ 
+
+00:08:30.480 --> 00:08:32.469 align:start position:0%
+not selling off. So, what do I have? I
+have<00:08:30.640><c> a</c><00:08:30.720><c> market</c><00:08:31.080><c> that's</c>
+
+00:08:32.469 --> 00:08:32.479 align:start position:0%
+have a market that's
+ 
+
+00:08:32.479 --> 00:08:34.950 align:start position:0%
+have a market that's
+going<00:08:32.960><c> into</c>
+
+00:08:34.950 --> 00:08:34.960 align:start position:0%
+going into
+ 
+
+00:08:34.960 --> 00:08:36.510 align:start position:0%
+going into
+resistance.
+
+00:08:36.510 --> 00:08:36.520 align:start position:0%
+resistance.
+ 
+
+00:08:36.520 --> 00:08:38.270 align:start position:0%
+resistance.
+And<00:08:36.680><c> every</c><00:08:36.840><c> time</c><00:08:37.000><c> it</c><00:08:37.080><c> sort</c><00:08:37.200><c> of</c><00:08:37.280><c> gets</c><00:08:37.560><c> in</c><00:08:37.719><c> there,</c>
+
+00:08:38.270 --> 00:08:38.280 align:start position:0%
+And every time it sort of gets in there,
+ 
+
+00:08:38.280 --> 00:08:41.469 align:start position:0%
+And every time it sort of gets in there,
+it<00:08:38.400><c> just</c><00:08:38.599><c> stops.</c><00:08:39.080><c> It's</c><00:08:39.280><c> not</c><00:08:39.719><c> selling</c><00:08:40.360><c> off</c><00:08:40.719><c> yet.</c>
+
+00:08:41.469 --> 00:08:41.479 align:start position:0%
+it just stops. It's not selling off yet.
+ 
+
+00:08:41.479 --> 00:08:43.630 align:start position:0%
+it just stops. It's not selling off yet.
+Okay,<00:08:41.719><c> so</c><00:08:42.400><c> maybe,</c><00:08:43.080><c> you</c><00:08:43.200><c> know,</c><00:08:43.320><c> you</c><00:08:43.440><c> got</c><00:08:43.560><c> to</c>
+
+00:08:43.630 --> 00:08:43.640 align:start position:0%
+Okay, so maybe, you know, you got to
+ 
+
+00:08:43.640 --> 00:08:45.550 align:start position:0%
+Okay, so maybe, you know, you got to
+start<00:08:43.840><c> thinking,</c><00:08:44.240><c> well,</c><00:08:44.560><c> okay,</c><00:08:45.240><c> I</c><00:08:45.320><c> know</c><00:08:45.480><c> I</c>
+
+00:08:45.550 --> 00:08:45.560 align:start position:0%
+start thinking, well, okay, I know I
+ 
+
+00:08:45.560 --> 00:08:46.910 align:start position:0%
+start thinking, well, okay, I know I
+have<00:08:45.720><c> resistance.</c><00:08:46.200><c> I</c><00:08:46.240><c> know</c><00:08:46.360><c> I</c><00:08:46.400><c> have</c><00:08:46.520><c> supply</c>
+
+00:08:46.910 --> 00:08:46.920 align:start position:0%
+have resistance. I know I have supply
+ 
+
+00:08:46.920 --> 00:08:49.190 align:start position:0%
+have resistance. I know I have supply
+here.
+
+00:08:49.190 --> 00:08:49.200 align:start position:0%
+here.
+ 
+
+00:08:49.200 --> 00:08:50.750 align:start position:0%
+here.
+What<00:08:49.520><c> should</c><00:08:49.680><c> happen?</c><00:08:50.080><c> Well,</c><00:08:50.200><c> if</c><00:08:50.320><c> your</c><00:08:50.440><c> market</c>
+
+00:08:50.750 --> 00:08:50.760 align:start position:0%
+What should happen? Well, if your market
+ 
+
+00:08:50.760 --> 00:08:52.990 align:start position:0%
+What should happen? Well, if your market
+runs<00:08:50.960><c> into</c><00:08:51.240><c> supply</c><00:08:52.120><c> and</c><00:08:52.280><c> it's</c><00:08:52.400><c> a</c><00:08:52.440><c> legitimate</c>
+
+00:08:52.990 --> 00:08:53.000 align:start position:0%
+runs into supply and it's a legitimate
+ 
+
+00:08:53.000 --> 00:08:55.070 align:start position:0%
+runs into supply and it's a legitimate
+level,<00:08:53.640><c> it's</c><00:08:53.800><c> going</c><00:08:53.960><c> to</c><00:08:54.040><c> hold.</c><00:08:54.800><c> But</c><00:08:54.920><c> if</c><00:08:55.040><c> a</c>
+
+00:08:55.070 --> 00:08:55.080 align:start position:0%
+level, it's going to hold. But if a
+ 
+
+00:08:55.080 --> 00:08:57.270 align:start position:0%
+level, it's going to hold. But if a
+market<00:08:55.440><c> runs</c><00:08:55.680><c> into</c><00:08:55.920><c> supply</c>
+
+00:08:57.270 --> 00:08:57.280 align:start position:0%
+market runs into supply
+ 
+
+00:08:57.280 --> 00:08:58.990 align:start position:0%
+market runs into supply
+and<00:08:57.880><c> obviously</c><00:08:58.280><c> you're</c><00:08:58.360><c> coming</c><00:08:58.640><c> up</c><00:08:58.760><c> into</c><00:08:58.960><c> a</c>
+
+00:08:58.990 --> 00:08:59.000 align:start position:0%
+and obviously you're coming up into a
+ 
+
+00:08:59.000 --> 00:09:03.030 align:start position:0%
+and obviously you're coming up into a
+supply<00:08:59.520><c> area,</c>
+
+00:09:03.030 --> 00:09:03.040 align:start position:0%
+ 
+ 
+
+00:09:03.040 --> 00:09:04.950 align:start position:0%
+ 
+and<00:09:03.480><c> they're</c><00:09:03.839><c> they're</c><00:09:04.000><c> buying</c><00:09:04.440><c> it,</c><00:09:04.800><c> right?</c>
+
+00:09:04.950 --> 00:09:04.960 align:start position:0%
+and they're they're buying it, right?
+ 
+
+00:09:04.960 --> 00:09:06.390 align:start position:0%
+and they're they're buying it, right?
+Traders<00:09:05.280><c> are</c><00:09:05.400><c> buying</c><00:09:05.760><c> it,</c><00:09:05.960><c> but</c><00:09:06.120><c> at</c><00:09:06.160><c> the</c><00:09:06.200><c> same</c>
+
+00:09:06.390 --> 00:09:06.400 align:start position:0%
+Traders are buying it, but at the same
+ 
+
+00:09:06.400 --> 00:09:08.790 align:start position:0%
+Traders are buying it, but at the same
+time,<00:09:07.040><c> you</c><00:09:07.120><c> know,</c><00:09:07.200><c> you</c><00:09:07.320><c> got</c><00:09:07.560><c> to</c>
+
+00:09:08.790 --> 00:09:08.800 align:start position:0%
+time, you know, you got to
+ 
+
+00:09:08.800 --> 00:09:10.430 align:start position:0%
+time, you know, you got to
+think<00:09:09.000><c> also</c><00:09:09.280><c> that</c>
+
+00:09:10.430 --> 00:09:10.440 align:start position:0%
+think also that
+ 
+
+00:09:10.440 --> 00:09:13.030 align:start position:0%
+think also that
+the<00:09:10.600><c> supply</c><00:09:11.240><c> in</c><00:09:11.320><c> the</c><00:09:11.400><c> market</c><00:09:11.760><c> is</c><00:09:12.400><c> selling</c><00:09:12.880><c> as</c>
+
+00:09:13.030 --> 00:09:13.040 align:start position:0%
+the supply in the market is selling as
+ 
+
+00:09:13.040 --> 00:09:15.390 align:start position:0%
+the supply in the market is selling as
+well,<00:09:13.280><c> right?</c>
+
+00:09:15.390 --> 00:09:15.400 align:start position:0%
+well, right?
+ 
+
+00:09:15.400 --> 00:09:16.710 align:start position:0%
+well, right?
+And<00:09:15.520><c> then</c><00:09:15.960><c> something's</c><00:09:16.280><c> going</c><00:09:16.400><c> to</c><00:09:16.440><c> happen.</c>
+
+00:09:16.710 --> 00:09:16.720 align:start position:0%
+And then something's going to happen.
+ 
+
+00:09:16.720 --> 00:09:17.790 align:start position:0%
+And then something's going to happen.
+You're<00:09:16.800><c> either</c><00:09:16.920><c> going</c><00:09:17.040><c> to</c><00:09:17.120><c> break</c><00:09:17.360><c> through</c><00:09:17.680><c> or</c>
+
+00:09:17.790 --> 00:09:17.800 align:start position:0%
+You're either going to break through or
+ 
+
+00:09:17.800 --> 00:09:19.630 align:start position:0%
+You're either going to break through or
+you're<00:09:17.920><c> going</c><00:09:18.040><c> to</c><00:09:18.080><c> sell</c><00:09:18.360><c> off.</c><00:09:19.200><c> Cuz</c><00:09:19.320><c> it's</c><00:09:19.440><c> not</c>
+
+00:09:19.630 --> 00:09:19.640 align:start position:0%
+you're going to sell off. Cuz it's not
+ 
+
+00:09:19.640 --> 00:09:21.630 align:start position:0%
+you're going to sell off. Cuz it's not
+going<00:09:19.760><c> to</c><00:09:19.839><c> just</c><00:09:20.000><c> stay</c><00:09:20.240><c> here</c><00:09:20.480><c> at</c><00:09:20.600><c> the</c><00:09:20.720><c> supply</c>
+
+00:09:21.630 --> 00:09:21.640 align:start position:0%
+going to just stay here at the supply
+ 
+
+00:09:21.640 --> 00:09:23.910 align:start position:0%
+going to just stay here at the supply
+level<00:09:22.480><c> all</c><00:09:22.640><c> day</c><00:09:22.839><c> long.</c>
+
+00:09:23.910 --> 00:09:23.920 align:start position:0%
+level all day long.
+ 
+
+00:09:23.920 --> 00:09:26.270 align:start position:0%
+level all day long.
+But<00:09:24.080><c> this</c><00:09:24.280><c> is</c><00:09:24.400><c> the</c><00:09:24.480><c> key</c><00:09:24.720><c> part</c><00:09:25.080><c> here.</c><00:09:25.720><c> We</c><00:09:25.960><c> get</c>
+
+00:09:26.270 --> 00:09:26.280 align:start position:0%
+But this is the key part here. We get
+ 
+
+00:09:26.280 --> 00:09:29.630 align:start position:0%
+But this is the key part here. We get
+through<00:09:26.600><c> this</c><00:09:26.920><c> supply</c><00:09:27.360><c> level</c><00:09:27.760><c> at</c><00:09:27.920><c> 4970.</c>
+
+00:09:29.630 --> 00:09:29.640 align:start position:0%
+through this supply level at 4970.
+ 
+
+00:09:29.640 --> 00:09:31.110 align:start position:0%
+through this supply level at 4970.
+Right?<00:09:29.880><c> And</c><00:09:30.000><c> people</c><00:09:30.160><c> say,</c><00:09:30.280><c> well,</c><00:09:30.680><c> why</c><00:09:30.920><c> why</c>
+
+00:09:31.110 --> 00:09:31.120 align:start position:0%
+Right? And people say, well, why why
+ 
+
+00:09:31.120 --> 00:09:32.150 align:start position:0%
+Right? And people say, well, why why
+weren't<00:09:31.320><c> you</c><00:09:31.400><c> trading</c><00:09:31.600><c> a</c><00:09:31.640><c> little</c><00:09:31.760><c> bit</c><00:09:31.839><c> closer</c>
+
+00:09:32.150 --> 00:09:32.160 align:start position:0%
+weren't you trading a little bit closer
+ 
+
+00:09:32.160 --> 00:09:34.590 align:start position:0%
+weren't you trading a little bit closer
+to<00:09:32.240><c> 4970?</c><00:09:33.520><c> Well,</c><00:09:33.680><c> from</c><00:09:33.920><c> earlier,</c><00:09:34.320><c> right?</c><00:09:34.520><c> I</c>
+
+00:09:34.590 --> 00:09:34.600 align:start position:0%
+to 4970? Well, from earlier, right? I
+ 
+
+00:09:34.600 --> 00:09:35.750 align:start position:0%
+to 4970? Well, from earlier, right? I
+actually<00:09:35.000><c> that</c><00:09:35.200><c> I</c>
+
+00:09:35.750 --> 00:09:35.760 align:start position:0%
+actually that I
+ 
+
+00:09:35.760 --> 00:09:37.830 align:start position:0%
+actually that I
+it<00:09:36.000><c> at</c><00:09:36.440><c> Remember</c><00:09:36.760><c> this</c><00:09:37.160><c> point</c><00:09:37.400><c> of</c><00:09:37.480><c> control</c>
+
+00:09:37.830 --> 00:09:37.840 align:start position:0%
+it at Remember this point of control
+ 
+
+00:09:37.840 --> 00:09:38.710 align:start position:0%
+it at Remember this point of control
+here?
+
+00:09:38.710 --> 00:09:38.720 align:start position:0%
+here?
+ 
+
+00:09:38.720 --> 00:09:40.790 align:start position:0%
+here?
+Go<00:09:38.800><c> back.</c>
+
+00:09:40.790 --> 00:09:40.800 align:start position:0%
+Go back.
+ 
+
+00:09:40.800 --> 00:09:43.830 align:start position:0%
+Go back.
+At<00:09:40.960><c> 720,</c><00:09:41.840><c> right?</c><00:09:42.640><c> You</c><00:09:42.720><c> sort</c><00:09:42.880><c> of</c><00:09:43.000><c> ran</c><00:09:43.240><c> into</c><00:09:43.640><c> this</c>
+
+00:09:43.830 --> 00:09:43.840 align:start position:0%
+At 720, right? You sort of ran into this
+ 
+
+00:09:43.840 --> 00:09:45.950 align:start position:0%
+At 720, right? You sort of ran into this
+area.<00:09:44.800><c> Uh</c><00:09:44.880><c> we'll</c><00:09:45.000><c> take</c><00:09:45.200><c> this</c><00:09:45.400><c> prominent</c><00:09:45.800><c> point</c>
+
+00:09:45.950 --> 00:09:45.960 align:start position:0%
+area. Uh we'll take this prominent point
+ 
+
+00:09:45.960 --> 00:09:47.070 align:start position:0%
+area. Uh we'll take this prominent point
+of<00:09:46.040><c> control.</c>
+
+00:09:47.070 --> 00:09:47.080 align:start position:0%
+of control.
+ 
+
+00:09:47.080 --> 00:09:50.670 align:start position:0%
+of control.
+Okay,<00:09:47.320><c> here.</c><00:09:48.040><c> So,</c><00:09:48.160><c> it</c><00:09:48.240><c> was</c><00:09:48.320><c> 4920</c><00:09:49.080><c> up</c><00:09:49.200><c> to</c><00:09:49.280><c> 4970,</c>
+
+00:09:50.670 --> 00:09:50.680 align:start position:0%
+Okay, here. So, it was 4920 up to 4970,
+ 
+
+00:09:50.680 --> 00:09:52.230 align:start position:0%
+Okay, here. So, it was 4920 up to 4970,
+basically,<00:09:51.160><c> which</c>
+
+00:09:52.230 --> 00:09:52.240 align:start position:0%
+basically, which
+ 
+
+00:09:52.240 --> 00:09:54.990 align:start position:0%
+basically, which
+we're<00:09:52.360><c> bouncing</c><00:09:52.760><c> around</c><00:09:53.040><c> in</c><00:09:53.160><c> there.</c>
+
+00:09:54.990 --> 00:09:55.000 align:start position:0%
+we're bouncing around in there.
+ 
+
+00:09:55.000 --> 00:09:58.270 align:start position:0%
+we're bouncing around in there.
+Get<00:09:55.200><c> up</c><00:09:55.320><c> here.</c>
+
+00:09:58.270 --> 00:09:58.280 align:start position:0%
+ 
+ 
+
+00:09:58.280 --> 00:10:00.030 align:start position:0%
+ 
+Bouncing<00:09:58.600><c> around</c><00:09:59.120><c> right</c><00:09:59.360><c> in</c><00:09:59.480><c> that</c><00:09:59.680><c> area</c>
+
+00:10:00.030 --> 00:10:00.040 align:start position:0%
+Bouncing around right in that area
+ 
+
+00:10:00.040 --> 00:10:03.230 align:start position:0%
+Bouncing around right in that area
+again.<00:10:01.000><c> Now</c><00:10:01.200><c> we</c><00:10:01.320><c> get</c><00:10:01.480><c> through</c><00:10:01.720><c> it</c><00:10:01.840><c> here,</c><00:10:02.440><c> okay?</c>
+
+00:10:03.230 --> 00:10:03.240 align:start position:0%
+again. Now we get through it here, okay?
+ 
+
+00:10:03.240 --> 00:10:05.030 align:start position:0%
+again. Now we get through it here, okay?
+This<00:10:03.400><c> is</c><00:10:03.440><c> where</c><00:10:03.520><c> it</c><00:10:03.600><c> gets</c><00:10:03.760><c> interesting.</c>
+
+00:10:05.030 --> 00:10:05.040 align:start position:0%
+This is where it gets interesting.
+ 
+
+00:10:05.040 --> 00:10:07.990 align:start position:0%
+This is where it gets interesting.
+How<00:10:05.120><c> do</c><00:10:05.280><c> I</c><00:10:05.360><c> know</c><00:10:05.880><c> that</c><00:10:06.040><c> this</c><00:10:06.280><c> breakout</c>
+
+00:10:07.990 --> 00:10:08.000 align:start position:0%
+How do I know that this breakout
+ 
+
+00:10:08.000 --> 00:10:09.510 align:start position:0%
+How do I know that this breakout
+is<00:10:08.160><c> legitimate?</c><00:10:08.880><c> Because</c><00:10:09.200><c> now</c><00:10:09.400><c> we're</c>
+
+00:10:09.510 --> 00:10:09.520 align:start position:0%
+is legitimate? Because now we're
+ 
+
+00:10:09.520 --> 00:10:12.310 align:start position:0%
+is legitimate? Because now we're
+breaking<00:10:10.000><c> out</c><00:10:10.600><c> beyond</c>
+
+00:10:12.310 --> 00:10:12.320 align:start position:0%
+breaking out beyond
+ 
+
+00:10:12.320 --> 00:10:14.310 align:start position:0%
+breaking out beyond
+a<00:10:12.360><c> resistance</c><00:10:12.880><c> level.</c>
+
+00:10:14.310 --> 00:10:14.320 align:start position:0%
+a resistance level.
+ 
+
+00:10:14.320 --> 00:10:16.310 align:start position:0%
+a resistance level.
+Okay?
+
+00:10:16.310 --> 00:10:16.320 align:start position:0%
+Okay?
+ 
+
+00:10:16.320 --> 00:10:19.030 align:start position:0%
+Okay?
+That's<00:10:16.440><c> a</c><00:10:16.480><c> breakout.</c><00:10:17.400><c> But,</c><00:10:18.120><c> as</c><00:10:18.360><c> you</c><00:10:18.520><c> know,</c><00:10:18.760><c> not</c>
+
+00:10:19.030 --> 00:10:19.040 align:start position:0%
+That's a breakout. But, as you know, not
+ 
+
+00:10:19.040 --> 00:10:20.870 align:start position:0%
+That's a breakout. But, as you know, not
+all<00:10:19.240><c> breakouts</c><00:10:20.080><c> work,</c><00:10:20.440><c> right?</c><00:10:20.600><c> A</c><00:10:20.640><c> lot</c><00:10:20.800><c> of</c>
+
+00:10:20.870 --> 00:10:20.880 align:start position:0%
+all breakouts work, right? A lot of
+ 
+
+00:10:20.880 --> 00:10:22.990 align:start position:0%
+all breakouts work, right? A lot of
+times<00:10:21.120><c> breakouts</c><00:10:21.600><c> fail.</c><00:10:21.880><c> How</c><00:10:22.080><c> can</c><00:10:22.720><c> we</c><00:10:22.840><c> have</c>
+
+00:10:22.990 --> 00:10:23.000 align:start position:0%
+times breakouts fail. How can we have
+ 
+
+00:10:23.000 --> 00:10:24.350 align:start position:0%
+times breakouts fail. How can we have
+some<00:10:23.240><c> sort</c><00:10:23.440><c> of</c><00:10:23.520><c> confidence</c><00:10:24.000><c> that</c><00:10:24.160><c> this</c>
+
+00:10:24.350 --> 00:10:24.360 align:start position:0%
+some sort of confidence that this
+ 
+
+00:10:24.360 --> 00:10:28.430 align:start position:0%
+some sort of confidence that this
+breakout<00:10:25.280><c> probably</c><00:10:25.600><c> got</c><00:10:25.800><c> some</c><00:10:26.640><c> legs</c><00:10:27.040><c> to</c><00:10:27.200><c> it?</c>
+
+00:10:28.430 --> 00:10:28.440 align:start position:0%
+breakout probably got some legs to it?
+ 
+
+00:10:28.440 --> 00:10:29.710 align:start position:0%
+breakout probably got some legs to it?
+Well,<00:10:28.520><c> then</c><00:10:28.680><c> you</c><00:10:28.800><c> just</c><00:10:29.000><c> look</c><00:10:29.240><c> at</c><00:10:29.640><c> the</c>
+
+00:10:29.710 --> 00:10:29.720 align:start position:0%
+Well, then you just look at the
+ 
+
+00:10:29.720 --> 00:10:31.150 align:start position:0%
+Well, then you just look at the
+footprint,
+
+00:10:31.150 --> 00:10:31.160 align:start position:0%
+footprint,
+ 
+
+00:10:31.160 --> 00:10:33.630 align:start position:0%
+footprint,
+right?
+
+00:10:33.630 --> 00:10:33.640 align:start position:0%
+right?
+ 
+
+00:10:33.640 --> 00:10:35.350 align:start position:0%
+right?
+What's<00:10:33.960><c> the</c><00:10:34.080><c> volume</c><00:10:34.480><c> doing?</c><00:10:35.040><c> Well,</c><00:10:35.160><c> you</c><00:10:35.240><c> see</c>
+
+00:10:35.350 --> 00:10:35.360 align:start position:0%
+What's the volume doing? Well, you see
+ 
+
+00:10:35.360 --> 00:10:37.230 align:start position:0%
+What's the volume doing? Well, you see
+some<00:10:35.520><c> strong</c><00:10:35.840><c> volumes</c><00:10:36.200><c> coming</c><00:10:36.400><c> in</c><00:10:36.480><c> here.</c><00:10:36.640><c> 104</c>
+
+00:10:37.230 --> 00:10:37.240 align:start position:0%
+some strong volumes coming in here. 104
+ 
+
+00:10:37.240 --> 00:10:41.230 align:start position:0%
+some strong volumes coming in here. 104
+on<00:10:37.360><c> the</c><00:10:37.440><c> bid,</c><00:10:37.960><c> 130</c><00:10:38.600><c> on</c><00:10:38.720><c> the</c><00:10:38.840><c> bid.</c>
+
+00:10:41.230 --> 00:10:41.240 align:start position:0%
+on the bid, 130 on the bid.
+ 
+
+00:10:41.240 --> 00:10:44.670 align:start position:0%
+on the bid, 130 on the bid.
+Okay?<00:10:41.960><c> 63</c><00:10:42.560><c> on</c><00:10:42.680><c> the</c><00:10:42.760><c> bid,</c><00:10:43.160><c> 63</c><00:10:43.760><c> on</c><00:10:43.880><c> the</c><00:10:43.960><c> bid.</c><00:10:44.520><c> So,</c>
+
+00:10:44.670 --> 00:10:44.680 align:start position:0%
+Okay? 63 on the bid, 63 on the bid. So,
+ 
+
+00:10:44.680 --> 00:10:46.829 align:start position:0%
+Okay? 63 on the bid, 63 on the bid. So,
+I<00:10:44.720><c> know</c><00:10:44.920><c> that</c><00:10:45.120><c> there's</c><00:10:45.320><c> some</c><00:10:45.440><c> strong</c>
+
+00:10:46.829 --> 00:10:46.839 align:start position:0%
+I know that there's some strong
+ 
+
+00:10:46.839 --> 00:10:48.670 align:start position:0%
+I know that there's some strong
+passive<00:10:47.400><c> buyers.</c><00:10:47.920><c> There's</c><00:10:48.120><c> people</c><00:10:48.480><c> there</c>
+
+00:10:48.670 --> 00:10:48.680 align:start position:0%
+passive buyers. There's people there
+ 
+
+00:10:48.680 --> 00:10:51.070 align:start position:0%
+passive buyers. There's people there
+supporting<00:10:49.360><c> the</c><00:10:49.440><c> market.</c><00:10:49.760><c> Cuz</c><00:10:49.920><c> remember,</c><00:10:50.960><c> you</c>
+
+00:10:51.070 --> 00:10:51.080 align:start position:0%
+supporting the market. Cuz remember, you
+ 
+
+00:10:51.080 --> 00:10:52.510 align:start position:0%
+supporting the market. Cuz remember, you
+know,
+
+00:10:52.510 --> 00:10:52.520 align:start position:0%
+know,
+ 
+
+00:10:52.520 --> 00:10:54.710 align:start position:0%
+know,
+technical<00:10:52.920><c> analysis</c><00:10:53.520><c> 101,</c>
+
+00:10:54.710 --> 00:10:54.720 align:start position:0%
+technical analysis 101,
+ 
+
+00:10:54.720 --> 00:10:58.790 align:start position:0%
+technical analysis 101,
+previous<00:10:55.200><c> resistance</c><00:10:55.880><c> becomes</c><00:10:56.240><c> support.</c>
+
+00:10:58.790 --> 00:10:58.800 align:start position:0%
+previous resistance becomes support.
+ 
+
+00:10:58.800 --> 00:11:00.390 align:start position:0%
+previous resistance becomes support.
+Now<00:10:59.120><c> you're</c><00:10:59.240><c> seeing</c><00:10:59.560><c> supportive</c><00:11:00.000><c> buying</c>
+
+00:11:00.390 --> 00:11:00.400 align:start position:0%
+Now you're seeing supportive buying
+ 
+
+00:11:00.400 --> 00:11:02.350 align:start position:0%
+Now you're seeing supportive buying
+coming<00:11:00.680><c> in</c><00:11:00.880><c> in</c><00:11:01.000><c> the</c><00:11:01.080><c> form</c><00:11:01.360><c> of</c><00:11:01.440><c> strong</c><00:11:01.920><c> passive</c>
+
+00:11:02.350 --> 00:11:02.360 align:start position:0%
+coming in in the form of strong passive
+ 
+
+00:11:02.360 --> 00:11:03.470 align:start position:0%
+coming in in the form of strong passive
+buyers.<00:11:02.640><c> I</c><00:11:02.680><c> mean,</c><00:11:02.839><c> earlier</c><00:11:03.120><c> did</c><00:11:03.280><c> you</c><00:11:03.360><c> see</c>
+
+00:11:03.470 --> 00:11:03.480 align:start position:0%
+buyers. I mean, earlier did you see
+ 
+
+00:11:03.480 --> 00:11:07.310 align:start position:0%
+buyers. I mean, earlier did you see
+anything<00:11:03.839><c> in</c><00:11:03.920><c> 100</c><00:11:04.320><c> lots</c><00:11:04.680><c> coming</c><00:11:04.960><c> in</c><00:11:05.080><c> here?</c><00:11:05.720><c> No.</c>
+
+00:11:07.310 --> 00:11:07.320 align:start position:0%
+anything in 100 lots coming in here? No.
+ 
+
+00:11:07.320 --> 00:11:08.829 align:start position:0%
+anything in 100 lots coming in here? No.
+But<00:11:07.440><c> now</c><00:11:07.600><c> that</c><00:11:07.760><c> you</c><00:11:07.800><c> got</c><00:11:08.000><c> through</c><00:11:08.160><c> this</c>
+
+00:11:08.829 --> 00:11:08.839 align:start position:0%
+But now that you got through this
+ 
+
+00:11:08.839 --> 00:11:10.750 align:start position:0%
+But now that you got through this
+resistance<00:11:09.400><c> area,</c><00:11:10.160><c> now</c><00:11:10.400><c> you're</c><00:11:10.520><c> seeing</c>
+
+00:11:10.750 --> 00:11:10.760 align:start position:0%
+resistance area, now you're seeing
+ 
+
+00:11:10.760 --> 00:11:12.630 align:start position:0%
+resistance area, now you're seeing
+supportive<00:11:11.160><c> buying</c><00:11:11.480><c> coming</c><00:11:11.720><c> in.</c>
+
+00:11:12.630 --> 00:11:12.640 align:start position:0%
+supportive buying coming in.
+ 
+
+00:11:12.640 --> 00:11:18.310 align:start position:0%
+supportive buying coming in.
+104,<00:11:13.760><c> 130,</c><00:11:14.960><c> you</c><00:11:15.000><c> know,</c><00:11:15.080><c> 63,</c><00:11:15.839><c> 68,</c><00:11:16.720><c> 63.</c>
+
+00:11:18.310 --> 00:11:18.320 align:start position:0%
+104, 130, you know, 63, 68, 63.
+ 
+
+00:11:18.320 --> 00:11:19.270 align:start position:0%
+104, 130, you know, 63, 68, 63.
+Okay?
+
+00:11:19.270 --> 00:11:19.280 align:start position:0%
+Okay?
+ 
+
+00:11:19.280 --> 00:11:21.350 align:start position:0%
+Okay?
+It<00:11:19.360><c> goes</c><00:11:19.600><c> up,</c><00:11:19.839><c> makes</c><00:11:20.120><c> a</c><00:11:20.160><c> new</c><00:11:20.360><c> high.</c>
+
+00:11:21.350 --> 00:11:21.360 align:start position:0%
+It goes up, makes a new high.
+ 
+
+00:11:21.360 --> 00:11:23.550 align:start position:0%
+It goes up, makes a new high.
+Then<00:11:21.520><c> it</c><00:11:21.640><c> comes</c><00:11:21.960><c> off</c><00:11:22.680><c> and</c><00:11:22.839><c> it</c><00:11:22.920><c> sells</c><00:11:23.280><c> off</c>
+
+00:11:23.550 --> 00:11:23.560 align:start position:0%
+Then it comes off and it sells off
+ 
+
+00:11:23.560 --> 00:11:24.590 align:start position:0%
+Then it comes off and it sells off
+where?
+
+00:11:24.590 --> 00:11:24.600 align:start position:0%
+where?
+ 
+
+00:11:24.600 --> 00:11:28.750 align:start position:0%
+where?
+Right<00:11:25.040><c> into</c><00:11:25.640><c> your</c><00:11:26.480><c> previous</c><00:11:27.360><c> resistance</c><00:11:28.000><c> area</c>
+
+00:11:28.750 --> 00:11:28.760 align:start position:0%
+Right into your previous resistance area
+ 
+
+00:11:28.760 --> 00:11:30.829 align:start position:0%
+Right into your previous resistance area
+again.<00:11:29.120><c> But</c><00:11:29.280><c> we</c><00:11:29.400><c> know</c><00:11:29.600><c> that</c>
+
+00:11:30.829 --> 00:11:30.839 align:start position:0%
+again. But we know that
+ 
+
+00:11:30.839 --> 00:11:32.710 align:start position:0%
+again. But we know that
+there's<00:11:31.000><c> a</c><00:11:31.040><c> good</c><00:11:31.240><c> chance</c><00:11:31.560><c> that</c><00:11:31.720><c> this</c><00:11:31.960><c> previous</c>
+
+00:11:32.710 --> 00:11:32.720 align:start position:0%
+there's a good chance that this previous
+ 
+
+00:11:32.720 --> 00:11:34.670 align:start position:0%
+there's a good chance that this previous
+resistance<00:11:33.280><c> area</c><00:11:33.440><c> is</c><00:11:33.560><c> going</c><00:11:33.720><c> to</c><00:11:33.800><c> be</c><00:11:33.920><c> support</c>
+
+00:11:34.670 --> 00:11:34.680 align:start position:0%
+resistance area is going to be support
+ 
+
+00:11:34.680 --> 00:11:36.430 align:start position:0%
+resistance area is going to be support
+when<00:11:34.840><c> we</c><00:11:34.960><c> saw</c><00:11:35.200><c> the</c><00:11:35.320><c> supportive</c><00:11:35.800><c> buying</c><00:11:36.120><c> coming</c>
+
+00:11:36.430 --> 00:11:36.440 align:start position:0%
+when we saw the supportive buying coming
+ 
+
+00:11:36.440 --> 00:11:38.430 align:start position:0%
+when we saw the supportive buying coming
+in<00:11:37.000><c> and</c><00:11:37.120><c> it</c><00:11:37.240><c> trades</c><00:11:37.560><c> literally</c><00:11:37.840><c> right</c><00:11:38.040><c> down</c><00:11:38.280><c> to</c>
+
+00:11:38.430 --> 00:11:38.440 align:start position:0%
+in and it trades literally right down to
+ 
+
+00:11:38.440 --> 00:11:40.830 align:start position:0%
+in and it trades literally right down to
+that<00:11:38.600><c> 4920</c><00:11:39.400><c> area</c><00:11:40.080><c> and</c><00:11:40.160><c> just</c><00:11:40.320><c> sort</c><00:11:40.480><c> of</c><00:11:40.560><c> hangs</c>
+
+00:11:40.830 --> 00:11:40.840 align:start position:0%
+that 4920 area and just sort of hangs
+ 
+
+00:11:40.840 --> 00:11:42.590 align:start position:0%
+that 4920 area and just sort of hangs
+around<00:11:41.160><c> here.</c><00:11:41.600><c> But</c><00:11:41.720><c> where</c><00:11:41.880><c> where</c><00:11:42.080><c> we</c><00:11:42.200><c> hanging</c>
+
+00:11:42.590 --> 00:11:42.600 align:start position:0%
+around here. But where where we hanging
+ 
+
+00:11:42.600 --> 00:11:47.310 align:start position:0%
+around here. But where where we hanging
+this<00:11:42.760><c> time?</c><00:11:43.400><c> We're</c><00:11:43.520><c> hanging</c><00:11:43.920><c> above</c>
+
+00:11:47.310 --> 00:11:47.320 align:start position:0%
+ 
+ 
+
+00:11:47.320 --> 00:11:49.190 align:start position:0%
+ 
+the<00:11:47.480><c> resistance</c><00:11:48.040><c> area.</c>
+
+00:11:49.190 --> 00:11:49.200 align:start position:0%
+the resistance area.
+ 
+
+00:11:49.200 --> 00:11:52.230 align:start position:0%
+the resistance area.
+Right?<00:11:49.400><c> Because</c><00:11:49.680><c> now</c><00:11:50.000><c> it's</c><00:11:50.640><c> become</c><00:11:51.040><c> support.</c>
+
+00:11:52.230 --> 00:11:52.240 align:start position:0%
+Right? Because now it's become support.
+ 
+
+00:11:52.240 --> 00:11:53.750 align:start position:0%
+Right? Because now it's become support.
+Then<00:11:52.440><c> it</c><00:11:52.520><c> starts</c><00:11:52.840><c> to</c><00:11:53.120><c> ticking</c><00:11:53.440><c> higher,</c>
+
+00:11:53.750 --> 00:11:53.760 align:start position:0%
+Then it starts to ticking higher,
+ 
+
+00:11:53.760 --> 00:11:55.710 align:start position:0%
+Then it starts to ticking higher,
+ticking<00:11:54.120><c> higher</c><00:11:54.880><c> and</c><00:11:55.040><c> then,</c><00:11:55.280><c> you</c><00:11:55.400><c> know,</c><00:11:55.520><c> just</c>
+
+00:11:55.710 --> 00:11:55.720 align:start position:0%
+ticking higher and then, you know, just
+ 
+
+00:11:55.720 --> 00:11:57.590 align:start position:0%
+ticking higher and then, you know, just
+by<00:11:55.840><c> looking</c><00:11:56.200><c> at</c><00:11:56.360><c> the</c><00:11:56.440><c> footprints,</c><00:11:57.480><c> you</c><00:11:57.520><c> can</c>
+
+00:11:57.590 --> 00:11:57.600 align:start position:0%
+by looking at the footprints, you can
+ 
+
+00:11:57.600 --> 00:11:58.910 align:start position:0%
+by looking at the footprints, you can
+see<00:11:57.760><c> where</c><00:11:57.880><c> is</c><00:11:58.000><c> the</c><00:11:58.040><c> volume</c><00:11:58.400><c> coming</c><00:11:58.680><c> in.</c><00:11:58.840><c> Well,</c>
+
+00:11:58.910 --> 00:11:58.920 align:start position:0%
+see where is the volume coming in. Well,
+ 
+
+00:11:58.920 --> 00:12:01.550 align:start position:0%
+see where is the volume coming in. Well,
+there's<00:11:59.080><c> decent</c><00:11:59.400><c> volume</c><00:11:59.720><c> here.</c><00:12:00.040><c> There's</c><00:12:00.160><c> 48.</c>
+
+00:12:01.550 --> 00:12:01.560 align:start position:0%
+there's decent volume here. There's 48.
+ 
+
+00:12:01.560 --> 00:12:05.270 align:start position:0%
+there's decent volume here. There's 48.
+You<00:12:01.680><c> know,</c><00:12:01.840><c> a</c><00:12:01.920><c> 32,</c><00:12:02.480><c> a</c><00:12:02.520><c> 32,</c><00:12:03.200><c> a</c><00:12:03.240><c> 48,</c><00:12:03.840><c> a</c><00:12:03.880><c> 63.</c><00:12:05.200><c> You</c>
+
+00:12:05.270 --> 00:12:05.280 align:start position:0%
+You know, a 32, a 32, a 48, a 63. You
+ 
+
+00:12:05.280 --> 00:12:07.710 align:start position:0%
+You know, a 32, a 32, a 48, a 63. You
+know,<00:12:05.480><c> 3119.</c>
+
+00:12:07.710 --> 00:12:07.720 align:start position:0%
+know, 3119.
+ 
+
+00:12:07.720 --> 00:12:09.790 align:start position:0%
+know, 3119.
+So,<00:12:07.920><c> if</c><00:12:08.040><c> anything,</c><00:12:08.920><c> chances</c><00:12:09.360><c> are</c><00:12:09.640><c> we're</c>
+
+00:12:09.790 --> 00:12:09.800 align:start position:0%
+So, if anything, chances are we're
+ 
+
+00:12:09.800 --> 00:12:12.830 align:start position:0%
+So, if anything, chances are we're
+probably<00:12:10.120><c> going</c><00:12:10.320><c> to</c><00:12:10.440><c> go</c><00:12:11.000><c> higher.</c><00:12:12.080><c> And</c>
+
+00:12:12.830 --> 00:12:12.840 align:start position:0%
+probably going to go higher. And
+ 
+
+00:12:12.840 --> 00:12:15.310 align:start position:0%
+probably going to go higher. And
+eventually<00:12:13.240><c> we</c><00:12:13.360><c> just</c><00:12:13.560><c> pop</c><00:12:13.840><c> up</c><00:12:14.000><c> to</c><00:12:14.360><c> new</c><00:12:14.600><c> highs</c>
+
+00:12:15.310 --> 00:12:15.320 align:start position:0%
+eventually we just pop up to new highs
+ 
+
+00:12:15.320 --> 00:12:19.150 align:start position:0%
+eventually we just pop up to new highs
+and<00:12:15.480><c> just</c><00:12:15.840><c> keep</c><00:12:16.160><c> going</c>
+
+00:12:19.150 --> 00:12:19.160 align:start position:0%
+ 
+ 
+
+00:12:19.160 --> 00:12:20.950 align:start position:0%
+ 
+up<00:12:19.360><c> to</c><00:12:19.480><c> new</c><00:12:19.640><c> highs</c><00:12:19.960><c> here.</c><00:12:20.280><c> New</c><00:12:20.440><c> high,</c><00:12:20.720><c> new</c>
+
+00:12:20.950 --> 00:12:20.960 align:start position:0%
+up to new highs here. New high, new
+ 
+
+00:12:20.960 --> 00:12:26.390 align:start position:0%
+up to new highs here. New high, new
+high,<00:12:21.880><c> new</c><00:12:22.080><c> high</c><00:12:22.960><c> and</c><00:12:23.760><c> new</c><00:12:23.920><c> high.</c>
+
+00:12:26.390 --> 00:12:26.400 align:start position:0%
+high, new high and new high.
+ 
+
+00:12:26.400 --> 00:12:28.350 align:start position:0%
+high, new high and new high.
+Right?<00:12:27.040><c> New</c><00:12:27.200><c> high.</c><00:12:27.640><c> And</c><00:12:27.840><c> where</c><00:12:27.960><c> are</c><00:12:28.040><c> we</c><00:12:28.160><c> right</c>
+
+00:12:28.350 --> 00:12:28.360 align:start position:0%
+Right? New high. And where are we right
+ 
+
+00:12:28.360 --> 00:12:31.470 align:start position:0%
+Right? New high. And where are we right
+now?<00:12:28.600><c> I</c><00:12:28.640><c> think</c><00:12:29.440><c> yeah,</c><00:12:29.960><c> 3853.</c>
+
+00:12:31.470 --> 00:12:31.480 align:start position:0%
+now? I think yeah, 3853.
+ 
+
+00:12:31.480 --> 00:12:32.870 align:start position:0%
+now? I think yeah, 3853.
+But
+
+00:12:32.870 --> 00:12:32.880 align:start position:0%
+But
+ 
+
+00:12:32.880 --> 00:12:35.430 align:start position:0%
+But
+the<00:12:32.960><c> sign</c><00:12:33.640><c> was</c><00:12:33.800><c> there.</c><00:12:34.200><c> When</c><00:12:34.400><c> you</c><00:12:34.520><c> broke</c><00:12:34.839><c> out</c>
+
+00:12:35.430 --> 00:12:35.440 align:start position:0%
+the sign was there. When you broke out
+ 
+
+00:12:35.440 --> 00:12:38.030 align:start position:0%
+the sign was there. When you broke out
+right<00:12:35.680><c> here,</c>
+
+00:12:38.030 --> 00:12:38.040 align:start position:0%
+right here,
+ 
+
+00:12:38.040 --> 00:12:41.470 align:start position:0%
+right here,
+you<00:12:38.160><c> broke</c><00:12:38.400><c> out</c><00:12:38.680><c> of</c><00:12:38.960><c> your</c><00:12:39.960><c> resistance</c><00:12:40.520><c> area,</c>
+
+00:12:41.470 --> 00:12:41.480 align:start position:0%
+you broke out of your resistance area,
+ 
+
+00:12:41.480 --> 00:12:42.670 align:start position:0%
+you broke out of your resistance area,
+identifying<00:12:42.120><c> that,</c><00:12:42.280><c> hey,</c><00:12:42.400><c> you</c><00:12:42.480><c> know</c><00:12:42.560><c> what,</c>
+
+00:12:42.670 --> 00:12:42.680 align:start position:0%
+identifying that, hey, you know what,
+ 
+
+00:12:42.680 --> 00:12:44.230 align:start position:0%
+identifying that, hey, you know what,
+this<00:12:42.839><c> resistance</c><00:12:43.400><c> is</c><00:12:43.520><c> probably</c><00:12:43.720><c> now</c><00:12:43.960><c> going</c><00:12:44.120><c> to</c>
+
+00:12:44.230 --> 00:12:44.240 align:start position:0%
+this resistance is probably now going to
+ 
+
+00:12:44.240 --> 00:12:47.310 align:start position:0%
+this resistance is probably now going to
+act<00:12:44.600><c> as</c><00:12:45.120><c> support.</c>
+
+00:12:47.310 --> 00:12:47.320 align:start position:0%
+act as support.
+ 
+
+00:12:47.320 --> 00:12:48.990 align:start position:0%
+act as support.
+So,<00:12:47.440><c> if</c><00:12:47.560><c> you</c><00:12:47.640><c> can</c><00:12:47.800><c> identify</c><00:12:48.360><c> that</c><00:12:48.600><c> that</c>
+
+00:12:48.990 --> 00:12:49.000 align:start position:0%
+So, if you can identify that that
+ 
+
+00:12:49.000 --> 00:12:51.630 align:start position:0%
+So, if you can identify that that
+resistance<00:12:49.560><c> area,</c><00:12:49.720><c> that</c><00:12:49.920><c> that</c><00:12:50.160><c> breakout</c>
+
+00:12:51.630 --> 00:12:51.640 align:start position:0%
+resistance area, that that breakout
+ 
+
+00:12:51.640 --> 00:12:54.270 align:start position:0%
+resistance area, that that breakout
+is<00:12:51.800><c> legitimate,</c><00:12:52.880><c> cuz</c><00:12:53.040><c> again,</c><00:12:53.360><c> if</c><00:12:53.600><c> a</c><00:12:53.720><c> breakout</c>
+
+00:12:54.270 --> 00:12:54.280 align:start position:0%
+is legitimate, cuz again, if a breakout
+ 
+
+00:12:54.280 --> 00:12:56.510 align:start position:0%
+is legitimate, cuz again, if a breakout
+is<00:12:54.480><c> legitimate,</c>
+
+00:12:56.510 --> 00:12:56.520 align:start position:0%
+is legitimate,
+ 
+
+00:12:56.520 --> 00:12:58.230 align:start position:0%
+is legitimate,
+what<00:12:56.800><c> was</c><00:12:57.000><c> resistance</c><00:12:57.680><c> should</c><00:12:57.880><c> become</c>
+
+00:12:58.230 --> 00:12:58.240 align:start position:0%
+what was resistance should become
+ 
+
+00:12:58.240 --> 00:13:02.270 align:start position:0%
+what was resistance should become
+support<00:12:59.160><c> for</c><00:12:59.320><c> the</c><00:12:59.400><c> market</c><00:13:00.040><c> to</c><00:13:00.120><c> go</c><00:13:00.320><c> higher.</c>
+
+00:13:02.270 --> 00:13:02.280 align:start position:0%
+support for the market to go higher.
+ 
+
+00:13:02.280 --> 00:13:05.350 align:start position:0%
+support for the market to go higher.
+Right?<00:13:03.000><c> Here,</c><00:13:03.240><c> this</c><00:13:03.440><c> was</c><00:13:03.600><c> your</c><00:13:03.720><c> resistance</c>
+
+00:13:05.350 --> 00:13:05.360 align:start position:0%
+Right? Here, this was your resistance
+ 
+
+00:13:05.360 --> 00:13:08.430 align:start position:0%
+Right? Here, this was your resistance
+earlier,<00:13:06.360><c> basically.</c>
+
+00:13:08.430 --> 00:13:08.440 align:start position:0%
+earlier, basically.
+ 
+
+00:13:08.440 --> 00:13:10.790 align:start position:0%
+earlier, basically.
+Right<00:13:08.760><c> here.</c><00:13:09.640><c> From</c><00:13:09.760><c> here</c>
+
+00:13:10.790 --> 00:13:10.800 align:start position:0%
+Right here. From here
+ 
+
+00:13:10.800 --> 00:13:12.150 align:start position:0%
+Right here. From here
+to<00:13:10.920><c> here,</c>
+
+00:13:12.150 --> 00:13:12.160 align:start position:0%
+to here,
+ 
+
+00:13:12.160 --> 00:13:13.750 align:start position:0%
+to here,
+breakout
+
+00:13:13.750 --> 00:13:13.760 align:start position:0%
+breakout
+ 
+
+00:13:13.760 --> 00:13:15.150 align:start position:0%
+breakout
+right<00:13:13.960><c> here,</c>
+
+00:13:15.150 --> 00:13:15.160 align:start position:0%
+right here,
+ 
+
+00:13:15.160 --> 00:13:18.550 align:start position:0%
+right here,
+pull<00:13:15.320><c> back</c><00:13:15.640><c> into</c><00:13:16.000><c> your</c><00:13:16.520><c> now</c><00:13:17.280><c> support</c>
+
+00:13:18.550 --> 00:13:18.560 align:start position:0%
+pull back into your now support
+ 
+
+00:13:18.560 --> 00:13:21.150 align:start position:0%
+pull back into your now support
+to<00:13:18.640><c> go</c><00:13:18.839><c> much</c><00:13:19.080><c> higher.</c>
+
+00:13:21.150 --> 00:13:21.160 align:start position:0%
+to go much higher.
+ 
+
+00:13:21.160 --> 00:13:22.590 align:start position:0%
+to go much higher.
+And<00:13:21.440><c> this</c><00:13:21.640><c> is,</c><00:13:21.960><c> you</c><00:13:22.080><c> know,</c><00:13:22.280><c> people</c><00:13:22.520><c> say,</c>
+
+00:13:22.590 --> 00:13:22.600 align:start position:0%
+And this is, you know, people say,
+ 
+
+00:13:22.600 --> 00:13:23.710 align:start position:0%
+And this is, you know, people say,
+"Well,<00:13:22.720><c> it's</c><00:13:22.800><c> not</c><00:13:22.960><c> a</c><00:13:23.000><c> big</c><00:13:23.120><c> a</c><00:13:23.160><c> move."</c><00:13:23.400><c> It</c><00:13:23.520><c> is.</c>
+
+00:13:23.710 --> 00:13:23.720 align:start position:0%
+"Well, it's not a big a move." It is.
+ 
+
+00:13:23.720 --> 00:13:26.950 align:start position:0%
+"Well, it's not a big a move." It is.
+It's<00:13:23.920><c> a</c><00:13:23.960><c> $500</c><00:13:24.680><c> move.</c>
+
+00:13:26.950 --> 00:13:26.960 align:start position:0%
+It's a $500 move.
+ 
+
+00:13:26.960 --> 00:13:30.510 align:start position:0%
+It's a $500 move.
+50<00:13:27.680><c> all</c><00:13:27.800><c> the</c><00:13:27.880><c> way</c><00:13:27.960><c> up</c><00:13:28.080><c> to</c><00:13:28.160><c> 55</c><00:13:29.360><c> before</c><00:13:29.640><c> settling</c>
+
+00:13:30.510 --> 00:13:30.520 align:start position:0%
+50 all the way up to 55 before settling
+ 
+
+00:13:30.520 --> 00:13:32.910 align:start position:0%
+50 all the way up to 55 before settling
+in<00:13:30.680><c> around</c><00:13:31.600><c> 53,</c><00:13:32.200><c> which</c><00:13:32.400><c> is</c><00:13:32.480><c> where</c><00:13:32.640><c> we're</c><00:13:32.760><c> at</c>
+
+00:13:32.910 --> 00:13:32.920 align:start position:0%
+in around 53, which is where we're at
+ 
+
+00:13:32.920 --> 00:13:35.430 align:start position:0%
+in around 53, which is where we're at
+right<00:13:33.160><c> now.</c>
+
+00:13:35.430 --> 00:13:35.440 align:start position:0%
+right now.
+ 
+
+00:13:35.440 --> 00:13:37.830 align:start position:0%
+right now.
+So,<00:13:36.240><c> again,</c><00:13:36.960><c> you</c><00:13:37.080><c> know,</c>
+
+00:13:37.830 --> 00:13:37.840 align:start position:0%
+So, again, you know,
+ 
+
+00:13:37.840 --> 00:13:39.550 align:start position:0%
+So, again, you know,
+that's<00:13:38.160><c> to</c><00:13:38.280><c> me,</c><00:13:38.840><c> you</c><00:13:38.920><c> know,</c><00:13:39.000><c> sort</c><00:13:39.280><c> of</c><00:13:39.360><c> one</c><00:13:39.480><c> of</c>
+
+00:13:39.550 --> 00:13:39.560 align:start position:0%
+that's to me, you know, sort of one of
+ 
+
+00:13:39.560 --> 00:13:41.390 align:start position:0%
+that's to me, you know, sort of one of
+the<00:13:39.680><c> the</c><00:13:39.960><c> nuances</c><00:13:40.520><c> of</c><00:13:40.640><c> understanding</c><00:13:41.280><c> the</c>
+
+00:13:41.390 --> 00:13:41.400 align:start position:0%
+the the nuances of understanding the
+ 
+
+00:13:41.400 --> 00:13:43.230 align:start position:0%
+the the nuances of understanding the
+volumes,<00:13:42.000><c> where</c><00:13:42.160><c> they're</c><00:13:42.320><c> coming</c><00:13:42.680><c> in</c><00:13:42.920><c> in</c><00:13:43.080><c> the</c>
+
+00:13:43.230 --> 00:13:43.240 align:start position:0%
+volumes, where they're coming in in the
+ 
+
+00:13:43.240 --> 00:13:44.790 align:start position:0%
+volumes, where they're coming in in the
+order<00:13:43.480><c> flow,</c><00:13:44.000><c> and</c><00:13:44.080><c> sort</c><00:13:44.240><c> of</c><00:13:44.320><c> putting</c><00:13:44.600><c> these</c>
+
+00:13:44.790 --> 00:13:44.800 align:start position:0%
+order flow, and sort of putting these
+ 
+
+00:13:44.800 --> 00:13:47.270 align:start position:0%
+order flow, and sort of putting these
+pieces<00:13:45.160><c> together</c><00:13:46.160><c> of</c><00:13:46.400><c> the</c><00:13:46.480><c> market</c><00:13:46.840><c> generated</c>
+
+00:13:47.270 --> 00:13:47.280 align:start position:0%
+pieces together of the market generated
+ 
+
+00:13:47.280 --> 00:13:48.670 align:start position:0%
+pieces together of the market generated
+information.<00:13:47.760><c> You</c><00:13:47.800><c> know,</c><00:13:47.920><c> I</c><00:13:48.000><c> like</c><00:13:48.200><c> to</c><00:13:48.320><c> talk</c><00:13:48.640><c> a</c>
+
+00:13:48.670 --> 00:13:48.680 align:start position:0%
+information. You know, I like to talk a
+ 
+
+00:13:48.680 --> 00:13:51.630 align:start position:0%
+information. You know, I like to talk a
+lot<00:13:48.960><c> about</c><00:13:50.000><c> um</c><00:13:50.080><c> what</c><00:13:50.280><c> I'm</c><00:13:50.400><c> seeing</c><00:13:50.760><c> right</c><00:13:51.000><c> now,</c>
+
+00:13:51.630 --> 00:13:51.640 align:start position:0%
+lot about um what I'm seeing right now,
+ 
+
+00:13:51.640 --> 00:13:53.910 align:start position:0%
+lot about um what I'm seeing right now,
+all<00:13:51.680><c> right?</c><00:13:52.400><c> In</c><00:13:52.520><c> the</c><00:13:52.600><c> heat</c><00:13:52.800><c> of</c><00:13:52.880><c> the</c><00:13:52.960><c> moment,</c>
+
+00:13:53.910 --> 00:13:53.920 align:start position:0%
+all right? In the heat of the moment,
+ 
+
+00:13:53.920 --> 00:13:56.230 align:start position:0%
+all right? In the heat of the moment,
+okay?<00:13:54.160><c> But,</c><00:13:54.720><c> when</c><00:13:54.880><c> you</c>
+
+00:13:56.230 --> 00:13:56.240 align:start position:0%
+okay? But, when you
+ 
+
+00:13:56.240 --> 00:13:58.870 align:start position:0%
+okay? But, when you
+can<00:13:56.360><c> put</c><00:13:56.560><c> the</c><00:13:56.680><c> pieces</c><00:13:57.040><c> together,</c>
+
+00:13:58.870 --> 00:13:58.880 align:start position:0%
+can put the pieces together,
+ 
+
+00:13:58.880 --> 00:14:00.710 align:start position:0%
+can put the pieces together,
+right?<00:13:59.160><c> And</c><00:13:59.280><c> this</c><00:13:59.440><c> is</c><00:13:59.560><c> where</c><00:13:59.680><c> something</c><00:14:00.040><c> like</c>
+
+00:14:00.710 --> 00:14:00.720 align:start position:0%
+right? And this is where something like
+ 
+
+00:14:00.720 --> 00:14:03.150 align:start position:0%
+right? And this is where something like
+the<00:14:00.800><c> prominent</c><00:14:01.160><c> point</c><00:14:01.320><c> of</c><00:14:01.360><c> control</c><00:14:01.760><c> is</c><00:14:01.880><c> really</c>
+
+00:14:03.150 --> 00:14:03.160 align:start position:0%
+the prominent point of control is really
+ 
+
+00:14:03.160 --> 00:14:05.390 align:start position:0%
+the prominent point of control is really
+really<00:14:03.520><c> help,</c><00:14:04.520><c> all</c><00:14:04.560><c> right?</c><00:14:04.760><c> By</c><00:14:04.880><c> identifying</c>
+
+00:14:05.390 --> 00:14:05.400 align:start position:0%
+really help, all right? By identifying
+ 
+
+00:14:05.400 --> 00:14:07.110 align:start position:0%
+really help, all right? By identifying
+these<00:14:05.600><c> areas</c><00:14:06.000><c> right</c><00:14:06.200><c> here.</c><00:14:06.760><c> I</c><00:14:06.800><c> mean,</c><00:14:06.920><c> you</c><00:14:07.000><c> can</c>
+
+00:14:07.110 --> 00:14:07.120 align:start position:0%
+these areas right here. I mean, you can
+ 
+
+00:14:07.120 --> 00:14:08.430 align:start position:0%
+these areas right here. I mean, you can
+trade,<00:14:07.680><c> you</c><00:14:07.760><c> know,</c><00:14:07.840><c> these</c><00:14:08.000><c> prominent</c><00:14:08.320><c> point</c>
+
+00:14:08.430 --> 00:14:08.440 align:start position:0%
+trade, you know, these prominent point
+ 
+
+00:14:08.440 --> 00:14:10.710 align:start position:0%
+trade, you know, these prominent point
+of<00:14:08.520><c> controls</c><00:14:08.880><c> by</c><00:14:09.080><c> themselves</c>
+
+00:14:10.710 --> 00:14:10.720 align:start position:0%
+of controls by themselves
+ 
+
+00:14:10.720 --> 00:14:12.430 align:start position:0%
+of controls by themselves
+to<00:14:10.800><c> catch</c><00:14:11.000><c> a</c><00:14:11.040><c> move</c><00:14:11.320><c> like</c><00:14:11.520><c> this,</c><00:14:12.160><c> you</c><00:14:12.280><c> know,</c>
+
+00:14:12.430 --> 00:14:12.440 align:start position:0%
+to catch a move like this, you know,
+ 
+
+00:14:12.440 --> 00:14:15.110 align:start position:0%
+to catch a move like this, you know,
+from,<00:14:13.400><c> you</c><00:14:13.480><c> know,</c><00:14:13.640><c> 49</c>
+
+00:14:15.110 --> 00:14:15.120 align:start position:0%
+from, you know, 49
+ 
+
+00:14:15.120 --> 00:14:17.550 align:start position:0%
+from, you know, 49
+down<00:14:15.360><c> to</c><00:14:15.480><c> 45.</c>
+
+00:14:17.550 --> 00:14:17.560 align:start position:0%
+down to 45.
+ 
+
+00:14:17.560 --> 00:14:19.390 align:start position:0%
+down to 45.
+But<00:14:17.680><c> then,</c><00:14:18.080><c> not</c><00:14:18.320><c> only</c><00:14:18.520><c> that,</c><00:14:19.040><c> you</c><00:14:19.160><c> should</c>
+
+00:14:19.390 --> 00:14:19.400 align:start position:0%
+But then, not only that, you should
+ 
+
+00:14:19.400 --> 00:14:21.790 align:start position:0%
+But then, not only that, you should
+still<00:14:19.680><c> keep</c><00:14:20.000><c> them</c><00:14:20.360><c> in</c><00:14:20.520><c> your</c><00:14:20.680><c> rear</c><00:14:20.880><c> view</c><00:14:21.080><c> mirror</c>
+
+00:14:21.790 --> 00:14:21.800 align:start position:0%
+still keep them in your rear view mirror
+ 
+
+00:14:21.800 --> 00:14:23.670 align:start position:0%
+still keep them in your rear view mirror
+so<00:14:21.960><c> that</c><00:14:22.160><c> when</c><00:14:22.320><c> the</c><00:14:22.400><c> market</c><00:14:22.800><c> comes</c><00:14:23.200><c> back</c><00:14:23.520><c> to</c>
+
+00:14:23.670 --> 00:14:23.680 align:start position:0%
+so that when the market comes back to
+ 
+
+00:14:23.680 --> 00:14:25.670 align:start position:0%
+so that when the market comes back to
+those<00:14:23.920><c> levels,</c>
+
+00:14:25.670 --> 00:14:25.680 align:start position:0%
+those levels,
+ 
+
+00:14:25.680 --> 00:14:28.390 align:start position:0%
+those levels,
+you<00:14:25.880><c> can</c><00:14:26.080><c> be</c><00:14:26.280><c> looking</c><00:14:26.560><c> for</c><00:14:26.720><c> a</c><00:14:26.760><c> market</c><00:14:27.280><c> to</c><00:14:27.960><c> react</c>
+
+00:14:28.390 --> 00:14:28.400 align:start position:0%
+you can be looking for a market to react
+ 
+
+00:14:28.400 --> 00:14:30.670 align:start position:0%
+you can be looking for a market to react
+to<00:14:28.520><c> it,</c><00:14:29.280><c> or</c>
+
+00:14:30.670 --> 00:14:30.680 align:start position:0%
+to it, or
+ 
+
+00:14:30.680 --> 00:14:32.990 align:start position:0%
+to it, or
+check<00:14:30.960><c> it,</c><00:14:31.360><c> see</c><00:14:31.560><c> how</c><00:14:31.760><c> it's</c>
+
+00:14:32.990 --> 00:14:33.000 align:start position:0%
+check it, see how it's
+ 
+
+00:14:33.000 --> 00:14:35.030 align:start position:0%
+check it, see how it's
+acting<00:14:33.400><c> as</c><00:14:33.520><c> support</c><00:14:34.000><c> or</c><00:14:34.160><c> resistance.</c><00:14:34.800><c> Again,</c>
+
+00:14:35.030 --> 00:14:35.040 align:start position:0%
+acting as support or resistance. Again,
+ 
+
+00:14:35.040 --> 00:14:36.150 align:start position:0%
+acting as support or resistance. Again,
+these<00:14:35.200><c> are</c><00:14:35.280><c> bearish</c><00:14:35.680><c> prominent</c><00:14:35.960><c> point</c><00:14:36.120><c> of</c>
+
+00:14:36.150 --> 00:14:36.160 align:start position:0%
+these are bearish prominent point of
+ 
+
+00:14:36.160 --> 00:14:38.590 align:start position:0%
+these are bearish prominent point of
+controls.<00:14:37.120><c> It's</c><00:14:37.200><c> a</c><00:14:37.240><c> bullish</c><00:14:37.640><c> one</c><00:14:37.800><c> down</c><00:14:38.040><c> here,</c>
+
+00:14:38.590 --> 00:14:38.600 align:start position:0%
+controls. It's a bullish one down here,
+ 
+
+00:14:38.600 --> 00:14:39.750 align:start position:0%
+controls. It's a bullish one down here,
+you<00:14:38.680><c> know,</c><00:14:38.800><c> a</c><00:14:38.880><c> bullish</c><00:14:39.240><c> one</c><00:14:39.360><c> in</c><00:14:39.440><c> the</c><00:14:39.520><c> middle</c><00:14:39.720><c> of</c>
+
+00:14:39.750 --> 00:14:39.760 align:start position:0%
+you know, a bullish one in the middle of
+ 
+
+00:14:39.760 --> 00:14:42.270 align:start position:0%
+you know, a bullish one in the middle of
+the<00:14:39.839><c> move.</c>
+
+00:14:42.270 --> 00:14:42.280 align:start position:0%
+ 
+ 
+
+00:14:42.280 --> 00:14:44.350 align:start position:0%
+ 
+Um<00:14:42.839><c> but</c><00:14:42.960><c> again,</c><00:14:43.320><c> you</c><00:14:43.400><c> know,</c><00:14:43.520><c> that</c><00:14:43.800><c> that's</c><00:14:44.160><c> why</c>
+
+00:14:44.350 --> 00:14:44.360 align:start position:0%
+Um but again, you know, that that's why
+ 
+
+00:14:44.360 --> 00:14:46.790 align:start position:0%
+Um but again, you know, that that's why
+you<00:14:44.480><c> see</c><00:14:44.600><c> all</c><00:14:44.720><c> these</c><00:14:44.960><c> tools</c><00:14:45.520><c> in</c><00:14:45.920><c> our</c><00:14:46.560><c> order</c>
+
+00:14:46.790 --> 00:14:46.800 align:start position:0%
+you see all these tools in our order
+ 
+
+00:14:46.800 --> 00:14:48.910 align:start position:0%
+you see all these tools in our order
+flow<00:14:47.120><c> trader</c><00:14:47.520><c> software.</c><00:14:48.520><c> It's</c><00:14:48.600><c> cuz</c><00:14:48.760><c> they're</c>
+
+00:14:48.910 --> 00:14:48.920 align:start position:0%
+flow trader software. It's cuz they're
+ 
+
+00:14:48.920 --> 00:14:51.670 align:start position:0%
+flow trader software. It's cuz they're
+designed<00:14:49.480><c> for</c><00:14:49.800><c> a</c><00:14:49.880><c> specific</c><00:14:51.160><c> use</c><00:14:51.480><c> in</c><00:14:51.600><c> the</c>
+
+00:14:51.670 --> 00:14:51.680 align:start position:0%
+designed for a specific use in the
+ 
+
+00:14:51.680 --> 00:14:54.030 align:start position:0%
+designed for a specific use in the
+market,<00:14:52.160><c> right?</c><00:14:52.560><c> Based</c><00:14:52.839><c> off</c><00:14:53.000><c> of</c><00:14:53.480><c> how</c><00:14:53.680><c> I</c><00:14:53.760><c> trade,</c>
+
+00:14:54.030 --> 00:14:54.040 align:start position:0%
+market, right? Based off of how I trade,
+ 
+
+00:14:54.040 --> 00:14:55.230 align:start position:0%
+market, right? Based off of how I trade,
+because,<00:14:54.240><c> you</c><00:14:54.280><c> know,</c><00:14:54.400><c> anytime</c><00:14:54.839><c> a</c><00:14:54.920><c> market</c>
+
+00:14:55.230 --> 00:14:55.240 align:start position:0%
+because, you know, anytime a market
+ 
+
+00:14:55.240 --> 00:14:56.910 align:start position:0%
+because, you know, anytime a market
+makes<00:14:55.480><c> a</c><00:14:55.560><c> high</c><00:14:55.800><c> or</c><00:14:55.920><c> low,</c><00:14:56.120><c> it</c><00:14:56.280><c> does</c><00:14:56.640><c> leave</c>
+
+00:14:56.910 --> 00:14:56.920 align:start position:0%
+makes a high or low, it does leave
+ 
+
+00:14:56.920 --> 00:14:59.750 align:start position:0%
+makes a high or low, it does leave
+clues.
+
+00:14:59.750 --> 00:14:59.760 align:start position:0%
+ 
+ 
+
+00:14:59.760 --> 00:15:01.110 align:start position:0%
+ 
+And<00:14:59.839><c> then,</c><00:14:59.960><c> anytime</c><00:15:00.320><c> a</c><00:15:00.360><c> market</c><00:15:00.680><c> gets</c><00:15:00.880><c> through</c>
+
+00:15:01.110 --> 00:15:01.120 align:start position:0%
+And then, anytime a market gets through
+ 
+
+00:15:01.120 --> 00:15:03.030 align:start position:0%
+And then, anytime a market gets through
+a<00:15:01.200><c> previous</c><00:15:02.120><c> high</c><00:15:02.320><c> or</c><00:15:02.440><c> low,</c><00:15:02.680><c> whether</c><00:15:02.880><c> it's</c><00:15:03.000><c> a</c>
+
+00:15:03.030 --> 00:15:03.040 align:start position:0%
+a previous high or low, whether it's a
+ 
+
+00:15:03.040 --> 00:15:05.070 align:start position:0%
+a previous high or low, whether it's a
+swing<00:15:03.320><c> high</c><00:15:03.480><c> or</c><00:15:03.600><c> swing</c><00:15:03.880><c> low,</c><00:15:04.640><c> it's</c><00:15:04.839><c> going</c><00:15:05.000><c> to</c>
+
+00:15:05.070 --> 00:15:05.080 align:start position:0%
+swing high or swing low, it's going to
+ 
+
+00:15:05.080 --> 00:15:07.630 align:start position:0%
+swing high or swing low, it's going to
+leave<00:15:05.360><c> clues.</c><00:15:06.000><c> You</c><00:15:06.080><c> got</c><00:15:06.200><c> to</c><00:15:06.280><c> look</c><00:15:06.480><c> for</c><00:15:06.560><c> those.</c>
+
+00:15:07.630 --> 00:15:07.640 align:start position:0%
+leave clues. You got to look for those.
+ 
+
+00:15:07.640 --> 00:15:09.030 align:start position:0%
+leave clues. You got to look for those.
+So,
+
+00:15:09.030 --> 00:15:09.040 align:start position:0%
+So,
+ 
+
+00:15:09.040 --> 00:15:10.870 align:start position:0%
+So,
+that's<00:15:09.160><c> going</c><00:15:09.280><c> to</c><00:15:09.360><c> wrap</c><00:15:09.600><c> up</c><00:15:09.720><c> this</c><00:15:09.960><c> video</c><00:15:10.440><c> on</c>
+
+00:15:10.870 --> 00:15:10.880 align:start position:0%
+that's going to wrap up this video on
+ 
+
+00:15:10.880 --> 00:15:12.829 align:start position:0%
+that's going to wrap up this video on
+sort<00:15:11.080><c> of</c><00:15:11.160><c> market</c><00:15:11.480><c> generated</c><00:15:12.000><c> information,</c>
+
+00:15:12.829 --> 00:15:12.839 align:start position:0%
+sort of market generated information,
+ 
+
+00:15:12.839 --> 00:15:14.510 align:start position:0%
+sort of market generated information,
+you<00:15:12.920><c> know,</c><00:15:13.040><c> using</c><00:15:13.360><c> the</c><00:15:13.480><c> order</c><00:15:13.680><c> flow.</c><00:15:14.360><c> So,</c><00:15:14.480><c> I</c>
+
+00:15:14.510 --> 00:15:14.520 align:start position:0%
+you know, using the order flow. So, I
+ 
+
+00:15:14.520 --> 00:15:15.990 align:start position:0%
+you know, using the order flow. So, I
+hope<00:15:14.720><c> you</c><00:15:14.839><c> found</c><00:15:15.040><c> these</c><00:15:15.240><c> tips</c><00:15:15.480><c> helpful</c><00:15:15.880><c> for</c>
+
+00:15:15.990 --> 00:15:16.000 align:start position:0%
+hope you found these tips helpful for
+ 
+
+00:15:16.000 --> 00:15:17.270 align:start position:0%
+hope you found these tips helpful for
+your<00:15:16.080><c> understanding</c><00:15:16.560><c> of</c><00:15:16.680><c> order</c><00:15:16.880><c> flow.</c><00:15:17.040><c> Let</c><00:15:17.200><c> me</c>
+
+00:15:17.270 --> 00:15:17.280 align:start position:0%
+your understanding of order flow. Let me
+ 
+
+00:15:17.280 --> 00:15:18.710 align:start position:0%
+your understanding of order flow. Let me
+know<00:15:17.480><c> what</c><00:15:17.600><c> you</c><00:15:17.680><c> like</c><00:15:17.880><c> to</c><00:15:17.960><c> discuss</c><00:15:18.360><c> next</c><00:15:18.600><c> by</c>
+
+00:15:18.710 --> 00:15:18.720 align:start position:0%
+know what you like to discuss next by
+ 
+
+00:15:18.720 --> 00:15:20.670 align:start position:0%
+know what you like to discuss next by
+leaving<00:15:18.920><c> a</c><00:15:18.960><c> comment</c><00:15:19.280><c> below.</c>
+
+00:15:20.670 --> 00:15:20.680 align:start position:0%
+leaving a comment below.
+ 
+
+00:15:20.680 --> 00:15:22.030 align:start position:0%
+leaving a comment below.
+I<00:15:20.720><c> I</c><00:15:20.880><c> you've</c><00:15:21.000><c> enjoyed</c><00:15:21.280><c> this</c><00:15:21.440><c> video.</c><00:15:21.720><c> Make</c><00:15:21.880><c> sure</c>
+
+00:15:22.030 --> 00:15:22.040 align:start position:0%
+I I you've enjoyed this video. Make sure
+ 
+
+00:15:22.040 --> 00:15:23.270 align:start position:0%
+I I you've enjoyed this video. Make sure
+you<00:15:22.120><c> hit</c><00:15:22.240><c> the</c><00:15:22.320><c> like</c><00:15:22.560><c> button</c><00:15:22.760><c> and</c><00:15:22.840><c> subscribe</c><00:15:23.200><c> to</c>
+
+00:15:23.270 --> 00:15:23.280 align:start position:0%
+you hit the like button and subscribe to
+ 
+
+00:15:23.280 --> 00:15:24.550 align:start position:0%
+you hit the like button and subscribe to
+my<00:15:23.360><c> channel</c><00:15:23.680><c> so</c><00:15:23.760><c> you</c><00:15:23.800><c> don't</c><00:15:23.960><c> miss</c><00:15:24.160><c> any</c><00:15:24.280><c> of</c><00:15:24.400><c> my</c>
+
+00:15:24.550 --> 00:15:24.560 align:start position:0%
+my channel so you don't miss any of my
+ 
+
+00:15:24.560 --> 00:15:27.070 align:start position:0%
+my channel so you don't miss any of my
+upcoming<00:15:25.520><c> videos.</c><00:15:26.320><c> So,</c><00:15:26.440><c> thanks</c><00:15:26.680><c> so</c><00:15:26.800><c> much</c><00:15:26.960><c> for</c>
+
+00:15:27.070 --> 00:15:27.080 align:start position:0%
+upcoming videos. So, thanks so much for
+ 
+
+00:15:27.080 --> 00:15:28.710 align:start position:0%
+upcoming videos. So, thanks so much for
+watching<00:15:27.400><c> and</c><00:15:27.480><c> being</c><00:15:27.720><c> part</c><00:15:27.920><c> of</c><00:15:28.000><c> my</c><00:15:28.120><c> community.</c>
+
+00:15:28.710 --> 00:15:28.720 align:start position:0%
+watching and being part of my community.
+ 
+
+00:15:28.720 --> 00:15:30.230 align:start position:0%
+watching and being part of my community.
+I'll<00:15:28.840><c> catch</c><00:15:29.000><c> you</c><00:15:29.080><c> guys</c><00:15:29.320><c> on</c><00:15:29.400><c> the</c><00:15:29.480><c> next</c><00:15:29.680><c> video.</c>
+
+00:15:30.230 --> 00:15:30.240 align:start position:0%
+I'll catch you guys on the next video.
+ 
+
+00:15:30.240 --> 00:15:32.680 align:start position:0%
+I'll catch you guys on the next video.
+Bye-bye.
+

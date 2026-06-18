@@ -1,0 +1,71 @@
+---
+video_number: 479
+inferred_title: "Order Flow Surrounding The Suspicious Crude Oil Trades"
+inferred_date: "2026-05-07"
+video_id: "Swcnspl-ACc"
+source_vtt: "20260507 - Order Flow Surrounding The Suspicious Crude Oil Trades [Swcnspl-ACc].en.vtt"
+word_count: 2561
+segment_count: 439
+---
+
+# Order Flow Surrounding The Suspicious Crude Oil Trades
+*Date:* 2026-05-07  |  *Video ID:* Swcnspl-ACc  |  *Words:* 2561
+*Source VTT:* `20260507 - Order Flow Surrounding The Suspicious Crude Oil Trades [Swcnspl-ACc].en.vtt`
+
+---
+
+[00:00] Hey everybody, it's Mike here and you know, I'm going to make this quick video because a bunch of people have been asking me about my thoughts on this uh suspicious-looking crude oil trades that have been going on since uh basically the start of the war in the Middle East. And you know, the other night was a great example of some very suspicious activity. Okay, now I remember us first finding out about this one on on Twitter by a post by the Kebasi Letter uh when I
+
+[00:29] was just sort of going through my tweets in the morning. And according to her analysis, you know, $920 million worth of crude oil shorts were taken 70 minutes before an Axios report claimed that the US and Iran were near a deal. At 3:40 a.m. Eastern time, again, this is on May 6th, nearly 10,000 contracts worth of crude oil shorts were taken without any major news. This is equivalent to about $920 million in notional value, which is an unusually large trade for about 3:40 a.m. Okay, then obviously for at 4:50 a.m.,
+
+[01:00] but just 70 minutes later the Axios report came out that the US is close to a uh MOU to end the Iran war. Okay. So, they use a uh TradingView chart, you know, it's light crude oil futures on NYMEX, you know, and then they they sort of show what took place. You can see the heavy volume when the report came out, the big red bar down. Um but prior to that, you see a couple big red bars down on on heavier volumes. Now, this looks like about 5-minute chart
+
+[01:32] that they're using, possibly or even 10-minute chart. It's hard I can't really tell. But um interesting they'd use light crude. They probably should have used Brent crude, which is something that tracks uh Iran Iranian crude more, but you know, nevertheless, looking at the order flow. So, this is when the big sell-off came in. And you know, it was interesting because this red line here is our low of the day, so you're starting to see the sell-off going into the low of the day. Now, this low was made um sort of on the reopen
+
+[02:03] around 5:00 6:00 Chicago time. 5:00 or 6:00 p.m. Um the evening before. Again, this is 2:40 in the morning. Not a lot of liquidity in the market at that time. Granted, it's again it's early morning. Now, you know, we were talking about stuff happening in the Middle East, so obviously that's going to be the US morning time due to the time change. And you can see the heavy volumes down here, the 327 891 1320, right in here. You know, so this is about uh what 320 though?
+
+[02:37] >> [sighs and gasps] >> 1,000 2,000 3,000 contracts within about uh 3 minutes. Again, this is uh June crude, okay? So, you know, there is some decent volumes that went through. And then obviously when we took out these lows here, the new lows, obviously again, more heavy volume coming in, making new lows. Now, it's not uncommon to see heavy volume come in at new lows of the day. Really, what we want to be looking for is, you know, is there any suspicious activities? Well, I don't know. I mean, some of
+
+[03:15] these could have been stops that got triggered. Or again, we're at we're at the new lows of the day. We're trading below, you know, 100 bucks. I mean, we're already we're there earlier after we reopened the night, you know, at at 5:00 Chicago time. But again, you're talking about a time where there's not necessarily a lot of liquidity, and it it doesn't take much to move the market, you know, we're literally from this low here at 9912. You know, all the way down to 9759. Is there any big liquidity in there? You
+
+[03:46] know, here's 100 lots that went through right here, 136. Resting liquidity is what I'm looking for. You know, the pretty much all most of these are just resting liquidity. Not a lot, you know, okay, but you know, nevertheless, you know, there is you always got to be wondering, you know, the conspiracy theorists and everybody is saying, you know, there there's something happening. Probably there's probably some rumblings, but really what I like to look for rather than, you know, I say, "Oh, you got the big volume surge here,
+
+[04:15] something, you know, this is some insider trading." What about right before that big volume surge, right? Because, you know, is there anything that was sort of peaking out? You know, and you know, if if you look at sort of the volumes before, you know, this is 1:00 a.m. sort of the transfer of the book from Asia to to Europe. Yeah, there's some you putting this little swing low. Got some decent volumes, some supportive buying coming in, you know, around the 9987 area, the 63, you know, 2618, but after
+
+[04:49] that, then it really dries up volume-wise. You know, you can just see the volumes are very small, you know, 50 contracts and below for the most part. And looking at the volumes on the footprint, again, very light, single digits for the most part. You know, here's an 14, here's an 11, here's a 12, here's an 11, but everything else is just twos and fives. Here's a 27, here's a 10, here's a 12. Everything else is just, you know, and some prices don't even trade anything, right? That's how
+
+[05:15] skittish this market is. You get this little burst up here. This looks like a buys big order that went through. Maybe it was a buy stop, but it just sweeps through the market and sits on the bid. Some decent volume went through, 664, as the market sort of spikes up. Okay. And then it's just sort of going sideways, sideways, sideways, sideways, sideways, sideways before it starts getting a little bit weaker. And we're putting in sort of these, you know, this is our swing high, a lower high, another lower high, another
+
+[05:46] lower higher lower high. You know, then we got a lower low, lower low, lower low. So, it looks like, you know, price action wise, you know, maybe this market is starting to come off anyway. Um but what what I really what to me what stood out is this here. I'll just highlight it. Um you know, just ahead of the sell-off here, we got 59 contracts on the offer. Cuz I'm looking at the offer cuz this market is starting to trend lower, period. Right? Cuz we've got our swing
+
+[06:18] high, lower high, lower high, lower high. So, we got a lower high, lower low, lower low, lower low. Okay, so it's already coming it's just doing one of these things. Okay, so it's already trending down anyway. Okay? But again, sort of getting back here, so I'm looking at the offer 27 cuz as the market's going lower, I want to be looking at what the volumes are doing on the offer cuz that to me that signifies, you know, a passive seller coming in trying to distribute their position
+
+[06:52] in a downtrending market. Okay? And I'm just circling all these volumes. 25 contracts and above. Okay? This one's 24, but you got what? You got 1 2 3 4 5 6 7 8 9 10 11 12 13 14 contracts. That's volume that's on the offer. Okay? You don't see any big bids coming in at all. You know, here's a 13 here. What do we got? We got a 12, a 10, and 11 here. Here's an 11. Here's an 11. It's a 12 and 13. Here's a 10.
+
+[07:32] Here's an 11. Here's a 14. So, comparing the volumes on the offer compared to the volumes on the bid, you can just see it's weighing heavier, right? Because again, this area, basically here, we are going sideways for the most part. And as we're going sideways, what we have, right? We're consolidating. And what we have in that period of consolidation is heavy offers coming into the market. Again, 25 is not heavy, but it's heavy for this time of
+
+[08:14] day. Okay? And again, I'm comparing it to the volumes on the bid side. And you know, we barely see any bids. You know, here's another 13 here. So, we got 1 2 3 4 5 6 7 8 9 10. We got 10 bids that were over 10 contracts, but we got, you know, 13 or 14 offers of 25 contracts or more. Two and a half times the size of the heaviest bid in a market that we're going sideways. Where's the easiest place to sell if you're an institutional trader
+
+[08:50] in a market that's rising or in a market that's going sideways? Okay? So, we don't see a lot of necessarily have a lot of buying interest, passive buying interest, people thinking, "Hey, this is a good area where I could be buying." But what we see is a lot of passive sellers, selling interest. Again, could just be one person or or a few. Most likely somebody sell 25, sell 25. Okay, work on another 25. Works on more work market's going up. Yeah, sell another 25, sell another 25. Right? And then it drops
+
+[09:20] down, it starts pop poking back up, sell another 25, sell another 25. Okay? Right before that big drop. I found that much more interesting than that big volume. Now, you know, it sort of takes a little bit of a trained eye to sort of pick that up. But what to me what was the most interesting is this right here. And I talk about this a lot. This is one of my favorite setups. This is the abandoned value area, the abandoned prominent point of control. And literally, in strategic traders the
+
+[09:57] other day before this even happened I had been talking about it. Here as you know, what's one of my highest confidence order flow setups is literally this, the abandoned prominent point of control and the abandoned value area, which is right here. Right? This is it. It's the value area that's not traded into in the next bar and the point of control is not traded into the next bar. Now, there's actually other things in the order flow that's interesting, right? We also have point of control on the extreme on the
+
+[10:29] very high of the bar, right? We got an imbalance reversal. This is 27. We got a bearish ratio of three .3 rather. We got heavy stopping volume. Okay? So, I'm not saying that, you know, this was the sign of a 12 point or 12% sell-off, but for but I I can safely say, you know what? You could have positioned yourself to catch most of this move down from, you know, one, you know, 100 spot 50 all the way down for, you know, at least
+
+[11:10] down to 99 50, a buck move, you know, and obviously did go lower. But, to me this was to me this was like, mhm, the the French kiss of this whole thing and it came in right before all that suspicious activity came in. You know, of what came out in that tweet of what was it here? Right? Right here cuz this coming in Where is it here? Right? It's coming in sort of right in this area in here before you get this sell-off. And that's just a pure order flow read.
+
+[11:52] Right? It's something that we see every day. You know, even we have this big move down. All right, you see it in in every market. All right, big move down. Boom, boom, boom. You don't see that set up. You don't see it again. Did reappear. Where? Right here. Hit these new lows. Right in here. All right? And you see the market sold off further down into new lows. Again, you know, in a market like this, you don't know how much lower it can go, honestly. But, you know, if you're getting short
+
+[12:32] somewhere in here, you know, what is this? 50? You know, where does your stop go? It just goes on the other side, right up in here. So, basically, I don't like this color. Um you know, this is your risk to capture this. All right? Just as you know, earlier, you know, everyone wants to know where to place your stop, right? All you got to do Right? Your stop just goes on the other side up here. You're getting short somewhere in here. Right? Right in here.
+
+[13:16] This is your This is your risk here. That's your reward. Whichever one you want. So, anyway, guys, you know, that that's my thoughts on that suspicious activity. Um, you know, there there is another tweet that came out today that Department of Justice and uh CFTC is going to investigate. You know, we know how those things go. Um you know, but you know, the other side note is the market didn't rally later. There was another report that came out, which was bullish. And so, after we sold off 12% in crude oil,
+
+[13:56] the market rallied 8% after uh Iran came out with uh some bullish news. So, you know, these markets are they're crazy. And you think, you know, if you're trading, obviously, you got to use stops. You have to use stops. And you know, a market like crude, is you're you're at the mercy of you're at the mercy of the news cycle. You know, something could come out instantly, and next thing you know, there is no liquidity to get out, and you're looking, you know, instead of getting
+
+[14:29] stopped out with some slippage of a just a couple ticks, you could be looking slippage of, you know, like this when this this sold off. And everyone talks thinks, "Oh, I'd have a stop here and get out." No, realistically, you know, honestly, if you had a stop, I mean, you could just see these volumes. There's there's nothing trading. There's all these zeros in here on the offer side. Everyone, this is what's called, you know, cascading of stops is, you know, there's there's stop stop stops. They're all tripping over themselves,
+
+[15:00] competing for the same bid. I mean, obviously, not competing with themselves, but it's a queue system, so you're just seeing it just sort of cascade into the next one, into the next one, into the next one. So, even though you think, "Well, you know, if I I'd have a stop, you know, for whatever reason, if you were long here, right, at the 9840s." So, I'll have a stop at 40, and you You and then the same would so you you you got out at 37. You know, realistically, you probably
+
+[15:25] would have got out you know, 98. You know, your stops at 40. I would have been filled somewhere around 98 bucks, 97.90. But anyway, guys, um it's just interesting interesting thing to talk about. Um you know, cuz again, a lot of people have been asking my my thoughts on it. But um thanks for watching.

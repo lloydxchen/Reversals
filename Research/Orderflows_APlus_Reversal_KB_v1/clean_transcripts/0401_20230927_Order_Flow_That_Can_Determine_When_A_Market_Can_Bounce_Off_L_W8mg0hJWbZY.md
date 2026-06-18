@@ -1,0 +1,83 @@
+---
+video_number: 401
+inferred_title: "Order Flow That Can Determine When A Market Can Bounce Off Lows Using Orderflows Trader"
+inferred_date: "2023-09-27"
+video_id: "W8mg0hJWbZY"
+source_vtt: "20230927 - Order Flow That Can Determine When A Market Can Bounce Off Lows Using Orderflows Trader [W8mg0hJWbZY].en.vtt"
+word_count: 3100
+segment_count: 460
+---
+
+# Order Flow That Can Determine When A Market Can Bounce Off Lows Using Orderflows Trader
+*Date:* 2023-09-27  |  *Video ID:* W8mg0hJWbZY  |  *Words:* 3100
+*Source VTT:* `20230927 - Order Flow That Can Determine When A Market Can Bounce Off Lows Using Orderflows Trader [W8mg0hJWbZY].en.vtt`
+
+---
+
+[00:00] hey everyone it's Mike from overflows here and welcome back to my channel I'm glad you could join me for today's video we're going to be talking about you know the bouncing Market how to use the order flow to um sort of catch these uh markets when they're bouncing off of lows instead of going down and making new lows you know because today was a great example right we I mean right now we got this big massive rally taking place underway but you know today we had new lows a nice
+
+[00:26] bounce up right and so it's a you know from 13 and a quarter all the way up to 24 nice 10 point bounce we came down here to oh four and three quarters we bounced all the way back up to 14 another 10 point bounce right even down here at this low um 92 and a quarter you know back up to O2 another 10 point bounce and you know sometimes there's signs in the Overflow that can sort of key you in on bounces like this right and there's
+
+[00:51] other times where the market just doesn't bounce like here we got the small bounce and uh you know we got this nice I don't call this a balance this is more of a rally taking place here where we're literally going from 77 um you know we're up about uh cash between 13 and a quarter right now so you know that that's 30 point move off of the lows so that's where the order flow is going to help you in determining you know which loads you can buy now I'm not trying to
+
+[01:20] tell you how to predict a low right but rather use the information that's coming in on the order flow at the low to sort of give you signs that maybe the market can have a nice balance as opposed to um just sort of trading a little higher and then coming off making new lows going sideways making new lows you know going sideways making new lows and Etc so again you know if you enjoy my videos be sure to hit the Subscribe button you know I like to uh I'm a stat
+
+[01:49] guy I do like to follow those stats and hit the notification Bell so you don't miss any new video that I upload and if you find today's video helpful be sure to leave a comment below so let's go ahead and talk about today's topic all right so again you know right now it's Wednesday the 27th it's about two just before you know it's about 1 40 in the afternoon s p Showdown about uh you know Harley you know I'll say we're down but you know just kind of actually to
+
+[02:19] unchanged you know down point zero six but we were down uh much lower earlier so on the order flow let's take a look at some of these lows how they're made right because this is you know the information that you see in the order flow is very helpful at times okay I mean sometimes you know you wish you'd get more information out of the order flow but you know it's sort of the misconception that people have is that order flow is going to give you every
+
+[02:46] single turning point in the market no that's not what it's does but what the order flow does tell you is those times where things are very clear as to what's happening in the market right the markets exist to facilitate trade between one party to another to transfer that risk and sometimes it does leave a very clear footprint in no pun intended of what the big Traders the institutional Traders are doing all right so here today we're coming down into these lows here at 43 13 and a
+
+[03:17] quarter all right and we're mostly going sideways right we hit the low here at 9 13 9 14 9 15 9 16 9 19. all right then we rally we rally about 10 points what is there in the order flow that's telling you you know hey you know what maybe this selling pressure has subsided okay now that doesn't mean that you're going to get a rally like we like we're experiencing right now um where we're you know we're up about 30 points 35 points but at least to
+
+[03:52] catch a bounce in the market right quick five ten points because what happens is after a Time certain amount of time after you make that low and you do rally then you start to see more order flow come in it could either be bullish or bearish you still have to take into account the order flow that's coming in okay is that like oh my gosh you know I got some bullish order flow down here this is it this is going to be the low for the day because what
+
+[04:17] can happen well bearish order flow could come in as we saw up here right when we after we bounced up about 10 points more bearish order Flow came in but more importantly what's the market telling you down here at this low between nine 12 and you know basically 9 20. well all right we're coming in we're coming in pretty hot here right some strong selling you know um you know cash had been open for about 45 minutes you could see you know nice strong Delta minus 1600.
+
+[04:47] we're still above the low then we're coming down into the low we're coming in strong right minus 1200 into a new low when I talk about minus 1200 I'm talking about the Delta Delta's minus 12. uh 22 1222 new low Delta is just minus 254. positive Delta 453 it's the Divergence negative Delta of 390 positive Delta of 286. small Delta minus 9 small Delta minus 42 positive Delta of 362. okay that's a lot of numbers there what does it mean well coming into a low strong selling that's
+
+[05:27] what you expect to see but then we're at the low and what are we seeing are we still seeing strong selling well no negative 254 minus 390 you do have some aggressive buying coming in plus 453 on the Delta plus 286 okay over here you get the two red candles okay red candles maybe they're selling but if you're looking at the Delta it's pretty evenly distributed the aggressive buying and the aggressive selling right the Delta is minus nine minus 42. then you get here you got
+
+[06:06] negative I say positive Delta of 362. but what else is what else are you seeing in here okay I mean you have to look a little bit deeper when you first hit this low what's the cumulative Delta minus 4242. you're still at the low here six minutes later what's the delta it's minus 3500 okay now granted you know this bar here and strong negative Delta of 1200 but even if you take that out before this you know here it's you know minus 39 88
+
+[06:46] minus 254 minus 3700 minus 41 100 minus 3 800 minus 39 minus 39 minus 35 82. so we're at our low there's trading going on there's buying and they're selling aggressive buying aggressive selling this Market's not going lower right because we just keep hitting this low at 12 at 13 and a quarter the aggressive selling isn't strong anymore cumulative Delta has actually gone up right I mean people say you know as you know has it really gone up well it's
+
+[07:27] minus here's minus 39.88 here's minus 4 200. over here is minus 3 500. right so if you're looking for this Market to keep selling off you'd expect to see you know stronger selling pressure not the buying pressure coming in 453 286 362 then you know a small bar here 61 and then 600 right and then we just you know pop up from 18 all the way up to 25. and then the bearish order flow starts coming in here obviously you see all that negative Delta and we come
+
+[08:00] down into new lows okay and we get down to again these new lows down here right right in this bar at 958 right the low is four and three quarters and we rally up to about 15. what else do you see in here again you know this is what I talk about looking at the order flow right any not trying to predict a low but rather seeing how this low has developed and is currently trading right that's the benefit of the order flow is seeing what is taking place
+
+[08:34] and making a decision based off of it okay come in again nice strong selling into the low minus 555. you know it's closing on its Min Delta number Min Delta is minus 556 close that minus 555 that's why it's magenta then 798 again still strong into the new lows here okay then one this bar here it's not on the low so one tick above the low but now we're seeing some nice aggressive buying taking place right it's 451 is the Delta it's closing near its Max Delta of 452. okay and then
+
+[09:12] a bar you know it's kind of yeah kind of a nothing bar in the sense of in terms of Delta it's just 20. then this bar here 340 is the Delta which is its Max Delta actually this bar we had a strong negative Delta minus 480 and it closed at 340 on its Max Delta so there was that selling early in this bar because you know minus 480 is kind of a decent strong negative Delta that's forming in this bar early because it's happening probably within the first half
+
+[09:45] of the bar I'd imagine so it looks like well hey you know what maybe we could test this low and go lower but lo and behold once that selling got shut off the aggressive buying came in you see a stacked buying and balance in this bar you see the green the blue value area which tells you it's a very bullish value area and again look at the cumulative Delta from the time you hit the low minus 6000 to this bar minus 5800 so it's about 800 contracts
+
+[10:25] to the positive side is gaining it back so you know once you start adding in some of them then you see you got an exhaustion print here you got some stopping volume you could feel pretty confident that hey you know what maybe this Market can bounce at least I'm not saying it can reverse and start trading you know back up to unchanged or to you know the high of the day but at least a bounce right I mean when you're at the low first thing you're going to look for is a
+
+[10:53] bounce right I mean you want to look for a reversal but take advantage of the bounce first right and then if it's building on each other if it's if that bounce is building on itself then yes it's going to be a reversal but reversals start as bounces first before they become reversals and let's just sort of fast forward um you know let me just find one of these areas where you know the market didn't really bounce right and just sort of went down to new lows okay so for
+
+[11:26] example here right we're coming in nice strong selling right minus 1400 Delta minus 700 minus 700 Delta to a new low you get a small positive Delta 209 732. hey this is it maybe we can bounce again another 10 points to chain right but what happens well kiss the dot that inside bar right this red bar then you get the negative Delta 241 negative Delta 600 all right so if you're looking for this bounce you know it's probably not going to happen I don't like the
+
+[12:03] get some sign that hey you know what maybe we got a bounce taking place and then it sells off and then all of a sudden out of nowhere the balance comes back I mean it can happen and you know everything happens in the markets but that's not really what I'd be looking for and again right you get some buy you know 32 positive Delta 446 nice positive Delta okay can we build off of it no it doesn't go anywhere okay so again you know watching the cumulative Delta right
+
+[12:34] because you're going to say well this is minus 8 241 in the cumulative Delta here at the low we're over here at 75.23 why you know maybe I should look for this Market to go up okay if what are some of the signs the other signs that you're looking for this Market to go up we're looking for a price Loops are trading higher it's not really trading higher right and the majority of the positive Delta on this move from minus 8241 to minus 75 23 or even here minus 76.
+
+[13:11] it's just coming in on two bars of which we don't even trade any higher on right so even though it's gained back some of its negative cumulative Delta it's basically coming in on one or two bars and what that could be to me is more of a sign of you know maybe it's just some profit taking because again you know we're making new lows shorts you know they want to book some profits okay but the fact that we can't even go higher than this bar here at 98 and a
+
+[13:41] quarter again is not a good sign and you still got some strong selling coming in here in this bar minus 600 okay now again this one if you're looking to buy out a breakout you know maybe from a move from you know 99 right here to maybe you know 05 or 60708 the fact that this next bar goes inside is like the kiss of death I hate getting into a trade and seeing the next bar go inside of the bar that I liked a lot which was this one
+
+[14:16] okay then you know we came down here made this new low right low low low testing and testing it and then pops up again for you know from this area in here you know 95 it's all the way up to 0304 you know here now you're seeing something slightly different okay cumulative Delta coming into these lows okay we'll actually got stronger but there's a reason for that because you know you come in here you know came with some adults is minus seven six nine nine even here at the low it's minus seven
+
+[14:56] six five eight way over here it's minus eight thousand so it's actually gotten stronger people might may start to think that okay let's have Delta is getting stronger this Market should sell off I mean it eventually did but you gotta bounce here because why well even though you've got negative deltas right this is negative now this is a doji candle okay so it's open and close at the same price that's why it's all grayed out well you got some decent volume coming in here okay you've got the three 396 313 the
+
+[15:33] 506 okay over here right that's why you got this negative Delta of minus 500 right because there was some volume in here again it's one of those things right we don't draw a ratio on a doji candle because we want to draw them on um green candles underneath for bullish ratios or bearish ratios at the top of red candles so just by looking at this I could see this 506 I can see this negative Delta which is really what's causing that Delta the difference in the cumulative
+
+[16:05] Delta here right from 7600 to minus 8 000 that's that is 500 more or less but down here I can still see that volume the 541 now I've got a bullish Prominent Point of control I've got this negative Delta on this green candle which is telling me that there's some absorption coming on that there's some strong passive buyers in the market absorbing whatever aggressive selling so if now again this one is slightly different than the previous ones I just talked about if I know I have absorption taking place at the
+
+[16:37] low I definitely want to be positioned to take advantage of any bounce this is your bullish Prominent Point of control that's this magenta line here right and we have a nice move up back up to you know the double O area and eventually a little bit higher before we sold off down into new lows right now we got this big massive move taking place off of this low and you know again just really quick you can just sort of see the Deltas taking place here right look at this coming into the
+
+[17:09] slow coming in hot new lows of the day 79 here and a half right strong selling minus 1432 Delta minus 698 Delta and you go inside minus 10. positive 571. positive 1100. strong selling that's getting weaker then nice aggressive buying coming in nice bullish permanent point of control came back tested it and then again you see some decent aggressive buying coming in here and it was Off to the Races now there's things in this up here but I'll talk about this in in another video or
+
+[17:50] tonight in my weekly training session because there is some very nice information taking place in here all right everyone so I'll end that video for today and again you know if you find these videos helpful be sure to subscribe to the channel so whenever I put up a new video you'll get notified and again remember right order flow doesn't always give you every single turning point in the market it's not designed to but what it does though it tells you these things you know these situations that arise that are so
+
+[18:23] Crystal Clear sometimes to Traders when you know what to look for that you can take advantage of them all right so have a great uh rest of your day I'll catch you guys on the next video bye bye

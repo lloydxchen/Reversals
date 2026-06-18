@@ -1,0 +1,81 @@
+---
+video_number: 347
+inferred_title: "Prominent Point Of Controls In The Currency Futures And Forex Market With Orderflows Trader"
+inferred_date: "2023-08-17"
+video_id: "EtgttoGEovY"
+source_vtt: "20230817 - Prominent Point Of Controls In The Currency Futures And Forex Market With Orderflows Trader [EtgttoGEovY].en.vtt"
+word_count: 3026
+segment_count: 448
+---
+
+# Prominent Point Of Controls In The Currency Futures And Forex Market With Orderflows Trader
+*Date:* 2023-08-17  |  *Video ID:* EtgttoGEovY  |  *Words:* 3026
+*Source VTT:* `20230817 - Prominent Point Of Controls In The Currency Futures And Forex Market With Orderflows Trader [EtgttoGEovY].en.vtt`
+
+---
+
+[00:00] hey everybody it's Mike from overflows and welcome back to my channel um you know I've been uh looking at some of the comments uh on some of the recent videos and uh you know one of the comments that I got was uh asking about Euro currency well there's actually a few comments asking you know does order flow work in Forex markets it does but uh honestly you know I'm a Futures guy I'm not a Forex guy however you know when I started in the Futures industry I
+
+[00:25] actually worked on the CME floor back when there was still the uh you know the the Deutsche Mark and Swiss franc this was well before the time of the Euro right we had the currency quadrant which was uh I worked in the spot where we did Dean winter where we did Deutsche marks and Swiss Francs the other side of the pit was uh Japan uh British pound Aussie Dollar Mexican peso um obviously now that we don't have the Deutsche Mark anymore it's the euro currency so there's always been sort of
+
+[00:52] a fondness in my heart for the currencies and you know the euro currency is a great contract to trade especially using order flow now you can use a minute based chart or you could use a range base chart um you know people history a question came up um you know why do I use a minute based chart because you know honestly that's the chart most Traders are familiar with you know people like to get into sort of uh you know these really refined charts for a specific Market I just find it's
+
+[01:23] easier to explain something on a time-based chart everybody's familiar with that you know if I start to dig deeper into say you know a you know like whatever a 497 tick chart or whatever something like that you know not everybody's going to want to use that but everyone's familiar with a time-based chart or even a range based chart now for currencies like I said a minute based chart is fine um on the CME Euro currencies I think you could use an eight range or a 10
+
+[01:51] range chart but I'm going to start here with uh a minute based chart now this is uh kind of a basic footprint chart right with your imbalances your point of controls your Delta at the bottom and one of the things that I like to use because you know when I first released the order flows Trader software um in 2015 um you know I was trading Euro currencies was one of the markets that I was actively trading and you know I used a lot of minute-based charts and as well as eight range charts
+
+[02:29] and what I found was you know point of controls play a pretty important part in my analysis of currencies you know what is the point of control it's the price level in the bar with the most volume right it's really simple nothing fancy you're just looking at the price level right a bar will cover several a bunch of price levels but the one price level that has the most volume that was traded on the bid and the offer not in the two-way auction just at that price level
+
+[02:54] is going to be your point of control and this is sort of how the whole concept of prominent important controls came about because I found that there were certain point of controls that mattered more than others now you'll see if it's this magenta that's a bearish Prominent Point of control now you'll see also here there's uh well cyan would be a bullish primary reporter control this is cyan cyan this uh Green Line this green line this green line is is what we call a slingshot point of
+
+[03:26] control this is a another form of point of control analysis I'm either going to have bullish ones or bearish ones now on the order flows Trader software if you were to go into uh the settings right you'll find it in here under POC slingshot right you can see red and green primary pointed controls until tested cyan and magenta use Prominent Point control level one Prominent Point of control level two and basically what I would always look for in the currencies are these areas of heavy volume coming in right after ends
+
+[04:02] of moves right we had to move up here then you know we made this new high this this was today uh let's say Thursday the 17th of August and we start coming off then we get the red candle with the heavy volume up near the top you know light volume inside these are thin prints obviously the zero zero one in here um you know we had this little bit of a sell-off and on the way down then you know on the way back up we got another
+
+[04:25] bullish uh point of control this time it's a slingshot point of control followed by another one here another one here these are Prominent Point of controls here and here as the market moved back up and where did we trade back up to well we trade back up to where we had this previous Prominent Point of control that wasn't tested in the next bar right when I'm looking at Prominent Point of controls I like them to be untested in the next bar what does that mean well for example if this is a
+
+[04:53] bearish Prominent Point of control it's met on the point of control basis but the next bar um test it right we opened up at uh 109 22 and a half and trade it up to 109 uh 23 and basically filled the lack of a better word that Prominent Point of control when it's unfilled meaning untested it in my opinion has more strength right and I have a bunch of followers that have been trading with me for a long time that they just they wait for these
+
+[05:25] Prominent Point of controls or these slingshot point of controls to appear and be untested in the next bar and that's a trade that they they love to take and again you know point of controls primary point of controls especially can act as support or resistance in the market right again you know you'll see our high of the day at this time right we just made our new high up here at 109 34 and a half bearish Prime reported control coming in at 32. Market sells off where do we rally back up to
+
+[05:55] well we get up to 32 30 two and a half 33 33 and a half so just a couple ticks through right and then we start coming off again you got another bearish Prominent Point of control one here but it's tested in the next two bars another one that's not tested came back up here to try and test it but didn't quite um get into that area so it is left hanging out there right it's an abandoned point of control a version point of control if you will and we sell
+
+[06:19] off where do we sell off to a point where we got a bullish Prominent Point of control and what's interesting about this bullish power point of control that's formed is coming in one tick right above this earlier um slingshot point of control it's also a bullish point of control that's this green line um where's it coming in I could be right here at 17 and a half right it just sort of jumps up but look at that I mean it comes right down to the tick you put in
+
+[06:45] another bullish one and what happens Market rallies up to where where you had the previous point of control previous Prominent Point of control coming in then you kick off with another bearish one a point of control on the extreme right on the edge of the bar and then the market sells off okay that's why you know when I talk about point of controls um becoming Market generated you know general you know they're the result of Market generated information the result of actual trading that's taking place
+
+[07:12] why is it important because you know you have strong passive buying coming in down here stopping volume if you will rallies up to where you have selling volume coming in stopping volume as well this time it's selling down here was buying to stop that move okay and you can see how the Market's just constantly go back and forth between these levels right you got it stops here comes back up you got a bearish one see it comes down right to that tick sort of holding these these levels comes
+
+[07:40] down here makes a new low or you know a new swing low rallies back up to where where you had those prominent pointed controls uh from earlier okay now this is a this is a time-based chart uh Euro currency right again I like to use eight range a chart you could also use a 10 range chart and again I'd be looking for sort of the exact same things now obviously things are going to be a bit different because now this is a range based chart as opposed to a Time based chart so the
+
+[08:10] bars are going to be forming different right bars are going to be moving based off of price movements you know for lack of a better way to explain it it's a range based charge so bars will form as the range start you know as price starts moving okay and you can see bullish primary point of control right down here right comes right down got this nice swing low here bullish Prime opponent control goes up working our way back up a bullish power point of control and
+
+[08:33] then one here as you're making new highs now you don't have the bearish pound point of control up here at 32 that you had on the minute base chart because the bars are constructed differently got a bearish modern point of control here but it's been tested in the next bar you got one here okay barely tested it in this bar but came right back up and tested it and sort of invalidated it there one here one here so again you know if you're taking these shorts like maybe
+
+[09:02] you're getting short off this you get stopped out fine just wait for the next trade next trade comes in right and you know so you know you lose here you lose here on this trying to get short off of this Prominent Point of control but again where would you be getting short in this case all right you have the bearish primary point of control forming in this bar but you waiting for this next bar to complete it's not that you just have a bearish pound reported control you
+
+[09:29] immediately get long or short or get short rather it's a bearish pound point of control you got to wait till this bar closes although you know it's a range based chart it's going to get within one tick of it and okay it doesn't test it maybe you want to wait until well you do want to wait till the next bar forms but maybe you want to wait a little bit see if it's going to test it right off the open or not um like you did in this bar but
+
+[09:53] if you're getting short you're getting short you know somewhere around the close of this bar here right with the stop just above that high just as here you're getting short off of um this candle here right because you got to wait for this bar to close you know and your stops just right above it so it's not like you're getting short in in these two cases way down here okay or maybe you know you want to wait for the Prominent Point of control to appear then the next bar to be red right
+
+[10:22] as opposed to a green bar that's working its way back up like this is a green bar this is a green bar there's a red bar okay now you could get short or look for Oh either it gets short immediately once this red bar closes or you know look for a little bit of a pullback and get short I'm not saying it's going to pull all the way back up here but you know you got to be ready for those to catch these trades so even if
+
+[10:45] you got stopped out here you know maybe you lost five picks up here you lost five ticks you know you're talking a move from I mean you could realistically have gotten short right on the open of this bar at uh oh one and a half then it just you know quickly you know this is 1005 you know over the next um 30 minutes trades all the way down from you know what is that oh one one and a half all the way straight down I mean there's no red bars or sorry no
+
+[11:13] green bar up here this is your first green bar right here you know down to 87. right now this Market trades in half tick so that's like the set but close to 30 ticks then you get another bearish pound point of control right here a similar thing right now in this case it started to go down sort of came back up worked its way back up doesn't quite stop you out here but then you got a nice bullish Prominent Point of control that you could take advantage of
+
+[11:41] here and the next bar comes within one tick of that okay then it closes up here it adds your sign to get long and it moves back up again we have this bearish Prime opponent of control right up here at 08 and a half doesn't quite get there it gets up to five before it works its way back down okay so you know that's the whole idea of trading around prominent pointed controls now um just really quick that is on ninjatrader okay now if you are into
+
+[12:16] let's see into Forex but go charting okay go charting is a web-based platform that my indicators are are now on you can actually uh use you know all the workflows tools on there but if you're going to be trading 4X I would recommend go charting as your platform for charting as opposed to the ninjatrader platform one it's it's actually um a bit cheaper but ninjatrader is more geared towards Futures Traders okay whereas go charting is more of a general training platform and again you know if you're looking at
+
+[12:58] Prominent Point controls the nice thing about um no charting is you can sort of scrunch up your charts and you can see these areas where there's the prominent important control coming in here I'd have to clean this up a little bit just so you're not confused by a lot of these other lines here just give me a second I will turn off extension and uh one other thing in here I got problem important controls on I'm
+
+[13:38] going to turn off the thin prints so the nice thing is if you're just using a simple bar chart right you can see bullish Prime opponent control bullish Prominent Point of control bearish Prominent Point of control bearish Prominent Point of control right that is not tested in the next bar right and you know another bullish one down here right you could just you know that's on a one minute chart you know you want to use a five minute chart to see if there's anything in there sometimes
+
+[14:03] there is I I prefer to trade you know here's a bullish power point of control on the five minute chart um if there's anything else on the five minute chart but again it's something you could take a look at even you know the nice thing about go charting is you can get all the uh you get all the pairs you get it's from the data it's from Rwanda so you know maybe you want I don't know Euro uh Euro Japan Euro versus the end um yeah that's a five minute chart you
+
+[14:36] know if you trade in on the short term right see in here nice bullish primary point of control here on the way up um you know it was a bearish one down here not tested and you know there's a bearish one here you see the market came right back to that level literally and came off again um here it got within one tick this is the Euro versus the Yen um you see you get all the all these pairs I mean I don't know what to look
+
+[15:05] at uh gosh you know Singapore dollar uh get the Hound Hound versus Singapore I don't know what this looks like honestly so I don't know if there's gonna be anything in here worth trading but you know here's a bearish one here again this is on a one minute chart um you know bearish one there Irish one there so there's there's some moves to be had right here here here you know on the way up so again um if you're going to be trading uh 4X I
+
+[15:42] suggest the go charting platform um and again right now you can get the order flows Trader software for free until the end of this month if you want to play around with the Prominent Point of controls and their their importance in um markets all right everyone thanks and I'll catch you guys on the next video bye-bye

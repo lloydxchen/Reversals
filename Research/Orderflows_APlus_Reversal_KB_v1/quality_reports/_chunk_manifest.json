@@ -1,0 +1,1536 @@
+[
+  {
+    "chunk": 1,
+    "tier": 1,
+    "file": "Chunk_001_Orderflows_Transcripts.md",
+    "units": 5,
+    "words": 21451,
+    "video_numbers": [
+      "3",
+      "4",
+      "5",
+      "7",
+      "8"
+    ]
+  },
+  {
+    "chunk": 2,
+    "tier": 1,
+    "file": "Chunk_002_Orderflows_Transcripts.md",
+    "units": 5,
+    "words": 24002,
+    "video_numbers": [
+      "9",
+      "47",
+      "65",
+      "70",
+      "80"
+    ]
+  },
+  {
+    "chunk": 3,
+    "tier": 1,
+    "file": "Chunk_003_Orderflows_Transcripts.md",
+    "units": 6,
+    "words": 25513,
+    "video_numbers": [
+      "90",
+      "91",
+      "115",
+      "126",
+      "134",
+      "143"
+    ]
+  },
+  {
+    "chunk": 4,
+    "tier": 1,
+    "file": "Chunk_004_Orderflows_Transcripts.md",
+    "units": 5,
+    "words": 19139,
+    "video_numbers": [
+      "145",
+      "146",
+      "154",
+      "156",
+      "158"
+    ]
+  },
+  {
+    "chunk": 5,
+    "tier": 1,
+    "file": "Chunk_005_Orderflows_Transcripts.md",
+    "units": 2,
+    "words": 18248,
+    "video_numbers": [
+      "172",
+      "173"
+    ]
+  },
+  {
+    "chunk": 6,
+    "tier": 1,
+    "file": "Chunk_006_Orderflows_Transcripts.md",
+    "units": 2,
+    "words": 20832,
+    "video_numbers": [
+      "176",
+      "220"
+    ]
+  },
+  {
+    "chunk": 7,
+    "tier": 1,
+    "file": "Chunk_007_Orderflows_Transcripts.md",
+    "units": 8,
+    "words": 25003,
+    "video_numbers": [
+      "221",
+      "244",
+      "261",
+      "262",
+      "269",
+      "272",
+      "277",
+      "280"
+    ]
+  },
+  {
+    "chunk": 8,
+    "tier": 1,
+    "file": "Chunk_008_Orderflows_Transcripts.md",
+    "units": 7,
+    "words": 22366,
+    "video_numbers": [
+      "282",
+      "283",
+      "286",
+      "289",
+      "296",
+      "299",
+      "300"
+    ]
+  },
+  {
+    "chunk": 9,
+    "tier": 1,
+    "file": "Chunk_009_Orderflows_Transcripts.md",
+    "units": 7,
+    "words": 25853,
+    "video_numbers": [
+      "302",
+      "303",
+      "307",
+      "309",
+      "312",
+      "313",
+      "314"
+    ]
+  },
+  {
+    "chunk": 10,
+    "tier": 1,
+    "file": "Chunk_010_Orderflows_Transcripts.md",
+    "units": 7,
+    "words": 25359,
+    "video_numbers": [
+      "320",
+      "321",
+      "329",
+      "339",
+      "340",
+      "346",
+      "358"
+    ]
+  },
+  {
+    "chunk": 11,
+    "tier": 1,
+    "file": "Chunk_011_Orderflows_Transcripts.md",
+    "units": 9,
+    "words": 25968,
+    "video_numbers": [
+      "363",
+      "367",
+      "371",
+      "372",
+      "375",
+      "376",
+      "386",
+      "390",
+      "394"
+    ]
+  },
+  {
+    "chunk": 12,
+    "tier": 1,
+    "file": "Chunk_012_Orderflows_Transcripts.md",
+    "units": 9,
+    "words": 25776,
+    "video_numbers": [
+      "395",
+      "396",
+      "397",
+      "398",
+      "399",
+      "401",
+      "406",
+      "408",
+      "413"
+    ]
+  },
+  {
+    "chunk": 13,
+    "tier": 1,
+    "file": "Chunk_013_Orderflows_Transcripts.md",
+    "units": 10,
+    "words": 24681,
+    "video_numbers": [
+      "417",
+      "418",
+      "421",
+      "423",
+      "425",
+      "427",
+      "428",
+      "434",
+      "435",
+      "436"
+    ]
+  },
+  {
+    "chunk": 14,
+    "tier": 1,
+    "file": "Chunk_014_Orderflows_Transcripts.md",
+    "units": 7,
+    "words": 25370,
+    "video_numbers": [
+      "437",
+      "438",
+      "440",
+      "441",
+      "444",
+      "445",
+      "446"
+    ]
+  },
+  {
+    "chunk": 15,
+    "tier": 1,
+    "file": "Chunk_015_Orderflows_Transcripts.md",
+    "units": 7,
+    "words": 24436,
+    "video_numbers": [
+      "449",
+      "451",
+      "452",
+      "453",
+      "454",
+      "457",
+      "461"
+    ]
+  },
+  {
+    "chunk": 16,
+    "tier": 1,
+    "file": "Chunk_016_Orderflows_Transcripts.md",
+    "units": 11,
+    "words": 24575,
+    "video_numbers": [
+      "462",
+      "472",
+      "478",
+      "481",
+      "482",
+      "483",
+      "485",
+      "487",
+      "488",
+      "489",
+      "490"
+    ]
+  },
+  {
+    "chunk": 17,
+    "tier": 1,
+    "file": "Chunk_017_Orderflows_Transcripts.md",
+    "units": 7,
+    "words": 21396,
+    "video_numbers": [
+      "492",
+      "493",
+      "495",
+      "496",
+      "497",
+      "498",
+      "499"
+    ]
+  },
+  {
+    "chunk": 18,
+    "tier": 2,
+    "file": "Chunk_018_Orderflows_Transcripts.md",
+    "units": 7,
+    "words": 23226,
+    "video_numbers": [
+      "1",
+      "2",
+      "6",
+      "10",
+      "11",
+      "12",
+      "13"
+    ]
+  },
+  {
+    "chunk": 19,
+    "tier": 2,
+    "file": "Chunk_019_Orderflows_Transcripts.md",
+    "units": 4,
+    "words": 18949,
+    "video_numbers": [
+      "14",
+      "15",
+      "16",
+      "17"
+    ]
+  },
+  {
+    "chunk": 20,
+    "tier": 2,
+    "file": "Chunk_020_Orderflows_Transcripts.md",
+    "units": 2,
+    "words": 25435,
+    "video_numbers": [
+      "18",
+      "19"
+    ]
+  },
+  {
+    "chunk": 21,
+    "tier": 2,
+    "file": "Chunk_021_Orderflows_Transcripts.md",
+    "units": 4,
+    "words": 18931,
+    "video_numbers": [
+      "20",
+      "21",
+      "22",
+      "23"
+    ]
+  },
+  {
+    "chunk": 22,
+    "tier": 2,
+    "file": "Chunk_022_Orderflows_Transcripts.md",
+    "units": 4,
+    "words": 24888,
+    "video_numbers": [
+      "24",
+      "25",
+      "26",
+      "27"
+    ]
+  },
+  {
+    "chunk": 23,
+    "tier": 2,
+    "file": "Chunk_023_Orderflows_Transcripts.md",
+    "units": 2,
+    "words": 24504,
+    "video_numbers": [
+      "28",
+      "29"
+    ]
+  },
+  {
+    "chunk": 24,
+    "tier": 2,
+    "file": "Chunk_024_Orderflows_Transcripts.md",
+    "units": 5,
+    "words": 22998,
+    "video_numbers": [
+      "30",
+      "31",
+      "32",
+      "33",
+      "34"
+    ]
+  },
+  {
+    "chunk": 25,
+    "tier": 2,
+    "file": "Chunk_025_Orderflows_Transcripts.md",
+    "units": 3,
+    "words": 20550,
+    "video_numbers": [
+      "36",
+      "37",
+      "38"
+    ]
+  },
+  {
+    "chunk": 26,
+    "tier": 2,
+    "file": "Chunk_026_Orderflows_Transcripts.md",
+    "units": 3,
+    "words": 21298,
+    "video_numbers": [
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  {
+    "chunk": 27,
+    "tier": 2,
+    "file": "Chunk_027_Orderflows_Transcripts.md",
+    "units": 4,
+    "words": 24551,
+    "video_numbers": [
+      "42",
+      "43",
+      "44",
+      "45"
+    ]
+  },
+  {
+    "chunk": 28,
+    "tier": 2,
+    "file": "Chunk_028_Orderflows_Transcripts.md",
+    "units": 4,
+    "words": 24155,
+    "video_numbers": [
+      "46",
+      "48",
+      "49",
+      "50"
+    ]
+  },
+  {
+    "chunk": 29,
+    "tier": 2,
+    "file": "Chunk_029_Orderflows_Transcripts.md",
+    "units": 5,
+    "words": 24991,
+    "video_numbers": [
+      "51",
+      "52",
+      "53",
+      "54",
+      "55"
+    ]
+  },
+  {
+    "chunk": 30,
+    "tier": 2,
+    "file": "Chunk_030_Orderflows_Transcripts.md",
+    "units": 3,
+    "words": 18724,
+    "video_numbers": [
+      "56",
+      "57",
+      "58"
+    ]
+  },
+  {
+    "chunk": 31,
+    "tier": 2,
+    "file": "Chunk_031_Orderflows_Transcripts.md",
+    "units": 3,
+    "words": 21238,
+    "video_numbers": [
+      "59",
+      "60",
+      "61"
+    ]
+  },
+  {
+    "chunk": 32,
+    "tier": 2,
+    "file": "Chunk_032_Orderflows_Transcripts.md",
+    "units": 6,
+    "words": 25305,
+    "video_numbers": [
+      "62",
+      "63",
+      "64",
+      "66",
+      "67",
+      "69"
+    ]
+  },
+  {
+    "chunk": 33,
+    "tier": 2,
+    "file": "Chunk_033_Orderflows_Transcripts.md",
+    "units": 7,
+    "words": 25447,
+    "video_numbers": [
+      "71",
+      "72",
+      "73",
+      "74",
+      "75",
+      "76",
+      "77"
+    ]
+  },
+  {
+    "chunk": 34,
+    "tier": 2,
+    "file": "Chunk_034_Orderflows_Transcripts.md",
+    "units": 5,
+    "words": 18859,
+    "video_numbers": [
+      "78",
+      "79",
+      "81",
+      "82",
+      "83"
+    ]
+  },
+  {
+    "chunk": 35,
+    "tier": 2,
+    "file": "Chunk_035_Orderflows_Transcripts.md",
+    "units": 5,
+    "words": 22900,
+    "video_numbers": [
+      "84",
+      "85",
+      "86",
+      "87",
+      "88"
+    ]
+  },
+  {
+    "chunk": 36,
+    "tier": 2,
+    "file": "Chunk_036_Orderflows_Transcripts.md",
+    "units": 5,
+    "words": 25422,
+    "video_numbers": [
+      "89",
+      "92",
+      "93",
+      "94",
+      "95"
+    ]
+  },
+  {
+    "chunk": 37,
+    "tier": 2,
+    "file": "Chunk_037_Orderflows_Transcripts.md",
+    "units": 4,
+    "words": 21582,
+    "video_numbers": [
+      "96",
+      "97",
+      "98",
+      "99"
+    ]
+  },
+  {
+    "chunk": 38,
+    "tier": 2,
+    "file": "Chunk_038_Orderflows_Transcripts.md",
+    "units": 6,
+    "words": 24619,
+    "video_numbers": [
+      "100",
+      "102",
+      "103",
+      "104",
+      "106",
+      "107"
+    ]
+  },
+  {
+    "chunk": 39,
+    "tier": 2,
+    "file": "Chunk_039_Orderflows_Transcripts.md",
+    "units": 6,
+    "words": 25576,
+    "video_numbers": [
+      "108",
+      "109",
+      "110",
+      "111",
+      "112",
+      "113"
+    ]
+  },
+  {
+    "chunk": 40,
+    "tier": 2,
+    "file": "Chunk_040_Orderflows_Transcripts.md",
+    "units": 6,
+    "words": 20520,
+    "video_numbers": [
+      "114",
+      "116",
+      "118",
+      "119",
+      "120",
+      "121"
+    ]
+  },
+  {
+    "chunk": 41,
+    "tier": 2,
+    "file": "Chunk_041_Orderflows_Transcripts.md",
+    "units": 4,
+    "words": 24113,
+    "video_numbers": [
+      "122",
+      "123",
+      "124",
+      "125"
+    ]
+  },
+  {
+    "chunk": 42,
+    "tier": 2,
+    "file": "Chunk_042_Orderflows_Transcripts.md",
+    "units": 4,
+    "words": 22938,
+    "video_numbers": [
+      "127",
+      "128",
+      "131",
+      "132"
+    ]
+  },
+  {
+    "chunk": 43,
+    "tier": 2,
+    "file": "Chunk_043_Orderflows_Transcripts.md",
+    "units": 5,
+    "words": 17645,
+    "video_numbers": [
+      "133",
+      "135",
+      "136",
+      "137",
+      "138"
+    ]
+  },
+  {
+    "chunk": 44,
+    "tier": 2,
+    "file": "Chunk_044_Orderflows_Transcripts.md",
+    "units": 4,
+    "words": 22677,
+    "video_numbers": [
+      "139",
+      "140",
+      "141",
+      "142"
+    ]
+  },
+  {
+    "chunk": 45,
+    "tier": 2,
+    "file": "Chunk_045_Orderflows_Transcripts.md",
+    "units": 5,
+    "words": 25698,
+    "video_numbers": [
+      "144",
+      "147",
+      "149",
+      "150",
+      "151"
+    ]
+  },
+  {
+    "chunk": 46,
+    "tier": 2,
+    "file": "Chunk_046_Orderflows_Transcripts.md",
+    "units": 3,
+    "words": 22317,
+    "video_numbers": [
+      "152",
+      "153",
+      "155"
+    ]
+  },
+  {
+    "chunk": 47,
+    "tier": 2,
+    "file": "Chunk_047_Orderflows_Transcripts.md",
+    "units": 3,
+    "words": 15661,
+    "video_numbers": [
+      "157",
+      "159",
+      "160"
+    ]
+  },
+  {
+    "chunk": 48,
+    "tier": 2,
+    "file": "Chunk_048_Orderflows_Transcripts.md",
+    "units": 2,
+    "words": 24315,
+    "video_numbers": [
+      "161",
+      "162"
+    ]
+  },
+  {
+    "chunk": 49,
+    "tier": 2,
+    "file": "Chunk_049_Orderflows_Transcripts.md",
+    "units": 5,
+    "words": 24363,
+    "video_numbers": [
+      "164",
+      "165",
+      "166",
+      "167",
+      "168"
+    ]
+  },
+  {
+    "chunk": 50,
+    "tier": 2,
+    "file": "Chunk_050_Orderflows_Transcripts.md",
+    "units": 2,
+    "words": 18708,
+    "video_numbers": [
+      "169",
+      "170"
+    ]
+  },
+  {
+    "chunk": 51,
+    "tier": 2,
+    "file": "Chunk_051_Orderflows_Transcripts.md",
+    "units": 3,
+    "words": 19732,
+    "video_numbers": [
+      "171",
+      "174",
+      "175"
+    ]
+  },
+  {
+    "chunk": 52,
+    "tier": 2,
+    "file": "Chunk_052_Orderflows_Transcripts.md",
+    "units": 1,
+    "words": 17933,
+    "video_numbers": [
+      "177"
+    ]
+  },
+  {
+    "chunk": 53,
+    "tier": 2,
+    "file": "Chunk_053_Orderflows_Transcripts.md",
+    "units": 3,
+    "words": 22753,
+    "video_numbers": [
+      "178",
+      "179",
+      "180"
+    ]
+  },
+  {
+    "chunk": 54,
+    "tier": 2,
+    "file": "Chunk_054_Orderflows_Transcripts.md",
+    "units": 2,
+    "words": 23700,
+    "video_numbers": [
+      "181",
+      "182"
+    ]
+  },
+  {
+    "chunk": 55,
+    "tier": 2,
+    "file": "Chunk_055_Orderflows_Transcripts.md",
+    "units": 2,
+    "words": 18018,
+    "video_numbers": [
+      "183",
+      "184"
+    ]
+  },
+  {
+    "chunk": 56,
+    "tier": 2,
+    "file": "Chunk_056_Orderflows_Transcripts.md",
+    "units": 2,
+    "words": 22215,
+    "video_numbers": [
+      "185",
+      "186"
+    ]
+  },
+  {
+    "chunk": 57,
+    "tier": 2,
+    "file": "Chunk_057_Orderflows_Transcripts.md",
+    "units": 2,
+    "words": 18904,
+    "video_numbers": [
+      "187",
+      "188"
+    ]
+  },
+  {
+    "chunk": 58,
+    "tier": 2,
+    "file": "Chunk_058_Orderflows_Transcripts.md",
+    "units": 1,
+    "words": 15174,
+    "video_numbers": [
+      "189"
+    ]
+  },
+  {
+    "chunk": 59,
+    "tier": 2,
+    "file": "Chunk_059_Orderflows_Transcripts.md",
+    "units": 3,
+    "words": 23788,
+    "video_numbers": [
+      "190",
+      "191",
+      "192"
+    ]
+  },
+  {
+    "chunk": 60,
+    "tier": 2,
+    "file": "Chunk_060_Orderflows_Transcripts.md",
+    "units": 2,
+    "words": 24419,
+    "video_numbers": [
+      "193",
+      "194"
+    ]
+  },
+  {
+    "chunk": 61,
+    "tier": 2,
+    "file": "Chunk_061_Orderflows_Transcripts.md",
+    "units": 2,
+    "words": 24990,
+    "video_numbers": [
+      "195",
+      "196"
+    ]
+  },
+  {
+    "chunk": 62,
+    "tier": 2,
+    "file": "Chunk_062_Orderflows_Transcripts.md",
+    "units": 2,
+    "words": 22729,
+    "video_numbers": [
+      "197",
+      "198"
+    ]
+  },
+  {
+    "chunk": 63,
+    "tier": 2,
+    "file": "Chunk_063_Orderflows_Transcripts.md",
+    "units": 2,
+    "words": 22416,
+    "video_numbers": [
+      "199",
+      "200"
+    ]
+  },
+  {
+    "chunk": 64,
+    "tier": 2,
+    "file": "Chunk_064_Orderflows_Transcripts.md",
+    "units": 2,
+    "words": 19326,
+    "video_numbers": [
+      "201",
+      "202"
+    ]
+  },
+  {
+    "chunk": 65,
+    "tier": 2,
+    "file": "Chunk_065_Orderflows_Transcripts.md",
+    "units": 2,
+    "words": 16325,
+    "video_numbers": [
+      "203",
+      "204"
+    ]
+  },
+  {
+    "chunk": 66,
+    "tier": 2,
+    "file": "Chunk_066_Orderflows_Transcripts.md",
+    "units": 2,
+    "words": 24527,
+    "video_numbers": [
+      "205",
+      "206"
+    ]
+  },
+  {
+    "chunk": 67,
+    "tier": 2,
+    "file": "Chunk_067_Orderflows_Transcripts.md",
+    "units": 3,
+    "words": 20539,
+    "video_numbers": [
+      "208",
+      "209",
+      "210"
+    ]
+  },
+  {
+    "chunk": 68,
+    "tier": 2,
+    "file": "Chunk_068_Orderflows_Transcripts.md",
+    "units": 2,
+    "words": 23689,
+    "video_numbers": [
+      "211",
+      "212"
+    ]
+  },
+  {
+    "chunk": 69,
+    "tier": 2,
+    "file": "Chunk_069_Orderflows_Transcripts.md",
+    "units": 2,
+    "words": 24116,
+    "video_numbers": [
+      "213",
+      "214"
+    ]
+  },
+  {
+    "chunk": 70,
+    "tier": 2,
+    "file": "Chunk_070_Orderflows_Transcripts.md",
+    "units": 2,
+    "words": 21093,
+    "video_numbers": [
+      "215",
+      "216"
+    ]
+  },
+  {
+    "chunk": 71,
+    "tier": 2,
+    "file": "Chunk_071_Orderflows_Transcripts.md",
+    "units": 2,
+    "words": 23401,
+    "video_numbers": [
+      "217",
+      "219"
+    ]
+  },
+  {
+    "chunk": 72,
+    "tier": 2,
+    "file": "Chunk_072_Orderflows_Transcripts.md",
+    "units": 2,
+    "words": 15048,
+    "video_numbers": [
+      "222",
+      "223"
+    ]
+  },
+  {
+    "chunk": 73,
+    "tier": 2,
+    "file": "Chunk_073_Orderflows_Transcripts.md",
+    "units": 2,
+    "words": 25777,
+    "video_numbers": [
+      "224",
+      "225"
+    ]
+  },
+  {
+    "chunk": 74,
+    "tier": 2,
+    "file": "Chunk_074_Orderflows_Transcripts.md",
+    "units": 3,
+    "words": 17909,
+    "video_numbers": [
+      "226",
+      "227",
+      "228"
+    ]
+  },
+  {
+    "chunk": 75,
+    "tier": 2,
+    "file": "Chunk_075_Orderflows_Transcripts.md",
+    "units": 3,
+    "words": 20628,
+    "video_numbers": [
+      "229",
+      "230",
+      "231"
+    ]
+  },
+  {
+    "chunk": 76,
+    "tier": 2,
+    "file": "Chunk_076_Orderflows_Transcripts.md",
+    "units": 3,
+    "words": 20536,
+    "video_numbers": [
+      "232",
+      "233",
+      "235"
+    ]
+  },
+  {
+    "chunk": 77,
+    "tier": 2,
+    "file": "Chunk_077_Orderflows_Transcripts.md",
+    "units": 4,
+    "words": 21024,
+    "video_numbers": [
+      "236",
+      "237",
+      "238",
+      "239"
+    ]
+  },
+  {
+    "chunk": 78,
+    "tier": 2,
+    "file": "Chunk_078_Orderflows_Transcripts.md",
+    "units": 4,
+    "words": 25276,
+    "video_numbers": [
+      "240",
+      "241",
+      "242",
+      "243"
+    ]
+  },
+  {
+    "chunk": 79,
+    "tier": 2,
+    "file": "Chunk_079_Orderflows_Transcripts.md",
+    "units": 6,
+    "words": 16617,
+    "video_numbers": [
+      "245",
+      "246",
+      "247",
+      "248",
+      "249",
+      "250"
+    ]
+  },
+  {
+    "chunk": 80,
+    "tier": 2,
+    "file": "Chunk_080_Orderflows_Transcripts.md",
+    "units": 2,
+    "words": 19758,
+    "video_numbers": [
+      "251",
+      "252"
+    ]
+  },
+  {
+    "chunk": 81,
+    "tier": 2,
+    "file": "Chunk_081_Orderflows_Transcripts.md",
+    "units": 2,
+    "words": 24276,
+    "video_numbers": [
+      "254",
+      "255"
+    ]
+  },
+  {
+    "chunk": 82,
+    "tier": 2,
+    "file": "Chunk_082_Orderflows_Transcripts.md",
+    "units": 3,
+    "words": 24563,
+    "video_numbers": [
+      "256",
+      "257",
+      "259"
+    ]
+  },
+  {
+    "chunk": 83,
+    "tier": 2,
+    "file": "Chunk_083_Orderflows_Transcripts.md",
+    "units": 7,
+    "words": 18866,
+    "video_numbers": [
+      "260",
+      "263",
+      "264",
+      "265",
+      "267",
+      "268",
+      "270"
+    ]
+  },
+  {
+    "chunk": 84,
+    "tier": 2,
+    "file": "Chunk_084_Orderflows_Transcripts.md",
+    "units": 5,
+    "words": 24274,
+    "video_numbers": [
+      "271",
+      "273",
+      "274",
+      "275",
+      "278"
+    ]
+  },
+  {
+    "chunk": 85,
+    "tier": 2,
+    "file": "Chunk_085_Orderflows_Transcripts.md",
+    "units": 5,
+    "words": 23171,
+    "video_numbers": [
+      "279",
+      "281",
+      "284",
+      "285",
+      "287"
+    ]
+  },
+  {
+    "chunk": 86,
+    "tier": 2,
+    "file": "Chunk_086_Orderflows_Transcripts.md",
+    "units": 2,
+    "words": 18269,
+    "video_numbers": [
+      "288",
+      "290"
+    ]
+  },
+  {
+    "chunk": 87,
+    "tier": 2,
+    "file": "Chunk_087_Orderflows_Transcripts.md",
+    "units": 6,
+    "words": 23993,
+    "video_numbers": [
+      "291",
+      "292",
+      "293",
+      "294",
+      "295",
+      "297"
+    ]
+  },
+  {
+    "chunk": 88,
+    "tier": 2,
+    "file": "Chunk_088_Orderflows_Transcripts.md",
+    "units": 5,
+    "words": 16819,
+    "video_numbers": [
+      "298",
+      "301",
+      "304",
+      "305",
+      "306"
+    ]
+  },
+  {
+    "chunk": 89,
+    "tier": 2,
+    "file": "Chunk_089_Orderflows_Transcripts.md",
+    "units": 5,
+    "words": 24208,
+    "video_numbers": [
+      "308",
+      "310",
+      "311",
+      "315",
+      "316"
+    ]
+  },
+  {
+    "chunk": 90,
+    "tier": 2,
+    "file": "Chunk_090_Orderflows_Transcripts.md",
+    "units": 7,
+    "words": 23513,
+    "video_numbers": [
+      "317",
+      "318",
+      "319",
+      "322",
+      "323",
+      "324",
+      "325"
+    ]
+  },
+  {
+    "chunk": 91,
+    "tier": 2,
+    "file": "Chunk_091_Orderflows_Transcripts.md",
+    "units": 6,
+    "words": 25578,
+    "video_numbers": [
+      "326",
+      "327",
+      "328",
+      "330",
+      "331",
+      "332"
+    ]
+  },
+  {
+    "chunk": 92,
+    "tier": 2,
+    "file": "Chunk_092_Orderflows_Transcripts.md",
+    "units": 2,
+    "words": 21482,
+    "video_numbers": [
+      "333",
+      "334"
+    ]
+  },
+  {
+    "chunk": 93,
+    "tier": 2,
+    "file": "Chunk_093_Orderflows_Transcripts.md",
+    "units": 5,
+    "words": 25444,
+    "video_numbers": [
+      "335",
+      "337",
+      "342",
+      "343",
+      "345"
+    ]
+  },
+  {
+    "chunk": 94,
+    "tier": 2,
+    "file": "Chunk_094_Orderflows_Transcripts.md",
+    "units": 8,
+    "words": 24027,
+    "video_numbers": [
+      "347",
+      "349",
+      "350",
+      "351",
+      "352",
+      "353",
+      "354",
+      "355"
+    ]
+  },
+  {
+    "chunk": 95,
+    "tier": 2,
+    "file": "Chunk_095_Orderflows_Transcripts.md",
+    "units": 9,
+    "words": 25354,
+    "video_numbers": [
+      "356",
+      "357",
+      "359",
+      "360",
+      "362",
+      "364",
+      "365",
+      "366",
+      "368"
+    ]
+  },
+  {
+    "chunk": 96,
+    "tier": 2,
+    "file": "Chunk_096_Orderflows_Transcripts.md",
+    "units": 8,
+    "words": 24757,
+    "video_numbers": [
+      "369",
+      "370",
+      "373",
+      "377",
+      "378",
+      "379",
+      "380",
+      "381"
+    ]
+  },
+  {
+    "chunk": 97,
+    "tier": 2,
+    "file": "Chunk_097_Orderflows_Transcripts.md",
+    "units": 5,
+    "words": 17167,
+    "video_numbers": [
+      "382",
+      "383",
+      "384",
+      "385",
+      "387"
+    ]
+  },
+  {
+    "chunk": 98,
+    "tier": 2,
+    "file": "Chunk_098_Orderflows_Transcripts.md",
+    "units": 7,
+    "words": 24774,
+    "video_numbers": [
+      "388",
+      "389",
+      "391",
+      "392",
+      "393",
+      "400",
+      "402"
+    ]
+  },
+  {
+    "chunk": 99,
+    "tier": 2,
+    "file": "Chunk_099_Orderflows_Transcripts.md",
+    "units": 6,
+    "words": 25604,
+    "video_numbers": [
+      "403",
+      "404",
+      "405",
+      "407",
+      "409",
+      "410"
+    ]
+  },
+  {
+    "chunk": 100,
+    "tier": 2,
+    "file": "Chunk_100_Orderflows_Transcripts.md",
+    "units": 6,
+    "words": 25609,
+    "video_numbers": [
+      "411",
+      "412",
+      "414",
+      "415",
+      "420",
+      "422"
+    ]
+  },
+  {
+    "chunk": 101,
+    "tier": 2,
+    "file": "Chunk_101_Orderflows_Transcripts.md",
+    "units": 11,
+    "words": 24295,
+    "video_numbers": [
+      "424",
+      "426",
+      "429",
+      "439",
+      "442",
+      "443",
+      "447",
+      "448",
+      "455",
+      "456",
+      "459"
+    ]
+  },
+  {
+    "chunk": 102,
+    "tier": 2,
+    "file": "Chunk_102_Orderflows_Transcripts.md",
+    "units": 7,
+    "words": 25627,
+    "video_numbers": [
+      "466",
+      "468",
+      "469",
+      "470",
+      "471",
+      "473",
+      "479"
+    ]
+  },
+  {
+    "chunk": 103,
+    "tier": 2,
+    "file": "Chunk_103_Orderflows_Transcripts.md",
+    "units": 4,
+    "words": 8874,
+    "video_numbers": [
+      "480",
+      "484",
+      "486",
+      "491"
+    ]
+  },
+  {
+    "chunk": 104,
+    "tier": 3,
+    "file": "Chunk_104_Orderflows_Transcripts.md",
+    "units": 9,
+    "words": 14200,
+    "video_numbers": [
+      "35",
+      "68",
+      "101",
+      "105",
+      "117",
+      "129",
+      "130",
+      "148",
+      "163"
+    ]
+  },
+  {
+    "chunk": 105,
+    "tier": 3,
+    "file": "Chunk_105_Orderflows_Transcripts.md",
+    "units": 1,
+    "words": 20110,
+    "video_numbers": [
+      "207"
+    ]
+  },
+  {
+    "chunk": 106,
+    "tier": 3,
+    "file": "Chunk_106_Orderflows_Transcripts.md",
+    "units": 2,
+    "words": 23407,
+    "video_numbers": [
+      "218",
+      "234"
+    ]
+  },
+  {
+    "chunk": 107,
+    "tier": 3,
+    "file": "Chunk_107_Orderflows_Transcripts.md",
+    "units": 2,
+    "words": 21595,
+    "video_numbers": [
+      "253",
+      "258"
+    ]
+  },
+  {
+    "chunk": 108,
+    "tier": 3,
+    "file": "Chunk_108_Orderflows_Transcripts.md",
+    "units": 3,
+    "words": 23611,
+    "video_numbers": [
+      "266",
+      "276",
+      "336"
+    ]
+  },
+  {
+    "chunk": 109,
+    "tier": 3,
+    "file": "Chunk_109_Orderflows_Transcripts.md",
+    "units": 5,
+    "words": 24738,
+    "video_numbers": [
+      "338",
+      "341",
+      "344",
+      "348",
+      "361"
+    ]
+  },
+  {
+    "chunk": 110,
+    "tier": 3,
+    "file": "Chunk_110_Orderflows_Transcripts.md",
+    "units": 5,
+    "words": 21305,
+    "video_numbers": [
+      "374",
+      "416",
+      "419",
+      "430",
+      "431"
+    ]
+  },
+  {
+    "chunk": 111,
+    "tier": 3,
+    "file": "Chunk_111_Orderflows_Transcripts.md",
+    "units": 2,
+    "words": 24547,
+    "video_numbers": [
+      "432",
+      "433"
+    ]
+  },
+  {
+    "chunk": 112,
+    "tier": 3,
+    "file": "Chunk_112_Orderflows_Transcripts.md",
+    "units": 2,
+    "words": 19039,
+    "video_numbers": [
+      "450",
+      "458"
+    ]
+  },
+  {
+    "chunk": 113,
+    "tier": 3,
+    "file": "Chunk_113_Orderflows_Transcripts.md",
+    "units": 3,
+    "words": 23551,
+    "video_numbers": [
+      "460",
+      "463",
+      "464"
+    ]
+  },
+  {
+    "chunk": 114,
+    "tier": 3,
+    "file": "Chunk_114_Orderflows_Transcripts.md",
+    "units": 6,
+    "words": 25091,
+    "video_numbers": [
+      "465",
+      "467",
+      "474",
+      "475",
+      "476",
+      "477"
+    ]
+  },
+  {
+    "chunk": 115,
+    "tier": 3,
+    "file": "Chunk_115_Orderflows_Transcripts.md",
+    "units": 1,
+    "words": 3014,
+    "video_numbers": [
+      "494"
+    ]
+  }
+]

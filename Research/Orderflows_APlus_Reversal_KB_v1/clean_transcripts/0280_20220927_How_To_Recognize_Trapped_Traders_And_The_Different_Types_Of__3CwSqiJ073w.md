@@ -1,0 +1,71 @@
+---
+video_number: 280
+inferred_title: "How To Recognize Trapped Traders And The Different Types Of Traps In Order Flow"
+inferred_date: "2022-09-27"
+video_id: "3CwSqiJ073w"
+source_vtt: "20220927 - How To Recognize Trapped Traders And The Different Types Of Traps In Order Flow [3CwSqiJ073w].en.vtt"
+word_count: 2586
+segment_count: 384
+---
+
+# How To Recognize Trapped Traders And The Different Types Of Traps In Order Flow
+*Date:* 2022-09-27  |  *Video ID:* 3CwSqiJ073w  |  *Words:* 2586
+*Source VTT:* `20220927 - How To Recognize Trapped Traders And The Different Types Of Traps In Order Flow [3CwSqiJ073w].en.vtt`
+
+---
+
+[00:00] hey everybody it's Mike from overflows and welcome to today's video on uh Tuesday September 27th and I want to talk about is you know trap Traders because you know there's different types of trap Traders and you know the way you trade it is the same but the way you would you would look at it is slightly different okay because you know one is often caused by stops getting triggered the other one is often caused by liquidity coming into the market and today there's there's a couple of great
+
+[00:27] examples all right so you know this morning 7 46 we made a new high in the S PS okay we're coming up making these new highs and then you're getting these two binding balances up here at the top right even one tick below it's the 75 okay so it's 44 against 75 one against 144 zero against 19. you know so you're looking at about uh you know you know close to about 240 250 contracts a trading up here on the offer side with very little counter trade right the zero
+
+[00:57] the one and you know are these Traders trapped yes they are okay now when you're seeing these this heavy volume up in here now this this is where it gets interesting because this volume up here in my opinion this was caused by probably a stop order that got triggered here maybe around the 27 area right that triggered it up Market immediately um came off from that area and then just sort of rotated around the 25 26 area over the next couple bars and you couldn't continue up what I consider
+
+[01:27] these people trapped yes I would now I gotta remember though if it's a stop getting triggered up here I I don't really think it was a buy stop to get in you know sort of like a trend follower person I I think it was probably just a stop to protect um a short that was put on because again you're not seeing the follow through right if I'm seeing these stacked bind imbalances coming in or well these aren't stacked but this is um buying a balances coming in at new
+
+[01:54] highs of the day I'm looking for follow through if I don't get that follow through the trade for me is to the short side and it's sold off okay sold off from the 20s you know down into the what do you want to call it the 060708 area and then eventually when cash opened 832 we rallied back up made new highs in very similar High okay let me open this chart up a bit came up here made a new high you got a nice stack behind a balance going into
+
+[02:22] the high as you as you after you took it out and then another stack buying a balance at right at the new high right 76 79 91 excuse me 90. and uh what is that 203 okay so you know maybe about 500 contracts trading right up here at the high with very little counter trade zero zero zero twenty three all right so I kind of stacked buying a balance at the High what does that mean well it means there's obviously aggressive buyers now is it are people fomoing into the market
+
+[02:52] maybe most likely this was a stop that got triggered right you got to recognize how a stop looks like when it gets executed in the market it often sweeps right through the market because you know a stop as soon as it gets triggered it just takes one contract to trigger a stop the whole order is going to execute as a market order and that's why oftentimes at highs or lows you see you know these these sort of I don't call it a tail you know this is just a
+
+[03:17] stop order getting triggered boom then it came right back down and then starts trading sideways doesn't even take out that high that's how I know is probably a stop to most likely protect a short position that was put on earlier someone thinking the market was going down and you know they're stopped out okay now are these trap Traders well if someone's getting out of position you're not going to consider them trapped right trap Trader you would consider somebody that's fomoing into the market oh my God
+
+[03:46] I don't want to miss out of this move and they're coming in then you'd consider a trap but if I have a strong feeling that this is a stop order that got triggered then I'm not going to really consider it you know being trapped but it's leaving a footprint in the market that would look like trap Traders okay but you can still trade it even though it's not something that's being trapped you know that you know you reach someone's sort of breaking point right they're taking
+
+[04:13] too much heat and they got out of the position fact that we couldn't move any higher right they see 500 contracts of aggressive buying in Market can't move higher what's the trade to the short side where's your stop just above that stack buying a balance right because normally this is bullish now I know someone's I know there's another company out there selling software that basically just buying stacked buying imbalances and selling Stacks stacked selling imbalances right but as you can see even if you bought this stack buying a
+
+[04:43] balance yeah I went a little bit higher here but if you bought this stack buying a balance you would have been stopped out okay well you need that follow through order flow right because remember you may have a view of the market but if nobody else has that view of the market well who's going to move the market in your favor no one right you're gonna put your position on you know as a retail Trader you know we're gonna put our five ten contracts on but if nobody else has
+
+[05:16] the same view of the market like not even has to be the same reason but just be bullish or be bearish the Market's not going to move in your direction so you got some very bullish activity here here and here right two stack buying imbalances in the same bar as we're making the new highs okay does anybody else think this Market is bullish no uh what you're starting to see now is aggressive selling come in right next bar strong negative Delta so you went from a bar with very strong positive Delta
+
+[05:46] Two thousand one hundred twenty two the Min Delta was Zero then the next bar Max Delta zero what's your where's your net aggressive bind it's not present instead you've got Min Delta of minus Max dealt uh sorry final Delta minus 676. so you went from zero Min Delta to zero Max Delta what do you think the market is going to be doing they went from a bar that was very bullish a lot of buying to now a bar that's very bearish right remember you know markets changed on a dime for
+
+[06:19] whatever reason you know something comes out ideas Traders ideas of the market perceptions change this is what order flow allows you to pick up on right it allows you to pick up that little Nuance that you went from all Max Delta to almond Delta even the next bar you know the Min Delta is minus 1200 we close the Delta at minus 11.98 so almost you know two contracts off our Min Delta and very small maxed Alpha 70. and again lower right what's the trade what's the downside right and Market
+
+[06:51] breaks in the next couple of minutes you know it breaks about eight points right and then eventually you may pull back a little bit and then sold kept selling off obviously we sold off you know close to 100 points off this High I mean I wouldn't have predicted that we'd sell off 100 points from this high but this is a nice place to get short because you have all that aggressive buying but zero follow through okay so are these Traders trapped yeah that's a borderline you
+
+[07:19] know Traders being trapped this afternoon there's a much better example here coming in around the oh where is it here right in here I drew the lines in here because look at this 37 sorry 36 68 is the opening price okay so this area 36.65 I drew these lines in after I started seeing that volume coming in but just give you an idea right of where it's coming in it's coming in an area that we had been trading back and forth for you know since 140 all the way up until two
+
+[07:56] o'clock okay let me see we go above it below it above it below it so we're training right around it and then boom all of a sudden someone came in said that's it here's two and a half thousand contracts on the offer it was more actually but boom you can see it trades 315 on the offer 213. another 700 so you're looking at 1300 another 1096 so basically Eleven Hundred so you know 2 300 contracts here now These Guys these are the ones that are really
+
+[08:29] getting trapped because they're being absorbed okay these are traders that are being absorbed by a big limit offer right someone with Supply in the market it's like yeah sure you know I'm happy to sell it happy to keep my foot on the market so to speak okay and you can see every time it comes up here it comes off comes up comes off another 261 trades here finally it breaks These Guys these guys are are the Trap Traders here so you know about two and a half
+
+[08:57] thousand contracts trade can't get through it you know at some point these are the guys that you're looking to puke out not the person that got stopped out of a position because you know they're probably not in that position but if these 2 000 contracts if these guys in here are thinking you know this Market is going higher and they just keep buying it thinking it's going higher at some point they're going to realize that Market's not going any higher and they're going to turn Sellers and get
+
+[09:25] out and that's going to add pressure to the market whereas those those highs earlier right this is just a stop right most likely a stop to get out of a position okay that person's out right you're not worried about you know these guys that are short up here you know the guys that had the offers in the market that got filled they're short they don't they're not trapped I mean they're happy days you know they're smiling all the way to the bank they sold literally the highs of the day
+
+[09:50] okay and they said if it's a stop it's just someone getting out of that position now if it's a stop to get into a position uh you're only talking 500 contracts 500 contracts is about traded ten thousand eight thousand to eight thousand two hundred it's it's not heavy volume the way that we're seeing the heavy volume you know later here all right the two and a half thousand contracts you know it's enough to sort of keep a lid on the market and keep that perception that there's Supply up
+
+[10:22] here at 65. as this Market sells off from 65 down into the 40s right I mean we did come back up finally um a little bit later just uh ahead of the cash close and you know where are we right now you know we're trading just just below it so I know that there was Supply up here at uh 65 enough to to absorb whatever buying was there these guys were trapped and there's this perception that people have of trap Traders it's going to cause a complete reversal of the market it the
+
+[10:57] reversal is going to be shorter than you think right it's not something that's going to cause um you know an all-day Trend it's going to be shorter Trends but I mean you can still trade them you know Five Points 10 points maybe even more sometimes you know that one that happened at uh after the cash open obviously it set as the high of the day but I mean you know there's much other factors coming in after that I wouldn't consider these 500 contracts that traded up here enough to
+
+[11:25] consider that the uh you know important enough to say oh there's truck Traders up here you know and it was the high of the day I mean here we had the Trap Traders at 27 and a half and you know the market did sell down to 05 and a half when we get down five and a half um you know 20 points but again you know the move to have you had getting short off this just recognizing hey I got aggressive buying and it's not Market's not going anywhere
+
+[11:54] right because if you're Progressive buying that's what you got to realize strong aggressive buying it needs to be followed through if it's not followed through it's probably not as strong as you think now here later right this is you don't see any imbalances in here but what you're seeing is stopping volume so you do have obviously aggressive buying people buying the offer but it's not showing up as buying imbalances Okay so you know trap Traders it it comes in more than one form all right so
+
+[12:26] hopefully this sort of gets you thinking more about how you can recognize trap Traders and more importantly how to take advantage of them in the market so if you enjoyed this video I know it might be a little bit confusing especially if you're sort of new to the concept of trap Traders and you know how they form in the market you know either through aggressive trading or through absorption um you know just think about it a little bit concentrate on it you know if you see it and you'll
+
+[12:54] you'll understand it trust me it'll come to you eventually as second nature so again I hope you guys appreciate these videos um you know my goal is to get you guys familiar with order flow so things come naturally right like you're internalizing it just as like when you're driving a car right the first time you drive a car you may not understand everything but you know after a while you become very comfortable right you can understand how to drive down the road without getting into an
+
+[13:19] accident hitting another car all right because you've internalized everything and the same thing with with order flow right if you start seeing things enough times and especially you know putting in your own screen time you'll get to that point where it just all makes sense to you so I hope you enjoyed this video be sure to like the video and subscribe to the channel if you haven't already done so thanks everyone bye bye

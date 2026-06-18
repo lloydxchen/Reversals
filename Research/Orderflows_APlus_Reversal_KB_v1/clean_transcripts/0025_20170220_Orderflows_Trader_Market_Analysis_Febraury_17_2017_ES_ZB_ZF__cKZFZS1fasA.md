@@ -1,0 +1,99 @@
+---
+video_number: 25
+inferred_title: "Orderflows Trader Market Analysis Febraury 17 2017 ES ZB ZF YM 6E ZS Futures Market"
+inferred_date: "2017-02-20"
+video_id: "cKZFZS1fasA"
+source_vtt: "20170220 - Orderflows Trader Market Analysis Febraury 17 2017 ES ZB ZF YM 6E ZS Futures Market [cKZFZS1fasA].en.vtt"
+word_count: 3878
+segment_count: 505
+---
+
+# Orderflows Trader Market Analysis Febraury 17 2017 ES ZB ZF YM 6E ZS Futures Market
+*Date:* 2017-02-20  |  *Video ID:* cKZFZS1fasA  |  *Words:* 3878
+*Source VTT:* `20170220 - Orderflows Trader Market Analysis Febraury 17 2017 ES ZB ZF YM 6E ZS Futures Market [cKZFZS1fasA].en.vtt`
+
+---
+
+[00:01] okay hey everyone it's Mike BOS here from order flows.com and this is the orderflows market analysis for Friday February 17 2017 um a big rally late in the session and we'll get to that in a minute but first a brief disclaimer this presentation is for educational and informational purposes only should not be considered a solicitation to buy or sell a Futures Contract or make any other type of investment decision Futures Trading contains substantial risk and it's not for every investor an investor could potentially lose all or
+
+[00:29] more than the initial investment risk capital is money that could be lost without jeopardizing one's Financial Security or lifestyle only risk Capital should be used for trading and only those with sufficient risk Capital should consider trading past performance is not necessarily indicative of future results in this presentation I use several tools the orderflows trader footprint chart the fal flip the U-turn and the transition all right so start first in the bonds all right this is a four range chart and very similar to yesterday if you remember
+
+[01:01] um we have this High here at in the morning 746 yeah very strong negative Delta - 1200 and you know leading up to this High we had you know from 7:00 to 7:45 basically it's just you know stair stepping up up up up um you know some decent Deltas you got some buying imbalances in there hit this High got a ratio here 128 you have a the Divergence with the strong negative Delta again if you're not convinced that this high is going to hold look to the next bar again
+
+[01:29] you got another blue number so another bearish ratio and what do you do you run right down into a bar met with a bullish ratio but again you know it's that's one bar but you know what's interesting it's got a very small Delta of uh just 31 you know which is kind of I don't want to say delta neutral it's kind of neutral in Delta analysis in as far as order flows go you know because you know that's a difference of basically one trade it could go either way you know if
+
+[01:56] if there was another 33 Lots there it would have been um negative Delta and what do we do we continue in the next bar you this bar turns up this bar turns down again down negative Delta negative Delta and you know so we went from this high here at uh 15131 all the way down to uh you know at 840 we get down to this uh 16 level bounced up a little bit and you know just we went a little bit lower um you know later in the session I mean that
+
+[02:25] was it we never tested those highs again U I'm not saying you you would have held it all day but you know you could have at least got uh you know it was it was the move right and you know the orderflow gave it gave it away um you know you're coming up into this High here the only the only negative thing about this um setup is you have this high and look at the bar right before it it's a positive Delta of 600 you have a
+
+[02:50] bullish number here you got uh you know 153 is the ratio right it's blue number you got a single print here too and you know again it's it's the Delta here is and it's you know higher than the previous two Deltas you know you had 73 in the bar before it 283 here so it's getting a little bit stronger actually but it just really flips over in here um then falls down you know 610 but it's met with you know this is not 295 it's 1,295 so it's you
+
+[03:21] know over over twice the uh over twice the amount and then it just uh again it just Falls over right in here so you know that was the one trade there in the in the uh bonds all right so this next uh this next contract I'll show you this is soybeans um you know someone had messaged me about this and I wasn't watching it but I had the chart open and you know it's this High here in the soybeans at 852 you've got you got a few things
+
+[03:53] going on up here you know you've got this one you know it's a swing High you got point of control at the high you've got a ratio up there you've got a buying and balance up on top and you know this was this was literally you know Oly it wasn't uh was at the high of the day no um you know early I mean overnight you had the high but it was this nice swing High during the main session during the US session and you know people you know sometimes they get
+
+[04:21] all caught up with you know the high of the day um you know you're looking for certain things but you know what once the you know especially for grains right when the main session opens up you know it's basically you can't disregard what happened overnight but you should also respect what are the uh us session highs and lows as well so this is a a US session high and at that high you've got a buying imbalance you know you got the point of control right at the top and
+
+[04:47] then you just start coming down you know it's I don't want to say you know the the Delta is changing in here because it's still quite strong here it's 341 253 then 39 30 and 4 but you know it's starting to pick up down here you're getting some you know ratio here ratio here so you're indicating some price rejection this is actually U one of my indicators given given a sell there that's the price rejector I believe and and look at that I mean you know you have all this time in here to
+
+[05:16] getting short around this 1039 1038 and a half area and it just you know it just Builds on itself goes down into the lows take out the lows um you know down into this 1031 area so you know then this just picks up again uh you know bit bit later this is the Delta surge given a byy there so um you know the same things apply whether you're looking at uh soybeans whether you're looking at bonds whether you're looking at e- mini snps okay five years real quick here um
+
+[05:46] you know similar to the bonds you have this High here at 748 you got the Divergence you got a ratio up there um you got some nice imbalances in here and it just Falls over again this one is a little bit different than the bonds in that the bar before it had a negative Delta you so you're coming up here with a strong positive Delta 1500 the negative 800 you're still going up you're still going up though get up here right at the high boom it
+
+[06:10] all changes and and it just Falls over ,700 here -500 - 2,000 you got three ratios in a row blue number blue number blue number I would have liked to pull back um you know you got to pull back here it's still a red bar you visually what I'd like to see is a green bar but you got to pull back up to this point of control ideally I'd like to get a pull back in between here to be getting short you did a bit later um almost almost 40
+
+[06:37] minutes later get a pull back up in here um before continuing down but really you I mean the the the the signal was up in here in this bar you don't have to wait for this three in a row um you could be getting short in here very easily and you know you could have got you know anywhere between uh you know 118 even 117 31 and A2 all the way down here to at least you know the the 30 area that's um you know eight eight
+
+[07:03] or nine ticks okay um yeah I'm not going to show the three range footprint chart today because it it it was pretty quiet most of the morning actually um and we got that nice late rally when I say quiet I mean you know this is a three range bar chart and you know the cash open is in here around you know we open up around 2238 you know up to 42 so it's basically trading in a four-point Range you know most of most of the morning and late in
+
+[07:30] the session we got that rally uh this is the TR U-turn um you again you know you should really be Keen in you know after seven ideally After Cash open yeah you got a little sell here so I mean these yeah they work but again it's at that time when I'm not really necessarily looking to trade so in here is you know the cash open and you get a small move here and it comes back up this one goes sideways these two sort of go nowhere
+
+[07:56] then late in the session you got that big rally um you know it doesn't look that good on this chart but um you I'll show you a dow chart in in a second right um this is the E mini 987 tick chart again you know after 8:30 it wasn't much before that nothing um 8:30 got a sell here again they made that moved down and then turned around came back up to your entry and then you know late here you got this sell this was uh
+
+[08:21] around 12 just just before just right on 12ish was a little sell then it came right back up and then spent the rest of the day rallying um I said you know it's it's you know today was during the session was um you know pretty pretty uneventful and you know the euro currency this is a 987 tick chart no no trades on the transition you know so it's not like I had a big losing trade and I just don't want to show you there's nothing nothing happening
+
+[08:52] there you know in why I mean people will get all you know panty in a bunch saying oh you know it's not working well the reason there's no it looks like it's not working is there was nothing in the order flow uh kicking off that you know is given it um you know giving it a giving it a signal you know it reads the order flow and if there's nothing in the order flow it's not going to give you know it's not going to give a signal um so let me just
+
+[09:21] find some other charts pull them up here just because there there's nothing there it doesn't mean you know that that there was anything to trade around you know sometimes there's nothing happening you know in in the market uh this is crude oil uh April now I'm on got my April chart here uh earlier nothing here you got to buy didn't you I like it to not do this first and then make that move I don't like you know getting a Buy Signal here then it comes down a bit and then makes
+
+[09:52] the move up and you know couple of the sell didn't you know these two didn't work but again you know let the market try and Lead You into the position know here at least it started down you know I'm more willing to I'll say willing you know I you know one thing I don't really talk about is you know my my some of my trading Styles you know I like to let the market move in the direction you know take me into it take me into a
+
+[10:18] trade just because boom there's a signal here it's not like oh I'm getting short immediately on the next bar no you know I like to see the market start moving in my direction like here it doesn't right it's you know this is this is the low of this bar and then the next bar it just rallies right so okay you know I'm fine to hold off and and not take that trade you know I'm not like a person that's going to take every signal you know I I
+
+[10:40] need to see the market start you know I have the confirmation in the order flow that's what these signals do they give me that confirmation then I want to see it moving in that direction right before I start getting short if it doesn't at all and it just rallies on me you know this one here is actionable you could be looking to take it this one no definitely not um same same here with this one right you have the high of this bar we haven't even gotten above this
+
+[11:06] High you know so you shouldn't be looking to get long in here yeah I mean sure people can say well you get a better better entry but it's just going to come down here and stop you out just like here you know you're getting short and say oh I could get short up here yeah but then you're going to get right you know stopped out would you rather be getting in you like here and getting in down here and at least have you know the trade go in your favor rather than it
+
+[11:30] never go in your favor and just constantly be against you till till it hit your stop I much rather you know give it the chance you know go in my favor start moving and then you know come up to my stop and stop me out um what else I got trying to find my uh hero currency chart another one that's the footprint chart um I want to show you guys the it's easier for me to just talk about some of these indicators on on a bar chart rather than uh on the
+
+[12:04] footprint chart because you know it's just it's reading the uh it's reading the order flow for me um I mean I could talk about the order flow but on a one minute chart it's it's moving pretty fast it wasn't very good today um in the euro currency I wish I could say it was but um yeah it was it wasn't it struggled um you know losing trade here but again it never went in your favor so you know getting a short signal here you should be looking for the market to start
+
+[12:32] trading down not just immediately get short then boom it stops you out let just like here yeah this one started to and then it came down and then stopped you know stopped you out just like these you know you sort of get these little false starts this one barely gets like one tick above so I I don't know if I would have been taking it I mean you can't just use you know one tick breakout you know give it a few ticks um you know these two boom boom
+
+[12:57] nothing come in if if you want to be you know quick on the trigger and say hey yeah I'm going to get in right here as soon as this bar closes you know you can be getting in a bit prematurely and again look we never even get above this level here we just always it just hangs there stays below I mean it looks like in this bar it looks like it's going to just pop up rally up to the upside would have been nice like the snps but you
+
+[13:19] know the market uh had had other other thoughts in mind that it didn't you know wasn't willing to make that move um what is this okay this mini da this is the flip okay so again you here it's giving you a short signal here in the next bar it just comes down you like one or two ticks and then rallies back up and spends all this time it then makes the move again you know you want to ideally let it start to you know go in
+
+[13:50] your go in your direction right rather than just immediately get short and then get stopped out up here you know that that's not what you want to do in in trading you know you want to just take every single signal boom fast as soon as it happens I mean you know part of being a system Trader is that I don't consider myself a systems Trader you know not by any stretch of the imagination you know I I I consider myself more of I hate to say flow Trader but you know I like to
+
+[14:16] go with the flow of the market you know let me let it take me into the position okay so this this will be the last chart here this is the mini da this morning okay so anyway um this is uh what time is this is 8:00 this morning again you know mini do you should be waiting for the cash Market to open which is 8:30 in in here and again you know here right you get the high of this bar and you can see the next bar it
+
+[14:41] starts rallying that's making the move right so notice it doesn't pull back all the way down here and then make the move you know what you want is the move to happen relatively quick and now it's happening here you see boom boom boom boom right so this is you know this is a nice trade you know are you willing to give up that's what I often say to people I don't say the second part but I feel I have to you know are you willing to give up a little bit of your entry to
+
+[15:05] to be you know having a good trade right a good a winning trade you know would you rather you know this is the bar right this is the bar that's giving you your uh your entry you know saying hey you know it could be this could be a potential low area okay if this is going to be the low right you know these are reversal um indicators in the order FL if it's going to be the low then it needs to start trading higher right you
+
+[15:30] don't expect it to go lower then go higher you I'm looking for the low to be in here so when it starts giving you those signs in here that yeah okay we're Above This the high of this bar nice x amount of ticks yeah now the now we're going to go higher and then you do right that's that's what you want I don't know how else to explain it to people so they can understand it but um you know let the market move in your direction again
+
+[15:53] you know if this is going to be a swing low then you shouldn't be coming down here right you should be staying above here and and you are in the next bar next two bars you how many ticks above there um you know this is 25 you're trading 28 up here okay it's safe to get long right and you're getting long at 28 it goes all the way up you know up to 50 here you get a a sell but again you know what does it do if this is going to be a
+
+[16:16] swing High you got to start trading lower not back not back up what else you got again here yeah it started to work out but but then you know it turned back up in here and you know came back down that one would have you probably would have broken even this one maybe took a broke even or a small loss there's no shame in taking small losses I mean that's what you want to do as a Trader here you know it doesn't really happen you know here it pops up a
+
+[16:47] little bit but by the time it pops up it just comes right back down again you have to low of this bar it never gets below this level here at 35 why are you getting short you're getting short at 36 you know that's not what you want to do you want let the market start going in your direction um then here later in this session here this is around the 65 area so you know let it get up to you know the 68 area and you know it does it
+
+[17:13] comes back down though unfortunately you know probably would have you know depending on how tight your stop is um you know if it's 10 ticks maybe not if it's n eight ticks probably would have um but you know it gives you another entry in here you you could be getting long in here and you hopefully got something back shouldn't be sitting through these bars though um you should be trailing your stop you got to remember it's right ahead of the cash open you know I'm not
+
+[17:36] saying you would have bought it here and sold it up here I I think you should have been watching it and any sign that it's starting to turn you should be cutting it you know don't let it come all the way back down here and cut it for you know a break even or a loss you should be trailing it up here and get out at you know if you're getting in at you know 60 you know even 70 worst case scenario you know no no shame in getting
+
+[18:00] out with five tick winner here at 75 at least you got something out of the trade rather than they come down here to 70 and stopping you out and at at nothing so thanks for watching this video to tell learn more about orderflow trading and the software use in this video visit my website uh www. orderflows docomo um subscribe to my YouTube channel you know just click on the little subscribe button you'll see it down in here on the video and at least you be notified of you know new videos
+
+[18:30] that come out I try to do one a day if possible um you know time permitting but um you know again thanks for watching this and to learn more go to my website orderflows decom so thanks and hope to see you on the inside

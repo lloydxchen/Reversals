@@ -1,0 +1,87 @@
+---
+video_number: 327
+inferred_title: "Tracking And Trading The Smart Money In The Order Flow Footprint Chart Trading Strategies"
+inferred_date: "2023-01-22"
+video_id: "240hjTolNTA"
+source_vtt: "20230122 - Tracking And Trading The Smart Money In The Order Flow Footprint Chart Trading Strategies [240hjTolNTA].en.vtt"
+word_count: 3268
+segment_count: 472
+---
+
+# Tracking And Trading The Smart Money In The Order Flow Footprint Chart Trading Strategies
+*Date:* 2023-01-22  |  *Video ID:* 240hjTolNTA  |  *Words:* 3268
+*Source VTT:* `20230122 - Tracking And Trading The Smart Money In The Order Flow Footprint Chart Trading Strategies [240hjTolNTA].en.vtt`
+
+---
+
+[00:00] hey everybody it's Mike from overflows and welcome to today's video today is Saturday January 21st 2023 and you know it's a weekend so it's a nice day to sort of go back through you know the footprints during the week and you know start to look for things you know do your own research and you know develop your own style of trading and for me watching order flow provides in my opinion the most direct and decisive insights into uh what's actually happening in the markets right many
+
+[00:28] Traders though they they tend to focus on a variety of indicators that their software packages includes you know if you go to you know ninjatrader you can just see I I use ninjatrader but if you were to go into you know whether you're using any other charting platform you know you've literally got hundreds and hundreds of uh indicators on here some of these I have no idea what they do um you know and at this rvi I don't know what that is maybe someone could RSI I
+
+[00:55] know Roc rate of change but you know there's just so many indicators that Traders tend to lean on when you're just better relying on the order flow which is not just price because you know I hear a lot of Traders say well you just got to follow price okay well order flow is it's just it's adding volume to price right so you're not just looking at Price movement alone you're looking at Price movement or Price action if you will um combined with volume so it's just
+
+[01:25] taking it price action a step further okay so you know really when you're relying on tools like you know macd RSI stochastics DMI you're just you know supplementing the way you should be looking at the market now again you know hey if you're successful over time using you know technical indicators like DMI or macd you think you know keep using them but you know all I'm saying is you know see what you can use order flow for you know if you could use it to help confirm
+
+[01:57] trades or you know or even non-confirmed trades meaning you know you have an indicator flashing a buy or sell based off of you know a whatever DMI and but you don't have the complementary order flow with it you know maybe you'll learn to not take those trades it's all about adding tools to your trading to help you become a better Trader and what I'll be talking about today is it's about volume okay because volume matters right I know some people say I I don't need volume oh I
+
+[02:28] just need I just follow price all right I could just uh I could just trade on my phone and follow what price is doing okay fine that works for you great but what if you can enhance your analysis and in turn improve your trading by just adding and understanding the volume that's going through that's being traded at price because you know there are going to be instances for example this is um who I am right the mini Dao at the Board of Trade so this is a 15
+
+[02:56] range chart and again it doesn't necessarily matter what time you're looking at you're like a minute based chart or a range based chart or a tick based chart you know you're looking for those times where you're seeing you know abnormally big volume okay and again you know this is not something that would appear very often but when you're when you're seeing it in the market and you could really wrap your head around what is happening then it's just going to make you a slightly better Trader better than than
+
+[03:27] most okay so this is a perfect example this is Friday morning around 10 o'clock again is a 15 range chart people always ask me what's better is it a range based chart or a time-based chart well it really depends on your approach to the market you know you can't control the Market's movement all you can control is yourself and how you do that is through the type of chart that you're looking at okay and you know I just want to make one other point a little bit clearer for
+
+[03:54] some people that don't necessarily understand it you know you're ATM or your ATM anything are you basically you're you're a risk tolerance levels right your take profit your stop you know that's part of your trading plan is uh what do you want to call it a result of the type of chart you're looking at right if you're looking at you know a one minute chart you're going to have different profit targets and stop levels than you would if you're looking at a 15-minute chart right you wouldn't have the same
+
+[04:31] targets or stops you know on a much shorter time frame because you know if you've ever obviously if you've ever compared a one minute chart to a 15 minute chart you know in a 15-minute bar you can get a lot of up and down movements and you may be getting trades on that one minute chart that you're just not taking on the 15-minute chart anyway I sort of digress I don't want to go down that route save that for another time but you can see here okay this Market you know it had
+
+[04:54] moved up okay basically from you know 150 all the way up to just about 200 here this is 200 and what happens okay you hit 200 you run into some volume up here okay Market sells off you can see there was 40 trading on the offer if it went bid here uh 53 14 traded at 01 and it sold off okay and it sold off literally almost about 50 from this low to this High you know I pulled back into you know around the 70 you know 64.70 and
+
+[05:23] then it started popping back up okay so you know 200 is probably you know it's a psychological level 200 you know 100 200 in in markets like the Dow are going to be these levels but when we sort of came back up the difference on why this in my opinion why this Market kept moving higher as opposed to here where it sold off is it hit this level again 200 and you know the first time you did have a decent sized bid coming in here you
+
+[05:52] traded 53 on the bid you do have this buying a balance of 40 here right you have a buying and balance of 17. you know that looks bullish right you say oh you know I got this buying a balances bid here for 50 but then it dropped right price action dropped so it's not just price action alone you know when you're seeing yeah I've had some aggressive buying coming in here these guys are trapped right next thing you know we're trading you know 10 points 10
+
+[06:17] ticks lower at 90. well that that's a good sign for you to get short you know to catch you know a nice move from 90 down to 70. and then we make another run back up here okay the difference this time you still have that bind and balance at 200 you see the 50 Lots and again it gets bid there so again you have a buyer stepping into the market you had one here earlier it just wasn't able enough to absorb whatever selling was taking place now you're seeing that absorption
+
+[06:46] taking place you see the selling imbalance of 75 contracts now it's 75 and it's holding this time you'll hear they did it for 53 it wasn't enough to hold Market dropped here it's 75 it's pretty strong it's enough to hold it Market starts trading back up what was interesting when the market came back in here a little bit later in the next bar we traded down one tick above where you had that strong buying right I mean earlier you had that strong buying but just wasn't enough to support this
+
+[07:15] market then the market started comes back up to that level now these buyers are like hey you know what we've got to defend this area at 200 Market next Bar opens up around you know the 0607 area pulls down to 01 and keeps going higher than you see in here right this bar down here at the bottom of this bar you're seeing nice heavy volume 48 42 I even 18. so as the market starts pulling back you're seeing strong buyers coming in here you know this is these
+
+[07:46] three price levels that's about 100 contracts right one third of this entire bars volume basically traded between 10 and eight eight nine and ten four you know 18 42 48 that's supporting this market and if you're just looking at a simple bar chart following price you're not going to notice what is happening in the volume right sometimes it's one of those things in my opinion you know watching order flow is a bit like watching soccer right football European football where it's a lot of passing back and forth you know like
+
+[08:24] game looks interesting but it's not until you get that you know that that flash of Brilliance from one player that gets the ball dribbles up and scores right and it's like that with order flow okay you just see this you know a lot of back and forth a lot of nothing happening but then there's something you could really sink your teeth into so to speak okay and that's what you know looking at the volume is it just makes it so much clearer now a little bit later since
+
+[08:52] we're you know I want to just talk about volume today here um uh what time was it I think it was around one o'clock but I can't remember exactly losing my mind in here um what is this 12 o'clock uh okay yeah in here okay you see the market got high at the time was 3 333 5 and who came up here we hit this high up here at 25. came off down to 80 started coming back up right then we're running into sort of a buzz saw stopping volume
+
+[09:31] I thought this Market could potentially reverse and continue on down okay but it it did reverse right because you can see this absorption up here with the 124 the 30 and the market reversed back down and again it went from you know the low of this bar is 12. it only got down to O2 so about a 10 point move before it rallied back up and started making new highs so I was like well Mike he told me you know there's heavy volume you gotta you
+
+[10:00] know expect the market to react to it okay yeah this is a instance where I I would expect it people say well why why are you including it in the video is because you know I I want you to understand that just because you expect something to happen doesn't mean it has to happen right in in trading people's opinions of the market change you know we don't know the thing is right when you don't know if the person that is selling up here is taking profits right I mean this Market had
+
+[10:35] been rallying and you know they could you know 325 is a nice level you know if they bought it a hundred points lower at 225 yeah you know they're happy to sell it at 125. you don't know why there's a trade taking place you know we could just surmise and come up with our guesses but we're just guessing at the end of the day unless you're involved in that but what you got to do as a Trader is you sort of got to prepare yourself saying hey you know what there's a huge
+
+[11:00] size I'm expecting this Market to go down okay and it doesn't really go down it goes down 10 ticks which is basically not going down and then it reverses and goes back up to new highs now what was interesting again at this you know right around this level here where you had the 124 just draw that line This level here is so you had the seller here at 124. and again I'm talking I don't know who's selling I don't know why they're selling but I do know I got a strong volume there I
+
+[11:32] got 124 contracts okay that's bigger than a lot of the volumes you're seeing you know seeing over on a 15 range chart seeing over 100 contracts at one price level in the mini dial is is something that you got to be paying attention to Market rallies up to new highs gets all the way up to 361. starts coming off okay what was interesting is you see this 196. now this was 124. now this is 196 here so we just hit the high you got a big seller coming in
+
+[12:04] this one 12 people say well what about this 112 okay well that's on the offer on a market that's breaking out the new highs that could be just resting liquidity there I'm not reading too much into this one as opposed to trying to read more into this but this 112 up here in my opinion it's just resting liquidity because you know it's just sitting in the market right up there at 350 also a nice psychological number but anyway we get all the way up to 361
+
+[12:29] Market starts trading down and you see a big seller come in here all right close to 200 contracts coming in at the 44 area right this is 44. putting my hands together rubbing them this is it we're going to sell off because you know we just made a new high which is you know nice to see in the sense of once you make a new high you're looking for Supply coming to the market supplies coming into the market I'm looking for it to drop down and what
+
+[12:59] does it drop down drops right back down to this 25 area right here this time you got a nice big volume there you got some resting liquidity to arrest that move your resting liquidity to arrest the move stopping volume think of it in in that terms and I'm not saying that this 100 is somehow related to here I don't think so but when I see even if I have something very bearish here right this 196 and the market drops but it runs into volume now this is an area again 325 what makes
+
+[13:32] this area so important here is we were just trading there so this hundred Lots this bid so to speak is is coming in now it's not like this 112 that's resting in the market or even you know this 124 that may have been resting in the market for a while as well as it's coming up we traded 325 back and forth rotate around it trade it above now someone's coming in after we trade away from it and coming in pretty soon to support this Market okay so even though I got this bearish
+
+[14:10] information here I've got bullish information this is important just as this is important now that's the thing with with trading is you can't marry your opinion oh there's a big seller here I gotta get short and I got to stay short we're going to sell off you have to also be able to Pivot right you got to be able to make that change in judgment saying oh okay yeah I had that Supply coming in but now I've got demand coming in I've got support coming into this Market someone's coming
+
+[14:41] in here to defend this level at 25. and okay so if you're making that that step saying yeah I've got some support coming in here you know you have Supply up here at 344. you got to watch then is this Supply because we're not too far 25 up to 44 it's about 19 ticks if we're going to come back up here is the supply still going to be there because if the supply is going to be there you're expecting to come right back down to 25.
+
+[15:12] but this is the thing right this is where that taking it that step further right that analysis well you know you have you just had Supply here like minutes ago right this this bar you know is around 147 148. this bar finishes at 151 so it's literally just minutes if you don't have someone defending this price with Supply up here we're going to go higher because now you don't have anyone defending it and what does it do it breaks through and just shoots up past okay this level
+
+[15:52] here right you just draw that line again you know just make it clear 44 all the way up above 400 and it did it very quickly right you're talking 55 okay it hit that came off and then shot right back up through it at 159 by 10 minutes later we're trading all the way up here at above 400 okay but I mean you could have got you know if you're getting long in here somewhere around 50 because you know that once you break 50 right this level is 44.
+
+[16:28] break 50. it's Off to the Races it's a quick 50 points in about five minutes right it did go higher but I'm not saying oh look you could have got how many hundreds of you know 100 points out of it should be happy with the 50. I mean you could have got more obviously we traded all the way up to 459 from 350 but from here 50 all the way up into the sideways activity here you know is is a good opportunity so anyway guys I hope you guys got
+
+[16:57] something out of this video you know reading order flow is a thinking man's game right it's as much as we love to automate trading and I like to automate trading you know I've got uh I'm working on with some trading robots from another company um so you might see some videos on that coming up in the future but if you're reading order flow it's behooves you it's in your best interest to you know understand what's happening in the market and put it together right you think use your use
+
+[17:30] logic okay and it's just going to give you an insight and potential it's going to give you insight into the market and you know potential opportunities in pretty much any Market you know this is mini dollar last week I talked a lot about treasuries tens you know treasury notes 10-year notes rather bonds e-minis but now you know we're taking a look at many Dow so a lot of the same things would apply what what Market you're looking at so thanks everyone be sure to subscribe to the channel and hit the like button
+
+[18:02] see you guys on the next video bye

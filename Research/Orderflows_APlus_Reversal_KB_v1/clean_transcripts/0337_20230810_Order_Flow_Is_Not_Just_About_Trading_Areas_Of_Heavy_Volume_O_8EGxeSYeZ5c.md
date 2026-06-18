@@ -1,0 +1,77 @@
+---
+video_number: 337
+inferred_title: "Order Flow Is Not Just About Trading Areas Of Heavy Volume Orderflows Trader Footprint Chart"
+inferred_date: "2023-08-10"
+video_id: "8EGxeSYeZ5c"
+source_vtt: "20230810 - Order Flow Is Not Just About Trading Areas Of Heavy Volume Orderflows Trader Footprint Chart [8EGxeSYeZ5c].en.vtt"
+word_count: 2875
+segment_count: 407
+---
+
+# Order Flow Is Not Just About Trading Areas Of Heavy Volume Orderflows Trader Footprint Chart
+*Date:* 2023-08-10  |  *Video ID:* 8EGxeSYeZ5c  |  *Words:* 2875
+*Source VTT:* `20230810 - Order Flow Is Not Just About Trading Areas Of Heavy Volume Orderflows Trader Footprint Chart [8EGxeSYeZ5c].en.vtt`
+
+---
+
+[00:00] hey everyone it's Mike from order flows I hope you guys are doing well and you know it's sort of been a while since I've done these uh daily analysis videos and you know today I want to talk about uh the market because you know yesterday in one of my training sessions a question came up about um you know what would you use in terms of order flow on you know when a number comes out like non-farm payrolls today with CPI um and to be honest you know one big
+
+[00:26] important numbers come out I I don't trade those numbers I mean I I don't think that um you know you should really be getting involved if you're a scalper you know a short-term intraday Trader you know you're picking basically the most volatile time of the day to trade and it doesn't really behoove you to participate you know in that volatility in those moves I mean if you're right yeah you could um you know hit it out of the park have a great uh you know I have a great trading day but
+
+[00:56] you know if you're wrong you're going to get stopped out really quick and you know it's just going to give you some bad vibes for the rest of the trading day so you know honestly on non-parent payroll days I don't even um I've learned to stay away from the markets on those days just because you know yeah you know you can be right and have a big winner like today for example today was CPI right CPI came out s p shot up you know from eight and a half
+
+[01:20] all the way up to 25 so it's a nice big move up then it hit the new highs and then it sold off not down to the lows of the day but you know near the low did it make a new low till uh later in the session but I mean you know there's the market gives you plenty of opportunities every single day uh to trade you know don't put yourself in this position where if you're you know taking a trade based off of you know the Market's reaction to an
+
+[01:48] important number like CPI non-farm payrolls um you can find yourself stock trapped whatever you want to call it in a bad position and you're going to get stopped out hopefully you get stopped out you know otherwise you know if you're running you know mental stops when people like to use Mental stops for some reason um it's going to run against you very far very quickly so you know and and again you know Market gives you plenty of opportunities every day just wait to the the cash session opens up you know 8
+
+[02:18] 30 Chicago time to really start to get involved and even once the cash opens you know me personally I like to give it uh you know four or five minutes for the market to sort of settle down and make its decision on where it wants to go but the Market's going to give you a lot of Clues intraday unworked wants to go in the near term okay and you know today was a great example you know for example we cash opened up right and we took out
+
+[02:43] the almost immediately took out the highs that we had made when the CPI came out now at this point there's not really any strong reason to be looking to get short up here at these new highs you know you don't have a Divergence you don't have a bearish ratio coming up here um you know if anything you got the bearish value area right here that's this red value area in the bar but other than that there's really not a heck of a whole lot you know that that's really
+
+[03:08] telling you hey you know what this is a great short opportunity um now and we keep going up making new highs making new highs again even up here at this level around the the 30 um three area up here again there's no strong reason that's you know saying hey you know what maybe you can get short up here finally get up to these new highs up here at about nine o'clock okay then you start coming off a bit but notice right this high at nine o'clock yeah you
+
+[03:37] got the positive Delta going into the highs but then look what happens for basically the next you know almost uh almost 10 minutes after that from you know this is 903 all the way up to 9 15. it's mostly negative Delta you've got one bar here with positive Delta 591 you got one bar here with Delta of zero okay zero I mean you know it could have been plus one you know I don't sit here and go oh my gosh it's on zero that must mean something no it's this is a minute
+
+[04:05] page chart and it's just coincidence that it closed you know right on the minute at at zero it could have been minus three or or plus two or something like that but anyway it's it's still it's kind of weak but you know overall from you hit that high up here it's all negative Delta for the most part except this one bar in the high that you hit earlier here yeah you've got some negative Delta building over three minutes it's actually getting a little stronger 155 minus 406 minus 730
+
+[04:32] then it comes right back with again a strong positive Delta now you know this is you know sort of a increasing Delta right which normally is is bearish but again then the next bar goes inside of the last candle right that's not a good sign anytime you go inside of a bar you're looking to get long or short of um and it goes inside that's not a good sign right Market is is hasn't made up its mind yet if it's really going to go if this if this bar here at 8 45 started
+
+[05:02] trading uh below the low of the bar date 44. um you know I'd be a little bit more interested in getting short but the fact that it's just sort of hanging around inside is not a good sign okay and then the market went up you got these three bars here positive Delta positive Delta a negative and a negative Delta okay it's just two bars with negative Delta you know you got a bar here with Nick and felta but once you hit this new high up here now you're starting to see the
+
+[05:28] aggressive sellers coming in right and being sustained over you know over basically a 10 minute period okay then you're starting to see some bearish things as well in the order flow okay what bearish things are you seeing well you got the bearish Prominent Point of control up here you got the bearish value area right that's not being tested until about four minutes later another bearish value area you are starting to get you know sort of alternating positive and negative Delta bars coming in here then you get this big bar down here okay
+
+[06:03] sort of matches this big green bar up this one you got strong negative Delta which again you know the previous bar you just had positive Delta of 600. the fact that it's starting to you know the bar itself is starting to elay elongate you know is a nice sign you know this bar here again is similar on the bullish side but a very small Deltas this is zero here it's very strong directional Delta but what's more interesting in this bar let me just uh expand it up
+
+[06:29] here for you a little bit what do you see in this bar right you're starting to see um you know some kind of thin prints in here is at this level of 39 and three quarters one contract trade so this Market is moving pretty quick in a direction in this case the direction is down um point of control is you know near the bottom next bar you got a bearish Prominent Point of control you got the value area as well that's being abandoned it's not being tested in the
+
+[06:54] next couple of bars sells off a little bit comes right back up and the same thing you're starting to see in here bearish Prominent Point of control another bearish Prominent Point of control right you do have a bullish permanent point of control here at this swing low and it rallies up to a kind of a swing high up here at 45 40. okay then it's just sort of going sideways but again look at this from this high overall what is the Delta telling you it's mostly negative okay
+
+[07:24] and even if you're looking at say the cumulative Delta right this is the high bar right over here cumulative Delta here was 24 000. now we're all the way here that was what 904 903 904 933 33 minutes later came with the Deltas at seventeen thousand so it's dropped um you know about seven thousand you know six and a half thousand contracts in terms of cumulative Delta so you know cumulative Delta is going down we're at the high of the day right if you're at the high of the day
+
+[07:56] two things three things are going to happen right one you're going to keep going higher two you're going to reverse and sell off or three you're sort of gonna go sideways right but now as we are basically going sideways we do have a lot of aggressive selling coming in right even just looking at each individual bar it's mostly negative Deltas you do have some positive Deltas mixed in here but overall it's negative Delta okay and then we sort of work our way out remember what I was talking
+
+[08:22] about the lack of volume here the one contract that traded okay then you get to this bar over here bearish evaluary right that's why it's darker red okay but more importantly in this bar you're starting to see that lack of volume also take place the one contract here okay 54 against one so it says autonomy right I mean I know a lot of um you know order flow gurus out there always talk about seeing where there's big volume and trading around that big volume well you also have to look at the
+
+[08:52] areas where there's lack of volume because lack of volume shows lack of participation or you know sort of the result of lack of participation is a market that's moving quickly Traders haven't had a chance to react to the market as the Market's moving so this is you know we talk about term footprint right this is the footprint of a market that's moving quickly okay now let me just uh scroll this over so you know I'm starting to see signs here here with this one right and then this
+
+[09:22] bar comes in you got a four you got a zero in here right so at this point I know that the market is already starting to be heavy towards the sellers right because the Delta is obviously most bars are strong negative Delta right even here you got minus 900 here minus 1900 I'm starting to see the momentum come in here the value area is bearish you got this Gap in value here as well this Bar's got one two three four five selling imbalances in it as well so
+
+[09:52] obviously I'm not looking for expecting this Market to start trading higher if anything I'm looking for it to start trading lower right and you can see once it sort of hit that Tipping Point in here where the big Crush of sellers came in because this Delta is minus 1900 okay prior to that the biggest negative Delta was you know minus 1600 here this is coming in as we're breaking out uh you know again this the swing low here we had broken out excuse me but then we just sort of went
+
+[10:24] sideways now we got a little bit more of a clean break here with the longer bars and then that was it the rug just got pulled out of this market and we immediately sold off you know from this 29-ish area you know like 29 to 30 all the way down quickly down um you know below 19 that's 10 points um even got down here to what the lowest uh 45-14 obviously we sold off right now um we're back up to 4 500 but uh we got
+
+[10:53] as low as uh 73 and a half um during the session so again you know sort of to recap you know on days where you know there's going to be volatility in the market as a result of a big number like CPI which was today not Farm payrolls last week no one's putting a gun to your head so you have to trade that number let the market settle down and then start training because you're going to have plenty of opportunities during the trading day where things are
+
+[11:21] very clear okay I mean like I don't say crystal clear but you know clear enough that you can make a pretty good uh trade right because even if you're trading up in here right just noticing that you went from this bar here to 10 minutes later um you know basically all negative Delta you can already be thinking this high is going to be holding and you're going to be looking for some signs in the order flow to get short off of right I mean not every
+
+[11:49] um high is going to be taken out and made new highs also going to be looking for those potential reversals and it's not just about trading around the big volumes you also got to be looking for those areas of lack of volumes lack of volume means lack of participation just really quickly you know for example Platinum right because um there's a Trader yesterday who was asking me about platinum in the um in the weekly training and uh there was a big volume that went through here
+
+[12:17] 194 there's a big order about 250 contracts got bought up from basically you know 907 and a half all the way up to um you know almost 909 and a half you can see here the 194 that's what was left over basically this order came in and swept everything and you know if you're a dome Trader or heat map Traders oh my gosh there's a big volume here I got to buy and get long well the Market's sold off a little bit it retraced that whole move down
+
+[12:41] before it went up and made new highs okay so just because you have big volume right I know a lot of people see big and big order coming into the market they like to jump in front well sometimes it works sometimes it doesn't this was just a big order going through the market right I mean obviously maybe people were bullish but nevertheless I mean the market did go up but if you're buying it here right and you're a dome Trader you know you're not using wide stops you
+
+[13:08] know a two dollar stop here right you're using you know a 50 Cent stop you know five ticks or something I mean eventually the market did reverse and go back up but don't just get lured into thinking that you know order flow is just about looking at big numbers you also got a you know in more liquid markets like minis you got to be paying attention to where there's lack of heavy volume right because that is also important all right anyone I'm sorry all right anyone sorry
+
+[13:34] um I'm gonna end that video here for today you know it's been a while I'm a little bit out of practice of doing these you know daily live recordings for you but I'm hoping to start uh getting back on my schedule and get them out for you you know if you haven't had a chance yet be sure to check out my other video on the order flows Trader for go charting all right it's a new platform it's a web-based platform as opposed to you know if
+
+[14:00] you're using the ninjatrader platform you're sort of tied down to your desk and uh you know it just gives you an another way to follow the market on you know I use a Samsung fold phone so the screen is you know a bit bigger but uh you know it's it gives you another uh way to watch the market when you're on the move so all right everyone thanks and I'll see you guys on the next video bye bye

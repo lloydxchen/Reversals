@@ -1,0 +1,85 @@
+---
+video_number: 442
+inferred_title: "Order Flow Reveals What The Institutions Are Trying To Hide"
+inferred_date: "2025-01-09"
+video_id: "ODPNk_Cuzyc"
+source_vtt: "20250109 - Order Flow Reveals What The Institutions Are Trying To Hide [ODPNk_Cuzyc].en.vtt"
+word_count: 3205
+segment_count: 453
+---
+
+# Order Flow Reveals What The Institutions Are Trying To Hide
+*Date:* 2025-01-09  |  *Video ID:* ODPNk_Cuzyc  |  *Words:* 3205
+*Source VTT:* `20250109 - Order Flow Reveals What The Institutions Are Trying To Hide [ODPNk_Cuzyc].en.vtt`
+
+---
+
+[00:00] hey everyone it's Mike from orderflows here and welcome back to my channel you know in this video I'll be talking about something that's uh sort of unique to the orderflow you know sort of when the order flow doesn't make sense I think it makes perfect sense sometimes and you know before I jump into what I'll be discussing you know be sure to subscribe to the channel and if you haven't already uh be sure to hit the notification button so whenever I post a new video you'll get notified of the new
+
+[00:24] video being posted you know 2025 just started and I'm trying to make it you know sort of my New Year's resolu ution and S to get back in the swing and uh post more content like this for you guys so you could just better understand the order flow all right so what I want to talk about is you know sort of when what you don't expect to happen in the orderflow is actually happening in the order flow um really helps you understand what's going on in the market
+
+[00:51] if that makes sense so think of it this way um today in the gold was a perfect example I I'm trying to think of what I should even title this video I'm thinking of it understanding negative Delta at the high of the day you know you're at your high of the day what do you expect you expect positive Delta what is Delta Delta is a net difference between the aggressive buyers and aggressive sellers taking place in the market and when we look at Delta we tend
+
+[01:13] to look at it on a Barby bar basis and think about it so if you have a market moving up right you have net aggressive buying right that's what's causing the market to go up is the aggressive Traders lifting the offer lifting the next offer lifting the next offer and it Market keeps going higher but what if the market is going higher on negative Delta meaning the overall Delta that's appearing in the market is negative and today you know gold we had this nice $20 selloff um that happened
+
+[01:47] you know really pretty quick we made this high around 11 and we sold off to about uh 1130 1140 we sold off 20 bucks in the gold pretty quick we recovered some and we closed um you know somewhere up towards the high but was there anything here in the order flow that was going to give you an idea that hey you know what we could be due for a selloff and there was so let's take a look at the uh order flow here so just going back to you know because we' had
+
+[02:17] been making new highs since about 7 in the morning okay and we did get that pullback at 7:30 but then you know from 7 basically from around 7:00 in the morning we went from basically 2670 which is right here all the way up to uh you know 87 as a 17-point move and then we basically covered it all back in 40 minutes later um around lunchtime so let's just go back to around 7:00 you know when sort of the New York session opens up more or less you know
+
+[02:47] the New York Traders start coming into their desks and just get the crosshairs here so what's going on well we're up here near the high we you know 701 702 we made that new high and look at the delta Delta it's small it's- 86 this is I'm looking at cumulative Delta not on the bar by bar Delta minus 86 is Tiny okay for cumulative Delta imagine coming into the trading day 700 a.m. Chicago time and we're up near the high but the Delta cumi Delta isn't strong in One
+
+[03:23] Direction it's not very strong positive it's not very strong negative it's just sort of kind of uh neutral in a sense right is just 86 which is Tiny cuz you can see like some of these bars here the bar right before that's got 129 in the Delta you know you get 50 34 34 so it could go either way positive or negative but then we start taking out these highs so again you know if this was plus 86 I'd look at it the same way I'm be asking myself why is the Delta so
+
+[03:52] small we're up here near the highs I would expect it to be stronger a strong positive Delta instead of Justus 86 you know if it was positive 86 I'd be saying why isn't like plus a th000 okay and then we start making new highs Delta it's actually growing more negative first time we took off the high was- 86 a little bit later it's - 111 you know still hanging around Theus 100s in here we start making these new highs okay and you can see just you do get
+
+[04:26] some bursts of positive Delta 34 22 42 but just seems outweighed by the negative Deltas that are coming in you know- 94 minus 27 it's pretty consistent - 20 is in here right and you see the Delta's gone from - 86 to this new high up here at- 278 okay then you know 7:30 came out you know we had some fed speak and stuff today um Market did sell off got some selling okay so got a big chunk of negative Delta minus 240 but now we're
+
+[04:56] at minus a th000 in the Delta but we've come off from our high okay that's good that's what you're looking to see as the market is selling off then we start recovering going sideways there is some positive Deltas coming in but look how small they are 37 4 15 27 1 bam minus 100 in the Delta - 107 then it's consistently negative 15 17 30 36 couple more small positive Delta is 2723 strong negative Delta minus 73 okay and you just see it's just sort of
+
+[05:32] humming along the Deltas you know do get a decent positive Delta here 85 you get up to the new high get a positive 149 but still by the time you make this new high the Delta is still- 846 so it's still negative okay going up you do get this one burst of positive Delta 255 positive but then what comes right back withus 236 so it just sort of of negates itself right there right you had that big positive buying and it's followed by big negative selling okay make a new high
+
+[06:08] make a new high strong negative Delta minus 120 and know how do I determine the strong W I'm just looking at what the Deltas are you know sort of before that you know is 120 big yeah if it was 20 no but 120 you know anything over 100 you got here here here here that's it everything else is you know less than 50 more or less okay so negative Delta still- 894 all negative Delta in here except for one bar with 82 one bar with 41 and
+
+[06:41] everything else is just negative it's all negative Delta it's all selling right it's all aggressive selling as this Market is going higher now it's not overwhelmingly negative aggressive selling right CU it's not really pushing the market down and imagine that you got aggressive selling coming in we're making new highs just off our highs strong sellers okay that should have you thinking okay hey you know what we're making new highs and we got strong sellers coming in Market's not really going down something's got to give either
+
+[07:14] these aggressive sellers are going to dry up or this these traders that are supporting this Market on this move up they're going to be loaded up with this is gold right they're going to be loaded up with all the gold that they they want in their portfol folio and once they stop buying and I still have this aggressive selling pressure I'm going to be looking for the market to drop okay so it's just you know right now it's just sort of this tug of war back and forth you know there's there's
+
+[07:43] aggressive um selling taking place that's being absorbed by strong passive bids coming into the market right and what do I mean by strong passive bids well the 83 here 37 you know these are buyers that are coming into the market we just traded there right so these are fresh bids and the aggressive the the big seller is looking to distribute his position right and then we start making these new highs making these new highs look at the volumes on these things 500 700 900 and the Delta is just
+
+[08:16] 69 90 90 it's positive why isn't it like 290 or 190 269 it's just 69 at one point this Delta was positive 267 then the aggressive selling came in it's actually moved it down from positive 267 to just 69 okay make these new highs look at this once we get up to these highs you know 17 14 22 in the Delta these Deltas are not positive after that 29 -2 50 -3 42 now again you know min-2 -3 is nothing because you know it could go either way positive or
+
+[08:57] negative I I treat those as kind of neutral but still you're making this High you made a new high you got Delta of minus three really that's not good if you're looking for this market to continue up okay - 42 -71 - 103 - 158 since you made this high it's just been all negative Delta Delta's grown from- 1200 to -600 okay then it sort of pulls back up a little bit you get a little burst of buying here in this bar with 113 positive Delta sort of going sideways
+
+[09:29] suppos you know again it's just all negative Delta look at this now you're at minus 2,000 in the Delta okay it's just sort of hanging around here up here near the high something's got to give okay you just sort of humming along humming along get back up towards the high again is there any overwhelmingly positive Deltas in here not really there's 61 there's 96 here's 34 right but it's this anytime you get a little burst of positive Delta you followed with negative Delta right just sort of coming along in here something's
+
+[10:01] got to it's like a I don't say like a rubber band you know when you wrap it around your finger but every time you know again you get some little positive Delta 32 it comes in with minus 30 right so anytime there's a bit of positive flow coming in it it's met with negative flow and then look at this okay you're coming in here minus 71 - 55 - 35 okay but still just sort of hanging around the highs so you every time you sort of get up near the
+
+[10:31] highs you get some aggressive selling coming in okay what's that telling you say okay again you got to be thinking sort of bigger picture not you know on a second byc basis on this stuff this is more of a a broader picture we're up here near the high look at the cumulative Delta is minus 3,000 now okay finally make a new high make that new high you got negative Delta minus 41 CU of Delta minus 3000 okay still it doesn't really want to sell off so
+
+[11:02] there's still some supportive buying in the market I don't want to say aggressive buying I mean there are people lifting the offers but you have more people selling into the bids okay then you get this nice big positive Delta here 251 beautiful right and then goes inside negative Delta negative Delta negative Delta does cut back on the cumulative Delta from- 3,100 to- 2800 and we're just still hanging around the high but then we make this new high 11:00 again all that negative Delta starts coming in here right pulls back
+
+[11:38] up to that high within a couple of ticks then it starts finally The Levy Breaks right and then now we're looking at selling off magenta magenta magenta now I know what you're thinking that's a very broad General assessment well there are some tools that we can use on this now on the orls trader software right which I developed to help me see things in the market that you know might otherwise go unnoticed by myself is under here we have extreme um we got a couple things here
+
+[12:20] so we got extreme Delta volume okay we've got extreme M Delta color right we got um where is it the Delta threshold here Delta volume threshold Delta threshold right so these are related to these colors here so 25 and 95 and what that what that means is if the the two things okay so if the bars Delta closes within 95% of either the max Delta or the Min Delta it's going to color it Genta if it's bearish so it
+
+[13:01] means if it's negative Delta it's closing within 95% of the Min Delta Min Delta is how strong Delta was in the bar now the Delta volume number if that is magenta it's telling me that the Delta value minus 80 is closing above 25% or below if it's negative of the bar's volume so minus 80 into 218 is minus 36% so what I'm looking at is you know when we're making highs right I want to be seeing actually what I want to see is cyan colors sort
+
+[13:39] of this um light blue color for the Delta which tells me that it's strong you know this one here right 149 48 but I'm not seeing that I saw one here this was at 759 um I think there was one or two more this is the Delta volume this is also Delta volume but not the Delta number this one's it's close here 104 to 117 this is also close 113 to but it's not within my threshold okay here's an 83 which is within 95% of the
+
+[14:10] 85 29% so that's strong okay but look as we get up here towards this highs here okay now 17 that's a small Delta but you see this cyan color right 28 34 26 44 so I know there there's some decent um Delta volume readings coming in here but look at this right after we make this new high here at 1059 it's magenta magenta magenta magenta magenta magenta strong Delta volume strong negative Delta volume right look at this again magenta magenta magenta down in here look at these readings bearish
+
+[14:52] bearish Delta volumes bearish bearish bearish bearish bearish I don't see any bullish information since this High has been made here at 1059 it's nothing bullish it's all bearish it's bearish Delta bearish Delta volume right and then the rug gets pulled and the market drops 20 bucks now again that's on a one minute chart you could even you know go to a if if you watch a five minute chart you know watching Delta on a FIV minute chart you you're sort of looking for the same things I mean just right here right
+
+[15:22] before that big move down right made that new high look at this negative Delta negative Delta going into the highs strong Delta threshold reading minus 181 a strong Delta volume reading minus 27 right after the high and look at this negative Delta 1 2 3 4 5 6 7 you know basically for these are five minute bars right so 5 10 15 20 25 30 for 30 minutes consistent selling in the gold at the highs of the day cumulative Delta runs from- 2900 to- 3400 so it's increased
+
+[16:02] by you know 500 contracts right right before the market drops I mean by the time this bar comes in it's halfway through probably towards the end you see that strong Delta number minus 218 right it's magenta so it's telling you it's close it's within 95% of Theus 227 that should that should kick you in the butt saying hey you know what this Market could probably drop where do you place your stop right above the high you know then you get the bar that you love to see as a Trader where it
+
+[16:36] just drops you know 10 bucks in one bar you know even if you go back here right earlier around 7 when you're sort of you know got kind of neutral Deltas you know 145 in the cumulative Delta minus 87 see the strong Delta at uh 730 but look at this right here 8115 820 830 strong Delta now here's the thing where do you think it's easiest to sell in a market that's rising or a market that's falling you're an Institutional
+
+[17:17] Trader easiest place for you to sell is in a rising market not in a falling Market in a rising market you can get good fills in a falling Market you're going to be chasing that is why in a market like you see this what I'm explaining right now you see it a bit more often than um a lot of the other markets because of the institutional participation that takes place in Gold but if you're an Institutional Trader and you got a lot of gold to sell
+
+[17:44] the easiest place for you to sell it is in a rising market not in a falling market so when I see this in markets right especially commodity markets gold is more of a commodity than anything else and I understand the player that are involved right they have big books positions they're trying to cover so if I see this Market rallying and I see strong selling I know at some point it's going to show some weakness and it could get a drop like this of you know a nice I don't say you
+
+[18:17] know always get a $20 move but you get a nice strong move down okay so pay attention to what the Delta is doing near the high and the opposite would be true if we're at the lows and I see a lot of positive Delta coming in they tell me somebody is trying to you know Buy in a falling market right that that's important information and that's what orderflow really is it's just information it's up to you how to use it and use it properly so again you know if you enjoy my videos
+
+[18:46] and you want to see more like this hit the like button subscribe to the channel you know leave a comment below um hit the notification buttons you guys new you you know what to do right you've been on YouTube long enough so thanks everyone and I'll catch you guys on the next video take care

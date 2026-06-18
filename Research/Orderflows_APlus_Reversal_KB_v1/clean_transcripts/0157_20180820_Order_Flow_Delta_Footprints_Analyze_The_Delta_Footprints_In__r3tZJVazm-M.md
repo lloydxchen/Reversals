@@ -1,0 +1,105 @@
+---
+video_number: 157
+inferred_title: "Order Flow Delta Footprints Analyze The Delta Footprints In The Bar"
+inferred_date: "2018-08-20"
+video_id: "r3tZJVazm-M"
+source_vtt: "20180820 - Order Flow Delta Footprints Analyze The Delta Footprints In The Bar [r3tZJVazm-M].en.vtt"
+word_count: 4012
+segment_count: 537
+---
+
+# Order Flow Delta Footprints Analyze The Delta Footprints In The Bar
+*Date:* 2018-08-20  |  *Video ID:* r3tZJVazm-M  |  *Words:* 4012
+*Source VTT:* `20180820 - Order Flow Delta Footprints Analyze The Delta Footprints In The Bar [r3tZJVazm-M].en.vtt`
+
+---
+
+[00:00] hey everyone its micromotor closed I'm excited to bring you this presentation on the order flows Delta footprints and it's one of the features on the order flows trader software for mt8 and it really takes order flow analysis to a whole nother level you know most traders who are into order flow are familiar with the volume footprint chart which is based on the volume traded on the bid versus the volume traded on the offer in the two-way auction but there are actually a few derivations of that data that is
+
+[00:25] extremely useful and extremely revealing of what the market is doing at certain times and like I said this feature is available on the order flows trader 2.0 which we released a few months ago for NT 8 and what really separates the order flow straighter software from other software out there is the education that comes with it you know I do these regular presentations and I actually have a weekly live group training session where all the users are invited to come in and you don't ask their
+
+[00:54] questions and you know and just have a discussion about order flow so I think that's worth actually much more than the software itself honestly you know I mean that's it's one thing to have expensive software you know to analyze the market but honestly if you don't know what to look at in the market it doesn't matter if you have a million dollar software program if you don't know how to use it then you know what's it worth to you it's worth noting and you know the
+
+[01:20] reason I decided to make this video is because I want to show you that when you have the right trading software and you learn what to look for in the order flow that you can actually see what's happening in the markets and make solid trading decisions and what I'll be talking about today is a setup that I call the Delta tail and it utilizes the Delta footprints which you can see on the order flows trader software but before I begin a brief disclaimer this presentation is for educational and
+
+[01:45] informational purposes only and should not be considered a solicitation to buy or sell a futures contract or make any other type of investment decision futures trading contains substantial risk is not for every investor an investor could potentially lose all or more than the initial investment risk capital is money that could be lost without jeopardizing one's financial security or lifestyle only risk grapples should be used for trading and only those with sufficient risk capital should consider trading past performance is not necessarily indicative of future results alright so what
+
+[02:14] is a delta footprint well you know I said you know most people are already familiar with the volume footprint chart you know which is again the volume training on the bid versus the volume traded on the offer in the two-way auction and the delta footprint is similar and what it is it's the footprint left by the delta internally in the bar and it's very revealing to the trader at certain points and especially at inflection point so you know where market reversals can occur now there are specific patterns that
+
+[02:40] indicate market direction again I'm going to talk about one of those today it's it's what I call it the Delta tail now if you're familiar with a normal volume footprint chart this is what it looks like this is the e-mini five-minute bar chart and you can see the volume traded on the bid versus the volume traded on the offer you know at each price level okay you can see the imbalances and whatnot now the Delta footprint what that is is it takes the Delta you know the
+
+[03:12] difference between the volume traded on the bid versus the volume traded on the offer and you can go into the settings go under a ladder content this is the order flows trader software now I don't support the ninja trader order flows plus software this is my software that's available for you you go to sell tax you change it from bid-ask to Delta now there's total there's four different choices there and what that's going to do is it's going to change a normal footprint chart into a delta
+
+[03:44] footprint you can compare it and one of the choices is if it's just Delta it compares it horizontally you could actually do Delta diagonally but in this example I'm going to show you compare it horizontally and so on the on the right hand side you see Delta footprint so just take a look at the first bar 27 on the top right hand side so how do you come up with 27 well on the normal volume footprint chart at that price level 27 last traded on the bid 54
+
+[04:10] traded on the offer so you're left with 27 108 versus 80 on a normal volume footprint chart so you had net on the net was sold in there so you had 108 so you're left with net 28 at that 114 - 55 net - 59 67-63 - for now I know what you're thinking you say well why aren't you comparing it diagonally well you can and I said and in this example I'm showing it to you horizontally so you can change it from Delta where it
+
+[04:45] just said on the setting from Delta you can change it to diagonal Delta and diagonal is another choice and it's gonna if you do it diagonally obviously it's going to compare 108 versus 54 as opposed to 27 versus 54 on the footprint chart so it's you know that's another presentation for another day that's something that I'll probably do specifically for my users to take advantage of the information and it's quite revealing when you start looking at the imbalances but what I'm going to talk about today is what I call the
+
+[05:15] Delta tails and what it is is what it looks like for a by and what it looks like for a cell it's basically on the by it's green candle all volume traded on the offer side or the net Delta is on the offer side except for that little bottom part that's traded on that what I call the tail and for a cell it's a red candle with all the Delta on the sell side that's why it's all negative there with the little tail on top the positive
+
+[05:44] Delta on the top offer side okay so let's take a look at the charts so you can better understand it here so okay so this is let's take it through a few charts different types of charts really you know quick and just show you some examples I'm gonna go back you know what day is this what am I oddish 15 is August 14 August so it supposed to be August 13 so let's just look for these examples of the tails so basically what I'm looking for remember is for a by I'm
+
+[06:20] looking for the little tail on the green candle on the bottom or the tail on the top of a red candle and let's just take a look here and you know in this case I think you got to be very strict on it I mean you could say well like about a bar where it's just all on one side well yeah you can but I mean to me those are the more obvious so here's a nice here's a tail a by tail you got the minus six here then it's all
+
+[06:53] positive Delta's here and you know getting you know what's the mark going it's going from 36 went all the way up to the 40 you know up to 40 what kind of heat are you taking from 36 you know maybe down to what is that thirty four and a quarter thirty four and a half before it hit up to thirty six and started going higher but you know so that's you know to me that's a decent trade you mean you had a couple em stacked imbalance in there as
+
+[07:19] well which is encouraging then on the way down after you get your swing high up here your higher they actually got a negative Delta up there you got a divergence here you got a selling tail and selling Delta tail and look at I'll just sold off quite nicely down okay you know I'm just gonna show you every day here from I think that's one of the thirteenth until it's it's Sunday night right now it's actually trade date August 20th it's about 12:30 at night right now I'm recording this video again
+
+[07:55] I'm just getting my stuff ready for the week and you know I really wanted to get this video out there because I felt that this was you know good information core you know for a lot of people here's a nice Delta Tail cell right here again it's nice little move down again but this is going right into the cache close as well then it turns around starts rallying up here this one yeah it's not really a tail I mean you've got to price levels there but again I'm trying to be
+
+[08:20] strict here in this example for this trade setup anything yeah you got a couple of one two here one two there but again I'm just trying to show it to you with one again you know you got a six here you got a three here you know does that qualify I'm I'm trying to be strict here and say no here's one you got the five Lots here then it's all negative Delta
+
+[09:09] here's a nice buy oh this is the one I had on the example actually - 103 on the bottom then all positive Delta here's another nice buy here at the 97 then all positive Delta
+
+[10:05] okay well here's one here's a cell again it's August 20th that you know just after 12:30 we'll see what his mark is gonna go overnight if it's gonna sell off her or what but you know it's setting up right now you know you got the 88 and you got the all negative Delta fine nothing's going to happen until Europe comes in but you know we'll see so let's take a look at take a look at a five-minute chart just scroll back here beginning and
+
+[10:48] let's just see again same same setup I'm gonna look for okay well this is a buying tale this one didn't work oh that again it's at 9:40 at night there's a sell it didn't work honestly those are the first two that I saw that didn't work here's and this one didn't qualify because you got the one but then you got 14 down in there this one again it's a tale I expect it to be on top not in the middle this one didn't quite make it you know you got
+
+[11:24] the 377 but get that - 48 there again I'm trying to be very strict on it here you go got one eight ten in the morning and this was on the 13th I believe you got a nice little move up before the cash open and then I wants cash opened you got the 73 then it's all negative Delta and this one the market just dropped beautifully after that I mean you can look at it for 28 18 down to 20 808 over the next 30 minutes you
+
+[11:55] know most people I know basically you know they trade recipes but they trade it during the cash hours anyway so you know those few that didn't work out were you know kind of slow periods but again you know I watch don't you see how it how it looks in all timeframes you know I'm not trying to just pick certain time frames you know this one again if this is just for price levels so I'm not sure I'd say yeah look at this you know it worked out it's only
+
+[12:20] for price levels I'd like a longer bar and that's right on the futures close anyway nope that doesn't qualify this doesn't qualify either again this is not qualifying again I like it to happen on longer bars rather than bars of three or four price levels here you got one here's and I sell it so nice by worked its way up
+
+[13:09] this bar says it's all buying again you know in then it's followed by the bar with the tail right here and then just continues working its way up over the next hour so again you know from the what is that 28:46 area all the way up to the 2850 area then you got a cell right up here at your height of the day you know I love getting signals you know that highs in the day I'm not trying to predict a high today I don't know
+
+[13:34] there's gonna be a high today until it prints but then when it hits that I'm at the high and obviously I got a divergence and a ratio in the next bar but more importantly you know I got that tail right there you know that's a terrific low-risk trading opportunity right there because it's you know it's trying it markets find an inflection point and it starts selling off hit almost funny my wife says I sound like I slur my words sometimes but I'll see when I record a lot of these videos you
+
+[14:01] know I sort of do these on the fly and I do them late at night or early in the morning so that's why sometimes it sounds like honestly I think I sound like I'm a drunk sometimes but I yeah I'm really not I don't drink this one didn't work out I mean this one again is right on the futures close here other than the reopen you know this was a cell that just sort of went sideways on you again you know it's a cell let's go back
+
+[14:39] here look at the time it was a cell that went sideways on you but at what time is 6 6 p.m. at night ok so go forward here really quick anything anything Mueller no that's just all cells I mean you can you can also take all cells or all byes but yeah I'm looking for the one with the tails this one you got that one volume in here so it's you got the tail but then you got that out 153 in there so it doesn't qualify you know this one
+
+[15:13] yeah I would you know I would qualify that this one does the work out no here's a cell here just sort of works its way sideways doesn't really sell off maybe you could have scalped the point out of it this cell doesn't work out but you'd probably already be short from here anyway waiting for it to work out but it comes right back even if you got short here comes right back with this beautiful by man imagine you're getting long in here 2843 and look at that up
+
+[15:53] you know ten points although if you remember Friday we didn't get that big rally and the ESPYs right at one o'clock then you got a cell here you know at two o'clock you got the tail 3:56 and the nice sell-off and again now in the evening session on the five-minute chart up here at twenty eight fifty four and a half you got the the cell well you'd be selling to somewhere around fifty three and a half actually was it a typical low her yeah I sort of
+
+[16:31] went lower down into the fifty ones but just sort of hanging around going sideways sideways sideways and you got the other cell coming in here right right before midnight and just sort of takes us to where we are at fifty and three-quarters go back to that eight range chart real quick so you can see you know it's it's okay let me ask you this right I mean I don't how many training screens you have I know I've got four screens I got 28 inch monitors now and you know is it worth having you
+
+[17:09] know so you could buy you can buy an extra screen you can actually buy you can actually go to like some pawn shops I've been to some of these pawn shops and they're selling computer monitors there for like $20 you know cuz before when I was adding monitors that's where I would buy my monitors from I just go down to the the pawn shop and I could buy a 23 inch monitor for like 20 bucks and you know like sometimes if you're buying two you could say hey you know
+
+[17:39] give me a better deal but you know is it worth you know ask yourself is it worth just throwing an extra or up and throw in a chart like this up on your screen for finding these these types of trades you know when they occur yeah I think it is I think it's worth it honestly and again you know it's this is a piece of information that's available to everybody how many people are looking at imagine how many traders out there okay how many they all look at bar
+
+[18:05] charts alright this information is not going to be available on a normal bar chart and then you start breaking it down well how many people look at order flow majority overwhelming majority ninety five ninety eight percent of the people out there look at the normal chart here I'll show you what they look at is this your Delta so this is your choices bid-ask Delta volume diagonal Delta majority people they look at the bid-ask Delta that's your normal volume footprint chart alright that's that is you know that's this chart here it with
+
+[18:41] your normal and there's nothing wrong with it I look at that too and you know but I also keep the other screens open you know for specifically to find instances where I see these setups now there are other certain patterns I like to look for in the Delta on the Delta of footprint charts but you know I just really want you to see what you know what else is out there and again you know imagine you just I just showed you an eight range chart I showed you a five
+
+[19:11] minute chart and so it's not like well it only works on certain markets in certain time frames no it let's take a look at some other charts here real quick then I'll just go back here I don't know what am I looking at here is it let's take a look at crude oil cruises in the middle of the roll right now well you should be in you should be an October crude now but anyway that's just you know just scroll back and see if it's if that same pattern is going to
+
+[19:40] be appearing in here okay well this one again it's borderline I mean you do have the tail here minus 18 you don't have a you got a empty volume level in here okay you know it's it's fine this one didn't work out but again you this is the one you'd rather take you got taken in context you know what do you think is going to be more effective after this nice little sell-off I had this one here 12 then all selling yeah I would take that this one
+
+[20:11] yeah I would also take that this one you should already be long up here not looking to get long up here because you had you know the buying opportunity lower okay well that was all that was in crude I was on the eighth range going back a couple days take a look at your old currency then real quick yeah also a range yeah I got three days in data
+
+[20:52] coming up on this so here right here look at this low of the day you got your tail -9 all buying what happens market rallies here's a bot here this is not a bi rather I was gonna say it's a cell or it's not a cell this is what you want to see what you want to see it on a green candle not a red candle and that's important okay because what's happening here is the marketer is rallying then it's sold off
+
+[21:34] that's why you got the volume that's traded there it makes a big difference if it's on a green candle or a red candle you can I'm not looking to buy a red candle I'm never looking to buy a red candle people always say why why do you only buy green candles is because I want to buy when the markets moving in my direction okay I don't we buy in when the markets selling off I want price to start moving in the direction I'm trading okay cuz you know I there's a
+
+[22:01] lot of times that you know you think you can try and pick a little but you're not you know you be buying it at 28 and next thing you know it's trading 26 and you try buying 26 is next thing you know it's trading 24s you know that's not uh that's a recipe for disaster again and that that's what it comes down to people kind of wanting to try and buy the low or pickle oh I don't like to do that I like to like to let the market you know
+
+[22:27] take me into the market you know so if I'm looking to buy I want price to be going up and if I'm looking to sell one price to be going down not in the opposite you almost had to buy here but not quite almost had one here but not quite you got that minus nine here just as you got the minus nineteen up there almost tail means that you got the tail but then you just got that other volume in there again I'm trying to be strict here for
+
+[23:04] this video because I think you can be strict on this you don't f does thing you know because once you start handicapped and say well oh you know it got the tail here you got the - - then you got the - 24 in here I can take it okay yeah it might work it might work quite often but you know he's starting to deviate from your trading plan this was Friday afternoon after two o'clock about 2:15 so as a sell it didn't work out just once sideways on you then you
+
+[23:39] went you can go too close for the weekend again I probably want to take this trade because it's Friday afternoon at you know 2:00 in the afternoon in Chicago time cash markets are closed already around the world and everyone's getting ready for the weekend so that's it yeah so okay so that's crude oil that's your currencies that's a minis you know that's I think that's enough markets to convince you of the value of looking at a delta footprint hopefully you'll see the value in it so thanks for
+
+[24:13] watching this video and again for the users of my software I'm gonna be doing that we talking about this more in the weekly group training session so I look forward to seeing everybody there so I have a great have a great data have a great day everyone bye bye
