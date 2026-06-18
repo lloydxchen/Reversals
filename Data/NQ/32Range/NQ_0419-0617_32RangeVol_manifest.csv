@@ -1,0 +1,42 @@
+﻿Key,Value
+RunId,20260617_190318
+Reason,Reached realtime; historical export complete.
+InstrumentMaster,NQ
+InstrumentFull,NQ JUN26
+ChartTag,Auto
+ExportPreset,FullResearch_RangeVolumetric
+PrimaryDataType,Data Type: 32Range Volumetric ✓
+IsPrimaryVolumetric,True
+DeltaSourceDetail,Delta: Chart Bid/Ask ✓
+TickCapture,NoTick
+DataQualityStatus,Warning
+DataQualityWarning,RangeVolumetric preset expects an Order Flow Volumetric Range chart.
+BarsPeriodType,Volumetric
+BarsPeriodValue,1
+FirstExportedTime,2026-04-19 18:00:00
+LastExportedTime,2026-06-17 19:02:49
+LoadedRangeStart,2026-04-19 18:00:00
+LoadedRangeEnd,2026-06-17 19:02:49
+BarRowsWritten,152241
+FootprintRowsWritten,3805294
+DuplicateTimestampsSkipped,0
+MissingFootprintBars,0
+FootprintMismatchBars,0
+ErrorCount,0
+FirstError,
+LastError,
+WarningCount,1
+FirstWarning,RangeVolumetric preset expects an Order Flow Volumetric Range chart.
+LastWarning,RangeVolumetric preset expects an Order Flow Volumetric Range chart.
+BarsFile,C:\Users\chenk\Documents\NinjaTrader 8\NinjaTrader 8 - Chart Data Exports\NQ\NQ.JUN26\2026.04.19_to_2026.06.17\32Range_Volumetric\ResearchDataExporterV1\FullResearch.RangeVol_NoTick\2026.06.17-7.03PM\NQ_0419-0617_32RangeVol_bars.csv
+FootprintFile,C:\Users\chenk\Documents\NinjaTrader 8\NinjaTrader 8 - Chart Data Exports\NQ\NQ.JUN26\2026.04.19_to_2026.06.17\32Range_Volumetric\ResearchDataExporterV1\FullResearch.RangeVol_NoTick\2026.06.17-7.03PM\NQ_0419-0617_32RangeVol_footprint.csv
+OutputFolder,C:\Users\chenk\Documents\NinjaTrader 8\NinjaTrader 8 - Chart Data Exports\NQ\NQ.JUN26\2026.04.19_to_2026.06.17\32Range_Volumetric\ResearchDataExporterV1\FullResearch.RangeVol_NoTick\2026.06.17-7.03PM
+OutputRunFolderName,2026.06.17-7.03PM
+WritersOpened,True
+CurrentBarAtFinish,152240
+OverwriteExistingFiles,True
+CreateTimestampedRunFolder,True
+ExtremeZoneTicks,8
+DiagonalImbalanceRatio,3
+MinImbalanceVolume,20
+AllowZeroDenominatorImbalances,False

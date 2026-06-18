@@ -48,13 +48,10 @@ using NinjaTrader.NinjaScript;
 using NinjaTrader.NinjaScript.BarsTypes;
 #endregion
 
-// Enums must live at global scope above the namespace so NinjaTrader's generated
-// property partials can see them (otherwise CS0246 on the generated accessors).
-namespace NinjaTrader.NinjaScript.Indicators
-{
-	public enum IrDisplayMode { Live, Research }
-	public enum IrHighlightSide { FullCell, ImbalancedHalf }
-}
+// Enums MUST live at true global scope (NOT inside any namespace) so NinjaTrader's
+// generated property partials can resolve them, otherwise CS0246 on the accessors.
+public enum IrDisplayMode { Live, Research }
+public enum IrHighlightSide { FullCell, ImbalancedHalf }
 
 namespace NinjaTrader.NinjaScript.Indicators.ImbalanceReversal
 {
@@ -94,6 +91,7 @@ namespace NinjaTrader.NinjaScript.Indicators.ImbalanceReversal
 			public double   High;
 			public double   Low;
 			public int      StackRun;
+			public double   CloseLocation;
 
 			public bool     MfeCalculated;
 			public double   MfePrice, MaePrice;
@@ -114,14 +112,25 @@ namespace NinjaTrader.NinjaScript.Indicators.ImbalanceReversal
 		private readonly Dictionary<int, BarImbalance> barStore = new Dictionary<int, BarImbalance>();
 		private readonly Queue<int>            barOrder    = new Queue<int>();
 		private readonly List<SignalRecord>    records     = new List<SignalRecord>();
+		private readonly List<SignalRecord>    allSignals  = new List<SignalRecord>(); // uncapped, for CSV export
+		private bool      exportedDone;
 		private List<BadgePlace>               lastBadgeRects = new List<BadgePlace>();
 
 		private int       signalSeq;
-		private int       selectedIndex = -1;
+		private int       selectedIndex = -1;   // legacy triangle selection (unused for overlay)
+		private int       selectedBarIndex = -1; // bar-based selection for the MFE/MAE overlay
+		private double    selEntry, selUpPts, selDownPts;
+		private int       selUpBar, selDownBar;
+		private bool      selCalc;
 		private int       lastBullSignalBar = -10000;
 		private int       lastBearSignalBar = -10000;
 		private double    tickSize = 0.25;
 		private bool      volumetricOk;
+
+		// Diagnostics (surfaced via the debug banner)
+		private int       dbgBarsSeen;
+		private int       dbgLastCells;
+		private string    dbgErr = "";
 
 		private ChartScale cachedScale;
 		private ChartPanel mousePanel;
@@ -249,6 +258,18 @@ namespace NinjaTrader.NinjaScript.Indicators.ImbalanceReversal
 		[Display(Name = "Point value per contract ($)", Description = "Used for the dollar figure on the detail card. NQ=20, MNQ=2. 0 = use instrument PointValue.", Order = 8, GroupName = "4. Research")]
 		public double PointValueOverride { get; set; }
 
+		[NinjaScriptProperty]
+		[Display(Name = "Export signals CSV", Description = "On historical-complete (and on chart close), write every detected signal + its forward MFE/MAE to a CSV for Python validation.", Order = 1, GroupName = "5. Export")]
+		public bool ExportSignalsCsv { get; set; }
+
+		[NinjaScriptProperty]
+		[Display(Name = "Export folder", Description = "Destination folder for the CSV + summary file.", Order = 2, GroupName = "5. Export")]
+		public string ExportFolder { get; set; }
+
+		[NinjaScriptProperty]
+		[Display(Name = "Show debug banner", Description = "Top-left status line: volumetric state, bars seen, imbalanced cells on last bar, signal count, last error. Turn off once everything works.", Order = 1, GroupName = "6. Debug")]
+		public bool ShowDebugBanner { get; set; }
+
 		// =====================================================================
 		// Lifecycle
 		// =====================================================================
@@ -263,7 +284,7 @@ namespace NinjaTrader.NinjaScript.Indicators.ImbalanceReversal
 				DisplayInDataBox = false;
 				DrawOnPricePanel = true;
 				PaintPriceMarkers = false;
-				IsSuspendedWhileInactive = true;
+				IsSuspendedWhileInactive = false;
 
 				DisplayMode                    = IrDisplayMode.Research;
 				DiagonalImbalanceRatio         = 3.0;
@@ -272,13 +293,13 @@ namespace NinjaTrader.NinjaScript.Indicators.ImbalanceReversal
 				ExtremeZoneTicks               = 8;
 
 				ShowCellHighlights = true;
-				HighlightSide      = IrHighlightSide.ImbalancedHalf;
-				HighlightOpacityPct = 22;
+				HighlightSide      = IrHighlightSide.FullCell;
+				HighlightOpacityPct = 50;
 				BullishBrush = System.Windows.Media.Brushes.LimeGreen;
 				BearishBrush = System.Windows.Media.Brushes.Red;
 
-				ShowSignalBadges       = true;
-				MinStackedRunForSignal = 3;
+				ShowSignalBadges       = false; // highlights ARE the signal; triangles are an optional extra layer
+				MinStackedRunForSignal = 2;
 				RequireRejectionClose  = true;
 				RejectionCloseFraction = 0.5;
 				SignalCooldownBars     = 3;
@@ -291,6 +312,10 @@ namespace NinjaTrader.NinjaScript.Indicators.ImbalanceReversal
 				LabelHitHalfWidthPixels = 60;
 				ResearchAutoOffMinutes  = 20;
 				PointValueOverride      = 0;
+
+				ExportSignalsCsv = true;
+				ExportFolder     = DefaultExportFolder();
+				ShowDebugBanner  = true;
 			}
 			else if (State == State.Configure)
 			{
@@ -306,9 +331,14 @@ namespace NinjaTrader.NinjaScript.Indicators.ImbalanceReversal
 				barStore.Clear();
 				barOrder.Clear();
 				records.Clear();
+				allSignals.Clear();
+				exportedDone = false;
+				dbgBarsSeen = 0; dbgLastCells = 0; dbgErr = "";
 				lastBadgeRects = new List<BadgePlace>();
 				signalSeq = 0;
 				selectedIndex = -1;
+				selectedBarIndex = -1;
+				selCalc = false;
 				lastBullSignalBar = -10000;
 				lastBearSignalBar = -10000;
 
@@ -319,8 +349,15 @@ namespace NinjaTrader.NinjaScript.Indicators.ImbalanceReversal
 
 				HookMouse();
 			}
+			else if (State == State.Realtime)
+			{
+				// Historical processing is complete here: all bars are loaded, so MFE/MAE
+				// windows are fully available. Write the validation CSV once.
+				if (ExportSignalsCsv) ExportSignalsToCsv();
+			}
 			else if (State == State.Terminated)
 			{
+				if (ExportSignalsCsv) ExportSignalsToCsv(); // fallback if Realtime was never reached
 				UnhookMouse();
 				if (dwFactory != null) { try { dwFactory.Dispose(); } catch { } dwFactory = null; }
 			}
@@ -372,6 +409,7 @@ namespace NinjaTrader.NinjaScript.Indicators.ImbalanceReversal
 				: null;
 
 			volumetricOk = vol != null && vol.Volumes != null && CurrentBar < vol.Volumes.Length;
+			dbgBarsSeen = CurrentBar + 1;
 			if (!volumetricOk)
 				return; // OnRender draws a "needs volumetric chart" note.
 
@@ -425,6 +463,7 @@ namespace NinjaTrader.NinjaScript.Indicators.ImbalanceReversal
 			}
 			bi.StackedBuyTopRun     = buyTopMax;
 			bi.StackedSellBottomRun = sellBotMax;
+			dbgLastCells = bi.Cells.Count;
 
 			StoreBar(bi);
 
@@ -439,7 +478,7 @@ namespace NinjaTrader.NinjaScript.Indicators.ImbalanceReversal
 				&& (!RequireRejectionClose || weakClose)
 				&& (CurrentBar - lastBearSignalBar) >= SignalCooldownBars)
 			{
-				AddSignal(false, "Trapped Buyers", buyTopMax);
+				AddSignal(false, "Trapped Buyers", buyTopMax, closeLoc);
 				lastBearSignalBar = CurrentBar;
 			}
 			// Trapped sellers at the low -> BULLISH reversal (long)
@@ -447,7 +486,7 @@ namespace NinjaTrader.NinjaScript.Indicators.ImbalanceReversal
 				&& (!RequireRejectionClose || strongClose)
 				&& (CurrentBar - lastBullSignalBar) >= SignalCooldownBars)
 			{
-				AddSignal(true, "Trapped Sellers", sellBotMax);
+				AddSignal(true, "Trapped Sellers", sellBotMax, closeLoc);
 				lastBullSignalBar = CurrentBar;
 			}
 		}
@@ -477,7 +516,7 @@ namespace NinjaTrader.NinjaScript.Indicators.ImbalanceReversal
 			}
 		}
 
-		private void AddSignal(bool isLong, string type, int run)
+		private void AddSignal(bool isLong, string type, int run, double closeLoc)
 		{
 			SignalRecord r = new SignalRecord
 			{
@@ -489,7 +528,8 @@ namespace NinjaTrader.NinjaScript.Indicators.ImbalanceReversal
 				EntryPrice  = Close[0],
 				High        = High[0],
 				Low         = Low[0],
-				StackRun    = run
+				StackRun    = run,
+				CloseLocation = closeLoc
 			};
 			records.Add(r);
 			if (records.Count > MaxStoredSignals)
@@ -497,12 +537,14 @@ namespace NinjaTrader.NinjaScript.Indicators.ImbalanceReversal
 				records.RemoveAt(0);
 				if (selectedIndex >= 0) selectedIndex--; // keep selection pointing at the same record
 			}
+			if (allSignals.Count < 1000000) allSignals.Add(r); // same reference; safety cap only
 		}
 
 		// MFE/MAE measured strictly on bars AFTER the signal bar (lazy, cached).
 		private void ComputeMfeMae(SignalRecord r)
 		{
-			int end = Math.Min(r.BarIndex + MaxMfeLookaheadBars, CurrentBar);
+			int last = (Bars != null ? Bars.Count - 1 : CurrentBar);
+			int end = Math.Min(r.BarIndex + MaxMfeLookaheadBars, last);
 			double hh = r.EntryPrice, ll = r.EntryPrice;
 			int hhIdx = r.BarIndex, llIdx = r.BarIndex;
 			for (int i = r.BarIndex + 1; i <= end && i <= Bars.Count - 1; i++)
@@ -534,6 +576,225 @@ namespace NinjaTrader.NinjaScript.Indicators.ImbalanceReversal
 		}
 
 		// =====================================================================
+		// Click an imbalanced bar -> forward excursion (MFE/MAE) overlay
+		// =====================================================================
+		private int NearestImbalancedBar(double px)
+		{
+			if (ChartControl == null || ChartBars == null) return -1;
+			int from = Math.Max(ChartBars.FromIndex, 0);
+			int to   = Math.Min(ChartBars.ToIndex, CurrentBar);
+			float halfW = (float)Math.Max(6.0, ChartControl.GetBarPaintWidth(ChartBars) / 2.0 + 2.0);
+			int best = -1; double bestDx = double.MaxValue;
+			for (int b = from; b <= to; b++)
+			{
+				BarImbalance bi;
+				if (!barStore.TryGetValue(b, out bi) || bi.Cells.Count == 0) continue;
+				float x = ChartControl.GetXByBarIndex(ChartBars, b);
+				double dx = Math.Abs(px - x);
+				if (dx <= halfW && dx < bestDx) { bestDx = dx; best = b; }
+			}
+			return best;
+		}
+
+		private void ComputeBarExcursion(int bar)
+		{
+			selCalc = true;
+			try
+			{
+				int last = (Bars != null) ? Bars.Count - 1 : bar;
+				selEntry = Bars.GetClose(bar);
+				int end = Math.Min(bar + MaxMfeLookaheadBars, last);
+				double hh = selEntry, ll = selEntry;
+				selUpBar = bar; selDownBar = bar;
+				for (int i = bar + 1; i <= end; i++)
+				{
+					double h = Bars.GetHigh(i), l = Bars.GetLow(i);
+					if (h > hh) { hh = h; selUpBar = i; }
+					if (l < ll) { ll = l; selDownBar = i; }
+				}
+				selUpPts = hh - selEntry;
+				selDownPts = selEntry - ll;
+			}
+			catch { selUpPts = 0; selDownPts = 0; }
+		}
+
+		private void RenderSelectedBarExcursion(SharpDX.Direct2D1.RenderTarget rt, ChartControl cc, ChartScale cs,
+			SharpDX.DirectWrite.TextFormat tf, SharpDX.DirectWrite.TextFormat tfSmall,
+			SharpDX.Direct2D1.Brush bull, SharpDX.Direct2D1.Brush bear,
+			SharpDX.Direct2D1.Brush cardBg, SharpDX.Direct2D1.Brush cardTxt)
+		{
+			if (selectedBarIndex < 0) return;
+			if (!selCalc) ComputeBarExcursion(selectedBarIndex);
+
+			float exX, upX, dnX;
+			try
+			{
+				exX = cc.GetXByBarIndex(ChartBars, selectedBarIndex);
+				upX = cc.GetXByBarIndex(ChartBars, selUpBar);
+				dnX = cc.GetXByBarIndex(ChartBars, selDownBar);
+			}
+			catch { return; }
+			float eY  = cs.GetYByValue(selEntry);
+			float upY = cs.GetYByValue(selEntry + selUpPts);
+			float dnY = cs.GetYByValue(selEntry - selDownPts);
+
+			DrawBand(rt, tfSmall, exX, eY, upX, upY, bull, cardTxt, string.Format("+{0:0.00} up", selUpPts));
+			DrawBand(rt, tfSmall, exX, eY, dnX, dnY, bear, cardTxt, string.Format("-{0:0.00} dn", selDownPts));
+			rt.FillEllipse(new SharpDX.Direct2D1.Ellipse(new SharpDX.Vector2(exX, eY), 4.5f, 4.5f), cardTxt);
+
+			int buyc = 0, sellc = 0;
+			BarImbalance bi;
+			if (barStore.TryGetValue(selectedBarIndex, out bi))
+				for (int i = 0; i < bi.Cells.Count; i++) { if (bi.Cells[i].IsBuy) buyc++; else sellc++; }
+
+			double pv = PointValuePerContract();
+			DateTime bt = (selectedBarIndex >= 0 && selectedBarIndex < Bars.Count) ? Bars.GetTime(selectedBarIndex) : DateTime.MinValue;
+			string[] lines =
+			{
+				"Imbalance bar  " + bt.ToString("yyyy-MM-dd HH:mm:ss"),
+				string.Format("Close: {0:0.00}    window: {1} bars", selEntry, MaxMfeLookaheadBars),
+				string.Format("Fwd up:   +{0:0.00} pt  (${1:0})", selUpPts, selUpPts * pv),
+				string.Format("Fwd down: -{0:0.00} pt  (${1:0})", selDownPts, selDownPts * pv),
+				string.Format("Buy-imb cells: {0}    Sell-imb cells: {1}", buyc, sellc)
+			};
+			DrawCard(rt, tf, tfSmall, cardBg, cardTxt, bull, exX + 14f, eY, lines);
+		}
+
+		private void DrawCard(SharpDX.Direct2D1.RenderTarget rt, SharpDX.DirectWrite.TextFormat tf,
+			SharpDX.DirectWrite.TextFormat tfSmall, SharpDX.Direct2D1.Brush bg, SharpDX.Direct2D1.Brush txt,
+			SharpDX.Direct2D1.Brush accent, float anchorX, float anchorY, string[] lines)
+		{
+			if (dwFactory == null || tf == null) return;
+			float cardW = 320f, lineH = 22f, padX = 9f, padY = 7f;
+			float cardH = padY * 2 + lineH * lines.Length;
+			float cx = anchorX, cy = anchorY - cardH - 10f;
+			if (cy < 4f) cy = anchorY + 14f;
+			SharpDX.Direct2D1.RoundedRectangle card = new SharpDX.Direct2D1.RoundedRectangle
+			{ Rect = new SharpDX.RectangleF(cx, cy, cardW, cardH), RadiusX = 6f, RadiusY = 6f };
+			rt.FillRoundedRectangle(card, bg);
+			rt.DrawRoundedRectangle(card, accent, 1.4f);
+			for (int i = 0; i < lines.Length; i++)
+			{
+				SharpDX.DirectWrite.TextFormat use = (i == 0) ? tf : tfSmall;
+				SharpDX.DirectWrite.TextLayout tl = null;
+				try
+				{
+					tl = new SharpDX.DirectWrite.TextLayout(dwFactory, lines[i], use, cardW - padX * 2, lineH);
+					rt.DrawTextLayout(new SharpDX.Vector2(cx + padX, cy + padY + i * lineH), tl, (i == 0) ? accent : txt);
+				}
+				catch { }
+				finally { if (tl != null) tl.Dispose(); }
+			}
+		}
+
+		// =====================================================================
+		// CSV export for Python validation
+		// =====================================================================
+		private string DefaultExportFolder()
+		{
+			try { return System.IO.Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments), "NinjaTrader 8", "ImbalanceReversal Exports"); }
+			catch { return "ImbalanceReversal Exports"; }
+		}
+
+		private static string F(double v, int dec)
+		{
+			if (double.IsNaN(v) || double.IsInfinity(v)) return "";
+			return v.ToString("F" + dec, System.Globalization.CultureInfo.InvariantCulture);
+		}
+
+		private static string Csv(string s)
+		{
+			if (string.IsNullOrEmpty(s)) return "";
+			if (s.IndexOfAny(new[] { ',', '"', '\n', '\r' }) >= 0)
+				return "\"" + s.Replace("\"", "\"\"") + "\"";
+			return s;
+		}
+
+		private void ExportSignalsToCsv()
+		{
+			if (exportedDone) return;
+			exportedDone = true; // attempt once per load; set early to prevent re-entry
+			try
+			{
+				if (allSignals.Count == 0) { Print("[ImbalanceReversal] No signals to export."); return; }
+
+				int lastIdx = (Bars != null) ? Bars.Count - 1 : -1;
+				for (int i = 0; i < allSignals.Count; i++)
+					if (!allSignals[i].MfeCalculated) ComputeMfeMae(allSignals[i]);
+
+				string folder = string.IsNullOrWhiteSpace(ExportFolder) ? DefaultExportFolder() : ExportFolder;
+				System.IO.Directory.CreateDirectory(folder);
+
+				string stamp = DateTime.Now.ToString("yyyyMMdd_HHmmss");
+				string instr = (Instrument != null && Instrument.MasterInstrument != null) ? Instrument.MasterInstrument.Name : "NA";
+				string baseName = string.Format("ImbalanceReversal_{0}_{1}", instr, stamp);
+				string csvPath = System.IO.Path.Combine(folder, baseName + "_signals.csv");
+				string sumPath = System.IO.Path.Combine(folder, baseName + "_summary.txt");
+
+				double pv = PointValuePerContract();
+				var inv = System.Globalization.CultureInfo.InvariantCulture;
+
+				using (var w = new System.IO.StreamWriter(csvPath, false, new System.Text.UTF8Encoding(false)))
+				{
+					w.WriteLine("SignalIndex,BarIndex,Timestamp,Direction,TradeType,EntryPrice,BarHigh,BarLow,CloseLocation,StackRun,"
+						+ "MfePoints,MaePoints,MfePrice,MaePrice,MfeBarIndex,MaeBarIndex,MfeBarsToHit,MaeBarsToHit,RMultiple,MfeDollar,MaeDollar,"
+						+ "LookaheadBarsAvailable,LookaheadComplete");
+
+					for (int i = 0; i < allSignals.Count; i++)
+					{
+						SignalRecord r = allSignals[i];
+						int avail = Math.Max(0, lastIdx - r.BarIndex);
+						bool complete = (r.BarIndex + MaxMfeLookaheadBars) <= lastIdx;
+						double rmult = r.MaePoints > 1e-9 ? r.MfePoints / r.MaePoints : 0.0;
+
+						w.WriteLine(string.Join(",", new string[]
+						{
+							r.SignalIndex.ToString(inv),
+							r.BarIndex.ToString(inv),
+							Csv(r.Time.ToString("yyyy-MM-dd HH:mm:ss", inv)),
+							r.IsLong ? "Long" : "Short",
+							Csv(r.TradeType),
+							F(r.EntryPrice, 2), F(r.High, 2), F(r.Low, 2), F(r.CloseLocation, 4),
+							r.StackRun.ToString(inv),
+							F(r.MfePoints, 2), F(r.MaePoints, 2), F(r.MfePrice, 2), F(r.MaePrice, 2),
+							r.MfeBarIndex.ToString(inv), r.MaeBarIndex.ToString(inv),
+							(r.MfeBarIndex - r.BarIndex).ToString(inv), (r.MaeBarIndex - r.BarIndex).ToString(inv),
+							F(rmult, 3), F(r.MfePoints * pv, 2), F(r.MaePoints * pv, 2),
+							avail.ToString(inv), complete ? "1" : "0"
+						}));
+					}
+				}
+
+				using (var w = new System.IO.StreamWriter(sumPath, false, new System.Text.UTF8Encoding(false)))
+				{
+					w.WriteLine("ImbalanceReversal_Claude_v1 export summary");
+					w.WriteLine("GeneratedLocal: " + DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss", inv));
+					w.WriteLine("Instrument: " + instr);
+					w.WriteLine("Signals: " + allSignals.Count.ToString(inv));
+					w.WriteLine("BarsLoaded: " + (lastIdx + 1).ToString(inv));
+					w.WriteLine("DiagonalImbalanceRatio: " + F(DiagonalImbalanceRatio, 3));
+					w.WriteLine("MinImbalanceVolume: " + MinImbalanceVolume.ToString(inv));
+					w.WriteLine("AllowZeroDenominatorImbalances: " + AllowZeroDenominatorImbalances);
+					w.WriteLine("ExtremeZoneTicks: " + ExtremeZoneTicks.ToString(inv));
+					w.WriteLine("MinStackedRunForSignal: " + MinStackedRunForSignal.ToString(inv));
+					w.WriteLine("RequireRejectionClose: " + RequireRejectionClose);
+					w.WriteLine("RejectionCloseFraction: " + F(RejectionCloseFraction, 3));
+					w.WriteLine("SignalCooldownBars: " + SignalCooldownBars.ToString(inv));
+					w.WriteLine("MaxMfeLookaheadBars: " + MaxMfeLookaheadBars.ToString(inv));
+					w.WriteLine("PointValuePerContract: " + F(pv, 2));
+					w.WriteLine("TimestampTimezone: chart/bar timezone as configured in NinjaTrader (no conversion applied)");
+					w.WriteLine("Note: MFE/MAE use bars AFTER the signal bar only. Rows with LookaheadComplete=0 had fewer than MaxMfeLookaheadBars forward bars and are right-censored.");
+				}
+
+				Print(string.Format("[ImbalanceReversal] Wrote {0} signals -> {1}", allSignals.Count, csvPath));
+			}
+			catch (Exception ex)
+			{
+				Print("[ImbalanceReversal] CSV export ERROR: " + ex.Message);
+			}
+		}
+
+		// =====================================================================
 		// Rendering
 		// =====================================================================
 		protected override void OnRender(ChartControl chartControl, ChartScale chartScale)
@@ -549,6 +810,11 @@ namespace NinjaTrader.NinjaScript.Indicators.ImbalanceReversal
 
 			SharpDX.Direct2D1.RenderTarget rt = RenderTarget;
 			if (rt == null) return;
+
+			if (ShowDebugBanner)
+				DrawBanner(rt, string.Format("ImbalanceReversal v1 | vol={0} barsSeen={1} cells@last={2} signals={3} mode={4} err={5}",
+					volumetricOk ? "OK" : "NO", dbgBarsSeen, dbgLastCells, allSignals.Count, DisplayMode,
+					string.IsNullOrEmpty(dbgErr) ? "-" : dbgErr));
 
 			if (!volumetricOk)
 			{
@@ -580,9 +846,9 @@ namespace NinjaTrader.NinjaScript.Indicators.ImbalanceReversal
 					lastBadgeRects = new List<BadgePlace>();
 
 				if (DisplayMode == IrDisplayMode.Research)
-					RenderSelectedOverlay(rt, chartControl, chartScale, tf, tfSmall, bull, bear, cardBg, cardTxt);
+					RenderSelectedBarExcursion(rt, chartControl, chartScale, tf, tfSmall, bull, bear, cardBg, cardTxt);
 			}
-			catch { /* never throw out of OnRender */ }
+			catch (Exception ex) { dbgErr = "OnRender: " + ex.Message; }
 			finally
 			{
 				if (tf != null) tf.Dispose();
@@ -805,6 +1071,33 @@ namespace NinjaTrader.NinjaScript.Indicators.ImbalanceReversal
 			}
 		}
 
+		private void DrawBanner(SharpDX.Direct2D1.RenderTarget rt, string msg)
+		{
+			if (dwFactory == null) { try { dwFactory = new SharpDX.DirectWrite.Factory(); } catch { return; } }
+			SharpDX.DirectWrite.TextFormat tf = null;
+			SharpDX.DirectWrite.TextLayout tl = null;
+			SharpDX.Direct2D1.Brush bg = null, txt = null;
+			try
+			{
+				tf = new SharpDX.DirectWrite.TextFormat(dwFactory, "Consolas", 18f);
+				tl = new SharpDX.DirectWrite.TextLayout(dwFactory, msg, tf, 1700f, 48f);
+				bg  = System.Windows.Media.Brushes.Black.ToDxBrush(rt);  bg.Opacity = 0.78f;
+				txt = System.Windows.Media.Brushes.Yellow.ToDxBrush(rt);
+				// Drawn well below NinjaTrader's built-in indicator label so they don't overlap.
+				float by = 48f;
+				rt.FillRectangle(new SharpDX.RectangleF(6f, by, tl.Metrics.Width + 18f, tl.Metrics.Height + 10f), bg);
+				rt.DrawTextLayout(new SharpDX.Vector2(15f, by + 5f), tl, txt);
+			}
+			catch { }
+			finally
+			{
+				if (tl != null) tl.Dispose();
+				if (tf != null) tf.Dispose();
+				if (bg != null) bg.Dispose();
+				if (txt != null) txt.Dispose();
+			}
+		}
+
 		// =====================================================================
 		// Mouse interaction (research mode)
 		// =====================================================================
@@ -818,14 +1111,13 @@ namespace NinjaTrader.NinjaScript.Indicators.ImbalanceReversal
 
 				System.Windows.Point raw = e.GetPosition(mousePanel as System.Windows.IInputElement);
 				double px = NinjaTrader.Gui.Chart.ChartingExtensions.ConvertToHorizontalPixels(raw.X, ChartControl.PresentationSource);
-				double py = NinjaTrader.Gui.Chart.ChartingExtensions.ConvertToVerticalPixels(raw.Y, ChartControl.PresentationSource);
 
-				int hit = HitTest(px, py);
+				int bar = NearestImbalancedBar(px);
 				lastInteraction = DateTime.Now;
 
-				if (hit < 0)                   selectedIndex = -1;
-				else if (hit == selectedIndex) selectedIndex = -1;
-				else { selectedIndex = hit; if (!records[hit].MfeCalculated) ComputeMfeMae(records[hit]); }
+				if (bar < 0)                      selectedBarIndex = -1;            // clicked empty space -> hide
+				else if (bar == selectedBarIndex) selectedBarIndex = -1;            // same bar -> toggle off
+				else { selectedBarIndex = bar; ComputeBarExcursion(bar); }          // new bar -> show its excursion
 			}
 			catch { }
 			try { ForceRefresh(); } catch { }
@@ -865,11 +1157,11 @@ namespace NinjaTrader.NinjaScript.Indicators.ImbalanceReversal
 		{
 			try
 			{
-				if (DisplayMode != IrDisplayMode.Research || selectedIndex < 0) return;
+				if (DisplayMode != IrDisplayMode.Research || selectedBarIndex < 0) return;
 				if (ResearchAutoOffMinutes <= 0) return;
 				if ((DateTime.Now - lastInteraction).TotalMinutes >= ResearchAutoOffMinutes)
 				{
-					selectedIndex = -1;
+					selectedBarIndex = -1;
 					ForceRefresh();
 				}
 			}
