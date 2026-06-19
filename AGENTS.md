@@ -16,6 +16,7 @@ Then use the relevant supporting docs from that same folder:
 - `OFFICIAL_NT_REFERENCE_USAGE.md`
 - `BUGS_AND_SOLUTIONS_ANTHOLOGY.md`
 - `EXPORTER_DESIGN_GUIDE.md`
+- `EXPORTER_DASHBOARD_AND_FOLDER_OPEN_SOP.md`
 - `VISUAL_STYLE_GUIDE.md`
 - `VISUAL_DASHBOARD_AND_LABEL_PATTERN_LIBRARY.md`
 - `PROMPTS_AND_WORKFLOWS.md`
@@ -145,7 +146,9 @@ For Flow42, data-capture, and exporter work:
 - do not read private field values by default,
 - every preset must finalize cleanly,
 - dashboard/status must reach complete/warning/error instead of staying stuck on exporting,
-- output folders should be human-readable, such as `Flow42 Data`, with run metadata in nested folders or summary files.
+- exporter dashboards must follow `EXPORTER_DASHBOARD_AND_FOLDER_OPEN_SOP.md`: polished Flow42 navy-glass HUD by default, not an ugly `Draw.TextFixed` debug dump unless explicitly approved as temporary compile triage,
+- output folders should be human-readable, such as `Flow42 Data`, with run metadata in nested folders or summary files,
+- exporter output folders must open after completion when safe, and the dashboard plus manifest must record folder-open status.
 
 ## Visual/readability rules
 
@@ -158,8 +161,9 @@ For chart visuals:
 - Live Mode should stay clean and fast,
 - Research/Review Mode can show heavier diagnostics, MFE/MAE boxes, click-to-inspect overlays, and expanded panels,
 - use SharpDX/Direct2D/DirectWrite for NT8 custom rendering, not SkiaSharp,
-- calculate signal state in `OnBarUpdate`; use `OnRender` only for rendering,
-- do not do heavy historical calculations inside `OnRender`.
+- signal state must be calculated in `OnBarUpdate`; `OnRender` is for rendering only,
+- do not do heavy historical calculations inside `OnRender`,
+- exporters and long-running research tools should use the approved visual dashboard pattern from `EXPORTER_DASHBOARD_AND_FOLDER_OPEN_SOP.md` and `VISUAL_DASHBOARD_AND_LABEL_PATTERN_LIBRARY.md`.
 
 ## Required preflight before non-trivial code edits
 
@@ -173,6 +177,7 @@ Before editing, identify:
 6. Which canonical docs or official manual terms were checked.
 7. Known compile/runtime risks.
 8. Smallest safe change plan.
+9. For exporters: dashboard visual model, folder-open behavior, and whether the dashboard/folder-open SOP was checked.
 
 For tiny cosmetic edits, keep the preflight very short.
 
@@ -187,6 +192,8 @@ After editing, report:
 - alerts/exports/dashboard touched: yes/no,
 - folder/namespace/class/file checked: yes/no,
 - official NinjaTrader lookup performed: yes/no and terms checked,
+- exporter dashboard visual model applied: yes/no,
+- output folder auto-open implemented and defaulted on: yes/no,
 - compile verified in NinjaTrader: yes/no,
 - remaining risks.
 
